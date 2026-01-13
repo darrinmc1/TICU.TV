@@ -1,0 +1,157 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Updated to modern sci-fi multi-genre theme with purple/pink/blue gradients */
+  --background: oklch(0.12 0.03 260); /* Deep space blue-purple background */
+  --foreground: oklch(0.98 0.01 280); /* Cool white text */
+  --card: oklch(0.18 0.03 260); /* Darker card background with slight purple tint */
+  --card-foreground: oklch(0.96 0.01 280); /* Light text on cards */
+  --popover: oklch(0.18 0.03 260);
+  --popover-foreground: oklch(0.98 0.01 280);
+  --primary: oklch(0.65 0.2 290); /* Vibrant purple primary */
+  --primary-foreground: oklch(0.98 0.01 280); /* Light text on purple */
+  --secondary: oklch(0.22 0.03 260); /* Muted dark secondary */
+  --secondary-foreground: oklch(0.96 0.01 280);
+  --muted: oklch(0.3 0.02 260); /* Muted elements */
+  --muted-foreground: oklch(0.65 0.01 280);
+  --accent: oklch(0.65 0.2 330); /* Pink accent */
+  --accent-foreground: oklch(0.98 0.01 280);
+  --destructive: oklch(0.55 0.2 25); /* Deep red for destructive actions */
+  --destructive-foreground: oklch(0.98 0.01 280);
+  --border: oklch(0.25 0.02 260); /* Subtle borders */
+  --input: oklch(0.2 0.03 260); /* Input backgrounds */
+  --ring: oklch(0.65 0.2 290); /* Purple focus rings */
+  --chart-1: oklch(0.5 0.15 290);
+  --chart-2: oklch(0.55 0.18 330);
+  --chart-3: oklch(0.5 0.15 200);
+  --chart-4: oklch(0.45 0.12 140);
+  --chart-5: oklch(0.6 0.16 45);
+  --radius: 0.75rem;
+  --sidebar: oklch(0.15 0.03 260);
+  --sidebar-foreground: oklch(0.98 0.01 280);
+  --sidebar-primary: oklch(0.65 0.2 290);
+  --sidebar-primary-foreground: oklch(0.98 0.01 280);
+  --sidebar-accent: oklch(0.22 0.03 260);
+  --sidebar-accent-foreground: oklch(0.98 0.01 280);
+  --sidebar-border: oklch(0.25 0.02 260);
+  --sidebar-ring: oklch(0.65 0.2 290);
+  --font-open-sans: "Open Sans", sans-serif;
+  --font-playfair: "Playfair Display", serif;
+  --font-geist-mono: "Geist Mono", monospace;
+}
+
+.dark {
+  /* Enhanced dark mode with deeper sci-fi tones */
+  --background: oklch(0.08 0.03 260);
+  --foreground: oklch(0.98 0.01 280);
+  --card: oklch(0.12 0.03 260);
+  --card-foreground: oklch(0.98 0.01 280);
+  --popover: oklch(0.12 0.03 260);
+  --popover-foreground: oklch(0.98 0.01 280);
+  --primary: oklch(0.7 0.22 290);
+  --primary-foreground: oklch(0.98 0.01 280);
+  --secondary: oklch(0.18 0.03 260);
+  --secondary-foreground: oklch(0.98 0.01 280);
+  --muted: oklch(0.22 0.02 260);
+  --muted-foreground: oklch(0.65 0.01 280);
+  --accent: oklch(0.7 0.22 330);
+  --accent-foreground: oklch(0.98 0.01 280);
+  --destructive: oklch(0.5 0.22 25);
+  --destructive-foreground: oklch(0.98 0.01 280);
+  --border: oklch(0.22 0.02 260);
+  --input: oklch(0.18 0.03 260);
+  --ring: oklch(0.7 0.22 290);
+  --chart-1: oklch(0.45 0.18 290);
+  --chart-2: oklch(0.6 0.2 330);
+  --chart-3: oklch(0.55 0.18 200);
+  --chart-4: oklch(0.45 0.12 140);
+  --chart-5: oklch(0.65 0.18 45);
+  --sidebar: oklch(0.1 0.03 260);
+  --sidebar-foreground: oklch(0.98 0.01 280);
+  --sidebar-primary: oklch(0.7 0.22 290);
+  --sidebar-primary-foreground: oklch(0.98 0.01 280);
+  --sidebar-accent: oklch(0.18 0.03 260);
+  --sidebar-accent-foreground: oklch(0.98 0.01 280);
+  --sidebar-border: oklch(0.22 0.02 260);
+  --sidebar-ring: oklch(0.7 0.22 290);
+}
+
+@theme inline {
+  /* Updated font variables for fantasy theme */
+  --font-sans: var(--font-open-sans);
+  --font-serif: var(--font-playfair);
+  --font-mono: var(--font-geist-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Updated to glassmorphism and modern sci-fi styles */
+  .fantasy-glow {
+    box-shadow: 0 0 30px rgba(168, 85, 247, 0.4), 0 0 60px rgba(236, 72, 153, 0.2);
+  }
+
+  .fantasy-text-glow {
+    text-shadow: 0 0 20px rgba(168, 85, 247, 0.6), 0 0 40px rgba(236, 72, 153, 0.3);
+  }
+
+  .cinematic-overlay {
+    background: linear-gradient(
+      135deg,
+      rgba(15, 23, 42, 0.95) 0%,
+      rgba(30, 41, 59, 0.85) 50%,
+      rgba(15, 23, 42, 0.95) 100%
+    );
+  }
+
+  /* Added glassmorphism effect */
+  .glass-card {
+    background: rgba(30, 41, 59, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+}
