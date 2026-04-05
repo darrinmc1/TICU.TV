@@ -31,6 +31,10 @@ import {
 import Link from "next/link"
 
 export default function CreatorDashboard() {
+  function handleNotImplemented(action: string) {
+    window.alert(`${action} is not implemented yet.`)
+  }
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       {/* Creator Navigation */}
@@ -56,9 +60,11 @@ export default function CreatorDashboard() {
             </div>
             <div className="flex items-center gap-4">
               <Badge className="bg-purple-600 text-purple-100">Pro Creator</Badge>
-              <Button size="sm" className="bg-purple-600 hover:bg-purple-700 text-purple-100">
-                <Upload className="w-4 h-4 mr-2" />
-                New Story
+              <Button asChild size="sm" className="bg-purple-600 hover:bg-purple-700 text-purple-100">
+                <Link href="/admin/acts">
+                  <Upload className="w-4 h-4 mr-2" />
+                  New Story
+                </Link>
               </Button>
             </div>
           </div>
@@ -165,9 +171,11 @@ export default function CreatorDashboard() {
           <TabsContent value="stories" className="space-y-6">
             <div className="flex items-center justify-between">
               <h2 className="text-2xl font-bold text-purple-100">Your Stories</h2>
-              <Button className="bg-purple-600 hover:bg-purple-700 text-purple-100">
-                <Upload className="w-4 h-4 mr-2" />
-                Create New Story
+              <Button asChild className="bg-purple-600 hover:bg-purple-700 text-purple-100">
+                <Link href="/admin/acts">
+                  <Upload className="w-4 h-4 mr-2" />
+                  Create New Story
+                </Link>
               </Button>
             </div>
 
@@ -225,16 +233,21 @@ export default function CreatorDashboard() {
                       <div className="text-right">
                         <div className="flex gap-2 mt-3">
                           <Button
+                            asChild
                             size="sm"
                             variant="outline"
                             className="border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
                           >
-                            <Edit className="w-3 h-3 mr-1" />
-                            Edit
+                            <Link href="/admin/acts">
+                              <Edit className="w-3 h-3 mr-1" />
+                              Edit
+                            </Link>
                           </Button>
-                          <Button size="sm" className="bg-purple-600 hover:bg-purple-700 text-purple-100">
-                            <BarChart3 className="w-3 h-3 mr-1" />
-                            Analytics
+                          <Button asChild size="sm" className="bg-purple-600 hover:bg-purple-700 text-purple-100">
+                            <Link href="/leaderboard">
+                              <BarChart3 className="w-3 h-3 mr-1" />
+                              Analytics
+                            </Link>
                           </Button>
                         </div>
                       </div>
@@ -280,8 +293,8 @@ export default function CreatorDashboard() {
                     <p className="text-sm text-purple-300/70">
                       Demographic analysis requires verified viewership data. Connect your analytics account to view audience age groups, geographic regions, and preferences.
                     </p>
-                    <Button variant="outline" className="w-full border-purple-500 text-purple-400 hover:bg-purple-600 bg-transparent">
-                      Connect Analytics
+                    <Button asChild variant="outline" className="w-full border-purple-500 text-purple-400 hover:bg-purple-600 bg-transparent">
+                      <Link href="/leaderboard">Connect Analytics</Link>
                     </Button>
                   </div>
                 </CardContent>
@@ -322,6 +335,8 @@ export default function CreatorDashboard() {
                       <p className="text-sm text-purple-300/80">{comment.comment}</p>
                       <div className="flex gap-2 mt-2">
                         <Button
+                          type="button"
+                          onClick={() => handleNotImplemented(`Reply to ${comment.user}`)}
                           size="sm"
                           variant="outline"
                           className="border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 text-xs bg-transparent"
@@ -329,6 +344,8 @@ export default function CreatorDashboard() {
                           Reply
                         </Button>
                         <Button
+                          type="button"
+                          onClick={() => handleNotImplemented(`Like comment by ${comment.user}`)}
                           size="sm"
                           variant="outline"
                           className="border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 text-xs bg-transparent"
@@ -382,7 +399,7 @@ export default function CreatorDashboard() {
                   <p className="text-sm text-purple-300/70 mb-4">
                     Create complex branching narratives with multiple outcomes
                   </p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">Open Editor</Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/admin/acts">Open Editor</Link></Button>
                 </CardContent>
               </Card>
 
@@ -391,9 +408,7 @@ export default function CreatorDashboard() {
                   <Users className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                   <h3 className="font-semibold text-purple-100 mb-2">Character Manager</h3>
                   <p className="text-sm text-purple-300/70 mb-4">Design characters and manage their relationships</p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">
-                    Manage Characters
-                  </Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/admin">Manage Characters</Link></Button>
                 </CardContent>
               </Card>
 
@@ -402,7 +417,7 @@ export default function CreatorDashboard() {
                   <Gamepad2 className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                   <h3 className="font-semibold text-purple-100 mb-2">Voting Designer</h3>
                   <p className="text-sm text-purple-300/70 mb-4">Create custom voting mechanics and decision points</p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">Design Votes</Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/vote">Design Votes</Link></Button>
                 </CardContent>
               </Card>
 
@@ -411,7 +426,7 @@ export default function CreatorDashboard() {
                   <Video className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                   <h3 className="font-semibold text-purple-100 mb-2">Video Uploader</h3>
                   <p className="text-sm text-purple-300/70 mb-4">Upload and manage your story episodes</p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">Upload Video</Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/admin">Upload Video</Link></Button>
                 </CardContent>
               </Card>
 
@@ -420,7 +435,7 @@ export default function CreatorDashboard() {
                   <Calendar className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                   <h3 className="font-semibold text-purple-100 mb-2">Release Scheduler</h3>
                   <p className="text-sm text-purple-300/70 mb-4">Schedule episodes and voting periods</p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">Schedule Content</Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/admin">Schedule Content</Link></Button>
                 </CardContent>
               </Card>
 
@@ -429,7 +444,7 @@ export default function CreatorDashboard() {
                   <Sparkles className="w-12 h-12 text-purple-400 mx-auto mb-4" />
                   <h3 className="font-semibold text-purple-100 mb-2">AI Assistant</h3>
                   <p className="text-sm text-purple-300/70 mb-4">Get AI-powered story suggestions and improvements</p>
-                  <Button className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100">Get AI Help</Button>
+                  <Button asChild className="w-full bg-purple-600 hover:bg-purple-700 text-purple-100"><Link href="/help">Get AI Help</Link></Button>
                 </CardContent>
               </Card>
             </div>
@@ -475,30 +490,41 @@ export default function CreatorDashboard() {
                   <CardTitle className="text-purple-100">Monetization Tools</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4">
-                  <Button className="w-full justify-start bg-purple-600 hover:bg-purple-700 text-purple-100">
-                    <DollarSign className="w-4 h-4 mr-2" />
-                    Set Up Premium Tiers
+                  <Button asChild className="w-full justify-start bg-purple-600 hover:bg-purple-700 text-purple-100">
+                    <Link href="/products">
+                      <DollarSign className="w-4 h-4 mr-2" />
+                      Set Up Premium Tiers
+                    </Link>
                   </Button>
                   <Button
+                    asChild
                     variant="outline"
                     className="w-full justify-start border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
                   >
-                    <Award className="w-4 h-4 mr-2" />
-                    Create Merchandise
+                    <Link href="/products">
+                      <Award className="w-4 h-4 mr-2" />
+                      Create Merchandise
+                    </Link>
                   </Button>
                   <Button
+                    asChild
                     variant="outline"
                     className="w-full justify-start border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
                   >
-                    <Zap className="w-4 h-4 mr-2" />
-                    Enable Tip Jar
+                    <Link href="/products">
+                      <Zap className="w-4 h-4 mr-2" />
+                      Enable Tip Jar
+                    </Link>
                   </Button>
                   <Button
+                    asChild
                     variant="outline"
                     className="w-full justify-start border-purple-500 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
                   >
-                    <Globe className="w-4 h-4 mr-2" />
-                    Sponsored Content
+                    <Link href="/products">
+                      <Globe className="w-4 h-4 mr-2" />
+                      Sponsored Content
+                    </Link>
                   </Button>
                 </CardContent>
               </Card>

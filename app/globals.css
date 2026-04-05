@@ -4,40 +4,39 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Updated to modern sci-fi multi-genre theme with purple/pink/blue gradients */
-  --background: oklch(0.12 0.03 260); /* Deep space blue-purple background */
-  --foreground: oklch(0.98 0.01 280); /* Cool white text */
-  --card: oklch(0.18 0.03 260); /* Darker card background with slight purple tint */
-  --card-foreground: oklch(0.96 0.01 280); /* Light text on cards */
+  --background: oklch(0.12 0.02 255);
+  --foreground: oklch(0.98 0.01 95);
+  --card: oklch(0.18 0.02 255);
+  --card-foreground: oklch(0.96 0.01 95);
   --popover: oklch(0.18 0.03 260);
   --popover-foreground: oklch(0.98 0.01 280);
-  --primary: oklch(0.65 0.2 290); /* Vibrant purple primary */
-  --primary-foreground: oklch(0.98 0.01 280); /* Light text on purple */
-  --secondary: oklch(0.22 0.03 260); /* Muted dark secondary */
+  --primary: oklch(0.72 0.16 72);
+  --primary-foreground: oklch(0.14 0.02 255);
+  --secondary: oklch(0.22 0.02 255);
   --secondary-foreground: oklch(0.96 0.01 280);
-  --muted: oklch(0.3 0.02 260); /* Muted elements */
+  --muted: oklch(0.3 0.02 255);
   --muted-foreground: oklch(0.65 0.01 280);
-  --accent: oklch(0.65 0.2 330); /* Pink accent */
-  --accent-foreground: oklch(0.98 0.01 280);
+  --accent: oklch(0.73 0.13 210);
+  --accent-foreground: oklch(0.14 0.02 255);
   --destructive: oklch(0.55 0.2 25); /* Deep red for destructive actions */
   --destructive-foreground: oklch(0.98 0.01 280);
-  --border: oklch(0.25 0.02 260); /* Subtle borders */
-  --input: oklch(0.2 0.03 260); /* Input backgrounds */
-  --ring: oklch(0.65 0.2 290); /* Purple focus rings */
-  --chart-1: oklch(0.5 0.15 290);
-  --chart-2: oklch(0.55 0.18 330);
+  --border: oklch(0.25 0.02 255);
+  --input: oklch(0.2 0.02 255);
+  --ring: oklch(0.72 0.16 72);
+  --chart-1: oklch(0.58 0.15 72);
+  --chart-2: oklch(0.62 0.14 210);
   --chart-3: oklch(0.5 0.15 200);
   --chart-4: oklch(0.45 0.12 140);
   --chart-5: oklch(0.6 0.16 45);
   --radius: 0.75rem;
-  --sidebar: oklch(0.15 0.03 260);
+  --sidebar: oklch(0.15 0.02 255);
   --sidebar-foreground: oklch(0.98 0.01 280);
-  --sidebar-primary: oklch(0.65 0.2 290);
-  --sidebar-primary-foreground: oklch(0.98 0.01 280);
-  --sidebar-accent: oklch(0.22 0.03 260);
+  --sidebar-primary: oklch(0.72 0.16 72);
+  --sidebar-primary-foreground: oklch(0.14 0.02 255);
+  --sidebar-accent: oklch(0.22 0.02 255);
   --sidebar-accent-foreground: oklch(0.98 0.01 280);
-  --sidebar-border: oklch(0.25 0.02 260);
-  --sidebar-ring: oklch(0.65 0.2 290);
+  --sidebar-border: oklch(0.25 0.02 255);
+  --sidebar-ring: oklch(0.72 0.16 72);
   --font-open-sans: "Open Sans", sans-serif;
   --font-playfair: "Playfair Display", serif;
   --font-geist-mono: "Geist Mono", monospace;
@@ -130,7 +129,142 @@
     @apply bg-background text-foreground;
   }
 
-  /* Updated to glassmorphism and modern sci-fi styles */
+  .story-atmosphere {
+    background:
+      radial-gradient(1200px circle at 15% 12%, rgba(251, 146, 60, 0.2), transparent 52%),
+      radial-gradient(980px circle at 88% 20%, rgba(34, 211, 238, 0.18), transparent 56%),
+      radial-gradient(760px circle at 50% 95%, rgba(251, 191, 36, 0.14), transparent 62%),
+      linear-gradient(180deg, #080d16 0%, #0f1728 45%, #090f1e 100%);
+  }
+
+  .film-grain {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.015), rgba(255, 255, 255, 0.015)),
+      repeating-linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0.018),
+        rgba(255, 255, 255, 0.018) 1px,
+        transparent 1px,
+        transparent 3px
+      );
+    opacity: 0.28;
+    mix-blend-mode: soft-light;
+  }
+
+  .glass-panel {
+    background: linear-gradient(150deg, rgba(15, 23, 42, 0.78), rgba(15, 23, 42, 0.54));
+    backdrop-filter: blur(14px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+  }
+
+  .editorial-kicker {
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: rgba(252, 211, 77, 0.9);
+  }
+
+  .section-title {
+    font-size: clamp(2rem, 3.2vw, 3.4rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    font-weight: 800;
+  }
+
+  .cinematic-frame {
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: #0b1220;
+  }
+
+  .cinematic-frame::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.03),
+      rgba(255, 255, 255, 0.03) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    pointer-events: none;
+    opacity: 0.22;
+    mix-blend-mode: soft-light;
+  }
+
+  .reveal-up {
+    animation: reveal-up 0.75s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  }
+
+  .delay-2 {
+    animation-delay: 0.18s;
+  }
+
+  .reveal-stagger > * {
+    opacity: 0;
+    transform: translateY(16px) scale(0.99);
+    animation: reveal-stagger-item 0.62s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+  }
+
+  .reveal-stagger > *:nth-child(1) {
+    animation-delay: 0.06s;
+  }
+
+  .reveal-stagger > *:nth-child(2) {
+    animation-delay: 0.13s;
+  }
+
+  .reveal-stagger > *:nth-child(3) {
+    animation-delay: 0.2s;
+  }
+
+  .reveal-stagger > *:nth-child(4) {
+    animation-delay: 0.27s;
+  }
+
+  .reveal-stagger > *:nth-child(5) {
+    animation-delay: 0.34s;
+  }
+
+  .reveal-stagger > *:nth-child(6) {
+    animation-delay: 0.41s;
+  }
+
+  @keyframes reveal-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes reveal-stagger-item {
+    from {
+      opacity: 0;
+      transform: translateY(16px) scale(0.99);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal-up,
+    .reveal-stagger > * {
+      animation: none;
+      opacity: 1;
+      transform: none;
+    }
+  }
+
   .fantasy-glow {
     box-shadow: 0 0 30px rgba(168, 85, 247, 0.4), 0 0 60px rgba(236, 72, 153, 0.2);
   }

@@ -26,6 +26,8 @@ export default function ActUploadForm({ stories }: Props) {
   const [savedCount, setSavedCount] = useState(0)
   const [resetStatus, setResetStatus] = useState<"idle" | "resetting" | "success" | "error">("idle")
   const [resetMessage, setResetMessage] = useState("")
+  const [tallyStatus, setTallyStatus] = useState<"idle" | "running" | "success" | "error">("idle")
+  const [tallyResult, setTallyResult] = useState<{ summary: { processed: number; winners: number; noVotes: number; skipped: number }; reports: { storyId: string; chapterSlug: string; result: string; message: string }[] } | null>(null)
 
   const selectedStory = stories.find((s) => s.storyId === storyId)
   const selectedChapter = selectedStory?.chapters.find((c) => c.slug === chapterSlug)
@@ -326,6 +328,63 @@ export default function ActUploadForm({ stories }: Props) {
                 onClick={handleResetChapterVotes}
               >
                 {resetStatus === "resetting" ? "Resetting…" : "Reset Chapter Votes"}
+              </Button>
+            </div>
+          </CardContent>
+        </Card>
+
+        <Card className="mt-4 border-cyan-500/30">
+          <CardHeader>
+            <CardTitle>Weekly Vote Tally (Admin)</CardTitle>
+            <CardDescription>
+              Run the vote tally for all active stories. Winners are recorded and the next chapter is unlocked. Stories with zero votes do not advance.
+            </CardDescription>
+          </CardHeader>
+          <CardContent className="space-y-4">
+            {tallyStatus === "success" && tallyResult ? (
+              <div className="space-y-2">
+                <div className="rounded-md bg-cyan-500/10 border border-cyan-500/30 px-4 py-2.5 text-sm text-cyan-400">
+                  Tally complete — {tallyResult.summary.winners} winner{tallyResult.summary.winners !== 1 ? "s" : ""},
+                  {" "}{tallyResult.summary.noVotes} stalled, {tallyResult.summary.skipped} skipped.
+                </div>
+                <div className="space-y-1 max-h-40 overflow-y-auto">
+                  {tallyResult.reports.map((r, i) => (
+                    <div key={i} className="text-xs text-muted-foreground border border-border rounded px-3 py-1.5">
+                      <span className={r.result === "winner" ? "text-green-400" : r.result === "no-votes" ? "text-amber-400" : "text-muted-foreground"}>
+                        [{r.result}]
+                      </span>{" "}
+                      <span className="font-mono">{r.storyId}</span> — {r.message}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+            {tallyStatus === "error" ? (
+              <div className="rounded-md bg-red-500/10 border border-red-500/30 px-4 py-2.5 text-sm text-red-400">
+                Tally failed. Check server logs.
+              </div>
+            ) : null}
+            <div className="flex justify-end">
+              <Button
+                type="button"
+                variant="outline"
+                className="border-cyan-500/50 text-cyan-400 hover:bg-cyan-500/10"
+                disabled={tallyStatus === "running"}
+                onClick={async () => {
+                  setTallyStatus("running")
+                  setTallyResult(null)
+                  try {
+                    const res = await fetch("/api/admin/tally-votes", { method: "POST" })
+                    if (!res.ok) throw new Error("failed")
+                    const data = await res.json()
+                    setTallyResult(data)
+                    setTallyStatus("success")
+                  } catch {
+                    setTallyStatus("error")
+                  }
+                }}
+              >
+                {tallyStatus === "running" ? "Running…" : "Run Vote Tally Now"}
               </Button>
             </div>
           </CardContent>

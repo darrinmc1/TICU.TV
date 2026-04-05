@@ -246,7 +246,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
             imageSrc: "/images/stories/dragons-last-breath/chapter-2/act-2-artificer-burden.jpg",
             imageCaption: "Thornik and the weight of ancient knowledge",
             imageRevealAfterParagraph: 6,
-            summary: "",
+            summary: "Thornik did not stop talking for the next ten minutes, which turned out to be useful because panic had no room to settle while his words kept moving. He spread his grandfather's journal on a flat seam of obsidian and weighed the corners with brass calibration weights from his kit. The pages were brittle, ink feathered where blood had thinned, but the symbols were clear enough to follow: nine circles around one barred gate, runic notations in old dwarven shorthand, and margin notes that looked less like scholarship and more like a man arguing with his own fear.\nVex crouched beside him, one knee on the glass, dagger still in hand out of habit rather than threat. Caelin stood over both of them, scale warm and pulsing, feeling each mention of the Concord tighten something behind his ribs. Every time Thornik reached a line that matched what Vharisax had said, the scale brightened as if in agreement.\n\"He mapped a route,\" Thornik said, tapping the journal with a soot-blackened finger. \"Not to the center of the Emberpeaks like everyone assumes. To a lower shelf valley on the western side. Called it the First Approach. Said the main gates were sealed, but the auxiliary intake tunnels might still answer old forge-key frequencies.\"\n\"In words I can understand?\" Vex asked.\n\"There's a side door,\" Thornik said, then frowned. \"A very dangerous side door. Probably trapped. Definitely unstable. Potentially haunted by ancient defensive constructs with poor social skills.\"\nCaelin almost smiled, then didn't. \"And this side door leads to the First Sanctum?\"\n\"If Grandfather wasn't delirious, yes.\" Thornik closed the book gently. \"If he was delirious, we still have your glowing arm-road and a village full of people who watched a dragon choose you. So either way, we are unfortunately in this together.\"\nThey returned to Thornwick by noon, and the village square had changed from mourning to motion. Wagons were lined in rows, survivors sorting what they could carry from what they had to abandon. Elder Gareth was directing teams with the rough authority of someone too tired to perform grief in public. When he saw Thornik, his expression tightened, then eased when the dwarf introduced himself and offered practical help before prophecy.\nBy afternoon, Thornik had converted the ruined smithy into a temporary workshop. He set resonance rods in the old quenching trough, drew an improvised star-map across a split worktable, and tuned a palm-sized compass engine until it hummed in harmonics that made the scale on Caelin's arm answer in a low ember throb. Vex watched everything, committing routes and tool placements to memory the way other people memorized prayers.\n\"There are three truths,\" Thornik said as evening fell and the first ward-lamps were lit. \"One: the corruption is spreading faster than the clans predicted. Two: the relic in your arm is active, which means others may be waking too. Three: if we walk into the peaks blind, we die in a place no one will find.\"\n\"So we don't walk blind,\" Caelin said.\n\"No,\" Vex answered before Thornik could. \"We walk prepared. And we decide what we protect first when this gets worse. Because it will.\"\nThe scale pulsed once, hard and bright, and all three of them looked toward the mountains at the same time.",
             isPublished: true,
           },
           {
@@ -255,7 +255,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
             imageSrc: "/images/stories/dragons-last-breath/chapter-2/act-3-forge-deep.jpg",
             imageCaption: "The awakening of Dwarven halls",
             imageRevealAfterParagraph: 7,
-            summary: "",
+            summary: "They left Thornwick before sunrise in a column of three, with a fourth rhythm hidden in the dark: the pulse of the scale counting the distance between decisions. Caelin rode first because he alone could see the flame-thread, Vex ranged wide and silent along the ridgelines, and Thornik muttered to his instruments like they were stubborn cousins whose cooperation could not be trusted but was still mandatory.\nThe foothills opened into basalt shelves by midday. Wind carried iron and old ash. Every few miles they found signs that did not belong to weather or wolves: claw-marks burned into stone without soot, circles of fused glass where campfires had never been, and once, a line of dwarf-runes carved recently over much older runes as if someone had returned to a warning and tried to sharpen it.\nBy dusk they reached a narrow pass where the mountain swallowed sound. Thornik raised a caution hand and knelt beside a blackened marker-stone half buried in scree. He brushed away dust and revealed a symbol of hammer-and-scale split down the center. \"Deepstone warning sigil,\" he said. \"Means don't proceed unless you're prepared to lose what you brought. In clan law, that includes certainty.\"\nThey proceeded anyway.\nThe pass emptied into an underground vestibule vast enough to hold a cathedral. Columns of obsidian-veined granite climbed into darkness. Bronze channels ran along the floor in branching geometric lines, dead for centuries and now faintly warm beneath Caelin's boots. At the far wall stood nine recesses, each shaped for something that was no longer there.\nThen the forge woke.\nNot with flame at first, but with resonance: a deep metallic note that rolled through the chamber and climbed in pitch until the hair on Vex's arms lifted. Thornik's compass engine spun wildly, then snapped to a heading straight at the central dais. The scale in Caelin's arm burned bright enough to cast hard shadows.\nConstructs emerged from the alcoves as if the stone itself exhaled them - three dwarven ward-frames of black iron and rune glass, taller than men, eyes lit by thin white slits. They did not attack at once. They scanned. Assessed. One spoke in a voice like grinding chain: \"Bearer count insufficient. Concord state unstable. Challenge protocol engaged.\"\n\"That sounded unfriendly,\" Vex said, already moving.\nThe first strike split the air where Caelin had stood. He answered on instinct, drawing heat through the scale and releasing it as a controlled arc that sheared an iron arm at the joint. Thornik hurled a magnetic spike that pinned another construct's knee to the floor. Vex used the opening to climb the third frame and drive a blade into the seam beneath its helm.\nWhen the last construct fell, the forge-note changed. Lower. Approving, almost. The bronze channels ignited in lines of ember light and converged on the central dais where an old dwarven script flared across stone: NINE MUST STAND OR NONE SHALL HOLD.\nThornik stared at the words, face pale under soot. \"Grandfather wasn't wrong.\"\n\"No,\" Caelin said, breathing hard. \"He was early.\"\nOutside, beyond the mountain mouth, they could see torch-lines moving on distant ridges - too many, too organized, and heading toward the same valleys the refugees would need to cross. Vex looked from the lights to the dais and then to Caelin's arm. \"We can't do all of it at once,\" she said. \"So what we do first is going to define who survives long enough for there to be a second choice.\"\nThe scale pulsed like a struck bell. Somewhere deeper in the mountain, something answered.",
             isPublished: true,
           },
         ],
@@ -286,6 +286,463 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
               "Use Caelin's flame-path and Serana's guidance to prioritize claiming a relic before confronting the broader threat.",
             risk: "Builds long-term power for the Nine, but requires entering unknown ruins with limited intel and supplies.",
             votePercent: 38,
+          },
+        ],
+      },
+    ],
+  },
+  "love-paris": {
+    id: "love-paris",
+    title: "Love in Paris",
+    genre: "Romance",
+    genreEmoji: "💕",
+    status: "voting",
+    votes: 15432,
+    synopsis:
+      "Juliet Moreau has spent the last three years painting in the wrong city. She takes a fellowship in Paris meaning to prove something—to herself, mostly—and spends her first evening getting caught in the rain and ducking into a bookshop on the Rue de Bièvre. She reaches for the only copy of a dog-eared Rimbaud collection on the shelf. So does someone else. What happens next is not a love story yet. It is, at first, just an argument about a book. But arguments in small bookshops in the rain have a way of becoming more than they intend to be.",
+    hook: "A rainy bookshop, one last copy, two hands reaching at the same moment—and neither willing to let go first.",
+    coverGradient: "from-pink-500 to-rose-600",
+    accentTextClass: "text-pink-300",
+    ringClass: "ring-pink-400",
+    characters: [
+      {
+        name: "Juliet Moreau",
+        role: "Artist on Fellowship",
+        emoji: "🎨",
+        gradient: "from-pink-500 to-rose-600",
+        bio: "Juliet is twenty-eight, half-French by inheritance and entirely American by upbringing, which means she speaks the language well enough to argue in it and badly enough to lose. She paints large, difficult canvases that critics call 'promising' and she calls 'not finished yet.' The Paris fellowship is her third attempt at a new start and she is trying, this time, not to need it to save her.",
+      },
+      {
+        name: "Étienne Marchetti",
+        role: "Architect with a Secret",
+        emoji: "📐",
+        gradient: "from-slate-600 to-blue-700",
+        bio: "Étienne restores old buildings for a living and collects first editions as a hobby he treats more seriously than the living. He is careful, precise, and slightly infuriating in conversation—the kind of man who knows exactly what he thinks but takes his time saying it, which Juliet immediately finds either appealing or maddening depending on the hour.",
+      },
+      {
+        name: "Céline Dufour",
+        role: "Juliet's Best Friend",
+        emoji: "☕",
+        gradient: "from-amber-500 to-orange-600",
+        bio: "Céline has lived in Paris her whole life and has the particular Parisian gift of making everything look effortless, including friendship. She invited Juliet for the fellowship, is aggressively on her side, and has already decided Étienne is interesting based entirely on secondhand information and instinct.",
+      },
+      {
+        name: "Henri Beaumont",
+        role: "The Bookseller",
+        emoji: "📚",
+        gradient: "from-stone-500 to-amber-700",
+        bio: "Henri has run Librairie du Pont for thirty-one years. He has watched a great many people fall in love in his shop, which he considers a secondary service he provides at no extra charge. He does not intervene in these matters. He does, occasionally, offer tea.",
+      },
+    ],
+    chapters: [
+      {
+        slug: "chapter-1-the-first-page",
+        chapterNumber: 1,
+        title: "The First Page",
+        label: "Chapter 1",
+        shortDescription:
+          "Juliet's first evening in Paris ends in a small bookshop in the rain, a disputed Rimbaud collection, and a conversation that runs thirty minutes longer than either person intends.",
+        opening:
+          "She had been in Paris for six hours when the rain started, and in the bookshop for ten minutes when she reached for the book at the exact same moment he did.",
+        status: "voting",
+        sections: [
+          {
+            id: "act-1",
+            title: "Act I: The Bookshop",
+            imageSrc: "/images/stories/love-paris/chapter-1/act-1-bookshop.jpg",
+            imageCaption: "Librairie du Pont, Rue de Bièvre",
+            imageRevealAfterParagraph: 7,
+            summary: `She had been in Paris for six hours when the rain started.
+Juliet had managed the flight, the Métro, the apartment key that stuck on the third floor landing, and the realization that the fellowship stipend would cover food or art supplies but not both if she wasn't careful. She had not managed the rain. It came down in that particular Parisian way—not dramatic, just continuous, the city settling into wet the way it settles into everything: thoroughly, without apology, as though it had always been this way and expected you to adjust.
+She ducked into the first doorway she found.
+The sign above read Librairie du Pont in faded gilt letters. The bell above the door made a sound like something considering whether to bother. Inside, the shop smelled of old paper and lamp oil and something that might have been coffee, and it was the kind of narrow that only worked because everything had been arranged by someone who understood that the point of a bookshop is not to be convenient but to be inescapable.
+Juliet stood in the doorway dripping onto the mat and thought: yes, fine, this will do.
+She wandered deeper. The shop had no discernible system—poetry shelved beside cartography, two shelves of medical texts backing up against what appeared to be an entire wall of travel writing organized by the emotional state the author was in when they wrote it, judging from the handwritten labels. There was a cat asleep on a stack of atlases. There was a small man at the back behind a glass case who didn't look up.
+Juliet had not come in looking for anything specific. She had come in because of the rain.
+And then she saw the Rimbaud.
+It was on the third shelf from the top of a section labeled, in the same handwriting, POETRY: THE USEFUL KIND. Une Saison en Enfer, a 1960 Gallimard edition with a cover she recognized from a photograph in her mother's apartment, which meant it was the translation her mother had quoted at her throughout her entire childhood, which meant it was in some deeply irrational way the only copy of this book that mattered.
+Juliet reached for it.
+Her hand met another hand already on the spine.
+She looked up.
+The man was tall, dark-haired, somewhere in his mid-thirties, and wearing the expression of someone who had been certain, until this exact moment, that they were the only person in the world interested in this particular book in this particular edition.
+"Pardon," he said, not moving his hand.
+"It's fine," Juliet said, also not moving her hand.
+They looked at each other. The rain continued outside. The cat on the atlases shifted and went back to sleep.
+"I was here first," he said, in French, with a calm certainty that suggested he was used to being right about things.
+"Your hand was here first," Juliet said, in French that was definitely better than it had been in college, "but I saw it first. From across the room. I was walking toward it."
+A slight pause. "That is not how ownership works."
+"It's not about ownership. It's about intent."
+Something shifted in his expression—not quite amusement, but adjacent to it. "Intent."
+"I intended to buy this book when I was seven years old," Juliet said, which was true in a roundabout way she didn't particularly want to explain. "I'm finally in Paris. It's the only copy. Intent counts."
+"I have been looking for this edition for four years," he said. His French was Parisian—clean and slightly cool, the French of someone who did not have to try at it. "I come to this shop every month. I check this shelf specifically."
+"Then you've had four years and three hundred and sixty-five opportunities and you didn't buy it any of those times. That's on you."
+He looked at her for a long moment. The small man at the back had still not looked up, but something about the angle of his head suggested he was listening.
+"You're American," the man said.
+"Half-French," Juliet said, which was true and also slightly defensive and she knew it was slightly defensive and said it anyway.
+"But you grew up in America."
+"What does that have to do with Rimbaud?"
+"Nothing," he said. "I was making an observation." He hadn't moved his hand. Neither had she. The spine of the book was between their fingers like a small contested border. "You have a fellowship."
+Juliet blinked. "How do you know that?"
+"The bag." A slight gesture at her tote, which had the fellowship's logo on it because she had been too tired this morning to use any of her other bags. "I know the program. They place artists in the sixth arrondissement. The apartment above the bakery on Rue Mouffetard, or the one on—"
+"Rue Mouffetard," she said.
+"The key sticks on the third floor."
+"You live there?"
+"Two years ago. Different apartment." He finally—finally—looked away from her to look at the book. "The copy you want is a first printing, 1873. It has water damage on the last sixteen pages. There is a second copy of the 1960 Gallimard on the shelf above the cartography section, which is where it got misshelved six months ago and Henri never moved it back because he believes books find their own homes."
+Juliet stared at him.
+He looked at her with an expression that was not quite a smile but was doing its best.
+"You're serious," she said.
+"I showed Henri the water damage last November. He discounted it forty percent."
+She let go of the spine. He did too, at exactly the same moment, which meant neither of them had actually bought it in the end.
+"The one above cartography," she said.
+"Turn left at the atlases, up three shelves."
+She found it. 1960 Gallimard, same cover, no water damage. She brought it back to the front, where the small man—Henri, apparently—rang it up without having apparently moved at all. The man with the contested Rimbaud was still standing at the shelf when she passed.
+"Thank you," she said.
+"De rien," he said, which is French for 'it's nothing' and is often French for the opposite.
+She pushed out into the rain, which had gentled slightly, and stood on the pavement holding her book in both hands. She had been in Paris for six hours and forty minutes. She had a fellowship, a key that stuck, and a copy of the most important book of her mother's youth.
+She had also, without entirely meaning to, left her umbrella inside.
+She went back in to get it.
+Henri pointed at the poetry section without looking up. The man was still there. He turned when she came back in.
+"I forgot my umbrella," Juliet said.
+"It's on the shelf between Baudelaire and Prévert," he said. "It seemed at home there."
+She retrieved it. She stood there for a moment holding both the book and the umbrella and listening to the rain.
+"I'm Juliet," she said.
+"Étienne," he said.
+"Is the coffee still on?" She was not entirely sure why she said it. "The shop smells like coffee."
+Henri, from the back: "There is always coffee."
+Étienne's expression did something complicated and then settled into something simpler. "There is a table in the back," he said. "Henri charges for the coffee but not for the chair."`,
+            isPublished: true,
+          },
+          {
+            id: "act-2",
+            title: "Act II: The Long Way Home",
+            imageSrc: "/images/stories/love-paris/chapter-1/act-2-walk-seine.jpg",
+            imageCaption: "Along the Seine after the rain",
+            imageRevealAfterParagraph: 5,
+            summary: "The coffee was terrible and perfect in the way coffee becomes when conversation makes quality irrelevant. Henri placed two chipped cups on a small wooden table at the back and left them there without commentary, which both Juliet and Étienne understood as a form of blessing.\nFor the first twenty minutes they talked about books as a shield. Editions, translations, who had misread whom and for how long. Étienne was precise and occasionally smug, Juliet was quick and occasionally reckless, and somewhere between the second disagreement and the third laugh they stopped speaking like strangers trying not to admit they were interested.\nHe told her he restored facades and stairwells in old buildings no one noticed until they started to fail. She told him she painted large canvases no one noticed unless they were already looking for disappointment or promise. He asked to see her work with an earnestness so direct it almost felt rude. She answered by describing a series she had abandoned in New York because each painting had looked like an apology she did not owe anyone.\nOutside, rain thinned to mist. Inside, Henri pretended to inventory postcards while listening badly from twelve feet away. Twice he interrupted only to correct a date and once to announce that anyone discussing Rimbaud this loudly should pay for a second cup.\nWhen they finally stood to leave, it was fully dark and the street reflected every lamp like a second city turned upside down. Étienne offered to walk her back to Rue Mouffetard. Juliet nearly said no out of habit, then heard herself say yes before habit could win.\nThey walked the long way without naming that it was the long way. Along the Seine first, then through narrower streets where restaurant windows breathed light onto wet cobblestone. They did not touch. They kept a careful distance that felt deliberate enough to count as another kind of contact.\nAt the corner by her bakery, they stopped beneath an awning dripping rhythmically into a gutter. Étienne put his hands in his coat pockets as if to make sure they stayed there. Juliet held her umbrella closed because opening it would have meant ending the moment.\n\"I am in this neighborhood most Thursdays,\" he said.\n\"That sounds almost like scheduling,\" she answered.\n\"It sounds like architecture,\" he said, and she laughed.\nThe key did stick on the third floor, exactly where he said it would. By the time Juliet got inside she was smiling for reasons she refused to audit. She set the Gallimard copy on the table, changed into dry clothes, and found that the city no longer felt like a test she had to pass. It felt, briefly, like a conversation already in progress.",
+            isPublished: true,
+          },
+          {
+            id: "act-3",
+            title: "Act III: What the City Costs",
+            imageSrc: "/images/stories/love-paris/chapter-1/act-3-city-night.jpg",
+            imageCaption: "Paris at night, first week",
+            imageRevealAfterParagraph: 6,
+            summary: "Morning turned tenderness into logistics. The fellowship orientation was less orientation than administrative gauntlet - signatures, badge photos, studio rules written by people who had never painted at midnight. Juliet smiled through all of it and thought about coffee she had not expected to matter.\nBy afternoon she stood in her assigned studio, a high-ceilinged room with one cracked skylight and a wall that had been painted over so many times it looked like a sediment record of indecision. She unpacked brushes, stretched linen, and waited for inspiration that did not arrive on command. What did arrive was rent math, currency conversion, and the message from her New York gallery asking whether she was \"finding her voice in Europe yet.\"\nShe wasn't. Not yet. She was finding transit lines and grocery prices and the precise emotional temperature of a city that could feel romantic and indifferent in the same block.\nThat evening Céline came by with wine, opinions, and exactly the amount of mockery required to keep Juliet honest. She listened to the entire bookshop story without interrupting once, which was suspicious in itself. \"So,\" she said finally, \"are we calling this chance, fate, or weaponized French literature?\"\n\"A conversation,\" Juliet said.\n\"Good. Then keep having it.\"\nLater, alone, Juliet opened the Gallimard on the kitchen table. Rain had returned in soft intervals against the window. She found herself writing a phone number on a scrap of receipt paper, then crossing it out, then writing it again on cleaner paper. Ridiculous, she thought. Also possible.\nAcross the city, in an apartment above a restoration site, Étienne sat with the water-damaged 1873 copy and read the last warped pages by desk lamp. He paused twice to stare at the margin where someone had penciled a note decades ago in a hand he did not recognize: recommencer autrement. Begin again, differently.\nBy midnight neither of them had decided what to do next, only that they wanted next to exist. And in Paris, that was often how stories began - not with certainty, but with willingness.",
+            isPublished: true,
+          },
+        ],
+        voteQuestion: "The coffee lasts two hours. How does Juliet leave things with Étienne?",
+        votePrompt:
+          "This vote shapes Juliet's approach going into Chapter 2 and how Étienne interprets her interest. Choose the ending beat that feels right.",
+        voteOptions: [
+          {
+            id: "exchange-numbers",
+            title: "She gives him her number",
+            description:
+              "Before Juliet leaves the bookshop, she writes her number on the inside cover of the Gallimard edition and slides it across the table. Bold, a little absurd, exactly the kind of thing she normally talks herself out of.",
+            risk: "If he doesn't call, she has to live with having tried. If he does, she has to figure out what she meant by it.",
+            votePercent: 44,
+          },
+          {
+            id: "just-goodbye",
+            title: "She says goodbye and nothing else",
+            description:
+              "Juliet finishes her coffee, thanks Henri, and walks out into the cleared evening without leaving a way to continue. What happens next is up to chance—or the small size of a city neighborhood.",
+            risk: "Paris is smaller than it looks. But smaller doesn't mean inevitable.",
+            votePercent: 22,
+          },
+          {
+            id: "ask-the-book",
+            title: "She asks to see the damaged copy",
+            description:
+              "On her way out, Juliet asks Étienne what he's going to do with the water-damaged Rimbaud now. It's an excuse to keep talking, and they both know it. Whether that matters is the next question.",
+            risk: "The conversation continues, which means the complication continues—but so does the possibility.",
+            votePercent: 34,
+          },
+        ],
+      },
+    ],
+  },
+  "showdown-sunset": {
+    id: "showdown-sunset",
+    title: "Showdown at Sunset",
+    genre: "Western",
+    genreEmoji: "🤠",
+    status: "voting",
+    votes: 6543,
+    synopsis:
+      "Sheriff Jake Morgan has kept Red Mesa quiet for three years by being the kind of man trouble doesn't look for twice. That changes on a Tuesday in October when Deputy Rosa Vega rides in hard with word that the Holloway gang—eleven riders, two of them wanted in three territories—cleared out of Tucson and are heading north. Estimated arrival: sunset. Jake has most of a day, a two-man department, and a town that has been quiet long enough to forget what the alternative looks like. What he decides in the next eight hours will define what kind of lawman he is and what kind of town Red Mesa wants to be.",
+    hook: "The Holloway gang burned the last town they visited. Eleven riders, one sheriff, and eight hours to decide whether Red Mesa fights or folds.",
+    coverGradient: "from-amber-500 to-red-600",
+    accentTextClass: "text-amber-300",
+    ringClass: "ring-amber-400",
+    characters: [
+      {
+        name: "Sheriff Jake \"Iron\" Morgan",
+        role: "Town Sheriff",
+        emoji: "⭐",
+        gradient: "from-amber-600 to-orange-700",
+        bio: "Jake earned the 'Iron' twenty years ago in a story he never tells to the same way twice, which suggests either the truth is worse than any version or better than all of them. He is fifty-one, still fast, and tired in the way a man gets tired when he's been right about things for long enough that he stopped enjoying it. He came to Red Mesa to wind down. The town, apparently, didn't get that message.",
+      },
+      {
+        name: "Deputy Rosa Vega",
+        role: "Deputy Sheriff",
+        emoji: "🔫",
+        gradient: "from-rose-600 to-red-700",
+        bio: "Rosa is twenty-six and has been deputy for eighteen months, which is long enough to know that Jake's instincts are good and short enough to still argue about why. She's the faster rider, the better shot at distance, and the one who went to Tucson to verify the rumor when Jake said it was probably nothing. She was right. He was wrong. She has not made a large production of this.",
+      },
+      {
+        name: "Eli Bransen",
+        role: "Barkeep and Sometime Informant",
+        emoji: "🍺",
+        gradient: "from-stone-500 to-amber-700",
+        bio: "Eli has been running the Long Rail saloon for eleven years and has a practiced gift for knowing things without being asked and saying them without being pushed. He served the Holloway gang once, in a different town, in a different life. He doesn't talk about that. He does, occasionally, talk around it.",
+      },
+      {
+        name: "Old Man Holloway",
+        role: "Gang Patriarch",
+        emoji: "💀",
+        gradient: "from-gray-600 to-slate-700",
+        bio: "Cornelius Holloway is sixty-three and runs his outfit the way he runs everything—with the patient certainty of a man who has outlived everyone who ever tried to stop him. He is not, technically, the most dangerous member of his own gang. He is, however, the one who decides when to leave and what to leave behind.",
+      },
+    ],
+    chapters: [
+      {
+        slug: "chapter-1-last-light",
+        chapterNumber: 1,
+        title: "Last Light in Red Mesa",
+        label: "Chapter 1",
+        shortDescription:
+          "Deputy Vega rides in from Tucson with verified intelligence: the Holloway gang is moving north. Jake has until sunset to decide how Red Mesa responds.",
+        opening:
+          "Deputy Rosa Vega rode into Red Mesa at half past nine in the morning, and the way she came in—straight hard, no slowing through the edge of town—told Jake before she even pulled up that whatever she'd found in Tucson wasn't rumors anymore.",
+        status: "voting",
+        sections: [
+          {
+            id: "act-1",
+            title: "Act I: Word Reaches Town",
+            imageSrc: "/images/stories/showdown-sunset/chapter-1/act-1-word-arrives.jpg",
+            imageCaption: "Deputy Vega rides hard into Red Mesa",
+            imageRevealAfterParagraph: 8,
+            summary: `Deputy Rosa Vega rode into Red Mesa at half past nine in the morning, and the way she came in told Jake everything before she'd said a word.
+She didn't slow through the edge of town. Didn't tip her hat to Greta Malone sweeping her steps or nod to the Miller boys chasing a dog down the south side of Main. She came in straight and fast, dust rising behind her in a long pale curtain, and pulled up in front of the office so the horse was still heaving when she dropped from the saddle.
+Jake set down his coffee.
+"It's true," Rosa said. She was dusty from two days of riding and her voice had the flat particular quality of someone who had been hoping she was wrong the whole way home. "Eleven riders. Left Tucson Wednesday morning, heading north. Marshal Hennesey verified three of them himself—Cole Holloway, Decker Raines, a man they're calling Priest. Two outstanding warrants in the Arizona Territory. One in New Mexico."
+"Old Man Holloway with them?"
+"At the front. Hennesey said he looks good for sixty-three." She pulled the saddle off her horse without being asked and hauled it over the rail. "Estimated speed, they're looking at Red Mesa by sundown. Give or take an hour for stops." She met his eyes. "Jake. They burned Cartero."
+He'd heard the rumor about Cartero. He'd sent her to find out if the rumor was the whole story.
+"How bad?" he said.
+"Two buildings left standing. The church and the livery." She was quiet for a moment. "Marshal didn't say why. I didn't ask." She pushed the office door open and went inside and Jake followed.
+The office was small and orderly in the way Jake had always kept it—wanted posters filed and current, the rifle rack locked and full, the desk clear except for the logbook and the coffee he'd been drinking since six. Rosa sat down in the chair across from the desk and looked at the ceiling for a moment.
+"What do we have?" she said.
+"Two of us," Jake said.
+"I mean in terms of—"
+"I know what you mean." He sat down. Outside, through the window, Main Street was doing what Main Street did on a Tuesday morning: Alderman's was getting a flour delivery, the schoolbell had just rung, three horses stood at the Long Rail's rail even though Eli wouldn't be open for another hour. Normal. The way things had been normal for three years, which was long enough that most of the town had started to believe that was just how things were.
+They weren't going to believe that by this evening.
+"We have Hendricks," Jake said. "He's reliable if we tell him what to do." Sam Hendricks was sixty-four and had been a sheriff himself, years back, in a place that wasn't anymore. "Possibly the Garza brothers, if we ask, but they've got young children and I won't press men with young children."
+"Eli knows them," Rosa said. She'd said it carefully. "The Holloways."
+"Old history."
+"Old history with eleven armed riders is still history." She leaned forward. "He might know what they want. If they have a specific reason for Red Mesa, or if it's—" She didn't finish the sentence. They both knew what the alternative was.
+Jake looked out the window again. The flour delivery was done. Main Street was settling into its usual morning rhythm. In seven or eight hours, that was going to change.
+"I need to think," he said.
+"You've got about thirty minutes before people start noticing I rode in fast," Rosa said. "After that the whole town knows something's coming and we're managing a panic instead of a plan."
+She was right. She usually was, about the practical things.
+"Pull the shutters at the bank and wire Hennesey that we've received his information," Jake said, because those were the two things that needed doing regardless. "Then get Hendricks and tell him to stay close to the office. Low noise. We don't want the street clearing out before we've decided anything."
+Rosa was already moving. She paused at the door. "What are we deciding?"
+Jake looked at the street one more time. The schoolbell had stopped. Somewhere a dog was barking at something it probably couldn't catch.
+"What kind of morning this town gets to remember," he said.`,
+            isPublished: true,
+          },
+          {
+            id: "act-2",
+            title: "Act II: What the Town Knows",
+            imageSrc: "/images/stories/showdown-sunset/chapter-1/act-2-long-rail.jpg",
+            imageCaption: "The Long Rail saloon, mid-morning",
+            imageRevealAfterParagraph: 5,
+            summary: "By eleven, secrecy was no longer an option. Rumor travels in frontier towns the way fire travels in dry grass - low, quick, and always ahead of the person carrying the bucket. Jake chose the Long Rail as the place to steer it, because if people were going to panic he'd rather they do it where he could see their hands.\nEli Bransen polished the same glass for five full minutes while Jake explained what Rosa had confirmed. No speeches, no drama, just numbers: eleven riders, sunset arrival, Holloway at the front. The room went still in that particular way men go still when they start calculating distance to the nearest door.\n\"You know them,\" Jake said quietly to Eli once the first wave of questions had broken into side conversations.\nEli nodded once. \"I know how they arrive. Clean first, mean second. If they ask for a thing, it's because they think it already belongs to them.\"\n\"Do they want this town?\" Rosa asked.\n\"Maybe not the whole town,\" Eli said. \"Could be a person. Could be a ledger. Could be revenge with a familiar address. Holloway likes making examples where people can witness the lesson.\"\nBy noon, Red Mesa had split into three camps without naming them: those who wanted to run, those who wanted to fight, and those who wanted Jake to decide so they could blame him later if it failed. Jake accepted all three positions as normal civic behavior under stress.\nHe and Rosa moved street by street assigning practical tasks with military calm - water barrels filled and staged, shutters reinforced on the west side, schoolhouse emptied into church cellar, medical kits moved to the undertaker's back room where the light was good and the floor could be cleaned. Hendricks took roster and ammunition count.\nAt one-thirty, the telegraph from Hennesey came through in clipped code: HOLLOWAY SPLIT COLUMN NEAR DRY CREEK POSSIBLE FLANK RIDERS. Jake read it twice and folded it once. \"So we may be looking at eleven in front and whoever they're hiding behind a ridge,\" he said.\nRosa's jaw tightened. \"Still time to send families east.\"\n\"Do it,\" Jake said. \"And tell them to travel light and quiet. Dust clouds advertise.\"\nBy mid-afternoon, the town had the strained order of a stage set before curtain. People moved quickly but avoided looking west for too long. Every clock seemed louder than usual. Every horse in every hitch rail shifted as if feeling weather the humans could not yet read.\nIn his office Jake laid out three plans and hated all of them for different reasons. Each one saved someone and exposed someone else. Each one assumed courage would hold under first gunfire. Outside, the sun kept falling exactly on schedule.",
+            isPublished: true,
+          },
+          {
+            id: "act-3",
+            title: "Act III: Before the Dust Rises",
+            imageSrc: "/images/stories/showdown-sunset/chapter-1/act-3-before-sunset.jpg",
+            imageCaption: "Red Mesa in the hours before the gang arrives",
+            imageRevealAfterParagraph: 6,
+            summary: "At four o'clock the wind turned and brought dust from the south road. Not riders yet. Just warning. Jake stood on the boardwalk outside the sheriff's office with Rosa and watched the horizon flatten under heat shimmer while the town pretended to continue being ordinary.\nChurch bells rang once to signal evacuation teams moving out. Children who had never been this quiet climbed into wagons with blankets and bread sacks. Mothers held composure like a physical object they could not afford to drop. Old men who had sworn they were too stiff to shoot found oil for old rifles anyway.\nJake walked Main one final time before commitment. Bank roofline - usable but exposed. Livery loft - excellent sightline, poor cover. Saloon balcony - best angle on the south approach, worst place if fire started. He marked positions in his head and refused to imagine names attached to each position.\nAt five-ten, Eli met him by the trough and handed over a folded paper torn from a liquor invoice. \"Memory came late,\" Eli said. \"Holloway's boy Cole used to ask about the old payroll route from railhead to assay office. Used to ask too many questions for a drunk.\"\nJake read the route note and looked at the bank. Then at the assay office. Then at the narrow cut between both where one rider could block two exits. \"So this might be robbery with theatrics.\"\n\"With Holloway it's always both,\" Eli answered.\nAt six, a scout posted on the south rise signaled with mirror flash. Two long, one short. Column sighted. Rosa repeated the signal with her hand because everyone in town deserved to see certainty, however unwelcome.\nThey had maybe forty minutes. Enough time to choose a strategy and no time left for regret. Jake gathered Rosa, Hendricks, and the six volunteers who had not backed out when names were asked for. He gave orders in a voice so even it made panic sound like logistics.\n\"Once we start this,\" he said, \"we do not improvise heroics. We do the job in front of us. If you lose your position, you fall back to church line. If I go down, Rosa commands. If she goes down, Hendricks commands. Town first, pride never.\"\nNo one argued.\nWhen the first rider finally appeared at the edge of the south road, silhouetted by low sun and trailing red dust, Red Mesa held its breath as one body. Behind him more shapes emerged, then more, then the full line of the Holloway gang unspooling toward town like a storm deciding where to break. Jake rested his hand on his holster and made the only decision left: how this night would begin.",
+            isPublished: true,
+          },
+        ],
+        voteQuestion: "How does Jake prepare Red Mesa for the Holloway gang's arrival?",
+        votePrompt:
+          "Your vote determines the strategy that carries into Chapter 2 and shapes which characters take the front line when the dust comes.",
+        voteOptions: [
+          {
+            id: "arm-the-town",
+            title: "Call a posse — arm the townspeople",
+            description:
+              "Jake calls an open meeting and asks for volunteers. Red Mesa defends itself as a community. Whoever stands up stands with the law.",
+            risk: "Civilians in gunfights are unpredictable. If Holloway sees a mob, he may burn the town first and ask questions never.",
+            votePercent: 38,
+          },
+          {
+            id: "ride-out-alone",
+            title: "Ride out to meet them before they reach town",
+            description:
+              "Jake takes Rosa and rides south to intercept the gang on the trail. Whatever happens, it happens away from Main Street and the people on it.",
+            risk: "Two lawmen against eleven riders in open country. No cover, no backup, no second chance if it goes wrong.",
+            votePercent: 29,
+          },
+          {
+            id: "set-the-trap",
+            title: "Prepare a trap and let them come to you",
+            description:
+              "Use the hours to position people in the buildings overlooking Main Street. Let Holloway ride into a town that looks quiet from the outside and isn't.",
+            risk: "Requires Holloway to ride in rather than burn from outside—and requires every person holding a position to hold it.",
+            votePercent: 33,
+          },
+        ],
+      },
+    ],
+  },
+  "mars-colony": {
+    id: "mars-colony",
+    title: "Mars Colony Crisis",
+    genre: "Sci-Fi",
+    genreEmoji: "🚀",
+    status: "voting",
+    votes: 8234,
+    synopsis:
+      "Artemis Base has been operational for eleven years, which is long enough to feel permanent and not quite long enough to stop being surprising. Commander Aria Chen runs the colony with the particular efficiency of someone who has learned which problems need solving immediately and which need watching. At 0300 on a Tuesday, the Elysium drill team strikes something four hundred meters beneath the Martian surface that is not rock. Dr. Zhao's seismic array registers a pattern—structured, repeating, and entirely inconsistent with anything geological. The colony's communication systems have logged an anomaly at the same frequency every twenty-seven hours for the past six days. Nobody noticed until now. This is about to become Aria's problem in the oldest possible way: all at once.",
+    hook: "Four hundred meters beneath the Martian surface, something is transmitting on a frequency that predates human radio. It has been doing this for six days.",
+    coverGradient: "from-blue-500 to-cyan-600",
+    accentTextClass: "text-cyan-300",
+    ringClass: "ring-cyan-400",
+    characters: [
+      {
+        name: "Commander Aria Chen",
+        role: "Colony Commander",
+        emoji: "⭐",
+        gradient: "from-blue-500 to-cyan-600",
+        bio: "Aria runs Artemis Base the way she runs everything: on the principle that most problems have a rational solution and the ones that don't are still better approached as if they do. She has been in command for four years, has managed a structural breach, two medical emergencies, and one very bad dust storm, and has never once in that time received a signal that didn't originate on Earth. She is about to revise that record.",
+      },
+      {
+        name: "Dr. Rael Okonkwo",
+        role: "Communications Specialist",
+        emoji: "📡",
+        gradient: "from-violet-600 to-indigo-700",
+        bio: "Rael is the reason the colony's communication array works as well as it does, which he considers a mixed blessing given that he now has to figure out what it's receiving. He has the particular intensity of someone who has been waiting for something interesting to happen and is alarmed to discover how interesting it has gotten.",
+      },
+      {
+        name: "Chief Martinez",
+        role: "Security Chief",
+        emoji: "🛡️",
+        gradient: "from-red-600 to-orange-700",
+        bio: "Martinez has spent nine years on Mars being prepared for problems that never arrived, which has either kept him sharp or made him paranoid—he considers both assessments fair. He has opinions about what should happen next and will not volunteer them unless asked, and possibly not then.",
+      },
+      {
+        name: "Dr. Lian Zhao",
+        role: "Geologist",
+        emoji: "🪨",
+        gradient: "from-stone-500 to-amber-700",
+        bio: "Lian has been studying the Elysium stratum for three years and knows the Martian substrate the way she knows her own apartment: intimately, with a few surprises that turned out to be explainable and one that hasn't been yet. The drill returning a non-geological contact is, by her reckoning, either the most important discovery in human history or a calibration error. She is fairly certain it is not a calibration error.",
+      },
+    ],
+    chapters: [
+      {
+        slug: "chapter-1-signal-from-the-deep",
+        chapterNumber: 1,
+        title: "Signal from the Deep",
+        label: "Chapter 1",
+        shortDescription:
+          "At 0300, the Elysium drill team strikes something that isn't rock. Dr. Zhao's seismic array logs a repeating structured pattern. Commander Chen is called to the drill pit and has until dawn to decide how the colony responds.",
+        opening:
+          "The call came at 0300, which Aria Chen had always privately believed was the universe's preferred hour for everything that couldn't wait.",
+        status: "voting",
+        sections: [
+          {
+            id: "act-1",
+            title: "Act I: Contact",
+            imageSrc: "/images/stories/mars-colony/chapter-1/act-1-contact.jpg",
+            imageCaption: "The Elysium drill array at 0300",
+            imageRevealAfterParagraph: 7,
+            summary: `The call came at 0300, which Aria Chen had always privately believed was the universe's preferred hour for everything that couldn't wait.
+"Commander." Dr. Zhao's voice in her ear was the precise tone of someone who was being very careful not to sound alarmed, which meant she was alarmed. "I need you at the drill array. Suit up. Don't call Martinez yet."
+Aria was already out of her bunk. "What did you hit?"
+"That's the thing." A pause. "We don't know."
+The walk to the drilling array was seven minutes in a pressurized suit through the connector tunnel between Habitat 3 and the surface access bay. Aria had done it a hundred times for maintenance reviews, geological surveys, one equipment fire and one equipment fire drill that had been more stressful than the actual fire. She knew every scuff mark on the tunnel walls. She paid attention to them now the way she paid attention to all familiar things when something unfamiliar was happening—using the ordinary as an anchor.
+The drill array occupied a pressurized bay on the colony's eastern edge, a squat hexagonal structure that housed the Elysium Depth Survey's primary bore and about four million dollars of seismic monitoring equipment that could, theoretically, hear a fault shift three hundred kilometers away. In practice it had spent most of three years confirming that the Elysium Plateau was geologically stable, which was useful for structural planning and not very exciting.
+Dr. Zhao was standing at the primary readout station with the expression of a woman who had just been proven right about something she hadn't expected to be right about.
+"We were running the standard overnight extension," she said without preamble. "Four hundred and twelve meters. Rotary bit, standard basalt progression. At approximately 0247, the bit stopped." She pulled up the drill log on the display wall. "Not resistance. Not density shift. Stopped. As if it hit something that didn't want to move."
+Aria looked at the readout. The drill torque had spiked, maxed, and held for six seconds before the safety cutoff triggered. "Could be a metallic intrusion. Subsurface iron deposit—"
+"Yes. Except." Zhao pulled up a second display—the seismic array's frequency analysis, which Aria had seen in normal operation a dozen times and which now looked like nothing she recognized. "The moment the bit stopped, the array registered a response." Zhao traced the wave pattern on the display with one finger. "Structured. Repeating. Not mechanical resonance from the drill—we cross-checked against every operational frequency the rig generates. This has a different source."
+Aria looked at the pattern for a long moment. It ran in a series—short, long, short-short, long-long—that kept repeating with slight variations, like something cycling through states.
+"How long does the cycle take?" she asked.
+"Forty-one seconds. Then it repeats." Zhao hesitated. "Aria—Rael flagged something to me thirty minutes ago that I want you to see before we talk about what this is."
+She pulled up the communications array logs—the passive monitoring system that tracked all incoming radio frequencies as a matter of standard procedure. Aria had looked at these logs exactly once, three years ago, during a communications audit.
+There was a flag.
+Not today. Not from the drill.
+Six days ago.
+"The comm array has been receiving a signal at this frequency," Zhao said, "every twenty-seven hours, at thirty-second intervals, for the past six days. Since before we started the current drill phase." She let that sit for a moment. "The monitoring software categorized it as background cosmic radiation within normal parameters. It ran the auto-classification and filed it. Nobody looked at it because nobody had a reason to look at it."
+Aria looked at the frequency comparison. The signal from six days ago and the response from the drill array were not identical—but they were the same structure. The same pattern.
+"Something under the surface received what the comm array was receiving," Aria said slowly.
+"And replied," Zhao said. "Yes."
+The drill bay was very quiet. Outside, through the reinforced window, she could see the Martian night—stars in a black sky without any of the atmospheric warmth that made Earth's night sky feel like a ceiling rather than a void. She had never found it lonely before. She was recalibrating.
+"Who else knows?" she said.
+"You, me, Rael. The two drill techs on shift, but I sent them to take a break in the canteen and logged it as a routine equipment hold." Zhao's expression was steady but her hands were clasped very tightly in front of her. "I know what this looks like, Aria."
+"It looks like a possible equipment malfunction with an unusual resonance pattern."
+"That's one interpretation, yes."
+Aria looked at the read-out one more time. The pattern cycled through its forty-one seconds again: short, long, short-short, long-long. Patient as a clock.
+"I need to think," she said.
+It was 0327. Dawn on Mars was at 0611. She had roughly two and a half hours before the rest of the colony's day shift came online and someone noticed the drill array was on hold.
+Two and a half hours to decide how to answer a question that humanity had been asking for a hundred years.`,
+            isPublished: true,
+          },
+          {
+            id: "act-2",
+            title: "Act II: The Decision Room",
+            imageSrc: "/images/stories/mars-colony/chapter-1/act-2-command-center.jpg",
+            imageCaption: "The colony command center before dawn",
+            imageRevealAfterParagraph: 5,
+            summary: "Aria moved the conversation to Command where decisions were made under better light and worse consequences. The room was quiet except for ventilation and the faint sync pulse from the colony net. Zhao brought raw seismic telemetry. Rael brought comm logs and two pages of annotations written so fast his handwriting collapsed into diagonals. Martinez arrived last, read the faces before the data, and sat without speaking.\nThey built three hypotheses in under twelve minutes: unknown natural resonance, buried pre-human artifact, hostile signal mimic. Martinez favored the third on principle. Zhao favored the second because geology had already ruled itself out. Rael favored \"we do not yet have enough variables to deserve preferences,\" then proceeded to explain why the signal's packet spacing implied intentionality.\n\"Could this be us?\" Aria asked. \"Historic hardware, old Soviet probe, obsolete relay artifact, anything human.\"\nRael shook his head. \"Frequency architecture doesn't map to any known terrestrial protocol family, and the recurrence interval predates this drill cycle. If it's human, it's a human design lineage we have no records for.\"\nMartinez leaned forward. \"If it can hear us, can it reach us?\"\nNo one answered immediately, which was answer enough.\nAria opened the operations board and split responsibilities with the efficiency of someone buying time in measured slices. Zhao: independent diagnostic chain plus borehole camera prep. Rael: controlled receive-only monitoring on isolated hardware with physical kill switch. Martinez: quiet readiness posture, no colony-wide alert unless threshold crossed.\n\"Threshold?\" he asked.\n\"Pattern change, pressure anomaly, or unauthorized systems handshake,\" Aria said. \"Any one triggers lockdown protocols and wake cycle override.\"\nBy 04:20 the first anomaly hit: the forty-one-second cycle shortened to thirty-nine for three consecutive loops, then returned. Rael replayed it three times to rule out instrument jitter. It held. Something below had adjusted.\n\"It noticed we were listening,\" Zhao said softly.\n\"Or it changed state for internal reasons,\" Aria answered, because certainty was expensive and they could not afford it yet.\nAt 05:03, a maintenance drone assigned to outer ring inspection stalled near the drill bay and sent a corruption flag before rebooting. Martinez requested armed oversight for all engineering crews. Aria approved it and watched his jaw tighten as if approval confirmed what he had hoped to avoid naming.\nDawn was an hour away. In forty-eight minutes the regular day shift would start asking ordinary questions that no longer had ordinary answers. Aria looked at the team around her - one scientist vibrating with terror and focus, one comms specialist halfway between awe and dread, one security chief already planning for casualties he still hoped not to count - and understood that whatever she chose next would become precedent for all of human presence on Mars.",
+            isPublished: true,
+          },
+          {
+            id: "act-3",
+            title: "Act III: What Dawn Brings",
+            imageSrc: "/images/stories/mars-colony/chapter-1/act-3-martian-dawn.jpg",
+            imageCaption: "Artemis Base at dawn, Elysium Plateau",
+            imageRevealAfterParagraph: 6,
+            summary: "Mars sunrise arrived as a thin copper line over the habitat ridge, turning the dust outside the viewport into drifting fire. Inside Command, nobody felt poetic about it. They had twenty minutes before shift change and one unresolved question that did not care about schedules.\nAria made the call no commander wants to make on partial data: controlled engagement under containment. Not a colony-wide announcement, not a full blackout - yet. A narrow operational corridor. Minimal personnel. Maximum recording. She signed the order and pushed it to three terminals so no one could later pretend they had misunderstood.\nRael configured a transmission buffer in case they chose to answer. Zhao prepared the micro-bore camera for insertion to 412 meters with thermal and chemical sampling live on split screens. Martinez posted two security teams at the drill bay and one at life-support control because every disaster manual begins with \"protect oxygen first.\"\nAt 05:57, they lowered the camera. For eighty-seven meters, basalt walls and tool scarring. At 311, mineral veining changed from random fractures to parallel channels too regular to dismiss. At 404, the camera lights reflected from a surface that was neither rock nor metal in any spectrum model the software recognized. It looked matte and dark until the signal cycled, and then geometric seams lit beneath it like constellations being remembered.\nThe comm array pinged at the exact moment the seams lit. Same core pattern. New suffix. Rael's voice went thin with concentration. \"It appended data. That's a handshake attempt or an index marker. Either way, it's interactive.\"\nIn Habitat 2, day shift alarms chimed and ordinary life began: breakfast queue, maintenance check-ins, school module wake cycle for the six children born on-station. The colony moved into morning while Command watched something wake beneath them.\nMartinez received a message from Engineering: two pressure doors in corridor C briefly desynced lock timing, then corrected. No breach. No cause. He looked at Aria and did not speak because he did not need to.\n\"We choose now,\" Aria said. \"Do we physically investigate first, do we transmit first, or do we lock everything down and spend the day proving this isn't what it looks like?\"\nNo one in the room mistook that for a rhetorical question. Outside, the sun climbed. Below, the pattern repeated - patient, precise, and waiting for an answer humanity had never rehearsed.",
+            isPublished: true,
+          },
+        ],
+        voteQuestion: "Commander Chen has until dawn. What is the colony's first move?",
+        votePrompt:
+          "Your vote determines Chapter 2's opening situation. Choose the approach that Aria takes before the rest of the colony wakes up.",
+        voteOptions: [
+          {
+            id: "send-survey-team",
+            title: "Send a survey team to the drill site",
+            description:
+              "Assemble a small team to investigate the contact point directly—drill cameras, sample extraction, seismic mapping of the immediate area. Gather data before making any decisions.",
+            risk: "If the contact responds to physical investigation differently than it responded to the drill, the team is in an unknown situation with limited resources.",
+            votePercent: 41,
+          },
+          {
+            id: "broadcast-response",
+            title: "Transmit a response signal",
+            description:
+              "Use Rael's comm array to broadcast on the same frequency, mirroring the pattern from below. If something is signaling, signal back. Establish contact before anyone decides what to do about it.",
+            risk: "Transmitting acknowledges that the colony has received and understood the signal. Whatever that implies about what comes next, it cannot be undone.",
+            votePercent: 35,
+          },
+          {
+            id: "lockdown-analysis",
+            title: "Lock down and run full diagnostics",
+            description:
+              "Secure the drill array, pull the signal data, and spend the pre-dawn hours verifying every possible equipment or natural explanation before treating this as something it might not be.",
+            risk: "The signal has been transmitting for six days. Whatever is waiting below has been waiting longer. But moving carefully now may prevent a much more serious mistake later.",
+            votePercent: 24,
           },
         ],
       },

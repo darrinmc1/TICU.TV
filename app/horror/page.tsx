@@ -66,17 +66,22 @@ export default function HorrorPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-red-600 hover:bg-red-700 text-red-100 text-lg px-8 py-6">
-              <Ghost className="w-5 h-5 mr-2" />
-              Enter the Nightmare
+            <Button asChild size="lg" className="bg-red-600 hover:bg-red-700 text-red-100 text-lg px-8 py-6">
+              <Link href="/vote">
+                <Ghost className="w-5 h-5 mr-2" />
+                Enter the Nightmare
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-red-600 text-red-400 hover:bg-red-600 hover:text-red-100 bg-transparent"
             >
-              <Moon className="w-5 h-5 mr-2" />
-              Survive the Night
+              <Link href="/creator">
+                <Moon className="w-5 h-5 mr-2" />
+                Survive the Night
+              </Link>
             </Button>
           </div>
 
@@ -165,9 +170,11 @@ export default function HorrorPage() {
                     />
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-red-600 hover:bg-red-700 text-red-100">
-                  <Volume2 className="w-4 h-4 mr-2" />
-                  Set Fear Level
+                <Button asChild className="w-full mt-4 bg-red-600 hover:bg-red-700 text-red-100">
+                  <Link href="/vote">
+                    <Volume2 className="w-4 h-4 mr-2" />
+                    Set Fear Level
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -208,11 +215,14 @@ export default function HorrorPage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-red-600 text-red-400 hover:bg-red-600 hover:text-red-100 bg-transparent"
                 >
-                  <Eye className="w-4 h-4 mr-2" />
-                  Control Visibility
+                  <Link href="/vote">
+                    <Eye className="w-4 h-4 mr-2" />
+                    Control Visibility
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -245,9 +255,11 @@ export default function HorrorPage() {
                     <span className="text-red-400 font-semibold text-sm">55%</span>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-red-600 hover:bg-red-700 text-red-100">
-                  <Crosshair className="w-4 h-4 mr-2" />
-                  Choose Strategy
+                <Button asChild className="w-full mt-4 bg-red-600 hover:bg-red-700 text-red-100">
+                  <Link href="/vote">
+                    <Crosshair className="w-4 h-4 mr-2" />
+                    Choose Strategy
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

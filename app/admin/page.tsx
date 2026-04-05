@@ -70,6 +70,10 @@ const ContentIcon = () => (
 export default function AdminPage() {
   const [activeTab, setActiveTab] = useState("overview")
 
+  function handleNotImplemented(action: string) {
+    window.alert(`${action} is not implemented yet.`)
+  }
+
   return (
     <div className="min-h-screen bg-background">
       <header className="fixed top-0 left-0 right-0 z-50 bg-card/95 backdrop-blur-md border-b border-border">
@@ -83,14 +87,12 @@ export default function AdminPage() {
             </div>
             <div className="flex items-center space-x-4">
               <Badge variant="secondary">Administrator</Badge>
-              <Link href="/admin/acts">
-                <Button size="sm">Upload Acts</Button>
-              </Link>
-              <Link href="/">
-                <Button variant="outline" size="sm">
-                  Back to Site
-                </Button>
-              </Link>
+              <Button asChild size="sm">
+                <Link href="/admin/acts">Upload Acts</Link>
+              </Button>
+              <Button asChild variant="outline" size="sm">
+                <Link href="/">Back to Site</Link>
+              </Button>
             </div>
           </div>
         </div>
@@ -173,17 +175,25 @@ export default function AdminPage() {
                   <CardDescription>Common administrative tasks</CardDescription>
                 </CardHeader>
                 <CardContent className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                  <Link href="/admin/acts">
-                    <Button className="h-auto w-full p-4 flex flex-col items-start">
+                  <Button asChild className="h-auto w-full p-4 flex flex-col items-start">
+                    <Link href="/admin/acts">
                       <span className="font-semibold">Upload Book Act</span>
                       <span className="text-sm text-muted-foreground">Paste or upload act prose</span>
-                    </Button>
-                  </Link>
-                  <Button variant="outline" className="h-auto p-4 flex flex-col items-start bg-transparent">
+                    </Link>
+                  </Button>
+                  <Button
+                    variant="outline"
+                    className="h-auto p-4 flex flex-col items-start bg-transparent"
+                    onClick={() => setActiveTab("profiles")}
+                  >
                     <span className="font-semibold">Add Character</span>
                     <span className="text-sm text-muted-foreground">Introduce new character</span>
                   </Button>
-                  <Button variant="outline" className="h-auto p-4 flex flex-col items-start bg-transparent">
+                  <Button
+                    variant="outline"
+                    className="h-auto p-4 flex flex-col items-start bg-transparent"
+                    onClick={() => setActiveTab("videos")}
+                  >
                     <span className="font-semibold">Upload Episode</span>
                     <span className="text-sm text-muted-foreground">Add new video content</span>
                   </Button>
@@ -217,8 +227,8 @@ export default function AdminPage() {
                     <Input id="character-image" placeholder="https://..." />
                   </div>
                   <div className="flex gap-2">
-                    <Button>Save Character</Button>
-                    <Button variant="outline">Preview</Button>
+                    <Button type="button" onClick={() => handleNotImplemented("Save Character")}>Save Character</Button>
+                    <Button type="button" variant="outline" onClick={() => handleNotImplemented("Preview Character")}>Preview</Button>
                   </div>
                 </CardContent>
               </Card>
@@ -244,10 +254,10 @@ export default function AdminPage() {
                           </Badge>
                         </div>
                         <div className="flex gap-2">
-                          <Button variant="outline" size="sm">
+                          <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented(`Edit ${name}`)}>
                             Edit
                           </Button>
-                          <Button variant="outline" size="sm">
+                          <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented(`Archive ${name}`)}>
                             Archive
                           </Button>
                         </div>
@@ -293,12 +303,12 @@ export default function AdminPage() {
                       <Input placeholder="Option 1" />
                       <Input placeholder="Option 2" />
                       <Input placeholder="Option 3" />
-                      <Button variant="outline" size="sm">
+                      <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Add Vote Option") }>
                         Add Option
                       </Button>
                     </div>
                   </div>
-                  <Button>Create Vote</Button>
+                  <Button type="button" onClick={() => handleNotImplemented("Create Vote")}>Create Vote</Button>
                 </CardContent>
               </Card>
 
@@ -316,10 +326,10 @@ export default function AdminPage() {
                         </Badge>
                       </div>
                       <div className="flex gap-2">
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("View Vote Results") }>
                           View Results
                         </Button>
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("End Vote Early") }>
                           End Early
                         </Button>
                       </div>
@@ -332,10 +342,10 @@ export default function AdminPage() {
                         </Badge>
                       </div>
                       <div className="flex gap-2">
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("View Vote Results") }>
                           View Results
                         </Button>
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Edit Vote") }>
                           Edit
                         </Button>
                       </div>
@@ -368,7 +378,7 @@ export default function AdminPage() {
                     <Label htmlFor="story-tagline">Tagline</Label>
                     <Input id="story-tagline" defaultValue="A promise forged in flame. A destiny sealed in blood" />
                   </div>
-                  <Button>Update Story</Button>
+                  <Button type="button" onClick={() => handleNotImplemented("Update Story")}>Update Story</Button>
                 </CardContent>
               </Card>
 
@@ -392,10 +402,10 @@ export default function AdminPage() {
                           </Badge>
                         </div>
                         <div className="flex gap-2">
-                          <Button variant="outline" size="sm">
+                          <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented(`Edit ${book}`)}>
                             Edit Book
                           </Button>
-                          <Button variant="outline" size="sm">
+                          <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented(`Publish ${book}`)}>
                             Publish Book
                           </Button>
                         </div>
@@ -443,7 +453,7 @@ export default function AdminPage() {
                     <Label htmlFor="video-description">Description</Label>
                     <Textarea id="video-description" placeholder="Episode description..." rows={3} />
                   </div>
-                  <Button>Add Video</Button>
+                  <Button type="button" onClick={() => handleNotImplemented("Add Video")}>Add Video</Button>
                 </CardContent>
               </Card>
 
@@ -461,10 +471,10 @@ export default function AdminPage() {
                         </Badge>
                       </div>
                       <div className="flex gap-2">
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Edit Video") }>
                           Edit
                         </Button>
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Video Analytics") }>
                           Analytics
                         </Button>
                       </div>
@@ -477,10 +487,10 @@ export default function AdminPage() {
                         </Badge>
                       </div>
                       <div className="flex gap-2">
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Edit Video") }>
                           Edit
                         </Button>
-                        <Button variant="outline" size="sm">
+                        <Button type="button" variant="outline" size="sm" onClick={() => handleNotImplemented("Video Analytics") }>
                           Analytics
                         </Button>
                       </div>

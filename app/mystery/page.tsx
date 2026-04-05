@@ -80,17 +80,22 @@ export default function MysteryPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-purple-600 hover:bg-purple-700 text-purple-100 text-lg px-8 py-6">
-              <Search className="w-5 h-5 mr-2" />
-              Start Investigation
+            <Button asChild size="lg" className="bg-purple-600 hover:bg-purple-700 text-purple-100 text-lg px-8 py-6">
+              <Link href="/vote">
+                <Search className="w-5 h-5 mr-2" />
+                Start Investigation
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-purple-600 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
             >
-              <Eye className="w-5 h-5 mr-2" />
-              Examine Evidence
+              <Link href="/creator">
+                <Eye className="w-5 h-5 mr-2" />
+                Examine Evidence
+              </Link>
             </Button>
           </div>
 
@@ -179,9 +184,11 @@ export default function MysteryPage() {
                     />
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-purple-600 hover:bg-purple-700 text-purple-100">
-                  <Lightbulb className="w-4 h-4 mr-2" />
-                  Set Difficulty
+                <Button asChild className="w-full mt-4 bg-purple-600 hover:bg-purple-700 text-purple-100">
+                  <Link href="/vote">
+                    <Lightbulb className="w-4 h-4 mr-2" />
+                    Set Difficulty
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -222,11 +229,14 @@ export default function MysteryPage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-purple-600 text-purple-400 hover:bg-purple-600 hover:text-purple-100 bg-transparent"
                 >
-                  <MapPin className="w-4 h-4 mr-2" />
-                  Plant Evidence
+                  <Link href="/vote">
+                    <MapPin className="w-4 h-4 mr-2" />
+                    Plant Evidence
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -265,9 +275,11 @@ export default function MysteryPage() {
                     </div>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-purple-600 hover:bg-purple-700 text-purple-100">
-                  <FileText className="w-4 h-4 mr-2" />
-                  Update Case
+                <Button asChild className="w-full mt-4 bg-purple-600 hover:bg-purple-700 text-purple-100">
+                  <Link href="/vote">
+                    <FileText className="w-4 h-4 mr-2" />
+                    Update Case
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

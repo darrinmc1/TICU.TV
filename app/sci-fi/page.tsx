@@ -75,17 +75,22 @@ export default function SciFiPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-cyan-600 hover:bg-cyan-700 text-cyan-100 text-lg px-8 py-6">
-              <Rocket className="w-5 h-5 mr-2" />
-              Launch Mission
+            <Button asChild size="lg" className="bg-cyan-600 hover:bg-cyan-700 text-cyan-100 text-lg px-8 py-6">
+              <Link href="/vote">
+                <Rocket className="w-5 h-5 mr-2" />
+                Launch Mission
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-cyan-600 text-cyan-400 hover:bg-cyan-600 hover:text-cyan-100 bg-transparent"
             >
-              <Satellite className="w-5 h-5 mr-2" />
-              Scan Systems
+              <Link href="/creator">
+                <Satellite className="w-5 h-5 mr-2" />
+                Scan Systems
+              </Link>
             </Button>
           </div>
 
@@ -165,9 +170,11 @@ export default function SciFiPage() {
                     Galactic Era (3000+)
                   </Button>
                 </div>
-                <Button className="w-full mt-4 bg-cyan-600 hover:bg-cyan-700 text-cyan-100">
-                  <Clock className="w-4 h-4 mr-2" />
-                  Set Timeline
+                <Button asChild className="w-full mt-4 bg-cyan-600 hover:bg-cyan-700 text-cyan-100">
+                  <Link href="/vote">
+                    <Clock className="w-4 h-4 mr-2" />
+                    Set Timeline
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -200,9 +207,11 @@ export default function SciFiPage() {
                     </div>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-cyan-600 hover:bg-cyan-700 text-cyan-100">
-                  <Cpu className="w-4 h-4 mr-2" />
-                  Advance Tech
+                <Button asChild className="w-full mt-4 bg-cyan-600 hover:bg-cyan-700 text-cyan-100">
+                  <Link href="/vote">
+                    <Cpu className="w-4 h-4 mr-2" />
+                    Advance Tech
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -230,11 +239,14 @@ export default function SciFiPage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-cyan-600 text-cyan-400 hover:bg-cyan-600 hover:text-cyan-100 bg-transparent"
                 >
-                  <Satellite className="w-4 h-4 mr-2" />
-                  Set Protocol
+                  <Link href="/vote">
+                    <Satellite className="w-4 h-4 mr-2" />
+                    Set Protocol
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

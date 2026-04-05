@@ -48,6 +48,11 @@ export default function StoryVoting({
         : "md:grid-cols-3"
 
   const fallbackTotalVotes = 1284
+  const hasLiveData = totalVotes > 0
+  const formatVotes = (value: number) => value.toLocaleString("en-US")
+  const totalVotesLabel = hasLiveData
+    ? `${formatVotes(totalVotes)} total votes (live)`
+    : `${formatVotes(fallbackTotalVotes)} total votes (preview estimate)`
 
   useEffect(() => {
     const storageKey = `ticu-voter-id:${storyId}:${chapterSlug}`
@@ -87,7 +92,6 @@ export default function StoryVoting({
   const optionStats = useMemo(() => {
     return actOptions.map((option) => {
       const liveCount = liveCounts[option.id] ?? 0
-      const hasLiveData = totalVotes > 0
       const fallbackPercent = option.votePercent ?? Math.round(100 / Math.max(actOptions.length, 1))
       const fallbackCount = Math.round((fallbackPercent / 100) * fallbackTotalVotes)
       const displayCount = hasLiveData ? liveCount : fallbackCount
@@ -101,8 +105,6 @@ export default function StoryVoting({
       }
     })
   }, [actOptions, liveCounts, totalVotes])
-
-  const displayTotalVotes = totalVotes > 0 ? totalVotes : fallbackTotalVotes
 
   async function submitVote() {
     if (!selected || !userId) return
@@ -147,7 +149,7 @@ export default function StoryVoting({
         <p className="text-sm text-white/50">
           This story is complete. Here&apos;s how the community voted at this chapter:
         </p>
-        <p className="text-xs text-white/40">{displayTotalVotes.toLocaleString()} total votes</p>
+        <p className="text-xs text-white/40">{totalVotesLabel}</p>
         <div className={`grid gap-4 ${gridClass}`}>
           {optionStats.map((act, i) => (
             <div
@@ -166,7 +168,8 @@ export default function StoryVoting({
                 />
               </div>
               <div className={`text-xs font-semibold ${accentTextClass}`}>
-                {act.displayPercent}% of votes ({act.displayCount.toLocaleString()})
+                {act.displayPercent}% of votes ({formatVotes(act.displayCount)})
+                {!hasLiveData ? " preview" : ""}
               </div>
             </div>
           ))}
@@ -206,7 +209,7 @@ export default function StoryVoting({
   return (
     <div>
       <div className="mb-3 text-xs text-white/40">
-        {displayTotalVotes.toLocaleString()} total votes {totalVotes === 0 ? "(preview estimate)" : "(live)"}
+        {totalVotesLabel}
       </div>
       <div className={`mb-6 grid gap-4 ${gridClass}`}>
         {optionStats.map((act, i) => (
@@ -235,7 +238,9 @@ export default function StoryVoting({
               {act.title}
             </h3>
             <p className="mb-3 text-sm leading-relaxed text-white/70">{act.description}</p>
-            <p className="mb-3 text-xs text-white/40">{act.displayPercent}% • {act.displayCount.toLocaleString()} votes</p>
+            <p className="mb-3 text-xs text-white/40">
+              {act.displayPercent}% • {formatVotes(act.displayCount)} {hasLiveData ? "votes" : "preview votes"}
+            </p>
             {act.risk ? (
               <p className="border-t border-white/10 pt-3 text-xs italic text-white/40">{act.risk}</p>
             ) : null}

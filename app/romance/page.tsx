@@ -68,17 +68,22 @@ export default function RomancePage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-pink-600 hover:bg-pink-700 text-pink-100 text-lg px-8 py-6">
-              <Heart className="w-5 h-5 mr-2" />
-              Find Love
+            <Button asChild size="lg" className="bg-pink-600 hover:bg-pink-700 text-pink-100 text-lg px-8 py-6">
+              <Link href="/vote">
+                <Heart className="w-5 h-5 mr-2" />
+                Find Love
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-pink-600 text-pink-400 hover:bg-pink-600 hover:text-pink-100 bg-transparent"
             >
-              <Sparkles className="w-5 h-5 mr-2" />
-              Create Magic
+              <Link href="/creator">
+                <Sparkles className="w-5 h-5 mr-2" />
+                Create Magic
+              </Link>
             </Button>
           </div>
 
@@ -167,9 +172,11 @@ export default function RomancePage() {
                     />
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-pink-600 hover:bg-pink-700 text-pink-100">
-                  <Heart className="w-4 h-4 mr-2" />
-                  Choose Trope
+                <Button asChild className="w-full mt-4 bg-pink-600 hover:bg-pink-700 text-pink-100">
+                  <Link href="/vote">
+                    <Heart className="w-4 h-4 mr-2" />
+                    Choose Trope
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -210,11 +217,14 @@ export default function RomancePage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-pink-600 text-pink-400 hover:bg-pink-600 hover:text-pink-100 bg-transparent"
                 >
-                  <Clock className="w-4 h-4 mr-2" />
-                  Set Pace
+                  <Link href="/vote">
+                    <Clock className="w-4 h-4 mr-2" />
+                    Set Pace
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -253,9 +263,11 @@ export default function RomancePage() {
                     </div>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-pink-600 hover:bg-pink-700 text-pink-100">
-                  <Sparkles className="w-4 h-4 mr-2" />
-                  Rate Romance
+                <Button asChild className="w-full mt-4 bg-pink-600 hover:bg-pink-700 text-pink-100">
+                  <Link href="/vote">
+                    <Sparkles className="w-4 h-4 mr-2" />
+                    Rate Romance
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

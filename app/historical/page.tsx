@@ -68,17 +68,22 @@ export default function HistoricalPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-amber-600 hover:bg-amber-700 text-amber-100 text-lg px-8 py-6">
-              <Clock className="w-5 h-5 mr-2" />
-              Travel Through Time
+            <Button asChild size="lg" className="bg-amber-600 hover:bg-amber-700 text-amber-100 text-lg px-8 py-6">
+              <Link href="/vote">
+                <Clock className="w-5 h-5 mr-2" />
+                Travel Through Time
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-amber-600 text-amber-400 hover:bg-amber-600 hover:text-amber-100 bg-transparent"
             >
-              <Scroll className="w-5 h-5 mr-2" />
-              Read Chronicles
+              <Link href="/creator">
+                <Scroll className="w-5 h-5 mr-2" />
+                Read Chronicles
+              </Link>
             </Button>
           </div>
 
@@ -165,9 +170,11 @@ export default function HistoricalPage() {
                     World Wars (1914-1945)
                   </Button>
                 </div>
-                <Button className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
-                  <Clock className="w-4 h-4 mr-2" />
-                  Choose Era
+                <Button asChild className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
+                  <Link href="/vote">
+                    <Clock className="w-4 h-4 mr-2" />
+                    Choose Era
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -203,11 +210,14 @@ export default function HistoricalPage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-amber-600 text-amber-400 hover:bg-amber-600 hover:text-amber-100 bg-transparent"
                 >
-                  <BookOpen className="w-4 h-4 mr-2" />
-                  Adjust Balance
+                  <Link href="/vote">
+                    <BookOpen className="w-4 h-4 mr-2" />
+                    Adjust Balance
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -240,9 +250,11 @@ export default function HistoricalPage() {
                     </div>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
-                  <Globe className="w-4 h-4 mr-2" />
-                  Shape Culture
+                <Button asChild className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
+                  <Link href="/vote">
+                    <Globe className="w-4 h-4 mr-2" />
+                    Shape Culture
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

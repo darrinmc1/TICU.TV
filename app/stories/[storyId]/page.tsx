@@ -5,7 +5,7 @@ import type { ActOption } from "./story-voting"
 import { getSerialStory } from "@/lib/serial-stories"
 import type { SerialStory } from "@/lib/serial-stories"
 
-type CharacterData = {
+export type CharacterData = {
   name: string
   role: string
   emoji: string
@@ -31,7 +31,7 @@ type StoryDetailData = {
   actOptions: ActOption[]
 }
 
-const STORIES: Record<string, StoryDetailData> = {
+export const STORIES: Record<string, StoryDetailData> = {
   "dragons-gambit": {
     title: "The Dragon's Gambit",
     genre: "Fantasy",
@@ -515,6 +515,12 @@ function SerialStoryHub({ story }: { story: SerialStory }) {
             >
               Read Latest Chapter
             </Link>
+            <Link
+              href={`/stories/${story.id}/characters`}
+              className="inline-flex items-center rounded-md border border-white/20 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+            >
+              View Character Gallery
+            </Link>
           </div>
 
           <h2 className="mb-4 text-2xl font-bold text-white">Story Overview</h2>
@@ -693,6 +699,12 @@ export default async function StoryPage({ params }: PageProps) {
 
         {/* Footer CTAs */}
         <div className="flex flex-wrap gap-3 border-t border-white/10 pt-8">
+          <Link
+            href={`/stories/${storyId}/characters`}
+            className="inline-flex items-center rounded-md border border-white/20 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+          >
+            Character Gallery
+          </Link>
           <Link
             href="/vote"
             className={`inline-flex items-center rounded-md bg-gradient-to-r ${story.coverGradient} px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90`}

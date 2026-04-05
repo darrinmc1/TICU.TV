@@ -84,17 +84,22 @@ export default function FantasyPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <Button size="lg" className="bg-amber-600 hover:bg-amber-700 text-amber-100 text-lg px-8 py-6 fantasy-glow">
-              <Sword className="w-5 h-5 mr-2" />
-              Begin Your Quest
+            <Button asChild size="lg" className="bg-amber-600 hover:bg-amber-700 text-amber-100 text-lg px-8 py-6 fantasy-glow">
+              <Link href="/vote">
+                <Sword className="w-5 h-5 mr-2" />
+                Begin Your Quest
+              </Link>
             </Button>
             <Button
+              asChild
               variant="outline"
               size="lg"
               className="text-lg px-8 py-6 border-amber-600 text-amber-400 hover:bg-amber-600 hover:text-amber-100 bg-transparent"
             >
-              <Dice6 className="w-5 h-5 mr-2" />
-              Roll for Adventure
+              <Link href="/creator">
+                <Dice6 className="w-5 h-5 mr-2" />
+                Roll for Adventure
+              </Link>
             </Button>
           </div>
 
@@ -183,9 +188,11 @@ export default function FantasyPage() {
                     />
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
-                  <Wand2 className="w-4 h-4 mr-2" />
-                  Cast Magic Vote
+                <Button asChild className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
+                  <Link href="/vote">
+                    <Wand2 className="w-4 h-4 mr-2" />
+                    Cast Magic Vote
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -226,11 +233,14 @@ export default function FantasyPage() {
                   </div>
                 </div>
                 <Button
+                  asChild
                   variant="outline"
                   className="w-full mt-4 border-amber-600 text-amber-400 hover:bg-amber-600 hover:text-amber-100 bg-transparent"
                 >
-                  <Crown className="w-4 h-4 mr-2" />
-                  Shape the Realm
+                  <Link href="/vote">
+                    <Crown className="w-4 h-4 mr-2" />
+                    Shape the Realm
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -263,9 +273,11 @@ export default function FantasyPage() {
                     <span className="text-amber-400 font-semibold text-sm">33%</span>
                   </div>
                 </div>
-                <Button className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
-                  <Skull className="w-4 h-4 mr-2" />
-                  Summon Creatures
+                <Button asChild className="w-full mt-4 bg-amber-600 hover:bg-amber-700 text-amber-100">
+                  <Link href="/vote">
+                    <Skull className="w-4 h-4 mr-2" />
+                    Summon Creatures
+                  </Link>
                 </Button>
               </CardContent>
             </Card>

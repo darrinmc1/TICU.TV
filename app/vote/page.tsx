@@ -110,58 +110,60 @@ export default function VotePage() {
     }
   }
   return (
-    <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
+    <div className="story-atmosphere relative min-h-screen overflow-hidden">
+      <div className="film-grain pointer-events-none absolute inset-0 z-0" aria-hidden="true" />
+      <div className="pointer-events-none absolute -left-24 top-14 h-80 w-80 rounded-full bg-orange-400/20 blur-3xl" aria-hidden="true" />
+      <div className="pointer-events-none absolute -right-24 top-28 h-96 w-96 rounded-full bg-cyan-400/20 blur-3xl" aria-hidden="true" />
       {/* Header */}
-      <header className="fixed top-0 left-0 right-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-white/10">
+      <header className="fixed top-0 left-0 right-0 z-50 bg-slate-950/70 backdrop-blur-xl border-b border-amber-200/15">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-2">
+            <Link href="/" className="flex items-center gap-2 text-amber-300">
               <Film />
-              <span className="font-serif text-xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+              <span className="font-serif text-xl font-bold bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
                 TICU.tv
               </span>
             </Link>
-            <Link href="/">
-              <Button variant="outline" size="sm" className="bg-transparent">
+            <Button asChild variant="outline" size="sm" className="border-amber-200/35 bg-transparent text-amber-100 hover:bg-amber-200/10">
+              <Link href="/">
                 <ArrowLeft />
                 Back to Home
-              </Button>
-            </Link>
+              </Link>
+            </Button>
           </div>
         </div>
       </header>
 
-      <div className="pt-24 pb-20 px-6">
+      <div className="relative z-10 pt-24 pb-20 px-6">
         <div className="max-w-5xl mx-auto">
           {loading ? (
             <div className="flex items-center justify-center py-20">
-              <Loader2 className="w-8 h-8 animate-spin text-purple-500" />
+              <Loader2 className="w-8 h-8 animate-spin text-amber-300" />
               <span className="ml-3 text-white/70">Loading votes...</span>
             </div>
           ) : stories.length === 0 ? (
             <div className="text-center py-20">
-              <h2 className="text-2xl font-bold text-purple-100 mb-4">No Active Votes</h2>
+              <h2 className="text-2xl font-bold text-amber-100 mb-4">No Active Votes</h2>
               <p className="text-white/70 mb-6">Check back soon for new voting opportunities!</p>
-              <Link href="/">
-                <Button className="bg-gradient-to-r from-purple-600 to-pink-600">
-                  Back to Home
-                </Button>
-              </Link>
+              <Button asChild className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400">
+                <Link href="/">Back to Home</Link>
+              </Button>
             </div>
           ) : (
             <>
               {/* Page Header */}
               <div className="text-center mb-12">
-                <h1 className="font-serif text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
+                <p className="editorial-kicker mb-3">Audience Control Room</p>
+                <h1 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
                   Cast Your Vote
                 </h1>
-                <p className="text-xl text-white/70">Shape the future of our stories with your choices</p>
+                <p className="mx-auto max-w-2xl text-lg text-white/75">Shape the future of our stories with your choices</p>
               </div>
 
               {/* Voting Categories */}
               <div className="space-y-8">
             {/* Next Chapter Plot */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-purple-500/30">
+            <Card className="glass-panel border-purple-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <Vote />
@@ -207,7 +209,7 @@ export default function VotePage() {
             </Card>
 
             {/* Favorite Character */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-pink-500/30">
+            <Card className="glass-panel border-pink-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -255,15 +257,19 @@ export default function VotePage() {
                   </div>
                 ))}
 
-                <Button className="w-full bg-gradient-to-r from-pink-600 to-rose-600 hover:from-pink-700 hover:to-rose-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-pink-600 to-rose-600 hover:from-pink-700 hover:to-rose-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
 
             {/* Least Favorite Character */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-red-500/30">
+            <Card className="glass-panel border-red-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -282,7 +288,12 @@ export default function VotePage() {
                 ].map((character) => (
                   <div
                     key={character.name}
-                    className="p-4 rounded-lg bg-slate-800/50 border border-red-500/20 hover:border-red-500/50 transition-all cursor-pointer"
+                    onClick={() => handleSelectOption('leastFavoriteCharacter', character.name)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['leastFavoriteCharacter'] === character.name
+                        ? 'border-red-500 bg-red-900/30'
+                        : 'border-red-500/20 hover:border-red-500/50'
+                    }`}
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
@@ -302,15 +313,19 @@ export default function VotePage() {
                   </div>
                 ))}
 
-                <Button className="w-full bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
 
             {/* Vote for New Character */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-blue-500/30">
+            <Card className="glass-panel border-blue-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -354,7 +369,12 @@ export default function VotePage() {
                 ].map((character) => (
                   <div
                     key={character.name}
-                    className="p-4 rounded-lg bg-slate-800/50 border border-blue-500/20 hover:border-blue-500/50 transition-all cursor-pointer"
+                    onClick={() => handleSelectOption('newCharacter', character.name)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['newCharacter'] === character.name
+                        ? 'border-blue-500 bg-blue-900/30'
+                        : 'border-blue-500/20 hover:border-blue-500/50'
+                    }`}
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
@@ -373,15 +393,19 @@ export default function VotePage() {
                   </div>
                 ))}
 
-                <Button className="w-full bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
 
             {/* Character Screen Time */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-indigo-500/30">
+            <Card className="glass-panel border-indigo-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -405,7 +429,12 @@ export default function VotePage() {
                 ].map((character) => (
                   <div
                     key={character.name}
-                    className="p-4 rounded-lg bg-slate-800/50 border border-indigo-500/20 hover:border-indigo-500/50 transition-all cursor-pointer"
+                    onClick={() => handleSelectOption('moreScreenTime', character.name)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['moreScreenTime'] === character.name
+                        ? 'border-indigo-500 bg-indigo-900/30'
+                        : 'border-indigo-500/20 hover:border-indigo-500/50'
+                    }`}
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
@@ -425,15 +454,19 @@ export default function VotePage() {
                   </div>
                 ))}
 
-                <Button className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
 
             {/* Suggest New Character */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-green-500/30">
+            <Card className="glass-panel border-green-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -476,17 +509,21 @@ export default function VotePage() {
                   />
                 </div>
 
-                <Button className="w-full bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
                   </svg>
-                  Submit Character
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Character'}
                 </Button>
               </CardContent>
             </Card>
 
             {/* Vote for Main Villain */}
-            <Card className="bg-slate-900/60 backdrop-blur-md border-orange-500/30">
+            <Card className="glass-panel border-orange-500/30">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2 text-2xl">
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -529,7 +566,12 @@ export default function VotePage() {
                 ].map((villain) => (
                   <div
                     key={villain.name}
-                    className="p-4 rounded-lg bg-slate-800/50 border border-orange-500/20 hover:border-orange-500/50 transition-all cursor-pointer"
+                    onClick={() => handleSelectOption('mainVillain', villain.name)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['mainVillain'] === villain.name
+                        ? 'border-orange-500 bg-orange-900/30'
+                        : 'border-orange-500/20 hover:border-orange-500/50'
+                    }`}
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
@@ -548,9 +590,13 @@ export default function VotePage() {
                   </div>
                 ))}
 
-                <Button className="w-full bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700">
+                <Button
+                  className="w-full bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
@@ -558,22 +604,23 @@ export default function VotePage() {
 
             {/* Call to Action */}
             <div className="mt-12 text-center">
-              <Card className="bg-gradient-to-r from-purple-900/40 to-pink-900/40 backdrop-blur-md border-purple-500/30">
+              <Card className="glass-panel border-amber-300/30">
                 <CardContent className="p-8">
                   <h3 className="font-serif text-2xl font-bold mb-3">Your Voice Matters</h3>
                   <p className="text-white/70 mb-6">
                     Every vote shapes the narrative. Join thousands of viewers creating the future of interactive
                     storytelling.
                   </p>
-                  <Link href="/">
-                    <Button
+                  <Button
+                    asChild
                     size="lg"
-                    className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+                    className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400"
                   >
-                    <ArrowLeft />
-                    Back to Stories
+                    <Link href="/">
+                      <ArrowLeft />
+                      Back to Stories
+                    </Link>
                   </Button>
-                </Link>
               </CardContent>
             </Card>
           </div>

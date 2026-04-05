@@ -45,6 +45,12 @@ export interface MerchItem {
   textColor: string
 }
 
+export type StoryBeat = "establishing" | "tension" | "decision" | "cliffhanger"
+
+export type StoryBeatImageSet = Record<StoryBeat, string>
+
+export type StoryChapterBeatMap = Record<string, Record<number, StoryBeatImageSet>>
+
 export const GENRES: Genre[] = [
   { name: "Fantasy", icon: "🗡️", color: "from-purple-600 to-pink-600" },
   { name: "Sci-Fi", icon: "🚀", color: "from-blue-600 to-cyan-600" },
@@ -292,3 +298,57 @@ export const MERCH_ITEMS: MerchItem[] = [
     textColor: "text-indigo-400",
   },
 ]
+
+export const STORY_CHAPTER_BEAT_IMAGES: StoryChapterBeatMap = {
+  "dragons-last-breath": {
+    1: {
+      establishing: "/images/stories/dragons-last-breath/chapter-1/establishing.jpg",
+      tension: "/images/stories/dragons-last-breath/chapter-1/tension.jpg",
+      decision: "/images/stories/dragons-last-breath/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/dragons-last-breath/chapter-1/cliffhanger.jpg",
+    },
+  },
+  "love-paris": {
+    1: {
+      establishing: "/images/stories/love-paris/chapter-1/establishing.jpg",
+      tension: "/images/stories/love-paris/chapter-1/tension.jpg",
+      decision: "/images/stories/love-paris/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/love-paris/chapter-1/cliffhanger.jpg",
+    },
+  },
+  "showdown-sunset": {
+    1: {
+      establishing: "/images/stories/showdown-sunset/chapter-1/establishing.jpg",
+      tension: "/images/stories/showdown-sunset/chapter-1/tension.jpg",
+      decision: "/images/stories/showdown-sunset/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/showdown-sunset/chapter-1/cliffhanger.jpg",
+    },
+  },
+  "mars-colony": {
+    1: {
+      establishing: "/images/stories/mars-colony/chapter-1/establishing.jpg",
+      tension: "/images/stories/mars-colony/chapter-1/tension.jpg",
+      decision: "/images/stories/mars-colony/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/mars-colony/chapter-1/cliffhanger.jpg",
+    },
+  },
+}
+
+export function getStoryBeatImages(storyId: string, chapterNumber: number): StoryBeatImageSet | undefined {
+  return STORY_CHAPTER_BEAT_IMAGES[storyId]?.[chapterNumber]
+}
+
+export function getStoryBeatImage(storyId: string, chapterNumber: number, beat: StoryBeat): string | undefined {
+  return STORY_CHAPTER_BEAT_IMAGES[storyId]?.[chapterNumber]?.[beat]
+}
+
+export function getStoryCardImage(storyId: string, chapter: string | number): string | undefined {
+  const chapterNumber =
+    typeof chapter === "number" ? chapter : Number.parseInt(String(chapter).replace(/[^0-9]/g, ""), 10)
+
+  if (!Number.isFinite(chapterNumber)) {
+    return undefined
+  }
+
+  return getStoryBeatImage(storyId, chapterNumber, "establishing")
+}

@@ -20,55 +20,95 @@ import {
   X,
 } from "@/components/icons"
 
-import { GENRES, STORY_CARDS, CHARACTERS, MERCH_ITEMS } from "@/lib/constants"
+import { GENRES, STORY_CARDS, CHARACTERS, MERCH_ITEMS, getStoryCardImage } from "@/lib/constants"
+
+const STORY_ART_BY_GENRE: Record<string, { icon: string; tint: string; texture: string; tag: string }> = {
+  fantasy: {
+    icon: "DRAGON",
+    tint: "from-orange-300/40 via-amber-300/20 to-rose-300/20",
+    texture: "bg-[radial-gradient(circle_at_18%_24%,rgba(255,245,157,0.5),transparent_42%)]",
+    tag: "Mythic",
+  },
+  romance: {
+    icon: "PARIS",
+    tint: "from-rose-300/40 via-pink-300/20 to-orange-200/20",
+    texture: "bg-[radial-gradient(circle_at_78%_20%,rgba(253,164,175,0.45),transparent_42%)]",
+    tag: "Intimate",
+  },
+  western: {
+    icon: "DUST",
+    tint: "from-amber-300/45 via-orange-300/25 to-yellow-200/20",
+    texture: "bg-[radial-gradient(circle_at_20%_78%,rgba(251,191,36,0.45),transparent_45%)]",
+    tag: "Frontier",
+  },
+  "sci-fi": {
+    icon: "ORBIT",
+    tint: "from-cyan-300/45 via-blue-300/25 to-indigo-300/20",
+    texture: "bg-[radial-gradient(circle_at_82%_18%,rgba(34,211,238,0.5),transparent_42%)]",
+    tag: "Future",
+  },
+}
+
+const DEFAULT_STORY_ART = {
+  icon: "EPIC",
+  tint: "from-cyan-300/40 via-amber-300/20 to-slate-300/20",
+  texture: "bg-[radial-gradient(circle_at_26%_24%,rgba(148,163,184,0.45),transparent_42%)]",
+  tag: "Featured",
+}
 
 export default function HomePage() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const [failedCardImages, setFailedCardImages] = useState<Record<string, boolean>>({})
   const router = useRouter()
 
+  const markCardImageFailed = (storyId: string) => {
+    setFailedCardImages((prev) => ({ ...prev, [storyId]: true }))
+  }
+
   return (
-    <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
-      <header className="fixed top-0 left-0 right-0 z-50 bg-slate-950/80 backdrop-blur-md border-b border-white/10">
-        <div className="max-w-7xl mx-auto px-6 py-4">
+    <div className="story-atmosphere relative min-h-screen overflow-hidden">
+      <div className="film-grain pointer-events-none absolute inset-0 z-0" aria-hidden="true" />
+      <div className="pointer-events-none absolute -left-24 top-14 h-80 w-80 rounded-full bg-orange-400/20 blur-3xl" aria-hidden="true" />
+      <div className="pointer-events-none absolute -right-24 top-28 h-96 w-96 rounded-full bg-cyan-400/20 blur-3xl" aria-hidden="true" />
+      <header className="fixed top-0 left-0 right-0 z-50 bg-slate-950/70 backdrop-blur-xl border-b border-amber-200/15">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4">
           <div className="flex items-center justify-between">
             <Link href="/" className="flex items-center gap-2" aria-label="TICU.tv home">
-              <Film className="w-8 h-8 text-purple-500" aria-hidden="true" />
-              <span className="font-serif text-xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+              <Film className="w-8 h-8 text-amber-300" aria-hidden="true" />
+              <span className="font-serif text-xl font-bold bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
                 TICU.tv
               </span>
             </Link>
             <nav className="hidden md:flex items-center gap-6" aria-label="Main navigation">
-              <a href="#genres" className="text-white/90 hover:text-purple-400 transition-colors">
+              <a href="#genres" className="text-white/90 hover:text-amber-300 transition-colors">
                 Genres
               </a>
-              <a href="#stories" className="text-white/90 hover:text-purple-400 transition-colors">
+              <a href="#stories" className="text-white/90 hover:text-amber-300 transition-colors">
                 Stories
               </a>
-              <Link href="/products" className="text-white/90 hover:text-purple-400 transition-colors">
+              <Link href="/products" className="text-white/90 hover:text-amber-300 transition-colors">
                 Products
               </Link>
-              <Link href="/trending" className="text-white/90 hover:text-purple-400 transition-colors">
-                Trending
-              </Link>
-              <Link href="/leaderboard" className="text-white/90 hover:text-purple-400 transition-colors">
+              <Link href="/leaderboard" className="text-white/90 hover:text-amber-300 transition-colors">
                 Leaderboard
               </Link>
-              <Link href="/instructions" className="text-white/90 hover:text-purple-400 transition-colors">
+              <Link href="/instructions" className="text-white/90 hover:text-amber-300 transition-colors">
                 Instructions
               </Link>
-              <Link href="/admin" className="text-white/90 hover:text-purple-400 transition-colors">
+              <Link href="/admin" className="text-white/90 hover:text-amber-300 transition-colors">
                 Admin
               </Link>
               <Button
+                asChild
                 size="sm"
-                className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+                className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400"
                 aria-label="Sign in to your account"
               >
-                Sign In
+                <Link href="/admin/login">Sign In</Link>
               </Button>
             </nav>
             <button
-              className="md:hidden text-white/90 hover:text-purple-400 transition-colors"
+              className="md:hidden text-white/90 hover:text-amber-300 transition-colors"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
               aria-expanded={mobileMenuOpen}
@@ -84,112 +124,109 @@ export default function HomePage() {
 
         {/* Mobile Menu */}
         {mobileMenuOpen && (
-          <nav className="md:hidden bg-slate-950/95 backdrop-blur-md border-t border-white/10" aria-label="Mobile navigation">
-            <div className="max-w-7xl mx-auto px-6 py-4 flex flex-col gap-4">
+          <nav className="md:hidden bg-slate-950/95 backdrop-blur-md border-t border-amber-200/15" aria-label="Mobile navigation">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 py-4 flex flex-col gap-4">
               <a
                 href="#genres"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Genres
               </a>
               <a
                 href="#stories"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Stories
               </a>
               <Link
                 href="/products"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Products
               </Link>
               <Link
-                href="/trending"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                Trending
-              </Link>
-              <Link
                 href="/leaderboard"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Leaderboard
               </Link>
               <Link
                 href="/instructions"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Instructions
               </Link>
               <Link
                 href="/admin"
-                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                className="text-white/90 hover:text-amber-300 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Admin
               </Link>
               <Button
+                asChild
                 size="sm"
-                className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 w-full"
+                className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400 w-full"
                 aria-label="Sign in to your account"
               >
-                Sign In
+                <Link href="/admin/login">Sign In</Link>
               </Button>
             </div>
           </nav>
         )}
       </header>
 
-      <section className="relative h-screen flex items-center justify-center overflow-hidden">
+      <section className="relative z-10 h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-[url('/epic-fantasy-dragon-castle-cinematic.jpg')] bg-cover bg-top opacity-80" />
-          <div className="absolute inset-0 bg-gradient-to-b from-slate-950/40 via-slate-900/20 to-slate-950" />
+          <div className="absolute inset-0 bg-gradient-to-b from-slate-950/50 via-slate-900/25 to-slate-950" />
         </div>
 
-        <div className="relative z-10 text-center max-w-5xl mx-auto px-6">
-          <div className="mb-8">
-            <h1 className="font-serif text-5xl md:text-7xl font-bold mb-6 text-blue-400 leading-tight">
+        <div className="relative z-10 text-center max-w-5xl mx-auto px-4 sm:px-6 reveal-up">
+          <div className="mb-8 space-y-4">
+            <Badge className="border border-amber-200/25 bg-slate-900/70 px-4 py-2 text-xs uppercase tracking-[0.28em] text-amber-200">
+              New Episodes Every Week
+            </Badge>
+            <h1 className="font-serif text-4xl sm:text-5xl md:text-7xl font-bold mb-4 sm:mb-6 bg-gradient-to-r from-amber-100 via-orange-200 to-cyan-200 bg-clip-text text-transparent leading-tight">
               The Interactive Cinema Universe
             </h1>
-            <p className="text-2xl md:text-3xl text-white/90 font-medium mb-4">Your Votes Shape Every Story</p>
-            <p className="text-lg text-white/70 max-w-2xl mx-auto">
+            <p className="text-xl sm:text-2xl md:text-3xl text-white/90 font-medium mb-3 sm:mb-4">Your Votes Shape Every Story</p>
+            <p className="text-base sm:text-lg text-white/70 max-w-2xl mx-auto">
               Experience AI-generated weekly episodes across 12+ genres. Vote on plot decisions, character fates, and
               story directions in real-time.
             </p>
           </div>
 
-          <div className="grid md:grid-cols-3 gap-4 max-w-4xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-3 sm:gap-4 max-w-4xl mx-auto reveal-up delay-2 reveal-stagger">
             <Link href="#stories" aria-label="Read current stories">
-              <Card className="bg-slate-900/60 backdrop-blur-md border-purple-500/30 hover:border-purple-500/60 transition-all cursor-pointer group">
-                <CardContent className="p-6 text-center">
-                  <BookOpen className="w-12 h-12 text-purple-400 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
+              <Card className="glass-panel border-amber-300/30 hover:border-amber-300/70 hover:-translate-y-1 transition-all duration-300 cursor-pointer group">
+                <CardContent className="p-5 sm:p-6 text-center">
+                  <BookOpen className="w-12 h-12 text-amber-300 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
                   <h3 className="font-semibold text-lg mb-2">Read Current Stories</h3>
                   <p className="text-sm text-white/60">Explore ongoing adventures</p>
                 </CardContent>
               </Card>
             </Link>
 
-            <Link href="/vote" aria-label="Vote on latest episodes">
-              <Card className="bg-slate-900/60 backdrop-blur-md border-pink-500/30 hover:border-pink-500/60 transition-all cursor-pointer group">
-                <CardContent className="p-6 text-center">
-                  <Vote className="w-12 h-12 text-pink-400 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
-                  <h3 className="font-semibold text-lg mb-2">Vote on Latest</h3>
-                  <p className="text-sm text-white/60">Shape the narrative</p>
+            <Link href="/stories/dragons-last-breath" aria-label="Open trending story and vote on latest">
+              <Card className="glass-panel border-orange-300/30 hover:border-orange-300/70 hover:-translate-y-1 transition-all duration-300 cursor-pointer group">
+                <CardContent className="p-5 sm:p-6 text-center">
+                  <Vote className="w-12 h-12 text-orange-300 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
+                  <h3 className="font-semibold text-lg mb-2">Trending / Vote on Latest</h3>
+                  <p className="text-sm text-white/60">The Dragon's Last Breath</p>
                 </CardContent>
               </Card>
             </Link>
 
             <Link href="/creator" aria-label="Start a new story">
-              <Card className="bg-slate-900/60 backdrop-blur-md border-blue-500/30 hover:border-blue-500/60 transition-all cursor-pointer group">
-                <CardContent className="p-6 text-center">
-                  <PlusCircle className="w-12 h-12 text-blue-400 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
+              <Card className="glass-panel border-cyan-300/30 hover:border-cyan-300/70 hover:-translate-y-1 transition-all duration-300 cursor-pointer group">
+                <CardContent className="p-5 sm:p-6 text-center">
+                  <PlusCircle className="w-12 h-12 text-cyan-300 mx-auto mb-3 group-hover:scale-110 transition-transform" aria-hidden="true" />
                   <h3 className="font-semibold text-lg mb-2">Start New Story</h3>
                   <p className="text-sm text-white/60">Create your adventure</p>
                 </CardContent>
@@ -199,20 +236,28 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section id="stories" className="py-20 px-6 bg-slate-900/30">
+      <section id="stories" className="relative z-10 py-16 sm:py-20 px-4 sm:px-6 bg-slate-950/40 backdrop-blur-[1px] reveal-up">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <p className="editorial-kicker mb-3">Now Streaming</p>
+            <h2 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
               Active Stories
             </h2>
-            <p className="text-xl text-white/70">Vote on ongoing narratives and shape their outcomes</p>
+            <p className="mx-auto max-w-2xl text-base sm:text-lg text-white/75">Vote on ongoing narratives and shape their outcomes</p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {STORY_CARDS.map((story) => (
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 reveal-stagger">
+            {STORY_CARDS.map((story, index) => {
+              const genreKey = story.genre.toLowerCase().replace(/\s+/g, "-")
+              const art = STORY_ART_BY_GENRE[genreKey] ?? DEFAULT_STORY_ART
+              const mappedImageSrc = getStoryCardImage(story.id, story.chapter)
+              const showMappedImage = Boolean(mappedImageSrc) && !failedCardImages[story.id]
+
+              return (
               <Card
                 key={story.id}
-                className={`bg-slate-900/60 backdrop-blur-md ${story.borderColor} transition-all group cursor-pointer`}
+                style={{ animationDelay: `${index * 90}ms` }}
+                className={`glass-panel ${story.borderColor} transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_60px_-30px_rgba(251,191,36,0.7)] group cursor-pointer`}
                 role="link"
                 tabIndex={0}
                 aria-label={`Open ${story.title}`}
@@ -224,14 +269,45 @@ export default function HomePage() {
                   }
                 }}
               >
-                <CardContent className="p-6">
-                  <div className={`mb-5 aspect-[16/9] overflow-hidden rounded-xl border border-white/10 bg-gradient-to-br ${story.gradientColor} p-[1px]`}>
-                    <div className="flex h-full items-center justify-center rounded-[11px] bg-slate-950/90">
-                      <div className="text-center">
-                        <div className={`mb-2 text-4xl ${story.iconColor}`} aria-hidden="true">🎬</div>
-                        <p className="text-xs uppercase tracking-[0.3em] text-white/40">Image Placeholder</p>
+                <CardContent className="p-5 sm:p-6">
+                  <div className="cinematic-frame mb-5 aspect-[16/9] p-[1px]">
+                    {showMappedImage ? (
+                      <div className="relative h-full rounded-[11px] overflow-hidden">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={mappedImageSrc}
+                          alt={`${story.title} ${story.chapter} establishing beat`}
+                          className="h-full w-full object-cover"
+                          loading="lazy"
+                          onError={() => markCardImageFailed(story.id)}
+                        />
+                        <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/30 to-transparent" />
+                        <div className="pointer-events-none absolute left-4 top-4 rounded-full bg-slate-950/70 px-3 py-1 text-[10px] uppercase tracking-[0.28em] text-white/80">
+                          Real Scene
+                        </div>
+                        <div className="pointer-events-none absolute inset-x-0 bottom-0 p-4">
+                          <p className="text-xs text-white/70">{story.chapter}</p>
+                          <h4 className="font-serif text-lg font-bold text-white line-clamp-1 drop-shadow-sm">{story.title}</h4>
+                        </div>
                       </div>
-                    </div>
+                    ) : (
+                      <div className="relative h-full rounded-[11px] overflow-hidden">
+                        <div className={`absolute inset-0 bg-gradient-to-br ${story.gradientColor} opacity-70`} />
+                        <div className={`absolute inset-0 bg-gradient-to-br ${art.tint}`} />
+                        <div className={`absolute inset-0 ${art.texture}`} />
+                        <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-950/45 to-transparent" />
+                        <div className="relative flex h-full flex-col justify-between p-4">
+                          <div className="flex items-center justify-between">
+                            <p className="text-[10px] uppercase tracking-[0.28em] text-white/70">{art.tag}</p>
+                            <p className="font-mono text-[10px] tracking-[0.28em] text-white/75">{art.icon}</p>
+                          </div>
+                          <div>
+                            <p className="text-xs text-white/60">{story.chapter}</p>
+                            <h4 className="font-serif text-lg font-bold text-white line-clamp-1">{story.title}</h4>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                   <div className="flex items-start justify-between mb-4">
                     <Badge className={`bg-gradient-to-r ${story.gradientColor}`}>
@@ -280,9 +356,11 @@ export default function HomePage() {
                             Read
                           </Link>
                         </Button>
-                        <Button size="sm" variant="outline" className="flex-1 bg-transparent" aria-label={`Follow ${story.title}`}>
-                          <Star className="w-3 h-3 mr-1 fill-current" aria-hidden="true" />
-                          Follow
+                        <Button asChild size="sm" variant="outline" className="flex-1 bg-transparent" aria-label={`Follow ${story.title}`}>
+                          <Link href={`/stories/${story.id}`}>
+                            <Star className="w-3 h-3 mr-1 fill-current" aria-hidden="true" />
+                            Follow
+                          </Link>
                         </Button>
                       </>
                     ) : (
@@ -304,34 +382,37 @@ export default function HomePage() {
                   </div>
                 </CardContent>
               </Card>
-            ))}
+              )
+            })}
           </div>
 
           <div className="text-center mt-12">
             <Button
+              asChild
               size="lg"
-              className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+              className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400"
               aria-label="View all available stories"
             >
-              View All Stories
+              <Link href="/trending">View All Stories</Link>
             </Button>
           </div>
         </div>
       </section>
 
-      <section className="py-20 px-6">
+      <section className="py-16 sm:py-20 px-4 sm:px-6 reveal-up delay-2">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <p className="editorial-kicker mb-3">Cast Highlights</p>
+            <h2 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
               Featured Characters
             </h2>
-            <p className="text-xl text-white/70">Meet heroes and villains from across the multiverse</p>
+            <p className="mx-auto max-w-2xl text-base sm:text-lg text-white/75">Meet heroes and villains from across the multiverse</p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {CHARACTERS.map((character) => (
-            <Card key={character.id} className={`bg-slate-900/60 backdrop-blur-md ${character.borderColor} transition-all group`}>
-              <CardContent className="p-6">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 reveal-stagger">
+            {CHARACTERS.map((character, index) => (
+            <Card key={character.id} className={`glass-panel ${character.borderColor} transition-all duration-300 hover:-translate-y-1 group`}>
+              <CardContent className="p-5 sm:p-6" style={{ animationDelay: `${index * 75}ms` }}>
                 <div className="flex items-start gap-4 mb-4">
                   <div className={`w-16 h-16 rounded-full bg-gradient-to-br ${character.gradientColor} flex items-center justify-center text-2xl`} aria-hidden="true">
                     {character.emoji}
@@ -350,14 +431,18 @@ export default function HomePage() {
                   {character.description}
                 </p>
                 {character.isCompleted ? (
-                  <Button size="sm" variant="outline" className="w-full bg-transparent" aria-label={`${character.name} from completed story`}>
-                    <Star className="w-3 h-3 mr-1 fill-current" aria-hidden="true" />
-                    Completed Story
+                  <Button asChild size="sm" variant="outline" className="w-full bg-transparent" aria-label={`${character.name} from completed story`}>
+                    <Link href="/trending">
+                      <Star className="w-3 h-3 mr-1 fill-current" aria-hidden="true" />
+                      Completed Story
+                    </Link>
                   </Button>
                 ) : (
-                  <Button size="sm" variant="outline" className="w-full bg-transparent" aria-label={`Vote for ${character.name} to have more focus`}>
-                    <Vote className="w-3 h-3 mr-1" aria-hidden="true" />
-                    Vote for Focus
+                  <Button asChild size="sm" variant="outline" className="w-full bg-transparent" aria-label={`Vote for ${character.name} to have more focus`}>
+                    <Link href="/vote">
+                      <Vote className="w-3 h-3 mr-1" aria-hidden="true" />
+                      Vote for Focus
+                    </Link>
                   </Button>
                 )}
               </CardContent>
@@ -367,19 +452,20 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="py-20 px-6 bg-slate-900/30">
+      <section className="py-16 sm:py-20 px-4 sm:px-6 bg-slate-950/35 reveal-up delay-2">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <p className="editorial-kicker mb-3">Collector's Shelf</p>
+            <h2 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
               Official Merchandise
             </h2>
-            <p className="text-xl text-white/70">Bring your favorite stories home</p>
+            <p className="mx-auto max-w-2xl text-base sm:text-lg text-white/75">Bring your favorite stories home</p>
           </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {MERCH_ITEMS.map((item) => (
-            <Card key={item.id} className={`bg-slate-900/60 backdrop-blur-md ${item.borderColor} transition-all group`}>
-              <CardContent className="p-6">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 reveal-stagger">
+            {MERCH_ITEMS.map((item, index) => (
+            <Card key={item.id} className={`glass-panel ${item.borderColor} transition-all duration-300 hover:-translate-y-1 group`}>
+              <CardContent className="p-5 sm:p-6" style={{ animationDelay: `${index * 75}ms` }}>
                 <div className={`aspect-square bg-gradient-to-br ${item.gradientColor} rounded-lg mb-4 flex items-center justify-center text-6xl`} aria-hidden="true">
                   {item.emoji}
                 </div>
@@ -389,8 +475,8 @@ export default function HomePage() {
                 <p className="text-sm text-white/60 mb-2">{item.collection}</p>
                 <div className="flex items-center justify-between">
                   <span className={`text-xl font-bold ${item.textColor}`}>{item.price}</span>
-                  <Button size="sm" className={`bg-gradient-to-r ${item.borderColor.replace('border-', '').replace('/30 hover:border-', ' hover:').replace('/60', '')}`} aria-label={`Shop for ${item.name}`}>
-                    Shop Now
+                  <Button asChild size="sm" className={`bg-gradient-to-r ${item.borderColor.replace('border-', '').replace('/30 hover:border-', ' hover:').replace('/60', '')}`} aria-label={`Shop for ${item.name}`}>
+                    <Link href="/products">Shop Now</Link>
                   </Button>
                 </div>
               </CardContent>
@@ -400,34 +486,36 @@ export default function HomePage() {
 
           <div className="text-center mt-12">
             <Button
+              asChild
               size="lg"
-              className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+              className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400"
               aria-label="Browse all available merchandise"
             >
-              Browse All Merchandise
+              <Link href="/products">Browse All Merchandise</Link>
             </Button>
           </div>
         </div>
       </section>
 
-      <section id="genres" className="py-20 px-6">
+      <section id="genres" className="py-16 sm:py-20 px-4 sm:px-6 reveal-up delay-2">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <p className="editorial-kicker mb-3">Pick Your Lane</p>
+            <h2 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
               Explore Genres
             </h2>
-            <p className="text-xl text-white/70">Choose your adventure across 12+ immersive genres</p>
+            <p className="mx-auto max-w-2xl text-base sm:text-lg text-white/75">Choose your adventure across 12+ immersive genres</p>
           </div>
 
-          <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-6">
+          <div className="grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-6 reveal-stagger">
             {GENRES.map((genre) => (
               <Link
                 key={genre.name}
                 href={`/${genre.name.toLowerCase().replace(/\s+/g, "-")}`}
                 aria-label={`Explore ${genre.name} genre`}
-                className="group block rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-purple-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
+                className="group block rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-amber-300 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
               >
-                <Card className="bg-slate-900/60 backdrop-blur-md border-white/10 transition-all cursor-pointer group-hover:border-purple-500/50">
+                <Card className="glass-panel border-white/10 transition-all cursor-pointer group-hover:border-amber-300/50">
                   <CardContent className="p-4 text-center">
                     <div className={`mb-4 aspect-[4/5] overflow-hidden rounded-xl border border-white/10 bg-gradient-to-br ${genre.color} p-[1px]`}>
                       <div className="flex h-full flex-col items-center justify-center rounded-[11px] bg-slate-950/90 px-3">
@@ -444,26 +532,26 @@ export default function HomePage() {
         </div>
       </section>
 
-      <footer className="py-12 px-6 border-t border-white/10" role="contentinfo">
+      <footer className="py-10 sm:py-12 px-4 sm:px-6 border-t border-white/10" role="contentinfo">
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
-            <Film className="w-6 h-6 text-purple-500" aria-hidden="true" />
-            <span className="font-serif text-lg font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <Film className="w-6 h-6 text-amber-300" aria-hidden="true" />
+            <span className="font-serif text-lg font-bold bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
               TICU.tv
             </span>
           </div>
           <p className="text-white/60 mb-4">The Interactive Cinema Universe - Where Your Votes Shape Every Story</p>
           <nav className="flex justify-center gap-6 text-sm text-white/60" aria-label="Footer navigation">
-            <Link href="/about" className="hover:text-purple-400 transition-colors">
+            <Link href="/about" className="hover:text-amber-300 transition-colors">
               About
             </Link>
-            <Link href="/help" className="hover:text-purple-400 transition-colors">
+            <Link href="/help" className="hover:text-amber-300 transition-colors">
               Help
             </Link>
-            <Link href="/terms" className="hover:text-purple-400 transition-colors">
+            <Link href="/terms" className="hover:text-amber-300 transition-colors">
               Terms
             </Link>
-            <Link href="/privacy" className="hover:text-purple-400 transition-colors">
+            <Link href="/privacy" className="hover:text-amber-300 transition-colors">
               Privacy
             </Link>
           </nav>
