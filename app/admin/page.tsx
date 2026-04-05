@@ -83,6 +83,9 @@ export default function AdminPage() {
             </div>
             <div className="flex items-center space-x-4">
               <Badge variant="secondary">Administrator</Badge>
+              <Link href="/admin/acts">
+                <Button size="sm">Upload Acts</Button>
+              </Link>
               <Link href="/">
                 <Button variant="outline" size="sm">
                   Back to Site
@@ -131,8 +134,8 @@ export default function AdminPage() {
                     <CardTitle className="text-sm font-medium">Total Users</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <div className="text-2xl font-bold">2,847</div>
-                    <p className="text-xs text-muted-foreground">+12% from last month</p>
+                    <div className="text-2xl font-bold">--</div>
+                    <p className="text-xs text-muted-foreground">Analytics not connected</p>
                   </CardContent>
                 </Card>
                 <Card>
@@ -140,8 +143,8 @@ export default function AdminPage() {
                     <CardTitle className="text-sm font-medium">Active Votes</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <div className="text-2xl font-bold">156</div>
-                    <p className="text-xs text-muted-foreground">3 ending today</p>
+                    <div className="text-2xl font-bold">--</div>
+                    <p className="text-xs text-muted-foreground">Live vote stats unavailable</p>
                   </CardContent>
                 </Card>
                 <Card>
@@ -149,8 +152,8 @@ export default function AdminPage() {
                     <CardTitle className="text-sm font-medium">Episodes</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <div className="text-2xl font-bold">8</div>
-                    <p className="text-xs text-muted-foreground">2 in production</p>
+                    <div className="text-2xl font-bold">--</div>
+                    <p className="text-xs text-muted-foreground">Episode metrics unavailable</p>
                   </CardContent>
                 </Card>
                 <Card>
@@ -158,8 +161,8 @@ export default function AdminPage() {
                     <CardTitle className="text-sm font-medium">Characters</CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <div className="text-2xl font-bold">12</div>
-                    <p className="text-xs text-muted-foreground">5 main, 7 candidates</p>
+                    <div className="text-2xl font-bold">--</div>
+                    <p className="text-xs text-muted-foreground">Character metrics unavailable</p>
                   </CardContent>
                 </Card>
               </div>
@@ -170,10 +173,12 @@ export default function AdminPage() {
                   <CardDescription>Common administrative tasks</CardDescription>
                 </CardHeader>
                 <CardContent className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                  <Button className="h-auto p-4 flex flex-col items-start">
-                    <span className="font-semibold">Create New Vote</span>
-                    <span className="text-sm text-muted-foreground">Start a new story decision</span>
-                  </Button>
+                  <Link href="/admin/acts">
+                    <Button className="h-auto w-full p-4 flex flex-col items-start">
+                      <span className="font-semibold">Upload Book Act</span>
+                      <span className="text-sm text-muted-foreground">Paste or upload act prose</span>
+                    </Button>
+                  </Link>
                   <Button variant="outline" className="h-auto p-4 flex flex-col items-start bg-transparent">
                     <span className="font-semibold">Add Character</span>
                     <span className="text-sm text-muted-foreground">Introduce new character</span>
@@ -344,7 +349,7 @@ export default function AdminPage() {
               <Card>
                 <CardHeader>
                   <CardTitle>Story Management</CardTitle>
-                  <CardDescription>Manage story chapters and content</CardDescription>
+                  <CardDescription>Manage the currently active story and its content</CardDescription>
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <div>
@@ -369,7 +374,8 @@ export default function AdminPage() {
 
               <Card>
                 <CardHeader>
-                  <CardTitle>Chapter Management</CardTitle>
+                  <CardTitle>Book Management</CardTitle>
+                  <CardDescription>Manage upcoming books in your catalog</CardDescription>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-3">
@@ -377,20 +383,20 @@ export default function AdminPage() {
                       "Depthspire – The Dungeon Below",
                       "Crownless – The Forgotten King",
                       "Mimic Hollow – City of Lies",
-                    ].map((chapter) => (
-                      <div key={chapter} className="flex items-center justify-between p-3 border rounded-lg">
+                    ].map((book) => (
+                      <div key={book} className="flex items-center justify-between p-3 border rounded-lg">
                         <div>
-                          <span className="font-medium">{chapter}</span>
+                          <span className="font-medium">{book}</span>
                           <Badge variant="outline" className="ml-2">
                             Draft
                           </Badge>
                         </div>
                         <div className="flex gap-2">
                           <Button variant="outline" size="sm">
-                            Edit
+                            Edit Book
                           </Button>
                           <Button variant="outline" size="sm">
-                            Publish
+                            Publish Book
                           </Button>
                         </div>
                       </div>

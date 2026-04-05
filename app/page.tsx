@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import Link from "next/link"
+import { useRouter } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -23,6 +24,7 @@ import { GENRES, STORY_CARDS, CHARACTERS, MERCH_ITEMS } from "@/lib/constants"
 
 export default function HomePage() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const router = useRouter()
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
@@ -42,9 +44,18 @@ export default function HomePage() {
               <a href="#stories" className="text-white/90 hover:text-purple-400 transition-colors">
                 Stories
               </a>
-              <a href="#trending" className="text-white/90 hover:text-purple-400 transition-colors">
+              <Link href="/products" className="text-white/90 hover:text-purple-400 transition-colors">
+                Products
+              </Link>
+              <Link href="/trending" className="text-white/90 hover:text-purple-400 transition-colors">
                 Trending
-              </a>
+              </Link>
+              <Link href="/leaderboard" className="text-white/90 hover:text-purple-400 transition-colors">
+                Leaderboard
+              </Link>
+              <Link href="/instructions" className="text-white/90 hover:text-purple-400 transition-colors">
+                Instructions
+              </Link>
               <Link href="/admin" className="text-white/90 hover:text-purple-400 transition-colors">
                 Admin
               </Link>
@@ -89,13 +100,34 @@ export default function HomePage() {
               >
                 Stories
               </a>
-              <a
-                href="#trending"
+              <Link
+                href="/products"
+                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Products
+              </Link>
+              <Link
+                href="/trending"
                 className="text-white/90 hover:text-purple-400 transition-colors py-2"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Trending
-              </a>
+              </Link>
+              <Link
+                href="/leaderboard"
+                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Leaderboard
+              </Link>
+              <Link
+                href="/instructions"
+                className="text-white/90 hover:text-purple-400 transition-colors py-2"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Instructions
+              </Link>
               <Link
                 href="/admin"
                 className="text-white/90 hover:text-purple-400 transition-colors py-2"
@@ -167,34 +199,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section id="genres" className="py-20 px-6">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-              Explore Genres
-            </h2>
-            <p className="text-xl text-white/70">Choose your adventure across 12+ immersive genres</p>
-          </div>
-
-          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
-            {GENRES.map((genre) => (
-              <Card
-                key={genre.name}
-                className="bg-slate-900/60 backdrop-blur-md border-white/10 hover:border-purple-500/50 transition-all cursor-pointer group"
-                role="button"
-                tabIndex={0}
-                aria-label={`Explore ${genre.name} genre`}
-              >
-                <CardContent className="p-6 text-center">
-                  <div className="text-4xl mb-3 group-hover:scale-110 transition-transform" aria-hidden="true">{genre.icon}</div>
-                  <h3 className="font-semibold">{genre.name}</h3>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
       <section id="stories" className="py-20 px-6 bg-slate-900/30">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
@@ -206,8 +210,29 @@ export default function HomePage() {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {STORY_CARDS.map((story) => (
-              <Card key={story.id} className={`bg-slate-900/60 backdrop-blur-md ${story.borderColor} transition-all group`}>
+              <Card
+                key={story.id}
+                className={`bg-slate-900/60 backdrop-blur-md ${story.borderColor} transition-all group cursor-pointer`}
+                role="link"
+                tabIndex={0}
+                aria-label={`Open ${story.title}`}
+                onClick={() => router.push(`/stories/${story.id}`)}
+                onKeyDown={(e) => {
+                  if (e.key === "Enter" || e.key === " ") {
+                    e.preventDefault()
+                    router.push(`/stories/${story.id}`)
+                  }
+                }}
+              >
                 <CardContent className="p-6">
+                  <div className={`mb-5 aspect-[16/9] overflow-hidden rounded-xl border border-white/10 bg-gradient-to-br ${story.gradientColor} p-[1px]`}>
+                    <div className="flex h-full items-center justify-center rounded-[11px] bg-slate-950/90">
+                      <div className="text-center">
+                        <div className={`mb-2 text-4xl ${story.iconColor}`} aria-hidden="true">🎬</div>
+                        <p className="text-xs uppercase tracking-[0.3em] text-white/40">Image Placeholder</p>
+                      </div>
+                    </div>
+                  </div>
                   <div className="flex items-start justify-between mb-4">
                     <Badge className={`bg-gradient-to-r ${story.gradientColor}`}>
                       {story.status === "voting" && <Vote className="w-3 h-3 mr-1" aria-hidden="true" />}
@@ -235,22 +260,25 @@ export default function HomePage() {
                       {story.genre}
                     </Badge>
                     <span className="text-xs text-white/60">{story.chapter}</span>
-                    <span className="text-xs text-white/60">• {story.votes.toLocaleString()} votes</span>
                   </div>
                   <p className="text-sm text-white/70 mb-4 line-clamp-2">
                     {story.description}
                   </p>
-                  <div className="flex gap-2">
+                  <div className="flex gap-2" onClick={(e) => e.stopPropagation()}>
                     {story.status === "complete" ? (
-                      <Button size="sm" className={`w-full bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
-                        <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
-                        Read Story
+                      <Button asChild size="sm" className={`w-full bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
+                        <Link href={`/stories/${story.id}`}>
+                          <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
+                          Read Story
+                        </Link>
                       </Button>
                     ) : story.status === "in-progress" ? (
                       <>
-                        <Button size="sm" className={`flex-1 bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
-                          <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
-                          Read
+                        <Button asChild size="sm" className={`flex-1 bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
+                          <Link href={`/stories/${story.id}`}>
+                            <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
+                            Read
+                          </Link>
                         </Button>
                         <Button size="sm" variant="outline" className="flex-1 bg-transparent" aria-label={`Follow ${story.title}`}>
                           <Star className="w-3 h-3 mr-1 fill-current" aria-hidden="true" />
@@ -259,13 +287,17 @@ export default function HomePage() {
                       </>
                     ) : (
                       <>
-                        <Button size="sm" className={`flex-1 bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
-                          <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
-                          Read
+                        <Button asChild size="sm" className={`flex-1 bg-gradient-to-r ${story.gradientColor}`} aria-label={`Read ${story.title}`}>
+                          <Link href={`/stories/${story.id}`}>
+                            <BookOpen className="w-3 h-3 mr-1" aria-hidden="true" />
+                            Read
+                          </Link>
                         </Button>
-                        <Button size="sm" variant="outline" className="flex-1 bg-transparent" aria-label={`Vote on ${story.title}`}>
-                          <Vote className="w-3 h-3 mr-1" aria-hidden="true" />
-                          Vote
+                        <Button asChild size="sm" variant="outline" className="flex-1 bg-transparent" aria-label={`Vote on ${story.title}`}>
+                          <Link href="/vote">
+                            <Vote className="w-3 h-3 mr-1" aria-hidden="true" />
+                            Vote
+                          </Link>
                         </Button>
                       </>
                     )}
@@ -378,6 +410,40 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section id="genres" className="py-20 px-6">
+        <div className="max-w-7xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="font-serif text-4xl font-bold mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+              Explore Genres
+            </h2>
+            <p className="text-xl text-white/70">Choose your adventure across 12+ immersive genres</p>
+          </div>
+
+          <div className="grid grid-cols-2 gap-4 md:grid-cols-4 lg:grid-cols-6">
+            {GENRES.map((genre) => (
+              <Link
+                key={genre.name}
+                href={`/${genre.name.toLowerCase().replace(/\s+/g, "-")}`}
+                aria-label={`Explore ${genre.name} genre`}
+                className="group block rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-purple-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-950"
+              >
+                <Card className="bg-slate-900/60 backdrop-blur-md border-white/10 transition-all cursor-pointer group-hover:border-purple-500/50">
+                  <CardContent className="p-4 text-center">
+                    <div className={`mb-4 aspect-[4/5] overflow-hidden rounded-xl border border-white/10 bg-gradient-to-br ${genre.color} p-[1px]`}>
+                      <div className="flex h-full flex-col items-center justify-center rounded-[11px] bg-slate-950/90 px-3">
+                        <div className="mb-2 text-4xl group-hover:scale-110 transition-transform" aria-hidden="true">{genre.icon}</div>
+                        <p className="text-[10px] uppercase tracking-[0.28em] text-white/40">Genre Art</p>
+                      </div>
+                    </div>
+                    <h3 className="font-semibold">{genre.name}</h3>
+                  </CardContent>
+                </Card>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <footer className="py-12 px-6 border-t border-white/10" role="contentinfo">
         <div className="max-w-7xl mx-auto text-center">
           <div className="flex items-center justify-center gap-2 mb-4">
@@ -388,18 +454,18 @@ export default function HomePage() {
           </div>
           <p className="text-white/60 mb-4">The Interactive Cinema Universe - Where Your Votes Shape Every Story</p>
           <nav className="flex justify-center gap-6 text-sm text-white/60" aria-label="Footer navigation">
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            <Link href="/about" className="hover:text-purple-400 transition-colors">
               About
-            </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            </Link>
+            <Link href="/help" className="hover:text-purple-400 transition-colors">
               Help
-            </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            </Link>
+            <Link href="/terms" className="hover:text-purple-400 transition-colors">
               Terms
-            </a>
-            <a href="#" className="hover:text-purple-400 transition-colors">
+            </Link>
+            <Link href="/privacy" className="hover:text-purple-400 transition-colors">
               Privacy
-            </a>
+            </Link>
           </nav>
         </div>
       </footer>

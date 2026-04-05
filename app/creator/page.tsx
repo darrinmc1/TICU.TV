@@ -73,11 +73,8 @@ export default function CreatorDashboard() {
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-sm text-purple-300/70">Total Views</p>
-                  <p className="text-2xl font-bold text-purple-100">2.4M</p>
-                  <p className="text-xs text-green-400 flex items-center gap-1">
-                    <TrendingUp className="w-3 h-3" />
-                    +12% this month
-                  </p>
+                  <p className="text-2xl font-bold text-purple-100">—</p>
+                  <p className="text-xs text-purple-300/70">Analytics unavailable</p>
                 </div>
                 <Eye className="w-8 h-8 text-purple-400" />
               </div>
@@ -102,11 +99,8 @@ export default function CreatorDashboard() {
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-sm text-purple-300/70">Community Votes</p>
-                  <p className="text-2xl font-bold text-purple-100">847K</p>
-                  <p className="text-xs text-green-400 flex items-center gap-1">
-                    <Target className="w-3 h-3" />
-                    89% engagement
-                  </p>
+                  <p className="text-2xl font-bold text-purple-100">—</p>
+                  <p className="text-xs text-purple-300/70">Connect analytics to track</p>
                 </div>
                 <Gamepad2 className="w-8 h-8 text-purple-400" />
               </div>
@@ -118,11 +112,8 @@ export default function CreatorDashboard() {
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-sm text-purple-300/70">Revenue</p>
-                  <p className="text-2xl font-bold text-purple-100">$18.2K</p>
-                  <p className="text-xs text-green-400 flex items-center gap-1">
-                    <DollarSign className="w-3 h-3" />
-                    +24% this month
-                  </p>
+                  <p className="text-2xl font-bold text-purple-100">—</p>
+                  <p className="text-xs text-purple-300/70">Monetization coming soon</p>
                 </div>
                 <Award className="w-8 h-8 text-purple-400" />
               </div>
@@ -195,25 +186,16 @@ export default function CreatorDashboard() {
                       title: "The Dragon's Gambit",
                       genre: "Fantasy",
                       status: "Voting Active",
-                      votes: "12.4K",
-                      views: "89.2K",
-                      engagement: "94%",
                     },
                     {
                       title: "Neon Shadows",
                       genre: "Sci-Fi",
                       status: "In Production",
-                      votes: "8.7K",
-                      views: "67.1K",
-                      engagement: "87%",
                     },
                     {
                       title: "Victorian Mysteries",
                       genre: "Historical",
                       status: "Voting Active",
-                      votes: "15.2K",
-                      views: "102.8K",
-                      engagement: "91%",
                     },
                   ].map((story, index) => (
                     <div
@@ -241,20 +223,6 @@ export default function CreatorDashboard() {
                         </div>
                       </div>
                       <div className="text-right">
-                        <div className="flex items-center gap-6 text-sm text-purple-300/70">
-                          <div className="text-center">
-                            <div className="font-semibold text-purple-100">{story.votes}</div>
-                            <div>Votes</div>
-                          </div>
-                          <div className="text-center">
-                            <div className="font-semibold text-purple-100">{story.views}</div>
-                            <div>Views</div>
-                          </div>
-                          <div className="text-center">
-                            <div className="font-semibold text-green-400">{story.engagement}</div>
-                            <div>Engagement</div>
-                          </div>
-                        </div>
                         <div className="flex gap-2 mt-3">
                           <Button
                             size="sm"
@@ -289,29 +257,16 @@ export default function CreatorDashboard() {
                 <CardContent>
                   <div className="space-y-4">
                     <div className="flex items-center justify-between">
-                      <span className="text-purple-300">This Week</span>
-                      <span className="text-purple-100 font-semibold">47.2K votes</span>
+                      <span className="text-purple-300">Voting Activity</span>
+                      <span className="text-purple-100 font-semibold">Monitoring...</span>
                     </div>
                     <div className="w-full bg-purple-950/50 rounded-full h-2">
                       <div
                         className="bg-gradient-to-r from-purple-500 to-pink-500 h-2 rounded-full"
-                        style={{ width: "78%" }}
+                        style={{ width: "0%" }}
                       />
                     </div>
-                    <div className="grid grid-cols-3 gap-4 text-center text-sm">
-                      <div>
-                        <div className="text-purple-100 font-semibold">Story Votes</div>
-                        <div className="text-purple-300/70">28.4K</div>
-                      </div>
-                      <div>
-                        <div className="text-purple-100 font-semibold">Character Votes</div>
-                        <div className="text-purple-300/70">12.8K</div>
-                      </div>
-                      <div>
-                        <div className="text-purple-100 font-semibold">Scene Votes</div>
-                        <div className="text-purple-300/70">6.0K</div>
-                      </div>
-                    </div>
+                    <p className="text-sm text-purple-300/70 text-center">Real-time voting metrics unavailable</p>
                   </div>
                 </CardContent>
               </Card>
@@ -322,22 +277,12 @@ export default function CreatorDashboard() {
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-4">
-                    <div className="flex items-center justify-between">
-                      <span className="text-purple-300">Age 18-24</span>
-                      <span className="text-purple-100 font-semibold">34%</span>
-                    </div>
-                    <div className="flex items-center justify-between">
-                      <span className="text-purple-300">Age 25-34</span>
-                      <span className="text-purple-100 font-semibold">42%</span>
-                    </div>
-                    <div className="flex items-center justify-between">
-                      <span className="text-purple-300">Age 35-44</span>
-                      <span className="text-purple-100 font-semibold">18%</span>
-                    </div>
-                    <div className="flex items-center justify-between">
-                      <span className="text-purple-300">Age 45+</span>
-                      <span className="text-purple-100 font-semibold">6%</span>
-                    </div>
+                    <p className="text-sm text-purple-300/70">
+                      Demographic analysis requires verified viewership data. Connect your analytics account to view audience age groups, geographic regions, and preferences.
+                    </p>
+                    <Button variant="outline" className="w-full border-purple-500 text-purple-400 hover:bg-purple-600 bg-transparent">
+                      Connect Analytics
+                    </Button>
                   </div>
                 </CardContent>
               </Card>

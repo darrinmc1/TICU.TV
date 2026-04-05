@@ -1,11 +1,26 @@
 "use client"
 
+import { useState, useEffect } from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
+import { Loader2 } from "lucide-react"
+
+type VoteOption = {
+  id: string
+  title: string
+  description: string
+  vote_count: number
+}
+
+type Story = {
+  id: string
+  title: string
+  genre: string
+}
 
 const Film = () => (
   <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 20 20">
@@ -35,6 +50,65 @@ const ArrowLeft = () => (
 )
 
 export default function VotePage() {
+  const [stories, setStories] = useState<Story[]>([])
+  const [voteOptions, setVoteOptions] = useState<Record<string, VoteOption[]>>({})
+  const [loading, setLoading] = useState(true)
+  const [selectedVotes, setSelectedVotes] = useState<Record<string, string>>({})
+  const [userId] = useState(() => crypto.randomUUID())
+  const [submitting, setSubmitting] = useState(false)
+  const [submitted, setSubmitted] = useState(false)
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const storiesRes = await fetch('/api/stories/active')
+        const storiesData = await storiesRes.json()
+        
+        if (storiesData.stories && storiesData.stories.length > 0) {
+          setStories(storiesData.stories)
+          
+          for (const story of storiesData.stories) {
+            const optionsRes = await fetch(`/api/stories?storyId=${story.id}`)
+            const optionsData = await optionsRes.json()
+            if (optionsData.options) {
+              setVoteOptions(prev => ({ ...prev, [story.id]: optionsData.options }))
+            }
+          }
+        }
+      } catch (error) {
+        console.error('Failed to load voting data:', error)
+      } finally {
+        setLoading(false)
+      }
+    }
+    loadData()
+  }, [])
+
+  const handleSelectOption = (category: string, optionId: string) => {
+    setSelectedVotes(prev => ({ ...prev, [category]: optionId }))
+  }
+
+  const submitVotes = async () => {
+    setSubmitting(true)
+    try {
+      for (const [category, optionId] of Object.entries(selectedVotes)) {
+        await fetch('/api/votes', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            storyId: 'default-story',
+            userId,
+            optionId
+          })
+        })
+      }
+      setSubmitted(true)
+    } catch (error) {
+      console.error('Failed to submit votes:', error)
+    } finally {
+      setSubmitting(false)
+    }
+  }
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* Header */}
@@ -59,16 +133,33 @@ export default function VotePage() {
 
       <div className="pt-24 pb-20 px-6">
         <div className="max-w-5xl mx-auto">
-          {/* Page Header */}
-          <div className="text-center mb-12">
-            <h1 className="font-serif text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-              Cast Your Vote
-            </h1>
-            <p className="text-xl text-white/70">Shape the future of our stories with your choices</p>
-          </div>
+          {loading ? (
+            <div className="flex items-center justify-center py-20">
+              <Loader2 className="w-8 h-8 animate-spin text-purple-500" />
+              <span className="ml-3 text-white/70">Loading votes...</span>
+            </div>
+          ) : stories.length === 0 ? (
+            <div className="text-center py-20">
+              <h2 className="text-2xl font-bold text-purple-100 mb-4">No Active Votes</h2>
+              <p className="text-white/70 mb-6">Check back soon for new voting opportunities!</p>
+              <Link href="/">
+                <Button className="bg-gradient-to-r from-purple-600 to-pink-600">
+                  Back to Home
+                </Button>
+              </Link>
+            </div>
+          ) : (
+            <>
+              {/* Page Header */}
+              <div className="text-center mb-12">
+                <h1 className="font-serif text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
+                  Cast Your Vote
+                </h1>
+                <p className="text-xl text-white/70">Shape the future of our stories with your choices</p>
+              </div>
 
-          {/* Voting Categories */}
-          <div className="space-y-8">
+              {/* Voting Categories */}
+              <div className="space-y-8">
             {/* Next Chapter Plot */}
             <Card className="bg-slate-900/60 backdrop-blur-md border-purple-500/30">
               <CardHeader>
@@ -79,48 +170,38 @@ export default function VotePage() {
                 <p className="text-sm text-white/60">Choose the direction for the next chapter</p>
               </CardHeader>
               <CardContent className="space-y-3">
-                <div className="p-4 rounded-lg bg-slate-800/50 border border-purple-500/20 hover:border-purple-500/50 transition-all cursor-pointer">
-                  <div className="flex items-start justify-between mb-2">
-                    <h4 className="font-semibold">The Ancient Temple Discovery</h4>
-                    <Badge className="bg-purple-600">45%</Badge>
+                {[
+                  { id: 'plot-1', title: 'The Ancient Temple Discovery', desc: 'The party discovers ruins of an ancient civilization with mysterious powers', votes: '45%' },
+                  { id: 'plot-2', title: 'The Betrayal Revealed', desc: "A trusted ally's dark secret comes to light, threatening the group", votes: '32%' },
+                  { id: 'plot-3', title: "The Dragon's Challenge", desc: 'Face the dragon in a test of wit and courage rather than combat', votes: '23%' },
+                ].map((option) => (
+                  <div
+                    key={option.id}
+                    onClick={() => handleSelectOption('nextChapter', option.id)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['nextChapter'] === option.id 
+                        ? 'border-purple-500 bg-purple-900/30' 
+                        : 'border-purple-500/20 hover:border-purple-500/50'
+                    }`}
+                  >
+                    <div className="flex items-start justify-between mb-2">
+                      <h4 className="font-semibold">{option.title}</h4>
+                      <Badge className="bg-purple-600">{option.votes}</Badge>
+                    </div>
+                    <p className="text-sm text-white/70">{option.desc}</p>
+                    <div className="mt-3 h-2 bg-slate-700 rounded-full overflow-hidden">
+                      <div className="h-full bg-gradient-to-r from-purple-600 to-pink-600" style={{ width: option.votes }} />
+                    </div>
                   </div>
-                  <p className="text-sm text-white/70">
-                    The party discovers ruins of an ancient civilization with mysterious powers
-                  </p>
-                  <div className="mt-3 h-2 bg-slate-700 rounded-full overflow-hidden">
-                    <div className="h-full bg-gradient-to-r from-purple-600 to-pink-600" style={{ width: "45%" }} />
-                  </div>
-                </div>
+                ))}
 
-                <div className="p-4 rounded-lg bg-slate-800/50 border border-purple-500/20 hover:border-purple-500/50 transition-all cursor-pointer">
-                  <div className="flex items-start justify-between mb-2">
-                    <h4 className="font-semibold">The Betrayal Revealed</h4>
-                    <Badge className="bg-purple-600">32%</Badge>
-                  </div>
-                  <p className="text-sm text-white/70">
-                    A trusted ally's dark secret comes to light, threatening the group
-                  </p>
-                  <div className="mt-3 h-2 bg-slate-700 rounded-full overflow-hidden">
-                    <div className="h-full bg-gradient-to-r from-purple-600 to-pink-600" style={{ width: "32%" }} />
-                  </div>
-                </div>
-
-                <div className="p-4 rounded-lg bg-slate-800/50 border border-purple-500/20 hover:border-purple-500/50 transition-all cursor-pointer">
-                  <div className="flex items-start justify-between mb-2">
-                    <h4 className="font-semibold">The Dragon's Challenge</h4>
-                    <Badge className="bg-purple-600">23%</Badge>
-                  </div>
-                  <p className="text-sm text-white/70">
-                    Face the dragon in a test of wit and courage rather than combat
-                  </p>
-                  <div className="mt-3 h-2 bg-slate-700 rounded-full overflow-hidden">
-                    <div className="h-full bg-gradient-to-r from-purple-600 to-pink-600" style={{ width: "23%" }} />
-                  </div>
-                </div>
-
-                <Button className="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700">
+                <Button 
+                  className="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
+                  onClick={submitVotes}
+                  disabled={submitting || submitted}
+                >
                   <Vote />
-                  Submit Vote
+                  {submitted ? 'Votes Submitted!' : submitting ? 'Submitting...' : 'Submit Vote'}
                 </Button>
               </CardContent>
             </Card>
@@ -142,14 +223,19 @@ export default function VotePage() {
               </CardHeader>
               <CardContent className="space-y-3">
                 {[
-                  { name: "Serana Valeblade", role: "Paladin", votes: "38%", story: "The Dragon's Gambit" },
-                  { name: "Commander Aria Chen", role: "Leader", votes: "27%", story: "Mars Colony Crisis" },
-                  { name: "Juliet Moreau", role: "Artist", votes: "19%", story: "Love in Paris" },
-                  { name: "Sheriff Jake Morgan", role: "Lawman", votes: "16%", story: "Showdown at Sunset" },
+                  { id: 'fav-1', name: "Serana Valeblade", role: "Paladin", votes: "38%", story: "The Dragon's Gambit" },
+                  { id: 'fav-2', name: "Commander Aria Chen", role: "Leader", votes: "27%", story: "Mars Colony Crisis" },
+                  { id: 'fav-3', name: "Juliet Moreau", role: "Artist", votes: "19%", story: "Love in Paris" },
+                  { id: 'fav-4', name: "Sheriff Jake Morgan", role: "Lawman", votes: "16%", story: "Showdown at Sunset" },
                 ].map((character) => (
                   <div
-                    key={character.name}
-                    className="p-4 rounded-lg bg-slate-800/50 border border-pink-500/20 hover:border-pink-500/50 transition-all cursor-pointer"
+                    key={character.id}
+                    onClick={() => handleSelectOption('favoriteCharacter', character.id)}
+                    className={`p-4 rounded-lg bg-slate-800/50 border transition-all cursor-pointer ${
+                      selectedVotes['favoriteCharacter'] === character.id 
+                        ? 'border-pink-500 bg-pink-900/30' 
+                        : 'border-pink-500/20 hover:border-pink-500/50'
+                    }`}
                   >
                     <div className="flex items-start justify-between mb-2">
                       <div>
@@ -470,17 +556,17 @@ export default function VotePage() {
             </Card>
           </div>
 
-          {/* Call to Action */}
-          <div className="mt-12 text-center">
-            <Card className="bg-gradient-to-r from-purple-900/40 to-pink-900/40 backdrop-blur-md border-purple-500/30">
-              <CardContent className="p-8">
-                <h3 className="font-serif text-2xl font-bold mb-3">Your Voice Matters</h3>
-                <p className="text-white/70 mb-6">
-                  Every vote shapes the narrative. Join thousands of viewers creating the future of interactive
-                  storytelling.
-                </p>
-                <Link href="/">
-                  <Button
+            {/* Call to Action */}
+            <div className="mt-12 text-center">
+              <Card className="bg-gradient-to-r from-purple-900/40 to-pink-900/40 backdrop-blur-md border-purple-500/30">
+                <CardContent className="p-8">
+                  <h3 className="font-serif text-2xl font-bold mb-3">Your Voice Matters</h3>
+                  <p className="text-white/70 mb-6">
+                    Every vote shapes the narrative. Join thousands of viewers creating the future of interactive
+                    storytelling.
+                  </p>
+                  <Link href="/">
+                    <Button
                     size="lg"
                     className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700"
                   >
@@ -491,6 +577,8 @@ export default function VotePage() {
               </CardContent>
             </Card>
           </div>
+            </>
+          )}
         </div>
       </div>
     </div>
