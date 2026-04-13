@@ -689,6 +689,8 @@ export default async function StoryPage({ params }: PageProps) {
               : "Choose the path for this chapter. Your vote shapes the story."}
           </p>
           <StoryVoting
+            storyId={storyId}
+            chapterSlug={story.chapter.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}
             actOptions={story.actOptions}
             isComplete={story.status === "complete"}
             accentTextClass={story.accentTextClass}
