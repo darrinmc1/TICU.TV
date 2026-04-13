@@ -9,8 +9,8 @@ Usage:
 Steps:
   1. Parse chapter text into segments (narration/dialogue/verse)
   2. Generate audio per segment using Kokoro TTS
-  3. Stitch segments into full chapter MP3
-  4. Produce timing JSON for frontend sync
+  3. Stitch segments into per-act MP3s (one MP3 per act)
+  4. Produce per-act timing JSONs + chapter manifest for frontend sync
 """
 
 import argparse
@@ -67,8 +67,8 @@ CHAPTER_FILES = {
     7:  ["Ch7_revised.txt"],
     8:  ["Ch8_revised.txt"],
     9:  ["Ch9_revised.txt"],
-    10: ["Ch10_road.txt"],
-    11: ["Ch11_boundary.txt"],
+    10: ["Ch10_expanded.txt"],
+    11: ["Ch11_expanded.txt"],
     12: ["Epilogue.txt"],  # chapter 12 = epilogue
 }
 
@@ -82,8 +82,8 @@ CHAPTER_TITLES = {
     7: "The Fractured Sanctum",
     8: "Down from the Peaks",
     9: "The Siege",
-    10: "Road to the Plateau",
-    11: "Before the Boundary",
+    10: "Partings",
+    11: "Road to the Plateau",
     12: "Epilogue",
 }
 
@@ -99,8 +99,8 @@ CHAPTER_SPEAKERS = {
     7: ["caelin", "vex", "thornik", "elowen", "nyxara"],
     8: ["caelin", "vex", "thornik", "elowen", "nyxara"],
     9: ["caelin", "vex", "thornik", "elowen", "aldric"],
-    10: ["caelin", "vex", "thornik", "elowen"],
-    11: ["caelin", "vex", "thornik", "elowen"],
+    10: ["caelin", "vex", "thornik", "nyxara", "serana", "aldric"],
+    11: ["caelin", "vex", "durgan", "aldric"],
     12: ["caelin", "vex"],
 }
 
@@ -439,25 +439,26 @@ def generate_segment_audio(
         return None
 
 
-# ── Step 3: Stitch into full chapter audio ───────────────────────────────────
+# ── Step 3: Stitch into per-act audio ─────────────────────────────────────────
 
-def stitch_chapter(
+def stitch_act(
     chapter_num: int,
+    act_num: int,
     segments: list[dict],
     audio_info: dict[str, dict],
     output_dir: Path,
     direction_map: dict[str, dict] | None = None,
 ) -> list[dict]:
-    """Concatenate segment WAVs into a single chapter WAV, then convert to MP3.
+    """Stitch segments for a single act into a WAV/MP3. Returns act-local timing."""
+    act_segments = [s for s in segments if s.get("act") == act_num]
+    if not act_segments:
+        return []
 
-    If direction_map is provided, uses its pause_before metadata for gap sizing.
-    """
     all_audio = []
     timing = []
     current_time = 0.0
-    prev_act = None
 
-    for i, seg in enumerate(segments):
+    for i, seg in enumerate(act_segments):
         info = audio_info.get(seg["id"])
         if info is None:
             continue
@@ -471,8 +472,6 @@ def stitch_chapter(
 
             if pause:
                 gap_duration = pause["duration_ms"] / 1000.0
-            elif prev_act is not None and seg.get("act") != prev_act:
-                gap_duration = 1.2  # act break
             elif seg["type"] == "dialogue":
                 gap_duration = 0.15
             else:
@@ -493,58 +492,127 @@ def stitch_chapter(
 
         all_audio.append(audio_data)
         current_time += info["duration"]
-        prev_act = seg.get("act")
 
     if not all_audio:
-        print("  ERROR: No audio to stitch!")
+        print(f"  WARNING: No audio for act {act_num}")
         return []
 
     combined = np.concatenate(all_audio)
 
     # Save combined WAV
-    wav_path = output_dir / f"chapter-{chapter_num}.wav"
+    wav_path = output_dir / f"chapter-{chapter_num}-act-{act_num}.wav"
     sf.write(str(wav_path), combined, SAMPLE_RATE)
-    print(f"  Combined WAV: {wav_path} ({current_time:.1f}s)")
+    print(f"  Act {act_num} WAV: {wav_path} ({current_time:.1f}s)")
 
     # Convert to MP3
-    mp3_path = output_dir / f"chapter-{chapter_num}.mp3"
+    mp3_path = output_dir / f"chapter-{chapter_num}-act-{act_num}.mp3"
     try:
         subprocess.run(
             [FFMPEG, "-i", str(wav_path), "-b:a", "192k", "-y", str(mp3_path)],
             check=True,
             capture_output=True,
         )
-        print(f"  MP3: {mp3_path}")
-        # Remove WAV to save space
+        print(f"  Act {act_num} MP3: {mp3_path}")
         wav_path.unlink()
     except subprocess.CalledProcessError as e:
-        print(f"  WARNING: ffmpeg conversion failed: {e.stderr[:200]}")
+        print(f"  WARNING: ffmpeg conversion failed for act {act_num}: {e.stderr[:200]}")
         print(f"  Keeping WAV at {wav_path}")
 
     return timing
 
 
-# ── Step 4: Generate timing manifest ─────────────────────────────────────────
+def stitch_chapter(
+    chapter_num: int,
+    segments: list[dict],
+    audio_info: dict[str, dict],
+    output_dir: Path,
+    direction_map: dict[str, dict] | None = None,
+) -> dict[int, list[dict]]:
+    """Stitch all acts for a chapter. Returns {act_num: timing_list}."""
+    act_nums = sorted(set(s["act"] for s in segments))
+    result: dict[int, list[dict]] = {}
 
-def save_timing(chapter_num: int, timing: list[dict]) -> None:
-    """Save timing JSON for frontend sync."""
-    chapter_slug = "epilogue" if chapter_num == 12 else f"chapter-{chapter_num}"
-    mp3_file = f"/audio/chapters/chapter-{chapter_num}.mp3"
+    for act_num in act_nums:
+        timing = stitch_act(
+            chapter_num, act_num, segments, audio_info, output_dir, direction_map
+        )
+        if timing:
+            result[act_num] = timing
 
+    return result
+
+
+# ── Step 4: Generate timing manifests ────────────────────────────────────────
+
+ACT_TITLES = {
+    1: {1: "Dawn's Reckoning", 2: "The Compact", 3: "First Steps", 4: "The Road Ahead"},
+    2: {1: "The Mountain Pass", 2: "Strangers and Allies", 3: "Night Watch"},
+    3: {1: "The Green Way", 2: "Elowen's Grove", 3: "Nature's Warning"},
+    4: {1: "Morning Camp", 2: "Old Stories", 3: "The Fork", 4: "Bonds Tested", 5: "Gareth's Burden", 6: "Moving On"},
+    5: {1: "The Descent", 2: "Durgan's Welcome", 3: "Deep Roads", 4: "The Vault", 5: "Awakening", 6: "Return to Light"},
+    6: {1: "Holding Pattern", 2: "Testing the Edges", 3: "Plans & Friction", 4: "First Watch", 5: "Second Watch", 6: "Dawn"},
+    7: {1: "The Approach", 2: "The Sanctum", 3: "Nyxara", 4: "Fractured Ground", 5: "Revelations", 6: "Escape"},
+    8: {1: "Aftermath", 2: "Descent", 3: "The Valley", 4: "Rest", 5: "Reflections", 6: "Dawn"},
+    9: {1: "First Bell", 2: "First Clash", 3: "Second Bell", 4: "Vale's Stand", 5: "Turn & Break", 6: "Ashes"},
+    10: {1: "Nyxara", 2: "The Group Hears", 3: "Thornik's Choice", 4: "Serana's Road", 5: "The Mile-Stone", 6: "The Smaller Party"},
+    11: {1: "Leaving Walls", 2: "Post-Siege Country", 3: "The Hedge and the Hounds", 4: "The Charcoal Clamp", 5: "The Waystone", 6: "The Aurora"},
+    12: {1: "After", 2: "The World Changed", 3: "Farewell"},
+}
+
+
+def get_act_title(chapter_num: int, act_num: int) -> str:
+    """Get a human-readable act title."""
+    titles = ACT_TITLES.get(chapter_num, {})
+    return titles.get(act_num, f"Act {act_num}")
+
+
+def save_act_timing(chapter_num: int, act_num: int, timing: list[dict]) -> None:
+    """Save per-act timing JSON for frontend sync."""
+    mp3_file = f"/audio/chapters/chapter-{chapter_num}-act-{act_num}.mp3"
     total_duration = timing[-1]["end"] if timing else 0
+    act_title = get_act_title(chapter_num, act_num)
 
-    manifest = {
+    data = {
         "chapter": chapter_num,
-        "title": CHAPTER_TITLES[chapter_num],
+        "act": act_num,
+        "actTitle": act_title,
         "audioFile": mp3_file,
         "totalDuration": round(total_duration, 3),
         "segments": timing,
     }
 
-    out_path = DATA_DIR / f"chapter-{chapter_num}-timing.json"
+    out_path = DATA_DIR / f"chapter-{chapter_num}-act-{act_num}-timing.json"
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2)
+    print(f"  Act {act_num} timing: {out_path} ({len(timing)} segments, {total_duration:.1f}s)")
+
+
+def save_chapter_manifest(chapter_num: int, act_timings: dict[int, list[dict]]) -> None:
+    """Save a chapter-level manifest listing all acts and their audio/timing files."""
+    acts = []
+    for act_num in sorted(act_timings.keys()):
+        timing = act_timings[act_num]
+        total_duration = timing[-1]["end"] if timing else 0
+        acts.append({
+            "act": act_num,
+            "actTitle": get_act_title(chapter_num, act_num),
+            "audioFile": f"/audio/chapters/chapter-{chapter_num}-act-{act_num}.mp3",
+            "timingFile": f"/data/narration/chapter-{chapter_num}-act-{act_num}-timing.json",
+            "totalDuration": round(total_duration, 3),
+            "segmentCount": len(timing),
+        })
+
+    manifest = {
+        "chapter": chapter_num,
+        "title": CHAPTER_TITLES[chapter_num],
+        "acts": acts,
+        "totalDuration": round(sum(a["totalDuration"] for a in acts), 3),
+    }
+
+    out_path = DATA_DIR / f"chapter-{chapter_num}-manifest.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(manifest, f, indent=2)
-    print(f"  Timing JSON: {out_path} ({len(timing)} segments, {total_duration:.1f}s)")
+    print(f"  Chapter manifest: {out_path} ({len(acts)} acts)")
 
 
 def save_segments(chapter_num: int, segments: list[dict]) -> None:
@@ -676,21 +744,26 @@ def process_chapter(chapter_num: int) -> None:
     if failed:
         print(f"  FAILED: {len(failed)} segments: {failed[:5]}")
 
-    # Step 3: Stitch
-    print("\nStep 3: Stitching into full chapter audio...")
+    # Step 3: Stitch per-act
+    print("\nStep 3: Stitching into per-act audio...")
     t0 = time.time()
-    timing = stitch_chapter(chapter_num, segments, audio_info, AUDIO_DIR, direction_map)
+    act_timings = stitch_chapter(chapter_num, segments, audio_info, AUDIO_DIR, direction_map)
     stitch_time = time.time() - t0
     print(f"  Stitch time: {stitch_time:.1f}s")
 
-    # Step 4: Save timing
-    print("\nStep 4: Saving timing manifest...")
-    save_timing(chapter_num, timing)
+    # Step 4: Save per-act timing + chapter manifest
+    print("\nStep 4: Saving per-act timing manifests...")
+    for act_num, timing in sorted(act_timings.items()):
+        save_act_timing(chapter_num, act_num, timing)
+    save_chapter_manifest(chapter_num, act_timings)
 
     total_time = parse_time + gen_time + stitch_time
-    total_duration = timing[-1]["end"] if timing else 0
+    total_duration = sum(
+        t[-1]["end"] for t in act_timings.values() if t
+    )
     print(f"\n{'='*60}")
     print(f"  Chapter {chapter_num} complete!")
+    print(f"  Acts: {len(act_timings)}")
     print(f"  Audio duration: {total_duration:.1f}s ({total_duration/60:.1f} min)")
     print(f"  Processing time: {total_time:.1f}s ({total_time/60:.1f} min)")
     print(f"  Segments: {len(audio_info)} generated, {len(failed)} failed")
@@ -741,20 +814,19 @@ def main():
 
 
 def generate_master_manifest():
-    """Create manifest.json listing all processed chapters."""
+    """Create manifest.json listing all processed chapters with per-act data."""
     manifest = {"chapters": []}
 
     for ch in range(1, 13):
-        timing_path = DATA_DIR / f"chapter-{ch}-timing.json"
-        if timing_path.exists():
-            with open(timing_path) as f:
+        ch_manifest_path = DATA_DIR / f"chapter-{ch}-manifest.json"
+        if ch_manifest_path.exists():
+            with open(ch_manifest_path) as f:
                 data = json.load(f)
             manifest["chapters"].append({
-                "chapter": ch,
+                "chapter": data["chapter"],
                 "title": data["title"],
-                "audioFile": data["audioFile"],
+                "acts": data["acts"],
                 "totalDuration": data["totalDuration"],
-                "segmentCount": len(data["segments"]),
             })
 
     out = DATA_DIR / "manifest.json"

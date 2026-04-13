@@ -26,7 +26,7 @@ export default function NarrationControlBar({
   const [isSpeedOpen, setIsSpeedOpen] = useState(false)
 
   const hasNarration = narration !== null && narration.audioReady
-  const progress =
+  const actProgress =
     hasNarration && narration.duration > 0
       ? (narration.currentTime / narration.duration) * 100
       : 0
@@ -51,6 +51,21 @@ export default function NarrationControlBar({
   return (
     <div className="sticky bottom-0 z-40 border-t border-white/10 bg-slate-950/95 backdrop-blur-lg">
       <div className="mx-auto flex max-w-4xl items-center gap-3 px-6 py-3">
+        {/* Prev act */}
+        {hasNarration && narration.totalActs > 1 ? (
+          <button
+            onClick={narration.prevAct}
+            disabled={narration.currentActIndex <= 0}
+            className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-white/40 transition hover:bg-white/10 hover:text-white disabled:opacity-20 disabled:hover:bg-transparent"
+            aria-label="Previous act"
+            title="Previous act"
+          >
+            <svg className="h-3 w-3" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M18.41 16.59L13.82 12l4.59-4.59L17 6l-6 6 6 6zM6 6h2v12H6z" />
+            </svg>
+          </button>
+        ) : null}
+
         {/* Skip back */}
         {hasNarration ? (
           <button
@@ -109,6 +124,21 @@ export default function NarrationControlBar({
           </button>
         ) : null}
 
+        {/* Next act */}
+        {hasNarration && narration.totalActs > 1 ? (
+          <button
+            onClick={narration.nextAct}
+            disabled={narration.currentActIndex >= narration.totalActs - 1}
+            className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-white/40 transition hover:bg-white/10 hover:text-white disabled:opacity-20 disabled:hover:bg-transparent"
+            aria-label="Next act"
+            title="Next act"
+          >
+            <svg className="h-3 w-3" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M5.59 7.41L10.18 12l-4.59 4.59L7 18l6-6-6-6zM16 6h2v12h-2z" />
+            </svg>
+          </button>
+        ) : null}
+
         {/* Time + Progress bar */}
         <div className="flex flex-1 items-center gap-3">
           {hasNarration ? (
@@ -116,14 +146,24 @@ export default function NarrationControlBar({
               <span className="w-10 text-right text-xs tabular-nums text-white/40">
                 {formatTime(narration.currentTime)}
               </span>
-              <div
-                className="relative h-1.5 flex-1 cursor-pointer overflow-hidden rounded-full bg-white/10"
-                onClick={handleProgressClick}
-              >
+              <div className="relative flex-1">
+                {/* Chapter progress (thin background line) */}
+                <div className="absolute -top-1 left-0 h-0.5 w-full overflow-hidden rounded-full bg-white/5">
+                  <div
+                    className="h-full rounded-full bg-white/15 transition-[width] duration-300"
+                    style={{ width: `${narration.chapterProgress * 100}%` }}
+                  />
+                </div>
+                {/* Act progress (main bar) */}
                 <div
-                  className={`absolute left-0 top-0 h-full rounded-full bg-gradient-to-r ${gradientClass} transition-[width] duration-150`}
-                  style={{ width: `${progress}%` }}
-                />
+                  className="relative h-1.5 cursor-pointer overflow-hidden rounded-full bg-white/10"
+                  onClick={handleProgressClick}
+                >
+                  <div
+                    className={`absolute left-0 top-0 h-full rounded-full bg-gradient-to-r ${gradientClass} transition-[width] duration-150`}
+                    style={{ width: `${actProgress}%` }}
+                  />
+                </div>
               </div>
               <span className="w-10 text-xs tabular-nums text-white/40">
                 {formatTime(narration.duration)}
@@ -146,6 +186,13 @@ export default function NarrationControlBar({
             </>
           )}
         </div>
+
+        {/* Act label */}
+        {hasNarration && narration.currentActTitle ? (
+          <span className="hidden text-xs text-white/30 lg:block">
+            {narration.currentActTitle}
+          </span>
+        ) : null}
 
         {/* Active speaker badge */}
         {hasNarration && speakerLabel ? (

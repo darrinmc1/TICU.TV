@@ -1,16 +1,9 @@
 "use client"
 
 import { useState, useCallback, useRef, useEffect } from "react"
-import type { NarrationSegment } from "@/lib/narration-data"
+import type { NarrationSegment, ActAudioEntry, ActTimingSegment } from "@/lib/narration-data"
 
-export type TimingSegment = {
-  id: string
-  start: number
-  end: number
-  speaker: string
-  type: string
-  text: string
-}
+export type { ActTimingSegment as TimingSegment }
 
 export type NarrationState = {
   isPlaying: boolean
@@ -20,8 +13,13 @@ export type NarrationState = {
   currentTime: number
   duration: number
   activeParagraphId: string | null
-  activeSegment: TimingSegment | null
+  activeSegment: ActTimingSegment | null
   audioReady: boolean
+  currentActIndex: number
+  totalActs: number
+  currentActTitle: string | null
+  /** 0-1 progress across the entire chapter */
+  chapterProgress: number
 }
 
 export type NarrationControls = {
@@ -34,13 +32,14 @@ export type NarrationControls = {
   jumpToParagraph: (paragraphId: string) => void
   setPlaybackRate: (rate: number) => void
   seek: (time: number) => void
+  nextAct: () => void
+  prevAct: () => void
+  jumpToAct: (actIndex: number) => void
 }
 
 type UseNarrationSyncOptions = {
-  /** URL to the chapter MP3 file (e.g. /audio/chapters/chapter-1.mp3) */
-  audioUrl: string | null
-  /** Timing data with start/end timestamps per segment */
-  timingSegments: TimingSegment[]
+  /** Per-act audio entries (audio URL + timing per act) */
+  acts: ActAudioEntry[]
   /** Flat segment data for paragraph ID mapping */
   segments: NarrationSegment[]
   autoScroll?: boolean
@@ -67,8 +66,7 @@ export function useNarrationSync(
   options: UseNarrationSyncOptions
 ): NarrationState & NarrationControls {
   const {
-    audioUrl,
-    timingSegments,
+    acts,
     segments,
     autoScroll = true,
     scrollBehavior = "smooth",
@@ -81,45 +79,144 @@ export function useNarrationSync(
   const [playbackRate, setPlaybackRateState] = useState(1)
   const [currentSegmentIndex, setCurrentSegmentIndex] = useState(-1)
   const [audioReady, setAudioReady] = useState(false)
+  const [currentActIndex, setCurrentActIndex] = useState(0)
 
-  const audioRef = useRef<HTMLAudioElement | null>(null)
-  const timingRef = useRef(timingSegments)
-  timingRef.current = timingSegments
+  const activeAudioRef = useRef<HTMLAudioElement | null>(null)
+  const preloadAudioRef = useRef<HTMLAudioElement | null>(null)
   const segmentsRef = useRef(segments)
   segmentsRef.current = segments
+  const actsRef = useRef(acts)
+  actsRef.current = acts
   const animFrameRef = useRef<number | null>(null)
+  const wasPlayingRef = useRef(false)
+  const loadingActRef = useRef(0)
+  const playbackRateRef = useRef(1)
 
-  // Create audio element
-  useEffect(() => {
-    if (!audioUrl) return
+  const totalActs = acts.length
+  const currentAct = acts[currentActIndex] ?? null
+  const currentActTitle = currentAct?.actTitle ?? null
 
-    const audio = new Audio(audioUrl)
+  // Compute total segments across all acts
+  const totalSegments = acts.reduce((sum, a) => sum + a.timingSegments.length, 0)
+
+  // Compute global segment index: sum of all previous acts' segments + local index
+  const globalSegmentIndex = (() => {
+    if (currentSegmentIndex < 0) return -1
+    let offset = 0
+    for (let i = 0; i < currentActIndex; i++) {
+      offset += (acts[i]?.timingSegments.length ?? 0)
+    }
+    return offset + currentSegmentIndex
+  })()
+
+  // Chapter progress: combine completed acts' durations + current act progress
+  const chapterTotalDuration = acts.reduce((sum, a) => sum + a.totalDuration, 0)
+  const chapterProgress = (() => {
+    if (chapterTotalDuration <= 0) return 0
+    let elapsed = 0
+    for (let i = 0; i < currentActIndex; i++) {
+      elapsed += (acts[i]?.totalDuration ?? 0)
+    }
+    elapsed += currentTime
+    return Math.min(1, elapsed / chapterTotalDuration)
+  })()
+
+  // ── Audio element lifecycle ────────────────────────────────────────────
+
+  const disposeAudio = useCallback((audio: HTMLAudioElement | null) => {
+    if (!audio) return
+    audio.pause()
+    audio.removeAttribute("src")
+    audio.load()
+  }, [])
+
+  const createAudio = useCallback((url: string, autoplay: boolean): HTMLAudioElement => {
+    const audio = new Audio(url)
     audio.preload = "auto"
-    audioRef.current = audio
+    audio.playbackRate = playbackRateRef.current
+    if (autoplay) {
+      audio.addEventListener("canplay", () => {
+        audio.play().catch(() => {})
+      }, { once: true })
+    }
+    return audio
+  }, [])
 
-    audio.addEventListener("loadedmetadata", () => {
+  // Load active audio when act changes
+  useEffect(() => {
+    if (acts.length === 0) {
+      setAudioReady(false)
+      return
+    }
+
+    const act = acts[currentActIndex]
+    if (!act) return
+
+    loadingActRef.current = currentActIndex
+
+    // Dispose previous
+    disposeAudio(activeAudioRef.current)
+    activeAudioRef.current = null
+    setAudioReady(false)
+
+    const audio = new Audio(act.audioUrl)
+    audio.preload = "auto"
+    audio.playbackRate = playbackRateRef.current
+    activeAudioRef.current = audio
+
+    const onLoaded = () => {
+      if (loadingActRef.current !== currentActIndex) return
       setDuration(audio.duration)
       setAudioReady(true)
-    })
+      // If we were playing before act switch, auto-play the new act
+      if (wasPlayingRef.current) {
+        audio.play().then(() => setIsPlaying(true)).catch(() => {})
+        wasPlayingRef.current = false
+      }
+    }
 
-    audio.addEventListener("ended", () => {
-      setIsPlaying(false)
-      if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current)
-    })
+    const onEnded = () => {
+      // Auto-advance to next act
+      if (currentActIndex + 1 < actsRef.current.length) {
+        wasPlayingRef.current = true
+        setCurrentSegmentIndex(-1)
+        setCurrentTime(0)
+        setCurrentActIndex((prev) => prev + 1)
+      } else {
+        setIsPlaying(false)
+        if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current)
+      }
+    }
 
-    audio.addEventListener("error", (e) => {
-      console.error("Audio load error:", e)
+    const onError = () => {
+      if (loadingActRef.current !== currentActIndex) return
       setAudioReady(false)
-    })
+    }
+
+    audio.addEventListener("loadedmetadata", onLoaded)
+    audio.addEventListener("ended", onEnded)
+    audio.addEventListener("error", onError)
+
+    // Preload next act
+    disposeAudio(preloadAudioRef.current)
+    preloadAudioRef.current = null
+    if (currentActIndex + 1 < acts.length) {
+      const nextAct = acts[currentActIndex + 1]
+      const preload = new Audio(nextAct.audioUrl)
+      preload.preload = "auto"
+      preloadAudioRef.current = preload
+    }
 
     return () => {
-      audio.pause()
-      audio.src = ""
-      audioRef.current = null
+      audio.removeEventListener("loadedmetadata", onLoaded)
+      audio.removeEventListener("ended", onEnded)
+      audio.removeEventListener("error", onError)
+      disposeAudio(audio)
+      activeAudioRef.current = null
       setAudioReady(false)
       if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current)
     }
-  }, [audioUrl])
+  }, [acts, currentActIndex, disposeAudio])
 
   // Time-tracking loop via requestAnimationFrame
   useEffect(() => {
@@ -129,14 +226,15 @@ export function useNarrationSync(
     }
 
     const tick = () => {
-      const audio = audioRef.current
+      const audio = activeAudioRef.current
       if (!audio) return
 
       const t = audio.currentTime
       setCurrentTime(t)
 
-      // Find which segment we're in
-      const timing = timingRef.current
+      // Find which segment we're in (act-local timing)
+      const act = actsRef.current[currentActIndex]
+      const timing = act?.timingSegments ?? []
       let idx = -1
       for (let i = 0; i < timing.length; i++) {
         if (t >= timing[i].start && t < timing[i].end) {
@@ -144,7 +242,6 @@ export function useNarrationSync(
           break
         }
       }
-      // If between segments, stay on the last one that ended
       if (idx === -1 && t > 0) {
         for (let i = timing.length - 1; i >= 0; i--) {
           if (t >= timing[i].start) {
@@ -162,12 +259,12 @@ export function useNarrationSync(
     return () => {
       if (animFrameRef.current) cancelAnimationFrame(animFrameRef.current)
     }
-  }, [isPlaying])
+  }, [isPlaying, currentActIndex])
 
   // Active segment derived from index
   const activeTimingSegment =
-    currentSegmentIndex >= 0 && currentSegmentIndex < timingSegments.length
-      ? timingSegments[currentSegmentIndex]
+    currentAct && currentSegmentIndex >= 0 && currentSegmentIndex < currentAct.timingSegments.length
+      ? currentAct.timingSegments[currentSegmentIndex]
       : null
 
   const activeParagraphId = activeTimingSegment
@@ -216,13 +313,13 @@ export function useNarrationSync(
   // ── Controls ──────────────────────────────────────────────────────────
 
   const play = useCallback(() => {
-    const audio = audioRef.current
+    const audio = activeAudioRef.current
     if (!audio) return
-    audio.play().then(() => setIsPlaying(true)).catch(console.error)
+    audio.play().then(() => setIsPlaying(true)).catch(() => {})
   }, [])
 
   const pause = useCallback(() => {
-    const audio = audioRef.current
+    const audio = activeAudioRef.current
     if (!audio) return
     audio.pause()
     setIsPlaying(false)
@@ -237,73 +334,147 @@ export function useNarrationSync(
   }, [isPlaying, play, pause])
 
   const seek = useCallback((time: number) => {
-    const audio = audioRef.current
+    const audio = activeAudioRef.current
     if (!audio) return
     audio.currentTime = time
     setCurrentTime(time)
   }, [])
 
   const nextSegment = useCallback(() => {
-    const timing = timingRef.current
-    const nextIdx = Math.min(currentSegmentIndex + 1, timing.length - 1)
-    if (nextIdx >= 0 && nextIdx < timing.length) {
+    const act = actsRef.current[currentActIndex]
+    if (!act) return
+    const timing = act.timingSegments
+    const nextIdx = currentSegmentIndex + 1
+
+    if (nextIdx < timing.length) {
       seek(timing[nextIdx].start)
+    } else if (currentActIndex + 1 < actsRef.current.length) {
+      // Cross act boundary
+      wasPlayingRef.current = isPlaying
+      setCurrentSegmentIndex(-1)
+      setCurrentTime(0)
+      setCurrentActIndex(currentActIndex + 1)
     }
-  }, [currentSegmentIndex, seek])
+  }, [currentSegmentIndex, currentActIndex, seek, isPlaying])
 
   const prevSegment = useCallback(() => {
-    const timing = timingRef.current
-    const prevIdx = Math.max(currentSegmentIndex - 1, 0)
-    if (prevIdx >= 0 && prevIdx < timing.length) {
+    const act = actsRef.current[currentActIndex]
+    if (!act) return
+    const timing = act.timingSegments
+    const prevIdx = currentSegmentIndex - 1
+
+    if (prevIdx >= 0) {
       seek(timing[prevIdx].start)
+    } else if (currentActIndex > 0) {
+      // Cross act boundary to previous act's last segment
+      wasPlayingRef.current = isPlaying
+      const prevAct = actsRef.current[currentActIndex - 1]
+      const lastIdx = prevAct.timingSegments.length - 1
+      setCurrentSegmentIndex(lastIdx)
+      setCurrentTime(0)
+      setCurrentActIndex(currentActIndex - 1)
+      // After audio loads, seek to last segment — handled via effect below
     }
-  }, [currentSegmentIndex, seek])
+  }, [currentSegmentIndex, currentActIndex, seek, isPlaying])
 
   const jumpToSegment = useCallback(
-    (index: number) => {
-      const timing = timingRef.current
-      const clamped = Math.max(0, Math.min(index, timing.length - 1))
-      if (timing[clamped]) {
-        seek(timing[clamped].start)
+    (globalIndex: number) => {
+      // Find which act this global index falls in
+      let remaining = globalIndex
+      for (let i = 0; i < acts.length; i++) {
+        const actLen = acts[i].timingSegments.length
+        if (remaining < actLen) {
+          if (i !== currentActIndex) {
+            wasPlayingRef.current = isPlaying
+            setCurrentActIndex(i)
+          }
+          const seg = acts[i].timingSegments[remaining]
+          if (seg) seek(seg.start)
+          return
+        }
+        remaining -= actLen
       }
     },
-    [seek]
+    [acts, currentActIndex, seek, isPlaying]
   )
 
   const jumpToParagraph = useCallback(
     (paragraphId: string) => {
       const segs = segmentsRef.current
       const seg = segs.find((s) => getParagraphDomId(s) === paragraphId)
-      if (seg) {
-        const timing = timingRef.current
-        const idx = timing.findIndex((t) => t.id === seg.id)
+      if (!seg) return
+
+      // Find the segment across all acts' timing data
+      for (let i = 0; i < acts.length; i++) {
+        const idx = acts[i].timingSegments.findIndex((t) => t.id === seg.id)
         if (idx >= 0) {
-          seek(timing[idx].start)
+          if (i !== currentActIndex) {
+            wasPlayingRef.current = isPlaying
+            setCurrentActIndex(i)
+          }
+          seek(acts[i].timingSegments[idx].start)
+          break
         }
       }
       scrollToElement(paragraphId)
     },
-    [seek, scrollToElement]
+    [acts, currentActIndex, seek, scrollToElement, isPlaying]
   )
 
   const setPlaybackRate = useCallback((rate: number) => {
     setPlaybackRateState(rate)
-    const audio = audioRef.current
+    playbackRateRef.current = rate
+    const audio = activeAudioRef.current
     if (audio) {
       audio.playbackRate = rate
     }
   }, [])
 
+  const nextAct = useCallback(() => {
+    if (currentActIndex + 1 >= acts.length) return
+    wasPlayingRef.current = isPlaying
+    setCurrentSegmentIndex(-1)
+    setCurrentTime(0)
+    setCurrentActIndex(currentActIndex + 1)
+  }, [currentActIndex, acts.length, isPlaying])
+
+  const prevAct = useCallback(() => {
+    if (currentActIndex <= 0) return
+    wasPlayingRef.current = isPlaying
+    setCurrentSegmentIndex(-1)
+    setCurrentTime(0)
+    setCurrentActIndex(currentActIndex - 1)
+  }, [currentActIndex, isPlaying])
+
+  const jumpToAct = useCallback(
+    (actIndex: number) => {
+      const clamped = Math.max(0, Math.min(actIndex, acts.length - 1))
+      if (clamped === currentActIndex) {
+        seek(0)
+        return
+      }
+      wasPlayingRef.current = isPlaying
+      setCurrentSegmentIndex(-1)
+      setCurrentTime(0)
+      setCurrentActIndex(clamped)
+    },
+    [acts.length, currentActIndex, seek, isPlaying]
+  )
+
   return {
     isPlaying,
-    currentSegmentIndex,
-    totalSegments: timingSegments.length,
+    currentSegmentIndex: globalSegmentIndex,
+    totalSegments,
     playbackRate,
     currentTime,
     duration,
     activeParagraphId,
     activeSegment: activeTimingSegment,
     audioReady,
+    currentActIndex,
+    totalActs,
+    currentActTitle,
+    chapterProgress,
     play,
     pause,
     togglePlayPause,
@@ -313,5 +484,8 @@ export function useNarrationSync(
     jumpToParagraph,
     setPlaybackRate,
     seek,
+    nextAct,
+    prevAct,
+    jumpToAct,
   }
 }

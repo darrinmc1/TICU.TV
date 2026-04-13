@@ -169,31 +169,43 @@
   {
     "num": 6,
     "slug": "chapter-6-stone-that-breathes",
-    "title": "� �STONE THAT BREATHES�",
+    "title": "STONE THAT BREATHES",
     "acts": [
       {
         "id": "act-1",
-        "title": "Act I: � HOLDING PATTERN",
-        "contentLength": 5538,
-        "paragraphs": 22
+        "title": "Act I: Holding Pattern",
+        "contentLength": 6818,
+        "paragraphs": 27
       },
       {
         "id": "act-2",
-        "title": "Act II: � TESTING THE EDGES",
-        "contentLength": 4932,
-        "paragraphs": 31
+        "title": "Act II: Testing the Edges",
+        "contentLength": 5812,
+        "paragraphs": 35
       },
       {
         "id": "act-3",
-        "title": "Act III: � PLANS & FRICTION",
-        "contentLength": 2855,
-        "paragraphs": 22
+        "title": "Act III: Plans & Friction",
+        "contentLength": 5300,
+        "paragraphs": 32
       },
       {
         "id": "act-4",
-        "title": "Act IV: � THE WEIGHT OF THE WATCH",
-        "contentLength": 6052,
-        "paragraphs": 49
+        "title": "Act IV: First Watch",
+        "contentLength": 5735,
+        "paragraphs": 39
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: Second Watch",
+        "contentLength": 5989,
+        "paragraphs": 36
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: Dawn",
+        "contentLength": 3475,
+        "paragraphs": 21
       }
     ]
   },
@@ -222,13 +234,13 @@
       },
       {
         "id": "act-4",
-        "title": "Act IV: BELOW � THE FORGE CALDERA (Caelin & Nyxara)",
+        "title": "Act IV: BELOW \u00ef\u00bf\u00bd THE FORGE CALDERA (Caelin & Nyxara)",
         "contentLength": 5560,
         "paragraphs": 45
       },
       {
         "id": "act-5",
-        "title": "Act V: ABOVE � THE VENT SHAFT ROUTE (Serana, Vex, Thornik, Durgan)",
+        "title": "Act V: ABOVE \u00ef\u00bf\u00bd THE VENT SHAFT ROUTE (Serana, Vex, Thornik, Durgan)",
         "contentLength": 3077,
         "paragraphs": 23
       },
@@ -243,41 +255,41 @@
   {
     "num": 8,
     "slug": "chapter-8-down-from-the-peaks",
-    "title": "� Down from the Peaks",
+    "title": "\u00ef\u00bf\u00bd Down from the Peaks",
     "acts": [
       {
         "id": "act-1",
-        "title": "Act I: � After the Ridge",
+        "title": "Act I: \u00ef\u00bf\u00bd After the Ridge",
         "contentLength": 5508,
         "paragraphs": 31
       },
       {
         "id": "act-2",
-        "title": "Act II: � The East Gate of Millbrook",
+        "title": "Act II: \u00ef\u00bf\u00bd The East Gate of Millbrook",
         "contentLength": 6416,
         "paragraphs": 42
       },
       {
         "id": "act-3",
-        "title": "Act III: � Streets and Rooms",
+        "title": "Act III: \u00ef\u00bf\u00bd Streets and Rooms",
         "contentLength": 12152,
         "paragraphs": 70
       },
       {
         "id": "act-4",
-        "title": "Act IV: � Fractures and Small Mercies",
+        "title": "Act IV: \u00ef\u00bf\u00bd Fractures and Small Mercies",
         "contentLength": 2059,
         "paragraphs": 9
       },
       {
         "id": "act-5",
-        "title": "Act V: � Night Watch",
+        "title": "Act V: \u00ef\u00bf\u00bd Night Watch",
         "contentLength": 1779,
         "paragraphs": 15
       },
       {
         "id": "act-6",
-        "title": "Act VI: � Morning Orders",
+        "title": "Act VI: \u00ef\u00bf\u00bd Morning Orders",
         "contentLength": 2123,
         "paragraphs": 13
       }
@@ -286,93 +298,129 @@
   {
     "num": 9,
     "slug": "chapter-9-the-siege",
-    "title": "The Siege",
+    "title": "THE SIEGE",
     "acts": [
       {
         "id": "act-1",
         "title": "Act I: First Bell",
-        "contentLength": 2481,
-        "paragraphs": 14
+        "contentLength": 4806,
+        "paragraphs": 19
       },
       {
         "id": "act-2",
         "title": "Act II: First Clash",
-        "contentLength": 2828,
-        "paragraphs": 19
+        "contentLength": 3010,
+        "paragraphs": 12
       },
       {
         "id": "act-3",
         "title": "Act III: Second Bell",
-        "contentLength": 3401,
-        "paragraphs": 33
+        "contentLength": 5002,
+        "paragraphs": 26
       },
       {
         "id": "act-4",
         "title": "Act IV: Vale's Stand",
-        "contentLength": 2729,
-        "paragraphs": 15
+        "contentLength": 3646,
+        "paragraphs": 19
       },
       {
         "id": "act-5",
         "title": "Act V: Turn & Break",
-        "contentLength": 1899,
-        "paragraphs": 10
+        "contentLength": 3500,
+        "paragraphs": 14
       },
       {
         "id": "act-6",
         "title": "Act VI: Ashes",
-        "contentLength": 6684,
-        "paragraphs": 42
+        "contentLength": 7667,
+        "paragraphs": 41
       }
     ]
   },
   {
     "num": 10,
-    "slug": "chapter-10-road-to-the-plateau",
-    "title": "Road to the Plateau",
+    "slug": "chapter-10-partings",
+    "title": "PARTINGS",
     "acts": [
       {
         "id": "act-1",
-        "title": "Act I: Leaving Walls",
-        "contentLength": 3455,
-        "paragraphs": 24
+        "title": "Act I: Nyxara",
+        "contentLength": 5264,
+        "paragraphs": 26
       },
       {
         "id": "act-2",
-        "title": "Act II: The Hedge and the Hounds",
-        "contentLength": 5227,
-        "paragraphs": 43
+        "title": "Act II: The Group Hears",
+        "contentLength": 3996,
+        "paragraphs": 13
       },
       {
         "id": "act-3",
-        "title": "Act III: Waystone",
-        "contentLength": 4478,
-        "paragraphs": 37
+        "title": "Act III: Thornik's Choice",
+        "contentLength": 5225,
+        "paragraphs": 20
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: Serana's Road",
+        "contentLength": 4688,
+        "paragraphs": 22
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: The Mile-Stone",
+        "contentLength": 2919,
+        "paragraphs": 14
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: The Smaller Party",
+        "contentLength": 4217,
+        "paragraphs": 21
       }
     ]
   },
   {
     "num": 11,
-    "slug": "chapter-11-before-the-boundary",
-    "title": "Before the Boundary",
+    "slug": "chapter-11-road-to-the-plateau",
+    "title": "ROAD TO THE PLATEAU",
     "acts": [
       {
         "id": "act-1",
-        "title": "Act I: Ironwood Leaving, Road Returning",
-        "contentLength": 3790,
-        "paragraphs": 20
+        "title": "Act I: Leaving Walls",
+        "contentLength": 4010,
+        "paragraphs": 26
       },
       {
         "id": "act-2",
-        "title": "Act II: The Market Road Ambush",
-        "contentLength": 4855,
-        "paragraphs": 37
+        "title": "Act II: Post-Siege Country",
+        "contentLength": 3762,
+        "paragraphs": 24
       },
       {
         "id": "act-3",
-        "title": "Act III: The Boundary Bridge",
-        "contentLength": 5121,
+        "title": "Act III: The Hedge and the Hounds",
+        "contentLength": 4025,
         "paragraphs": 31
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: The Charcoal Clamp",
+        "contentLength": 4875,
+        "paragraphs": 25
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: The Waystone",
+        "contentLength": 4537,
+        "paragraphs": 25
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: The Aurora",
+        "contentLength": 4971,
+        "paragraphs": 27
       }
     ]
   },
