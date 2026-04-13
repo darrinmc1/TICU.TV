@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
+import { signSession } from '@/lib/auth'
 
 export async function POST(request: NextRequest) {
   try {
@@ -11,7 +12,8 @@ export async function POST(request: NextRequest) {
 
     if (username === ADMIN_USERNAME && password === ADMIN_PASSWORD) {
       const response = NextResponse.json({ success: true, role: 'admin' })
-      response.cookies.set('admin_session', 'authenticated', {
+      const sessionToken = await signSession({ role: 'admin', username })
+      response.cookies.set('admin_session', sessionToken, {
         httpOnly: true,
         secure: process.env.NODE_ENV === 'production',
         sameSite: 'strict',
