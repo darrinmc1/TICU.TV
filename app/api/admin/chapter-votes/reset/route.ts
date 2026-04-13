@@ -1,12 +1,15 @@
 import { NextResponse } from "next/server"
 import type { NextRequest } from "next/server"
 import { resetChapterVotes } from "@/lib/chapter-votes"
+import { verifySession } from "@/lib/auth"
 
 const SAFE_ID = /^[a-z0-9-]+$/
 
 export async function POST(request: NextRequest) {
-  const adminSession = request.cookies.get("admin_session")
-  if (!adminSession) {
+  const adminSession = request.cookies.get("admin_session")?.value
+  const payload = adminSession ? await verifySession(adminSession) : null
+
+  if (!payload || payload.role !== "admin") {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 })
   }
 
