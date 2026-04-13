@@ -1,0 +1,404 @@
+[
+  {
+    "num": 1,
+    "slug": "chapter-1-the-dragons-last-breath",
+    "title": "THE DRAGON'S LAST BREATH",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: Dawn's Reckoning",
+        "contentLength": 5497,
+        "paragraphs": 38
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: The Binding",
+        "contentLength": 10892,
+        "paragraphs": 58
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: Unlikely Alliance",
+        "contentLength": 8952,
+        "paragraphs": 48
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: The Path Forward",
+        "contentLength": 10857,
+        "paragraphs": 77
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "slug": "chapter-2-gathering-shadows",
+    "title": "GATHERING SHADOWS",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: Three Days Later",
+        "contentLength": 13135,
+        "paragraphs": 68
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: Divine Fracture",
+        "contentLength": 11911,
+        "paragraphs": 66
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: Baptism by Fire",
+        "contentLength": 13581,
+        "paragraphs": 87
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "slug": "chapter-3-natures-messenger",
+    "title": "NATURE'S MESSENGER",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: The Forest's Pain",
+        "contentLength": 16754,
+        "paragraphs": 80
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: Shadow at the Fire",
+        "contentLength": 12594,
+        "paragraphs": 84
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: Descent into Shadow",
+        "contentLength": 12179,
+        "paragraphs": 69
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "slug": "chapter-4-bonds-and-burdens",
+    "title": "Bonds and Burdens",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: MORNING DEPARTURE",
+        "contentLength": 4919,
+        "paragraphs": 28
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: NYXARA AT THE CHOKE POINT",
+        "contentLength": 3659,
+        "paragraphs": 32
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: \"SPEAK TRUE OR SPEAK NOT AT ALL\"",
+        "contentLength": 8728,
+        "paragraphs": 76
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: THE DAY'S CLIMB & THE CORRUPTED",
+        "contentLength": 5018,
+        "paragraphs": 45
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: THE HOLLOW ROAD",
+        "contentLength": 7760,
+        "paragraphs": 75
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: THE LONG NIGHT",
+        "contentLength": 7632,
+        "paragraphs": 91
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "slug": "chapter-5-the-undervault",
+    "title": "THE UNDERVAULT",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: THE CORRUPTED",
+        "contentLength": 10193,
+        "paragraphs": 98
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: THE VOTE",
+        "contentLength": 2421,
+        "paragraphs": 21
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: THE CHASM CHOIR",
+        "contentLength": 6600,
+        "paragraphs": 65
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: DEEP HALL",
+        "contentLength": 7369,
+        "paragraphs": 65
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: THE LONG ASCENT",
+        "contentLength": 8761,
+        "paragraphs": 86
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: THE SUMMIT'S SHADOW",
+        "contentLength": 6280,
+        "paragraphs": 61
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "slug": "chapter-6-stone-that-breathes",
+    "title": "� �STONE THAT BREATHES�",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: � HOLDING PATTERN",
+        "contentLength": 5538,
+        "paragraphs": 22
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: � TESTING THE EDGES",
+        "contentLength": 4932,
+        "paragraphs": 31
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: � PLANS & FRICTION",
+        "contentLength": 2855,
+        "paragraphs": 22
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: � THE WEIGHT OF THE WATCH",
+        "contentLength": 6052,
+        "paragraphs": 49
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "slug": "chapter-7-the-fractured-sanctum",
+    "title": "THE FRACTURED SANCTUM",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: SURROUNDED",
+        "contentLength": 4686,
+        "paragraphs": 29
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: THE GAUNTLET",
+        "contentLength": 16684,
+        "paragraphs": 173
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: THE COLLAPSE",
+        "contentLength": 8965,
+        "paragraphs": 64
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: BELOW � THE FORGE CALDERA (Caelin & Nyxara)",
+        "contentLength": 5560,
+        "paragraphs": 45
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: ABOVE � THE VENT SHAFT ROUTE (Serana, Vex, Thornik, Durgan)",
+        "contentLength": 3077,
+        "paragraphs": 23
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: PARALLEL PATHS",
+        "contentLength": 4204,
+        "paragraphs": 44
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "slug": "chapter-8-down-from-the-peaks",
+    "title": "� Down from the Peaks",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: � After the Ridge",
+        "contentLength": 5508,
+        "paragraphs": 31
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: � The East Gate of Millbrook",
+        "contentLength": 6416,
+        "paragraphs": 42
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: � Streets and Rooms",
+        "contentLength": 12152,
+        "paragraphs": 70
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: � Fractures and Small Mercies",
+        "contentLength": 2059,
+        "paragraphs": 9
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: � Night Watch",
+        "contentLength": 1779,
+        "paragraphs": 15
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: � Morning Orders",
+        "contentLength": 2123,
+        "paragraphs": 13
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "slug": "chapter-9-the-siege",
+    "title": "The Siege",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: First Bell",
+        "contentLength": 2481,
+        "paragraphs": 14
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: First Clash",
+        "contentLength": 2828,
+        "paragraphs": 19
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: Second Bell",
+        "contentLength": 3401,
+        "paragraphs": 33
+      },
+      {
+        "id": "act-4",
+        "title": "Act IV: Vale's Stand",
+        "contentLength": 2729,
+        "paragraphs": 15
+      },
+      {
+        "id": "act-5",
+        "title": "Act V: Turn & Break",
+        "contentLength": 1899,
+        "paragraphs": 10
+      },
+      {
+        "id": "act-6",
+        "title": "Act VI: Ashes",
+        "contentLength": 6684,
+        "paragraphs": 42
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "slug": "chapter-10-road-to-the-plateau",
+    "title": "Road to the Plateau",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: Leaving Walls",
+        "contentLength": 3455,
+        "paragraphs": 24
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: The Hedge and the Hounds",
+        "contentLength": 5227,
+        "paragraphs": 43
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: Waystone",
+        "contentLength": 4478,
+        "paragraphs": 37
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "slug": "chapter-11-before-the-boundary",
+    "title": "Before the Boundary",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Act I: Ironwood Leaving, Road Returning",
+        "contentLength": 3790,
+        "paragraphs": 20
+      },
+      {
+        "id": "act-2",
+        "title": "Act II: The Market Road Ambush",
+        "contentLength": 4855,
+        "paragraphs": 37
+      },
+      {
+        "id": "act-3",
+        "title": "Act III: The Boundary Bridge",
+        "contentLength": 5121,
+        "paragraphs": 31
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "slug": "epilogue",
+    "title": "Epilogue",
+    "acts": [
+      {
+        "id": "act-1",
+        "title": "Part I: The Fall",
+        "contentLength": 2725,
+        "paragraphs": 17
+      },
+      {
+        "id": "act-2",
+        "title": "Part II: The Deep Stirs",
+        "contentLength": 3656,
+        "paragraphs": 18
+      },
+      {
+        "id": "act-3",
+        "title": "Part III: The Road North",
+        "contentLength": 1626,
+        "paragraphs": 11
+      }
+    ]
+  }
+]

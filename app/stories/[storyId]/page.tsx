@@ -31,7 +31,7 @@ type StoryDetailData = {
   actOptions: ActOption[]
 }
 
-export const STORIES: Record<string, StoryDetailData> = {
+const STORIES: Record<string, StoryDetailData> = {
   "dragons-gambit": {
     title: "The Dragon's Gambit",
     genre: "Fantasy",

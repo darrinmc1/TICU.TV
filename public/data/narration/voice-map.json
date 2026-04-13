@@ -1,0 +1,72 @@
+{
+  "narrator": {
+    "voice": "bm_daniel",
+    "speed": 0.95,
+    "label": "Narrator"
+  },
+  "caelin": {
+    "voice": "am_michael",
+    "speed": 1.0,
+    "label": "Caelin"
+  },
+  "vex": {
+    "voice": "af_jessica",
+    "speed": 1.1,
+    "label": "Vex"
+  },
+  "thornik": {
+    "voice": "bm_george",
+    "speed": 1.05,
+    "label": "Thornik"
+  },
+  "serana": {
+    "voice": "bf_emma",
+    "speed": 0.95,
+    "label": "Serana"
+  },
+  "elowen": {
+    "voice": "af_nova",
+    "speed": 0.9,
+    "label": "Elowen"
+  },
+  "durgan": {
+    "voice": "am_fenrir",
+    "speed": 0.9,
+    "label": "Durgan"
+  },
+  "nyxara": {
+    "voice": "af_kore",
+    "speed": 1.0,
+    "label": "Nyxara"
+  },
+  "aldric": {
+    "voice": "am_onyx",
+    "speed": 0.9,
+    "label": "Aldric"
+  },
+  "vharisax": {
+    "voice": "bf_alice",
+    "speed": 0.8,
+    "label": "Vharisax"
+  },
+  "mira": {
+    "voice": "af_heart",
+    "speed": 1.05,
+    "label": "Mira"
+  },
+  "gareth": {
+    "voice": "bm_lewis",
+    "speed": 0.9,
+    "label": "Gareth"
+  },
+  "scale": {
+    "voice": "af_alloy",
+    "speed": 0.85,
+    "label": "Scale"
+  },
+  "inscription": {
+    "voice": "bm_fable",
+    "speed": 0.8,
+    "label": "Inscription"
+  }
+}

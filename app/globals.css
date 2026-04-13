@@ -288,4 +288,40 @@
     backdrop-filter: blur(12px);
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
+
+  /* ── Narration-ready paragraph styles ── */
+
+  /* Base paragraph — transition for smooth highlight changes */
+  .narration-paragraph {
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    margin-left: -0.5rem;
+    margin-right: -0.5rem;
+  }
+
+  /* Active (currently narrated) paragraph — applied via JS */
+  .narration-paragraph.narration-active {
+    background-color: rgba(251, 146, 60, 0.08);
+    box-shadow: inset 3px 0 0 rgb(251, 146, 60);
+  }
+
+  /* Dialogue paragraphs get a subtle left accent */
+  .narration-paragraph.dialogue {
+    border-left: 2px solid rgba(255, 255, 255, 0.06);
+    padding-left: 1rem;
+  }
+
+  /* Dialogue paragraph when it's also the active narration target */
+  .narration-paragraph.dialogue.narration-active {
+    border-left-color: rgb(251, 146, 60);
+    background-color: rgba(251, 146, 60, 0.06);
+  }
+
+  /* Reduced motion: disable transitions */
+  @media (prefers-reduced-motion: reduce) {
+    .narration-paragraph {
+      transition: none;
+    }
+  }
 }

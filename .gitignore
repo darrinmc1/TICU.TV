@@ -25,3 +25,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large audio files (use Git LFS or host externally)
+/public/audio/
+
+# intermediate build artifacts
+/chapters_annotated/
+/cleaned_chapters/
+
+# python cache
+__pycache__/

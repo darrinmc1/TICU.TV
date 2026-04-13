@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "ch8-act2-seg001",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Dawn found them already moving, the mountain at their backs like a dark thought they refused to turn and entertain. The air changed first -- thin cold bleeding into crisp, pine-sweet breath with a mineral bite from distant streams.",
+    "act": 2,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act2-seg002",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Lichen-glow gave way to frost-silvered scrub; then the path stitched itself through scattered firs and the soil began to smell like earth again instead of old stone.",
+    "act": 2,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act2-seg003",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Millbrook's the closest roof that won't fall on us,\"",
+    "act": 2,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act2-seg004",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said, voice low, practical.",
+    "act": 2,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act2-seg005",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Temple wards, a licensed healer, and a smith who won't insult my beard. We get clean water, mended kit, and news.\"",
+    "act": 2,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act2-seg006",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana nodded without looking back.",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act2-seg007",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Temple first. Water second. Decisions after.\"",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act2-seg008",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her tone made it an order and a prayer at once.",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act2-seg009",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said nothing. The scale in his forearm had settled to a coal-glow -- steady, sullen heat that throbbed in time with his heartbeat.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act2-seg010",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The lattice of ember-filaments ached like overworked muscle, a constant message written under the skin: Still here. Still costing.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act2-seg011",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He walked with his right arm close to his side, conserving everything he could, counting steps when thoughts tried to circle the collapse.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act2-seg012",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara kept pace a little behind and to his left, favoring her ankle. She wore her gloves again, black leather cut close, immaculate despite the miles. She didn't explain. She never did. The gloves stayed, and no one in the world needed the sight hidden beneath them.",
+    "act": 2,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act2-seg013",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan took rearguard. The shadow at his boots behaved -- mostly.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act2-seg014",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Every so often it stretched a finger's width too far toward the path they'd just walked, as if reaching back for the mountain's darkness; each time his jaw tightened and it went flat again.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act2-seg015",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "When a trickle of red touched his upper lip he wiped it away on a dark sleeve and kept moving. No one commented. Maybe they didn't see. Maybe they pretended not to.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act2-seg016",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex moved quiet at the flank, her shoulder bound high and tight under her cloak. She spared her right arm, used her left to balance on the scree. Her breath ghosted in the cold. She didn't complain. She never did either.",
+    "act": 2,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act2-seg017",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Somewhere far behind, the mountain gave a last, reluctant echo: thud... thud... The sound thinned with every switchback, not nearer or farther so much as fainter -- like a heartbeat heard through a wall you were walking away from.",
+    "act": 2,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act2-seg018",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Spring",
+    "act": 2,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act2-seg019",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They found a spring where the path shouldered under a shelf of granite, water humming through old ironweed and moss. It smelled clean -- green-cold and metallic -- and the relief of it stole conversation from their mouths.",
+    "act": 2,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act2-seg020",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They drank. Washed dust from faces and hands. No one went for wounds until they'd filled skins; old habits, soldier's habits.",
+    "act": 2,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act2-seg021",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The healer's words from another life, another town, rose uninvited in Caelin's mind:",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act2-seg022",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Not the same as your druid.\"",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act2-seg023",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He could almost hear Elowen laugh at that. He pressed his lips to the waterskin and swallowed the ache down with the cold. The scale warmed in answer, as if approving the discipline of silence over words.",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act2-seg024",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Two hours to the treeline,\"",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act2-seg025",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said, consulting a sweat-curled page from his grandfather's journal.",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act2-seg026",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Four to Millbrook if the track holds.\"",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act2-seg027",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Make it three,\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act2-seg028",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, squinting downhill.",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act2-seg029",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Smoke over the flats. Small plumes. Breakfast fires or too many chimneys for a village that size.\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act2-seg030",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Refugees,\"",
+    "act": 2,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act2-seg031",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said. Not a question.",
+    "act": 2,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act2-seg032",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They moved on.",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch8-act2-seg033",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Approach: Treeline",
+    "act": 2,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act2-seg034",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The path widened under trees, frost giving way to the sharp sweetness of crushed needles and the tannin breath of bark warmed by a weak sun. Birds stitched sound into the branches -- nervous, thin.",
+    "act": 2,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act2-seg035",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Civilization announced itself in small ways: a cut fencepost with fresh tool-marks; a snare hanging empty and forgotten; wheel ruts pressed pale into the hard ground.",
+    "act": 2,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act2-seg036",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Closest warded town means closest news,\"",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act2-seg037",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik added, half to himself as he walked.",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act2-seg038",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"We need a read on the valleys. If the corruption's pushed this far south, Depth -- \"",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act2-seg039",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He stopped himself, glancing at Caelin, then at Serana.",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act2-seg040",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"We'll have choices to make.\"",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act2-seg041",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"We will,\"",
+    "act": 2,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act2-seg042",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said. She didn't say when I can hear Her again. She didn't say if.",
+    "act": 2,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act2-seg043",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara's gaze flicked to Caelin's hand.",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act2-seg044",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"How's the fire?\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act2-seg045",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Here.\"",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act2-seg046",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He flexed his fingers. The lattice answered with a thread of heat and a bruise-deep throb.",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act2-seg047",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Manageable.\"",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act2-seg048",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Good.\"",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch8-act2-seg049",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She let the subject die, the way a person did when the answer didn't change the plan.",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch8-act2-seg050",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The last of the mountain's voice fell away behind them -- no more stone-deep thudding, only the hush of needles and the quiet complaint of boots.",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act2-seg051",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "When the trees broke at a low saddle, the land opened like a held breath: fields winter-bare, the river flashing dull pewter to the east, and on a rise beyond, a palisade and a scatter of roofs.",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act2-seg052",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Millbrook.",
+    "act": 2,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch8-act2-seg053",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Smoke ribbons lifted from within the walls, not frantic, not yet. A bell clanged once in the distance; not alarm. A call to market, or prayer, or inventory.",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch8-act2-seg054",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Temple. Water. Healer. Smith.\"",
+    "act": 2,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act2-seg055",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana looked down the slope.",
+    "act": 2,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act2-seg056",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"And someone who can tell us what the valley knows.\"",
+    "act": 2,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act2-seg057",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Captain on the gate'll do,\"",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act2-seg058",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, scanning the wall-walk.",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act2-seg059",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"If he's half-awake.\"",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act2-seg060",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan's shadow reached a hair's breadth past his heel like a dog testing a leash. He stepped forward and it obeyed, flat again, obedient for now.",
+    "act": 2,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act2-seg061",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin adjusted the strap on his pack with his left hand. The right stayed close, heat-shadows flickering under the skin where the scale lived. He told the pain the same thing he'd told it all morning: later. He told the grief: later.",
+    "act": 2,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch8-act2-seg062",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They started down toward the east gate and the promise of a town that might -- just might -- hold a night's peace.",
+    "act": 2,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch8-act3-seg063",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They reached the east palisade as the market bell faded. Archers watched from the walk, bows half-drawn; on the ground, six spear-bearers braced like nails hammered into the mud. Millbrook smelled of wet leather, woodsmoke, and too many bodies jammed behind timber walls.",
+    "act": 3,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act3-seg064",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"State your business,\"",
+    "act": 3,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act3-seg065",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "called a man in a plain breastplate with the posture of someone who'd slept in armor all week. Weather-browned face, scar at the jaw hinge, eyes that missed very little.",
+    "act": 3,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act3-seg066",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana stepped forward, gauntlet lifted so her order's sigil -- sunburst over scales -- caught the light.",
+    "act": 3,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act3-seg067",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Serana Valeblade, ordained paladin. Refugees from Thornwick ruins. We bring warning, and swords.\"",
+    "act": 3,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act3-seg068",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His gaze flicked from the sigil to her stance, to the party's weapons, back to her eyes. He made a decision you could hear in his breath.",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act3-seg069",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Captain Vale,\"",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act3-seg070",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said.",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act3-seg071",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"We're short on courage and long on problems. Gates open.\"",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act3-seg072",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The twin leaves thudded back. They entered into a corridor of sharpened logs and boiled leather -- murder-hole roof overhead, oil stink in the slats. Precaution had a smell here: tallow, pitch, and anxious sweat.",
+    "act": 3,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act3-seg073",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale fell in beside Serana as they walked, not quite deferential but close.",
+    "act": 3,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act3-seg074",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Order sigils carry ward-rights in this province. I'll keep muster and law, but if you're taking the line, my guard will pivot to your shield-wall. Agreed?\"",
+    "act": 3,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act3-seg075",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Agreed,\"",
+    "act": 3,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act3-seg076",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said. No hesitation. No flourish. Command clicked into place with the ease of a habit she was scared she'd lost.",
+    "act": 3,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act3-seg077",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Inside the Walls",
+    "act": 3,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act3-seg078",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Millbrook had doubled itself in a week. Cart wheels stacked against sheds; laundry lines slung across alleys; a stew of accents where there should have been one. Children stared at the weapons with the dry-eyed calm of people who had run too far too fast.",
+    "act": 3,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act3-seg079",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale walked them along the palisade.",
+    "act": 3,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act3-seg080",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Pressure from the north trace,\"",
+    "act": 3,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act3-seg081",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said, tapping weak spots as they passed.",
+    "act": 3,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act3-seg082",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Sporadic, but learning. Refugees say fire first, then the shadow-things. We hold after dark with lantern patrols and salt-lines across the lanes. Won't hold forever.\"",
+    "act": 3,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act3-seg083",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik ran a hand over a gate hinge worn shiny with worry.",
+    "act": 3,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act3-seg084",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"That pin's about to shear.\"",
+    "act": 3,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act3-seg085",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He fished in his coat, then stopped, thumb finding only leather. A brief count across his harness -- empty sockets where devices should be. His mouth thinned.",
+    "act": 3,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act3-seg086",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"I can brace it for now. Proper fix later.\"",
+    "act": 3,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act3-seg087",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Do it,\"",
+    "act": 3,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act3-seg088",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale said.",
+    "act": 3,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act3-seg089",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"I don't care if it looks ugly, I care if it swings.\"",
+    "act": 3,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act3-seg090",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik hauled out a smith's hammer -- old, honest steel -- and set to work, the ring of metal carrying like a small prayer. He didn't explain the empty harness; the emptiness explained itself.",
+    "act": 3,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act3-seg091",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara drifted peripheral to the conversation, gloves immaculate, hood shadowing her expression. She moved like someone who understood attention was a currency and spent none of it here.",
+    "act": 3,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act3-seg092",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan hung on the tail of the tour, silent sentinel. When a thin red line started at his nostril he turned his head and wiped it away on the black of his sleeve, the mark vanishing into cloth and shadow. Vale didn't notice. Or pretended not to. Good captains chose their moments.",
+    "act": 3,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act3-seg093",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Healer's House",
+    "act": 3,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch8-act3-seg094",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Your Ember-bearer looks rung out,\"",
+    "act": 3,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act3-seg095",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale said, practical.",
+    "act": 3,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act3-seg096",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Our licensed sawbones kept two caravans alive last month. Temple's down the hill if you'd rather sermons than stitches.\"",
+    "act": 3,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act3-seg097",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Both,\"",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act3-seg098",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said.",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act3-seg099",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Healer first.\"",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act3-seg100",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The healer's house tasted of boiled herbs and bitter bark; bundles dried from the rafters like wind-bell chimes. A woman with iron-gray hair and the narrow hands of her craft waved Caelin to a stool and prodded gently around the black-gleam scale in his forearm.",
+    "act": 3,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act3-seg101",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Tell me what you've been using for the pain,\"",
+    "act": 3,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act3-seg102",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said, businesslike.",
+    "act": 3,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act3-seg103",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"A friend,\"",
+    "act": 3,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act3-seg104",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin answered before he could edit it.",
+    "act": 3,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act3-seg105",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"A druid. She used to take the worst of it.\"",
+    "act": 3,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act3-seg106",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The healer's eyes softened a fraction.",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg107",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Not the same as your druid,\"",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg108",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she told him bluntly, but her touch gentled.",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg109",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"I can dull the edges. Can't argue with a relic.\"",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg110",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She packed a poultice at the tendons, wrapped him with clean linen that smelled of willow and camphor.",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg111",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You'll breathe easier. That will have to do.\"",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act3-seg112",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "It did -- barely. The lattice stayed hot, but the knife-edges felt further from the bone.",
+    "act": 3,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch8-act3-seg113",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Note",
+    "act": 3,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act3-seg114",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Back on the street, Caelin re-shouldered his pack one-handed -- and felt paper crinkle where there shouldn't be any. He frowned, stepped out of the lane's foot-traffic, and slid a folded square free from beneath the collar of his spare shirt.",
+    "act": 3,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch8-act3-seg115",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Plain, waxless, not there this morning.",
+    "act": 3,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch8-act3-seg116",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Inside, a tight, neat hand:",
+    "act": 3,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act3-seg117",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Ember-bearer,",
+    "act": 3,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act3-seg118",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Depthspire wakes.",
+    "act": 3,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act3-seg119",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Two weeks northeast if you don't get clever.",
+    "act": 3,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch8-act3-seg120",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Don't be late.",
+    "act": 3,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch8-act3-seg121",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "-- L.",
+    "act": 3,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch8-act3-seg122",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He showed Serana, then Vex. Vale glanced once, mind already circling town defense, and didn't pry.",
+    "act": 3,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch8-act3-seg123",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"L?\"",
+    "act": 3,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act3-seg124",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, brows up.",
+    "act": 3,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act3-seg125",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Later,\"",
+    "act": 3,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch8-act3-seg126",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana decided.",
+    "act": 3,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch8-act3-seg127",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Walls first.\"",
+    "act": 3,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch8-act3-seg128",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin tucked the note back where it had appeared. The paper felt colder than it should in his fingers. When he slid it away, the skin over the scale warmed in reply, like disagreement.",
+    "act": 3,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch8-act3-seg129",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Muster",
+    "act": 3,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch8-act3-seg130",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "By late afternoon, Vale had them on a fast circuit through Millbrook's beating heart.",
+    "act": 3,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act3-seg131",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana walked the wall with him, calling positions and fall-backs; the guards took her orders without side-eye because the sigil made it law and the steadiness in her voice made it easy.",
+    "act": 3,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act3-seg132",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex ghosted the lanes, mapping alleys and choke points and escape routes with a thief's pragmatism. Thornik shored the hinge with a wedge and two bolts and a prayer, then started cataloguing where scrap iron could be made into stakes.",
+    "act": 3,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act3-seg133",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan stayed paired with a lantern-man at the western walk; the shadow at his boots behaved when looked at and misbehaved when not, which was the nature of certain problems.",
+    "act": 3,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act3-seg134",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara vanished for an hour and returned with dried ink at the edge of her glove and a scent of old vellum -- wherever she'd gone, it had books and wards and a keeper who owed her a favor.",
+    "act": 3,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act3-seg135",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "As the sun slid, Vale faced Serana at the inner gate.",
+    "act": 3,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch8-act3-seg136",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"We drill the bells at dusk,\"",
+    "act": 3,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch8-act3-seg137",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said.",
+    "act": 3,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch8-act3-seg138",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"If you've got a better line, I'll take it.\"",
+    "act": 3,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch8-act3-seg139",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana's jaw flexed like she wanted to pray and couldn't find where to put the words.",
+    "act": 3,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act3-seg140",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"We hold the market square,\"",
+    "act": 3,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act3-seg141",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said instead.",
+    "act": 3,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act3-seg142",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Light, angles, lanes. We make them come to us.\"",
+    "act": 3,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act3-seg143",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale nodded once.",
+    "act": 3,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act3-seg144",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Right. I'll put the green boys on the left, veterans at the well. Your people anchor the street from the mill. We answer your calls.\"",
+    "act": 3,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act3-seg145",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He glanced at the sigil again, then at her eyes.",
+    "act": 3,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act3-seg146",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Try not to get us killed, Paladin.\"",
+    "act": 3,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act3-seg147",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'll do what I can,\"",
+    "act": 3,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch8-act3-seg148",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said. It was almost a joke and almost a vow.",
+    "act": 3,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch8-act4-seg149",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Millbrook had convinced itself of spring. Meltwater ran in narrow gullies between cobbles. Laundry pretended the wind was helpful. A cartwheel argued with a rut and lost. Normalcy stacked itself high enough to be worth falling from.",
+    "act": 4,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act4-seg150",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They procured soap, a length of decent rope, a handful of nails Thornik admired as if they were art, and bread with enough heat left in it to sting fingers.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act4-seg151",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin carried the loaf under his good arm and learned that you can remember a person with your nose as easily as any other way.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act4-seg152",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Three more breaths of it and he knew exactly which market stall Elowen would have gone to first, and what she would have said to the baker, and why that was exactly the kind of thing that was going to keep ambushing him for a long time.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act4-seg153",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Quiet Rooms",
+    "act": 4,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act4-seg154",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara asked Vale for",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act4-seg155",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"a door that locks and a basin that doesn't leak.\"",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act4-seg156",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He gave her a narrow cell behind the archive. She closed the bolt and peeled her gloves off in the shadowed light -- flesh blackened at the fingertips where death-magic had taken its rent. Linen. Oil. The practiced ritual of binding and unbinding.",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act4-seg157",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Not performance; maintenance. Out of sight because sometimes strength is simply privacy.",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act4-seg158",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "By the time she reemerged, the gloves were back on, immaculate as always, and no one had been invited to pity.",
+    "act": 4,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act4-seg159",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A Healer's Word",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act4-seg160",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin's new bandage smelled of willow and camphor. The healer had done what she could: dulled the edges, steadied his breath.",
+    "act": 4,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act4-seg161",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Not the same as your druid,\"",
+    "act": 4,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act4-seg162",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she'd said, and he hadn't asked how she knew -- because he'd told her, softly, before he could stop himself. Elowen's name didn't cross his lips; it didn't have to. The ache made a name of its own.",
+    "act": 4,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act4-seg163",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "On the walk back, Vex paced him without comment. When his step hitched on a pothole, her hand shot out and steadied his elbow as if she hadn't meant to. She let go just as quickly, pretending she hadn't.",
+    "act": 4,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act4-seg164",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Thanks,\"",
+    "act": 4,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act4-seg165",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said.",
+    "act": 4,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act4-seg166",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Watch your feet,\"",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act4-seg167",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she replied, sharpening the words to hide the softness inside them.",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act4-seg168",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Copper Ladle",
+    "act": 4,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act4-seg169",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Millbrook's main tavern wore its age in grooves on the floorboards and soot in the rafters. The Copper Ladle's low ceiling trapped smoke and noise in equal measure. Refugees packed the benches, their conversations a blend of fear and forced normalcy.",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act4-seg170",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale took the corner bench with Serana to walk the defensive map again; Vex ghosted to a column with clear sight of both doors; Durgan planted himself by the back exit and watched shadows decide if they wanted to misbehave.",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act4-seg171",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin shouldered through the press toward an empty table, the scale's heat making his arm ache worse in the crowded warmth.",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act4-seg172",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The Ember-born.\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act4-seg173",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The voice was silk over steel, carrying easily over the tavern's din.",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act4-seg174",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Fortune smiles -- I'd begun to worry you'd take another route entirely.\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act4-seg175",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The speaker rose from a corner table with practiced grace -- dark hair, amber eyes that catalogued everything, expensive leather armor that looked effortlessly casual.",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act4-seg176",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Maps and journals spread before him like a merchant's wares, a bottle of Stormhaven red already half-empty. Five cups waited with the patience of a man accustomed to getting his way.",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act4-seg177",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Jasper Coinblight, at your considerable service.\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch8-act4-seg178",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He gestured to the empty chairs with a flourish that somehow didn't look theatrical.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch8-act4-seg179",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Information broker, relic hunter, and -- if the cards fall favorably -- your guide to wealth beyond imagining. Please, do sit. The wine is exceptional, the company promises to be memorable, and the conversation will be worth considerably more than both.\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch8-act4-seg180",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex's hand drifted toward a dagger hilt.",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act4-seg181",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You've been waiting for us specifically.\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch8-act4-seg182",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Waiting implies passivity. I prefer 'strategically positioned along probable routes.'\"",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act4-seg183",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's smile could have charmed coin from a miser's purse.",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act4-seg184",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"When the dragon-marked and his remarkable companions depart Thornwick heading east, certain destinations become statistically likely. And statistics, my dear shadow-dancer, are simply opportunities wearing numbers.\"",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch8-act4-seg185",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin felt the scale pulse steady -- no white-hot sting of deception. Whatever else this man was, he believed his own silver tongue.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch8-act4-seg186",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"You know where we're going,\"",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act4-seg187",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said. Not a question.",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch8-act4-seg188",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I know where you must go.\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act4-seg189",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper spread his maps across the table with the reverence of a priest laying out scripture.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act4-seg190",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Depthspire. The Concord's most ambitious prison-vault, and quite possibly their most catastrophically brilliant mistake.\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch8-act4-seg191",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He traced elegant fingers across the largest map.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act4-seg192",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Picture, if you will, a fortress designed not merely to store treasures, but to defend them using the very monsters too dangerous to kill. Corrupted mages. Possessed warriors. Things that slipped through conjuration rifts and refused to die politely. The Concord imprisoned them alongside their most valuable relics and artifacts.\"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch8-act4-seg193",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Using prisoners as guards?\"",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch8-act4-seg194",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik's scholarly interest overrode his caution.",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch8-act4-seg195",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"As a living security system.\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act4-seg196",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's eyes gleamed.",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act4-seg197",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Adaptive, intelligent, and utterly motivated. Each prisoner positioned between entrance and vault, each one desperate for freedom and quite willing to kill anyone foolish enough to offer the opportunity.\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act4-seg198",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He paused for effect.",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act4-seg199",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Brilliance and horror in equal measure, wouldn't you agree?\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch8-act4-seg200",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Three entrances,\"",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch8-act4-seg201",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper continued, tapping locations.",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch8-act4-seg202",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"East -- heavily guarded by what remains of the prison's original wardens. Inadvisable. South -- flooded for decades, structurally unsound. Suicidal. West -- the deep prison levels where, curiously enough, the wards are failing and certain occupied cells are beginning to open.\"",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch8-act4-seg203",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin's scale warmed at that.",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch8-act4-seg204",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"The doors are opening?\"",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch8-act4-seg205",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Indeed. And here's where your particular destiny intersects with my professional aspirations.\"",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act4-seg206",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper leaned forward, all business now despite the smooth delivery.",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act4-seg207",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"As the Nine relics awaken -- as that remarkable scale of yours came alive -- the binding magic weakens. The prisoners are stirring. Some cells have already failed. The dungeon becomes more dangerous every day.\"",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch8-act4-seg208",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"But also more accessible,\"",
+    "act": 4,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act4-seg209",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex finished, understanding dawning.",
+    "act": 4,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch8-act4-seg210",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Precisely.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act4-seg211",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's smile acknowledged her sharp mind.",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act4-seg212",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You must traverse all three levels to reach the vault itself. One relic waits there -- a piece of your grand puzzle. Plus sufficient treasures to fund, oh, a dozen expeditions.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act4-seg213",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He spread his hands.",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act4-seg214",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"What I'm proposing is a partnership of enlightened self-interest.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch8-act4-seg215",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You want a share,\"",
+    "act": 4,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch8-act4-seg216",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said flatly.",
+    "act": 4,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch8-act4-seg217",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"I want to survive long enough to spend it.\"",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch8-act4-seg218",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper met her mismatched eyes without flinching.",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch8-act4-seg219",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I've researched Depthspire for three years. I know the approach, the architecture, the legends. More importantly, I have an associate whose particular talents make him utterly invaluable for what we're attempting.\"",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch8-act4-seg220",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"What kind of associate?\"",
+    "act": 4,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch8-act4-seg221",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana asked carefully.",
+    "act": 4,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch8-act4-seg222",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's smile turned enigmatic.",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch8-act4-seg223",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The kind the Copper Ladle refuses to serve. Something about rats and smell.\"",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch8-act4-seg224",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He stood smoothly.",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch8-act4-seg225",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"But words do him disservice -- you should meet him yourselves. He's waiting outside, as taverns have become rather inhospitable to his unique charms.\"",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch8-act4-seg226",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He moved toward the door, then paused.",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act4-seg227",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Fair warning: Puddle is an acquired taste. But he possesses skills that will mean the difference between reaching that vault and becoming another cautionary tale.\"",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act4-seg228",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His amber eyes held something that might have been genuine respect.",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act4-seg229",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"One week. West entrance. Don't be late -- the dungeon doesn't improve with age.\"",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch8-act4-seg230",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Outside in the Alley",
+    "act": 4,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch8-act4-seg231",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The alley was dark, narrow, smelling of rain-soaked wood and old barrel rot. Jasper led them around the tavern's side where shadows pooled thick.",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch8-act4-seg232",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Puddle?\"",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch8-act4-seg233",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he called.",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch8-act4-seg234",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Our potential associates have agreed to an introduction.\"",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch8-act4-seg235",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Movement along the wall -- something scuttling with unsettling fluidity.",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch8-act4-seg236",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A figure emerged from the shadows.",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch8-act4-seg237",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Small. Barely five feet tall, hunched beneath a tattered dark cloak that looked like it had been stitched from a dozen different rags. Greenish skin caught the moonlight, and a broad, almost manic grin split his face, showing prominent teeth.",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act4-seg238",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Oversized eyes gleamed with cheerful intensity beneath the hood. Multiple pouches hung from a belt alongside small cages -- some occupied by small, squeaking shapes.",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act4-seg239",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He gripped a gnarled walking stick, and perched on his shoulders, tucked into pockets, one even nestled in his hood --",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch8-act4-seg240",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Hello! Puddle is Puddle! And these are Puddle's friends!\"",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act4-seg241",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The half-orc gestured proudly to the rats with his free hand, the movement making them adjust positions with practiced ease.",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch8-act4-seg242",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The smell arrived a heartbeat later: earthy, musty, cheese, underground.",
+    "act": 4,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch8-act4-seg243",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Too bright out here. Puddle prefers dark. Dark is safe! Lights make Puddles squinty!\"",
+    "act": 4,
+    "paragraphIndex": 42
+  },
+  {
+    "id": "ch8-act4-seg244",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Puddle Thrym,\"",
+    "act": 4,
+    "paragraphIndex": 43
+  },
+  {
+    "id": "ch8-act4-seg245",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper introduced smoothly.",
+    "act": 4,
+    "paragraphIndex": 43
+  },
+  {
+    "id": "ch8-act4-seg246",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"The finest tunnel-runner, dungeon-mapper, and all-around subterranean specialist currently breathing.\"",
+    "act": 4,
+    "paragraphIndex": 43
+  },
+  {
+    "id": "ch8-act4-seg247",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle beamed at the praise.",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch8-act4-seg248",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Fire-mark! Metal-beard! Shiny-paladin! Dark-lady! Pretty-knife-lady! Quiet-man-with-funny-shadow!\"",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch8-act4-seg249",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He'd named them all instantly, head tilting at each in turn.",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch8-act4-seg250",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Your... friends?\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch8-act4-seg251",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin asked carefully, gesturing toward the rats.",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch8-act4-seg252",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Yes! Puddle's friends are very helpful!\"",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch8-act4-seg253",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "One of the rats -- grey-brown with intelligent eyes -- chittered at length. Puddle listened intently, nodding.",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch8-act4-seg254",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Whiskers is very wise! Whiskers says Fire-mark smells like fire and old magic!\"",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch8-act4-seg255",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He tilted his head at Caelin, concerned.",
+    "act": 4,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch8-act4-seg256",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"And... sadness? Why Fire-mark sad? Is Puddle's smell? Puddle can stand farther away!\"",
+    "act": 4,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch8-act4-seg257",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"It's not your smell,\"",
+    "act": 4,
+    "paragraphIndex": 48
+  },
+  {
+    "id": "ch8-act4-seg258",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, something almost gentle in her tone despite the absurdity of the conversation.",
+    "act": 4,
+    "paragraphIndex": 48
+  },
+  {
+    "id": "ch8-act4-seg259",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle brightened immediately.",
+    "act": 4,
+    "paragraphIndex": 49
+  },
+  {
+    "id": "ch8-act4-seg260",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Good! Puddle works very hard on smell! Many years of sewer-living!\"",
+    "act": 4,
+    "paragraphIndex": 49
+  },
+  {
+    "id": "ch8-act4-seg261",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Puddle's companions,\"",
+    "act": 4,
+    "paragraphIndex": 50
+  },
+  {
+    "id": "ch8-act4-seg262",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper explained with the patience of long practice,",
+    "act": 4,
+    "paragraphIndex": 50
+  },
+  {
+    "id": "ch8-act4-seg263",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"possess talents that conventional scouts lack. They can navigate spaces no human could access. And most crucially -- they can map dungeons with remarkable accuracy.\"",
+    "act": 4,
+    "paragraphIndex": 50
+  },
+  {
+    "id": "ch8-act4-seg264",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Friends go where big people can't! Friends see what big people miss! Puddle finds secret ways! Small tunnels! Drainage! Places metal-crushers don't see!\"",
+    "act": 4,
+    "paragraphIndex": 51
+  },
+  {
+    "id": "ch8-act4-seg265",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His enthusiasm was infectious, despite the strangeness.",
+    "act": 4,
+    "paragraphIndex": 51
+  },
+  {
+    "id": "ch8-act4-seg266",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Metal-crushers?\"",
+    "act": 4,
+    "paragraphIndex": 52
+  },
+  {
+    "id": "ch8-act4-seg267",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik asked.",
+    "act": 4,
+    "paragraphIndex": 52
+  },
+  {
+    "id": "ch8-act4-seg268",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Big metal things that patrol,\"",
+    "act": 4,
+    "paragraphIndex": 53
+  },
+  {
+    "id": "ch8-act4-seg269",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle said matter-of-factly, then reached into one of his pouches and withdrew something small and dried.",
+    "act": 4,
+    "paragraphIndex": 53
+  },
+  {
+    "id": "ch8-act4-seg270",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Puddle brings gift to celebrate partnership! Is very fresh jerky! Only died this morning!\"",
+    "act": 4,
+    "paragraphIndex": 53
+  },
+  {
+    "id": "ch8-act4-seg271",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Moonlight caught it clearly: unmistakably rat-shaped.",
+    "act": 4,
+    "paragraphIndex": 54
+  },
+  {
+    "id": "ch8-act4-seg272",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Absolutely not,\"",
+    "act": 4,
+    "paragraphIndex": 55
+  },
+  {
+    "id": "ch8-act4-seg273",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said immediately.",
+    "act": 4,
+    "paragraphIndex": 55
+  },
+  {
+    "id": "ch8-act4-seg274",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Hard pass,\"",
+    "act": 4,
+    "paragraphIndex": 56
+  },
+  {
+    "id": "ch8-act4-seg275",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex added.",
+    "act": 4,
+    "paragraphIndex": 56
+  },
+  {
+    "id": "ch8-act4-seg276",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle shrugged cheerfully and ate it himself, the crunch audible.",
+    "act": 4,
+    "paragraphIndex": 57
+  },
+  {
+    "id": "ch8-act4-seg277",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"More for Puddle then!\"",
+    "act": 4,
+    "paragraphIndex": 57
+  },
+  {
+    "id": "ch8-act4-seg278",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's smooth mask cracked into a genuine smile.",
+    "act": 4,
+    "paragraphIndex": 58
+  },
+  {
+    "id": "ch8-act4-seg279",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"As I said -- acquired taste.\"",
+    "act": 4,
+    "paragraphIndex": 58
+  },
+  {
+    "id": "ch8-act4-seg280",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He turned serious again.",
+    "act": 4,
+    "paragraphIndex": 58
+  },
+  {
+    "id": "ch8-act4-seg281",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"One week. West entrance. Puddle can map the dungeon as we go -- find routes around the worst dangers, locate passages others would miss entirely.\"",
+    "act": 4,
+    "paragraphIndex": 58
+  },
+  {
+    "id": "ch8-act4-seg282",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"And if we decide this is suicide?\"",
+    "act": 4,
+    "paragraphIndex": 59
+  },
+  {
+    "id": "ch8-act4-seg283",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex asked.",
+    "act": 4,
+    "paragraphIndex": 59
+  },
+  {
+    "id": "ch8-act4-seg284",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Then I'll find someone else who values the difference between 'impossible' and 'merely extraordinarily dangerous.'\"",
+    "act": 4,
+    "paragraphIndex": 60
+  },
+  {
+    "id": "ch8-act4-seg285",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper's amber eyes held calculation and something like respect.",
+    "act": 4,
+    "paragraphIndex": 60
+  },
+  {
+    "id": "ch8-act4-seg286",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"But I don't believe you will. You're heading to the Emberpeaks regardless -- Depthspire is the only intact Concord structure in that range. The question isn't if you'll need us, but whether you'll be wise enough to accept the help before attempting it blind.\"",
+    "act": 4,
+    "paragraphIndex": 60
+  },
+  {
+    "id": "ch8-act4-seg287",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle produced a clay bottle from another pouch.",
+    "act": 4,
+    "paragraphIndex": 61
+  },
+  {
+    "id": "ch8-act4-seg288",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Puddle has mushroom wine for celebrating! Makes tongue fuzzy! Very fun!\"",
+    "act": 4,
+    "paragraphIndex": 61
+  },
+  {
+    "id": "ch8-act4-seg289",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"No,\"",
+    "act": 4,
+    "paragraphIndex": 62
+  },
+  {
+    "id": "ch8-act4-seg290",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "came the immediate collective response.",
+    "act": 4,
+    "paragraphIndex": 62
+  },
+  {
+    "id": "ch8-act4-seg291",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Suit yourselves.\"",
+    "act": 4,
+    "paragraphIndex": 63
+  },
+  {
+    "id": "ch8-act4-seg292",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Jasper clapped Puddle's shoulder.",
+    "act": 4,
+    "paragraphIndex": 63
+  },
+  {
+    "id": "ch8-act4-seg293",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Come along, my aromatic friend. We have preparations to make.\"",
+    "act": 4,
+    "paragraphIndex": 63
+  },
+  {
+    "id": "ch8-act4-seg294",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Puddle waved cheerfully to the party, rats chittering in what might have been farewell.",
+    "act": 4,
+    "paragraphIndex": 64
+  },
+  {
+    "id": "ch8-act4-seg295",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"One week! West entrance! Puddle will be ready!\"",
+    "act": 4,
+    "paragraphIndex": 64
+  },
+  {
+    "id": "ch8-act4-seg296",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He grinned that broad, manic grin.",
+    "act": 4,
+    "paragraphIndex": 65
+  },
+  {
+    "id": "ch8-act4-seg297",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Dark is better for traveling anyway!\"",
+    "act": 4,
+    "paragraphIndex": 65
+  },
+  {
+    "id": "ch8-act4-seg298",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The two disappeared into the barrel-shadows -- Jasper's smooth grace and Puddle's hunched, scuttling gait. Distant squeaking faded into silence.",
+    "act": 4,
+    "paragraphIndex": 66
+  },
+  {
+    "id": "ch8-act4-seg299",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The party stood for a long moment.",
+    "act": 4,
+    "paragraphIndex": 67
+  },
+  {
+    "id": "ch8-act4-seg300",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"We're trusting our lives to that?\"",
+    "act": 4,
+    "paragraphIndex": 68
+  },
+  {
+    "id": "ch8-act4-seg301",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said faintly.",
+    "act": 4,
+    "paragraphIndex": 68
+  },
+  {
+    "id": "ch8-act4-seg302",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"If we go,\"",
+    "act": 4,
+    "paragraphIndex": 69
+  },
+  {
+    "id": "ch8-act4-seg303",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin corrected. He looked back toward the warm light of the tavern.",
+    "act": 4,
+    "paragraphIndex": 69
+  },
+  {
+    "id": "ch8-act4-seg304",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Right now we have a council to prepare for and a town to help hold.\"",
+    "act": 4,
+    "paragraphIndex": 69
+  },
+  {
+    "id": "ch8-act5-seg305",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They didn't call it a council, but word spreads between inns the way heat moves through metal. Captain Vale returned with a sister from the chapel, two gray-haired locals who looked like wheat had opinions, and someone who tried and failed not to be a clerk.",
+    "act": 5,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act5-seg306",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They asked sane questions. What had they seen? How far had the glass spread? Were there other survivors? The sister's eyes darted to Serana's insignia, then away. The clerk wrote as if ink could keep anyone safe.",
+    "act": 5,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act5-seg307",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin told the truth that would fit in a room. Thornik explained what he could without calling it worship. Vex left out every detail that would make anyone braver than they had a right to be. Durgan did not speak. Nyxara smiled when it helped.",
+    "act": 5,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act5-seg308",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana's jaw clenched on old oaths and found no purchase.",
+    "act": 5,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act5-seg309",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "When it ended, Vale gave them the look of a man who knows there are wolves in the hills and has just learned they can climb fences.",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act5-seg310",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"There'll be talk,\"",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act5-seg311",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said.",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act5-seg312",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"About Ember-born. About what you carry. It would be better if you didn't show it.\"",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act5-seg313",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin tugged his sleeve down.",
+    "act": 5,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act5-seg314",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Agreed.\"",
+    "act": 5,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act5-seg315",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "After they left, the inn felt older. The fiddle found its tuning. Someone sang a work song about rivers taking what they wanted. The room joined in because it knew how.",
+    "act": 5,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act5-seg316",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "At the edge of the hearth's circle, Serana bowed her head over a bowl of stew gone cold and shaped her hands for prayer without speaking. Nothing came. No warmth, no direction, no sense of a presence at the other end of the gesture.",
+    "act": 5,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act5-seg317",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "After a while, she un-shaped her hands and ate mechanically. Caelin pretended not to see and succeeded the way men do when kindness would break something.",
+    "act": 5,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act5-seg318",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Elowen should have been here to complain about the taste of boiled fat. She would have catalogued it specifically: the grade of tallow, the wrong herbs, what the cook should have done differently.",
+    "act": 5,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act5-seg319",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She would have complained with enough precision that it became funny. Caelin lifted his spoon and the scale warmed once like memory finding a handhold and let go.",
+    "act": 5,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act5-seg320",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Night came down easy, which only meant it would be harder in the morning.",
+    "act": 5,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act6-seg321",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan took first watch by the door. When the room thinned to a few drunks and quiet chairs, Caelin joined him with two cups of water that steamed in the inn's honest heat.",
+    "act": 6,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act6-seg322",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Quieter than the mountain,\"",
+    "act": 6,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act6-seg323",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 6,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act6-seg324",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Quieter makes men loud,\"",
+    "act": 6,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act6-seg325",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said.",
+    "act": 6,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act6-seg326",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They sat in silence that had weight but not weapon. Outside, wind ran along the eaves. Somewhere a dog argued with a dream. The inn's stones breathed retained heat like a stored prayer no one believed in anymore.",
+    "act": 6,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act6-seg327",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"The mark,\"",
+    "act": 6,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act6-seg328",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said without looking,",
+    "act": 6,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act6-seg329",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"does it ache or warn?\"",
+    "act": 6,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act6-seg330",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Tonight? Neither. It listens.\"",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act6-seg331",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He flexed his fingers.",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act6-seg332",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"It likes places with rules.\"",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act6-seg333",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Walls,\"",
+    "act": 6,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act6-seg334",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said.",
+    "act": 6,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act6-seg335",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Rooms. Schedules.\"",
+    "act": 6,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act6-seg336",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin half-smiled.",
+    "act": 6,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act6-seg337",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Dinner at the same hour. The world pretending it can be persuaded.\"",
+    "act": 6,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act6-seg338",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan nodded.",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act6-seg339",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Don't let it teach you to trust that.\"",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act6-seg340",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"You trust anything?\"",
+    "act": 6,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act6-seg341",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Weight,\"",
+    "act": 6,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act6-seg342",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said.",
+    "act": 6,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act6-seg343",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"And whether a rope's been kept dry.\"",
+    "act": 6,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act6-seg344",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale pulsed once -- no color, just pressure -- when a gust slipped under the door, bringing a breath of cold that remembered stone. Caelin put his palm flat on the table and steadied his own hum until it fell back to a human rhythm. No one else noticed. He preferred it that way.",
+    "act": 6,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act6-seg345",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "When he rose to wake Thornik for second watch, Durgan said,",
+    "act": 6,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act6-seg346",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"You kept moving when the rock wanted you to stop. Keep doing that.\"",
+    "act": 6,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act6-seg347",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "It was the closest the man came to comfort. It fit.",
+    "act": 6,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch8-act6-seg348",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Upstairs, Vex snored very carefully -- quiet enough to deny it later. Thornik mumbled a formula in his sleep that resolved into the word stay. Serana lay on her back watching the ceiling as if it might answer, then turned and didn't ask.",
+    "act": 6,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act6-seg349",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin lay awake longer than he meant to, waiting for a hum that didn't come.",
+    "act": 6,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch8-act6-seg350",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The town held through the night. The mountain did not call. Perhaps it was busy elsewhere. That was worse.",
+    "act": 6,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch8-act7-seg351",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Dawn came smelling of yeast and damp wool. Millbrook tried on the day with the stoicism of places that don't get to choose. The inn's hearth was already working on a gruel it called porridge. Vex declared it a war crime and ate two bowls.",
+    "act": 7,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch8-act7-seg352",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Captain Vale waited near the door with the politeness of a man who doesn't like his own orders.",
+    "act": 7,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act7-seg353",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Council wants you at midday.\"",
+    "act": 7,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act7-seg354",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He hesitated.",
+    "act": 7,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act7-seg355",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"There's been talk. Traders on the south road swore they saw a light under the clouds. Not lightning. Steadier.\"",
+    "act": 7,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch8-act7-seg356",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Depthspire,\"",
+    "act": 7,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act7-seg357",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said reflexively, then drank his tea as if that might hide the word. It didn't.",
+    "act": 7,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch8-act7-seg358",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Is that where you're going?\"",
+    "act": 7,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act7-seg359",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale asked.",
+    "act": 7,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch8-act7-seg360",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"We go where the pull goes,\"",
+    "act": 7,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act7-seg361",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, which was both non-answer and truth.",
+    "act": 7,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act7-seg362",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"After your council.\"",
+    "act": 7,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act7-seg363",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He nodded toward the street.",
+    "act": 7,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act7-seg364",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"And after we help you fix the gate hinge that's going to break in the next strong wind.\"",
+    "act": 7,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch8-act7-seg365",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vale blinked.",
+    "act": 7,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act7-seg366",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"You saw that?\"",
+    "act": 7,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch8-act7-seg367",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Weight leaves signatures,\"",
+    "act": 7,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act7-seg368",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 7,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act7-seg369",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Even on wood.\"",
+    "act": 7,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch8-act7-seg370",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They spent an hour with Thornik at the gate: rope, a lever, a lesson in the faith of simple machines. Serana steadied the ladder without praying.",
+    "act": 7,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act7-seg371",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan held the hinge while two men hammered the pin through; no one asked how he made the weight look like it belonged there.",
+    "act": 7,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act7-seg372",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex found the copper the girl-captain had taxed from Durgan yesterday and left it on the sill of a window with a broken pane.",
+    "act": 7,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch8-act7-seg373",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "By late morning, rumor had grown legs and a voice and moved faster than truth. The council hall filled with people who pretended to be calm about it. Vale walked them in as if they were contraband and good news.",
+    "act": 7,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch8-act7-seg374",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin pulled his sleeve down again and let the scale stay dark. The pull inside him had gentled to a low thrum, patient as a debt. When he glanced north, the light through the windows had the color of cooled iron. Somewhere in that direction, a tower remembered being a wound.",
+    "act": 7,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch8-act7-seg375",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Ready?\"",
+    "act": 7,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act7-seg376",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex asked, meaning for the council, meaning for whatever used to be a world.",
+    "act": 7,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch8-act7-seg377",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"No,\"",
+    "act": 7,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act7-seg378",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 7,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act7-seg379",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"But I'm going anyway.\"",
+    "act": 7,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch8-act7-seg380",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They crossed the threshold together. The room smelled like ink and old smoke. Someone cleared a throat like a gavel. Outside, the wind turned colder.",
+    "act": 7,
+    "paragraphIndex": 12
+  }
+]
