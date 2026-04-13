@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import type { NextRequest } from "next/server"
 import { runWeeklyTally } from "@/lib/tally-votes"
+import { verifySession } from "@/lib/auth"
 import { sendWeeklyTallyEmail } from "@/lib/email"
 
 /**
@@ -18,11 +19,13 @@ import { sendWeeklyTallyEmail } from "@/lib/email"
 export async function POST(request: NextRequest) {
   // Auth: admin session cookie
   const adminSession = request.cookies.get("admin_session")?.value
+  const payload = adminSession ? await verifySession(adminSession) : null
+
   // Auth: API key header (for n8n and other automation)
   const apiKey = request.headers.get("x-api-key")
   const configuredApiKey = process.env.TALLY_API_KEY
 
-  const isAdminCookie = adminSession === "authenticated"
+  const isAdminCookie = payload && payload.role === "admin"
   const isApiKey = Boolean(configuredApiKey && apiKey === configuredApiKey)
 
   if (!isAdminCookie && !isApiKey) {

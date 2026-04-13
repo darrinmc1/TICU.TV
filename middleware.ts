@@ -1,7 +1,8 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
+import { verifySession } from '@/lib/auth'
 
-export function middleware(request: NextRequest) {
+export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl
 
   if (pathname === '/vote' || pathname.startsWith('/vote')) {
@@ -13,9 +14,10 @@ export function middleware(request: NextRequest) {
       return NextResponse.next()
     }
 
-    const adminSession = request.cookies.get('admin_session')
+    const adminSession = request.cookies.get('admin_session')?.value
+    const payload = adminSession ? await verifySession(adminSession) : null
     
-    if (!adminSession) {
+    if (!payload || payload.role !== 'admin') {
       return NextResponse.redirect(new URL('/admin/login', request.url))
     }
   }
@@ -24,9 +26,10 @@ export function middleware(request: NextRequest) {
     if (pathname === '/creator/login') {
       return NextResponse.next()
     }
-    const creatorSession = request.cookies.get('creator_session')
+    const creatorSession = request.cookies.get('creator_session')?.value
+    const payload = creatorSession ? await verifySession(creatorSession) : null
     
-    if (!creatorSession) {
+    if (!payload || (payload.role !== 'creator' && payload.role !== 'admin')) {
       return NextResponse.redirect(new URL('/creator/login', request.url))
     }
   }
