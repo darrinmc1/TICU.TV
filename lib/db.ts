@@ -1,4 +1,4 @@
-import { sql } from '@vercel/postgres';
+import { sql, db } from '@vercel/postgres';
 
 export type Story = {
   id: string;
@@ -93,28 +93,28 @@ export async function initDb() {
 
 export async function getStories(genre?: string, status?: string) {
   if (genre && status) {
-    const { rows } = await sql<Story[]>`
+    const { rows } = await sql<Story>`
       SELECT * FROM stories 
       WHERE genre = ${genre} AND status = ${status}
       ORDER BY updated_at DESC
     `;
     return rows;
   }
-  const { rows } = await sql<Story[]>`
+  const { rows } = await sql<Story>`
     SELECT * FROM stories ORDER BY updated_at DESC
   `;
   return rows;
 }
 
 export async function getStoryById(id: string) {
-  const { rows } = await sql<Story[]>`
+  const { rows } = await sql<Story>`
     SELECT * FROM stories WHERE id = ${id}
   `;
   return rows[0];
 }
 
 export async function getStoryBySlug(slug: string) {
-  const { rows } = await sql<Story[]>`
+  const { rows } = await sql<Story>`
     SELECT * FROM stories
     WHERE slug = ${slug}
        OR LOWER(REPLACE(title, ' ', '-')) = LOWER(${slug})
@@ -125,15 +125,19 @@ export async function getStoryBySlug(slug: string) {
 }
 
 export async function getVoteOptions(storyId: string) {
-  const { rows } = await sql<VoteOption[]>`
+  const { rows } = await sql<VoteOption>`
     SELECT * FROM vote_options WHERE story_id = ${storyId} ORDER BY vote_count DESC
   `;
   return rows;
 }
 
 export async function castVote(storyId: string, userId: string, optionId: string) {
-  await sql.begin(async (sql) => {
-    await sql`
+  const client = await db.connect();
+
+  try {
+    await client.sql`BEGIN`;
+
+    await client.sql`
       INSERT INTO users (id, username, email)
       VALUES (
         ${userId}::uuid,
@@ -143,7 +147,7 @@ export async function castVote(storyId: string, userId: string, optionId: string
       ON CONFLICT (id) DO NOTHING
     `;
 
-    const { rows: existingRows } = await sql<{ option_id: string }[]>`
+    const { rows: existingRows } = await client.sql<{ option_id: string }>`
       SELECT option_id
       FROM votes
       WHERE story_id = ${storyId}
@@ -154,42 +158,51 @@ export async function castVote(storyId: string, userId: string, optionId: string
     const previousOptionId = existingRows[0]?.option_id;
 
     if (!previousOptionId) {
-      await sql`
+      await client.sql`
         INSERT INTO votes (story_id, user_id, option_id)
         VALUES (${storyId}, ${userId}, ${optionId})
       `;
 
-      await sql`
+      await client.sql`
         UPDATE vote_options
         SET vote_count = vote_count + 1
         WHERE id = ${optionId}
       `;
+      await client.sql`COMMIT`;
       return;
     }
 
     if (previousOptionId === optionId) {
+      await client.sql`COMMIT`;
       return;
     }
 
-    await sql`
+    await client.sql`
       UPDATE votes
       SET option_id = ${optionId}
       WHERE story_id = ${storyId}
         AND user_id = ${userId}
     `;
 
-    await sql`
+    await client.sql`
       UPDATE vote_options
       SET vote_count = GREATEST(vote_count - 1, 0)
       WHERE id = ${previousOptionId}
     `;
 
-    await sql`
+    await client.sql`
       UPDATE vote_options
       SET vote_count = vote_count + 1
       WHERE id = ${optionId}
     `;
-  });
+
+    await client.sql`COMMIT`;
+  } catch (error) {
+    await client.sql`ROLLBACK`;
+    throw error;
+  } finally {
+    client.release();
+  }
 }
 
 export async function getVoteResults(storyId: string) {
@@ -206,7 +219,7 @@ export async function getVoteResults(storyId: string) {
 }
 
 export async function createStory(title: string, description: string, genre: string, slug?: string, status: Story['status'] = 'draft') {
-  const { rows } = await sql<Story[]>`
+  const { rows } = await sql<Story>`
     INSERT INTO stories (title, description, genre, slug, status)
     VALUES (${title}, ${description}, ${genre}, ${slug ?? null}, ${status})
     RETURNING *
@@ -215,7 +228,7 @@ export async function createStory(title: string, description: string, genre: str
 }
 
 export async function createVoteOption(storyId: string, title: string, description: string) {
-  const { rows } = await sql<VoteOption[]>`
+  const { rows } = await sql<VoteOption>`
     INSERT INTO vote_options (story_id, title, description)
     VALUES (${storyId}, ${title}, ${description})
     RETURNING *
