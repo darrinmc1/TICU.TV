@@ -198,11 +198,13 @@ def split_into_acts(text: str, chapter_num: int) -> list[str]:
     pattern = r"^(?:Act|ACT)\s+[IVXLC]+\s*(?::|--| --|\u2014)?\s*.*$"
     parts = re.split(pattern, text, flags=re.MULTILINE)
 
-    # First part may be chapter title/preamble
-    acts = [p.strip() for p in parts if p.strip()]
+    # First part is preamble (chapter title etc.) — skip it.
+    # Remaining parts are the actual act contents.
+    act_parts = parts[1:] if len(parts) > 1 else parts
+    acts = [p.strip() for p in act_parts if p.strip()]
 
-    # If only 1 act found, the whole text is one act
-    if len(acts) <= 1:
+    # If no acts found, the whole text is one act
+    if not acts:
         acts = [text]
 
     return acts
