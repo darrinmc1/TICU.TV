@@ -1,6 +1,7 @@
 export interface Genre {
   name: string
   icon: string
+  image: string
   color: string
 }
 
@@ -28,6 +29,7 @@ export interface Character {
   role: string
   description: string
   emoji: string
+  image: string
   borderColor: string
   gradientColor: string
   textColor: string
@@ -52,18 +54,18 @@ export type StoryBeatImageSet = Record<StoryBeat, string>
 export type StoryChapterBeatMap = Record<string, Record<number, StoryBeatImageSet>>
 
 export const GENRES: Genre[] = [
-  { name: "Fantasy", icon: "🗡️", color: "from-purple-600 to-pink-600" },
-  { name: "Sci-Fi", icon: "🚀", color: "from-blue-600 to-cyan-600" },
-  { name: "Horror", icon: "👻", color: "from-red-600 to-orange-600" },
-  { name: "Romance", icon: "💕", color: "from-pink-600 to-rose-600" },
-  { name: "Mystery", icon: "🔍", color: "from-indigo-600 to-purple-600" },
-  { name: "Thriller", icon: "⚡", color: "from-yellow-600 to-red-600" },
-  { name: "Western", icon: "🤠", color: "from-amber-600 to-orange-600" },
-  { name: "Historical", icon: "📜", color: "from-stone-600 to-amber-600" },
-  { name: "Comedy", icon: "😂", color: "from-green-600 to-teal-600" },
-  { name: "Adventure", icon: "🗺️", color: "from-emerald-600 to-green-600" },
-  { name: "Dystopian", icon: "🏚️", color: "from-gray-600 to-slate-600" },
-  { name: "Supernatural", icon: "✨", color: "from-violet-600 to-purple-600" },
+  { name: "Fantasy", icon: "🗡️", image: "/images/genres/fantasy.png", color: "from-purple-600 to-pink-600" },
+  { name: "Sci-Fi", icon: "🚀", image: "/images/genres/scifi.png", color: "from-blue-600 to-cyan-600" },
+  { name: "Horror", icon: "👻", image: "https://images.pexels.com/photos/5435304/pexels-photo-5435304.jpeg", color: "from-red-600 to-orange-600" },
+  { name: "Romance", icon: "💕", image: "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg", color: "from-pink-600 to-rose-600" },
+  { name: "Mystery", icon: "🔍", image: "https://images.pexels.com/photos/1111319/pexels-photo-1111319.jpeg", color: "from-indigo-600 to-purple-600" },
+  { name: "Thriller", icon: "⚡", image: "https://images.pexels.com/photos/315938/pexels-photo-315938.jpeg", color: "from-yellow-600 to-red-600" },
+  { name: "Western", icon: "🤠", image: "https://images.pexels.com/photos/1570375/pexels-photo-1570375.jpeg", color: "from-amber-600 to-orange-600" },
+  { name: "Historical", icon: "📜", image: "https://images.pexels.com/photos/208512/pexels-photo-208512.jpeg", color: "from-stone-600 to-amber-600" },
+  { name: "Comedy", icon: "😂", image: "https://images.pexels.com/photos/1601694/pexels-photo-1601694.jpeg", color: "from-green-600 to-teal-600" },
+  { name: "Adventure", icon: "🗺️", image: "https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg", color: "from-emerald-600 to-green-600" },
+  { name: "Dystopian", icon: "🏚️", image: "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg", color: "from-gray-600 to-slate-600" },
+  { name: "Supernatural", icon: "✨", image: "https://images.pexels.com/photos/1274260/pexels-photo-1274260.jpeg", color: "from-violet-600 to-purple-600" },
 ]
 
 export const STORY_CARDS: StoryCard[] = [
@@ -79,19 +81,6 @@ export const STORY_CARDS: StoryCard[] = [
     borderColor: "border-orange-500/30 hover:border-orange-500/60",
     gradientColor: "from-orange-500 to-red-600",
     iconColor: "text-orange-300",
-  },
-  {
-    id: "dragons-gambit",
-    status: "voting",
-    timeLeft: "2d 14h left",
-    title: "The Dragon's Gambit",
-    genre: "Fantasy",
-    chapter: "Chapter 1",
-    votes: 12847,
-    description: "A knight arrives at a ruined watchtower at the edge of the kingdom—only to find dragon claw marks in the stone and a golden scale in the dawn light.",
-    borderColor: "border-purple-500/30 hover:border-purple-500/60",
-    gradientColor: "from-purple-600 to-pink-600",
-    iconColor: "text-purple-400",
   },
   {
     id: "mars-colony",
@@ -169,6 +158,7 @@ export const CHARACTERS: Character[] = [
     role: "Paladin",
     description: "A noble knight whose faith guides her blade through the darkest challenges.",
     emoji: "🗡️",
+    image: "/images/characters/serana.png",
     borderColor: "border-purple-500/30 hover:border-purple-500/60",
     gradientColor: "from-purple-600 to-pink-600",
     textColor: "text-purple-400",
@@ -181,6 +171,7 @@ export const CHARACTERS: Character[] = [
     role: "Leader",
     description: "A brilliant commander facing impossible choices to save humanity's first colony.",
     emoji: "🚀",
+    image: "/images/characters/aria.png",
     borderColor: "border-blue-500/30 hover:border-blue-500/60",
     gradientColor: "from-blue-600 to-cyan-600",
     textColor: "text-blue-400",
@@ -193,6 +184,7 @@ export const CHARACTERS: Character[] = [
     role: "Artist",
     description: "A passionate artist searching for love and meaning in the City of Light.",
     emoji: "💕",
+    image: "/images/characters/juliet.png",
     borderColor: "border-pink-500/30 hover:border-pink-500/60",
     gradientColor: "from-pink-600 to-rose-600",
     textColor: "text-pink-400",
@@ -205,6 +197,7 @@ export const CHARACTERS: Character[] = [
     role: "Paranormal Investigator",
     description: "A skeptical scientist confronting supernatural forces beyond comprehension.",
     emoji: "👻",
+    image: "/images/characters/eleanor.png",
     borderColor: "border-red-500/30 hover:border-red-500/60",
     gradientColor: "from-red-600 to-orange-600",
     textColor: "text-red-400",
@@ -218,6 +211,7 @@ export const CHARACTERS: Character[] = [
     role: "Lawman",
     description: "A legendary sheriff facing his greatest challenge in the lawless frontier.",
     emoji: "🤠",
+    image: "/images/characters/jake.png",
     borderColor: "border-amber-500/30 hover:border-amber-500/60",
     gradientColor: "from-amber-600 to-orange-600",
     textColor: "text-amber-400",
@@ -230,6 +224,7 @@ export const CHARACTERS: Character[] = [
     role: "Detective",
     description: "A brilliant detective unraveling a web of secrets and lies.",
     emoji: "🔍",
+    image: "/images/characters/marcus.png",
     borderColor: "border-indigo-500/30 hover:border-indigo-500/60",
     gradientColor: "from-indigo-600 to-purple-600",
     textColor: "text-indigo-400",
@@ -302,7 +297,7 @@ export const MERCH_ITEMS: MerchItem[] = [
 export const STORY_CHAPTER_BEAT_IMAGES: StoryChapterBeatMap = {
   "dragons-last-breath": {
     1: {
-      establishing: "/images/stories/dragons-last-breath/chapter-1/establishing.jpg",
+      establishing: "/images/stories/dragons-last-breath/chapter-1/establishing.png",
       tension: "/images/stories/dragons-last-breath/chapter-1/tension.jpg",
       decision: "/images/stories/dragons-last-breath/chapter-1/decision.jpg",
       cliffhanger: "/images/stories/dragons-last-breath/chapter-1/cliffhanger.jpg",
@@ -310,7 +305,7 @@ export const STORY_CHAPTER_BEAT_IMAGES: StoryChapterBeatMap = {
   },
   "love-paris": {
     1: {
-      establishing: "/images/stories/love-paris/chapter-1/establishing.jpg",
+      establishing: "/images/stories/love-paris/chapter-1/establishing.png",
       tension: "/images/stories/love-paris/chapter-1/tension.jpg",
       decision: "/images/stories/love-paris/chapter-1/decision.jpg",
       cliffhanger: "/images/stories/love-paris/chapter-1/cliffhanger.jpg",
@@ -318,7 +313,7 @@ export const STORY_CHAPTER_BEAT_IMAGES: StoryChapterBeatMap = {
   },
   "showdown-sunset": {
     1: {
-      establishing: "/images/stories/showdown-sunset/chapter-1/establishing.jpg",
+      establishing: "/images/stories/showdown-sunset/chapter-1/establishing.png",
       tension: "/images/stories/showdown-sunset/chapter-1/tension.jpg",
       decision: "/images/stories/showdown-sunset/chapter-1/decision.jpg",
       cliffhanger: "/images/stories/showdown-sunset/chapter-1/cliffhanger.jpg",
@@ -326,10 +321,26 @@ export const STORY_CHAPTER_BEAT_IMAGES: StoryChapterBeatMap = {
   },
   "mars-colony": {
     1: {
-      establishing: "/images/stories/mars-colony/chapter-1/establishing.jpg",
+      establishing: "/images/stories/mars-colony/chapter-1/establishing.png",
       tension: "/images/stories/mars-colony/chapter-1/tension.jpg",
       decision: "/images/stories/mars-colony/chapter-1/decision.jpg",
       cliffhanger: "/images/stories/mars-colony/chapter-1/cliffhanger.jpg",
+    },
+  },
+  "haunted-manor": {
+    1: {
+      establishing: "/images/stories/haunted-manor/chapter-1/establishing.png",
+      tension: "/images/stories/haunted-manor/chapter-1/tension.jpg",
+      decision: "/images/stories/haunted-manor/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/haunted-manor/chapter-1/cliffhanger.jpg",
+    },
+  },
+  "missing-heiress": {
+    1: {
+      establishing: "/images/stories/missing-heiress/chapter-1/establishing.png",
+      tension: "/images/stories/missing-heiress/chapter-1/tension.jpg",
+      decision: "/images/stories/missing-heiress/chapter-1/decision.jpg",
+      cliffhanger: "/images/stories/missing-heiress/chapter-1/cliffhanger.jpg",
     },
   },
 }

@@ -37,6 +37,7 @@ export type StoryCharacterProfile = {
     emoji: string
     gradient: string
     bio: string
+    image?: string
 }
 
 export type SerialStory = {
@@ -44,6 +45,7 @@ export type SerialStory = {
     title: string
     genre: string
     genreEmoji: string
+    heroImage?: string
     status: "voting" | "new" | "in-progress" | "complete"
     votes: number
     synopsis: string
@@ -61,6 +63,7 @@ export const SERIAL_STORIES: Record<string, SerialStory> = {
         title: "The Dragon's Last Breath",
         genre: "Fantasy",
         genreEmoji: "🔥",
+        heroImage: "/images/stories/dragons-last-breath/chapter-1/establishing.png",
         status: "in-progress",
         votes: 9312,
         synopsis:
@@ -105,6 +108,7 @@ export const SERIAL_STORIES: Record<string, SerialStory> = {
                 emoji: "✨",
                 gradient: "from-yellow-400 to-amber-500",
                 bio: "She arrives at the edge of the fight with wardlight blazing and turns a desperate skirmish into survival. Serana clearly knows more about the spreading shadow than she is ready to explain, which makes her both vital and difficult to trust.",
+                image: "/images/characters/serana.png",
             },
         ],
         chapters: [
@@ -750,6 +754,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
         title: "Love in Paris",
         genre: "Romance",
         genreEmoji: "💕",
+        heroImage: "/images/stories/love-paris/chapter-1/establishing.png",
         status: "voting",
         votes: 15432,
         synopsis:
@@ -765,6 +770,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
                 emoji: "🎨",
                 gradient: "from-pink-500 to-rose-600",
                 bio: "Juliet is twenty-eight, half-French by inheritance and entirely American by upbringing, which means she speaks the language well enough to argue in it and badly enough to lose. She paints large, difficult canvases that critics call 'promising' and she calls 'not finished yet.' The Paris fellowship is her third attempt at a new start and she is trying, this time, not to need it to save her.",
+                image: "/images/characters/juliet.png",
             },
             {
                 name: "Étienne Marchetti",
@@ -922,6 +928,7 @@ Henri, from the back: "There is always coffee."
         title: "Showdown at Sunset",
         genre: "Western",
         genreEmoji: "🤠",
+        heroImage: "/images/stories/showdown-sunset/chapter-1/establishing.png",
         status: "voting",
         votes: 6543,
         synopsis:
@@ -937,6 +944,7 @@ Henri, from the back: "There is always coffee."
                 emoji: "⭐",
                 gradient: "from-amber-600 to-orange-700",
                 bio: "Jake earned the 'Iron' twenty years ago in a story he never tells to the same way twice, which suggests either the truth is worse than any version or better than all of them. He is fifty-one, still fast, and tired in the way a man gets tired when he's been right about things for long enough that he stopped enjoying it. He came to Red Mesa to wind down. The town, apparently, didn't get that message.",
+                image: "/images/characters/jake.png",
             },
             {
                 name: "Deputy Rosa Vega",
@@ -1063,6 +1071,7 @@ Jake looked at the street one more time. The schoolbell had stopped. Somewhere a
         title: "Mars Colony Crisis",
         genre: "Sci-Fi",
         genreEmoji: "🚀",
+        heroImage: "/images/stories/mars-colony/chapter-1/establishing.png",
         status: "voting",
         votes: 8234,
         synopsis:
@@ -1078,6 +1087,7 @@ Jake looked at the street one more time. The schoolbell had stopped. Somewhere a
                 emoji: "⭐",
                 gradient: "from-blue-500 to-cyan-600",
                 bio: "Aria runs Artemis Base the way she runs everything: on the principle that most problems have a rational solution and the ones that don't are still better approached as if they do. She has been in command for four years, has managed a structural breach, two medical emergencies, and one very bad dust storm, and has never once in that time received a signal that didn't originate on Earth. She is about to revise that record.",
+                image: "/images/characters/aria.png",
             },
             {
                 name: "Dr. Rael Okonkwo",
@@ -1197,6 +1207,146 @@ Two and a half hours to decide how to answer a question that humanity had been a
                             "Secure the drill array, pull the signal data, and spend the pre-dawn hours verifying every possible equipment or natural explanation before treating this as something it might not be.",
                         risk: "The signal has been transmitting for six days. Whatever is waiting below has been waiting longer. But moving carefully now may prevent a much more serious mistake later.",
                         votePercent: 24,
+                    },
+                ],
+            },
+        ],
+    },
+    "missing-heiress": {
+        id: "missing-heiress",
+        title: "The Missing Heiress",
+        genre: "Mystery",
+        genreEmoji: "🔍",
+        heroImage: "/images/stories/missing-heiress/chapter-1/establishing.png",
+        status: "voting",
+        votes: 4123,
+        synopsis:
+            "Isabella Hartwell vanished from her penthouse at the top of the Whitmore Building at 12:03 a.m. The suite was locked from the inside. The security system was blind for exactly four minutes. The guest list from her private dinner—eleven names—has produced eleven different accounts of where everyone was when the elevator chimed. Detective Marcus Vale has the first night to find something solid before the press cordon, the family lawyers, and the building's ownership group all arrive in the same morning. He has no body, no note, no struggle, and a single black silk glove on the balcony. He has, by his own count, until sunrise.",
+        hook: "A locked penthouse, a four-minute blackout, eleven guests, and one glove. Detective Vale has until dawn before the case stops belonging to him.",
+        coverGradient: "from-indigo-500 to-purple-700",
+        accentTextClass: "text-indigo-300",
+        ringClass: "ring-indigo-400",
+        characters: [
+            {
+                name: "Detective Marcus Vale",
+                role: "Lead Detective, Major Crimes",
+                emoji: "🔍",
+                gradient: "from-indigo-600 to-purple-700",
+                bio: "Marcus has been a detective for fifteen years and a major-crimes detective for six. He solves cases by finding the one detail that does not fit and pulling it until everything else comes loose. He has been wrong twice in his career. Both times, he knew it before the verdict. He has not yet decided whether this will be the third.",
+                image: "/images/characters/marcus.png",
+            },
+            {
+                name: "Isabella Hartwell",
+                role: "The Missing Heiress",
+                emoji: "💎",
+                gradient: "from-fuchsia-500 to-purple-700",
+                bio: "Twenty-nine years old, sole heir to the Hartwell trust, and—according to everyone who knew her—the kind of person who never went anywhere without three people knowing exactly where she was going. She kept a ledger. She kept appointments. She kept a small private safe that was opened sixteen minutes before she disappeared. Marcus has not yet met her, only the shape she left behind.",
+            },
+            {
+                name: "Vivienne Hartwell",
+                role: "Cousin, Sole Surviving Relative",
+                emoji: "💼",
+                gradient: "from-slate-600 to-indigo-700",
+                bio: "Vivienne is composed in the precise way that suggests she has been composed for hours before anyone arrived to test her. She is Isabella's only remaining family, the named alternate beneficiary of the Hartwell estate, and—by her own statement—was on the eighth-floor terrace at 12:03 a.m. The dinner staff log her leaving the eighth-floor terrace at 11:57. No one has corrected her about this yet.",
+            },
+            {
+                name: "Pierre Lavalle",
+                role: "Night Concierge, the Whitmore",
+                emoji: "🗝️",
+                gradient: "from-stone-600 to-indigo-600",
+                bio: "Fifteen years at the Whitmore desk. Pierre has the particular skill of seeing without appearing to look, which has made him useful to a great many people who would not want to be observed. He was at his post between 11:45 and 12:10. His written statement covers that window with the precision of a man who has rehearsed it.",
+            },
+        ],
+        chapters: [
+            {
+                slug: "chapter-1-the-locked-room",
+                chapterNumber: 1,
+                title: "The Locked Room",
+                label: "Chapter 1",
+                shortDescription:
+                    "Detective Marcus Vale arrives at the Whitmore Building forty minutes after the call. The suite is sealed, the security feed is missing four minutes, and the only thing on the balcony is a single black silk glove. He has until dawn.",
+                opening:
+                    "Marcus Vale had been a homicide detective long enough to know that the calls that came at midnight were almost always the ones with bodies, and the calls that came at twelve forty-seven on a Tuesday almost never were. This one was the second kind, which usually meant it was about to be the first.",
+                status: "voting",
+                sections: [
+                    {
+                        id: "act-1",
+                        title: "Act I: The Call from the Whitmore",
+                        imageSrc: "/images/stories/missing-heiress/chapter-1/act-1-penthouse.jpg",
+                        imageCaption: "The Whitmore penthouse, 12:47 a.m.",
+                        imageRevealAfterParagraph: 7,
+                        summary: `Marcus Vale had been a homicide detective long enough to know that the calls that came at midnight were almost always the ones with bodies, and the calls that came at twelve forty-seven on a Tuesday almost never were. This one was the second kind, which usually meant it was about to be the first.
+"Vale." He took the call standing in his kitchen, the kettle still going. He turned the burner off without looking.
+"It's Reyes. Whitmore Building. Top floor. We've got a missing person, but it's not a runaway and it's not a domestic. Captain wants you on it before the family lawyers wake up."
+"How long has she been missing?"
+"Forty-five minutes by the time I'm telling you. The concierge logged the elevator at 12:03 going up empty, came back down empty at 12:07. Suite was locked from the inside. Cousin opened the door with the family override at 12:31."
+"Who's the family?"
+A pause. "Hartwell."
+Marcus poured the unboiled water down the sink. Hartwell was the kind of name that made cases stop being cases and start being problems. The kind that, by morning, had three lawyers, two PR firms, and one congressman attached to it.
+"I'm leaving now," he said. "Don't let anyone touch the suite. Especially the cousin."
+"The cousin's the one who called it in."
+"Don't let her touch the suite."
+He was on the FDR in eight minutes. The Whitmore Building rose out of the Upper East Side the way old money rises—without explanation, as if it had always been there and you were the one who needed to justify your presence. He pulled into the garage at 1:02. Reyes was waiting in the lobby with a face that was already trying to apologize for what Marcus was about to walk into.
+"Forty-second floor," Reyes said. "Penthouse. The whole floor's hers. Was hers. Is hers. I don't know the right tense."
+"Present tense until we find her or don't."
+The elevator was the kind that didn't make sound. Marcus watched the floor numbers count up and thought about the four minutes between 12:03 and 12:07 when the elevator had gone somewhere with no one in it.
+"Talk to me about the dinner party," he said.
+"Eleven guests. All cleared the building by eleven thirty according to Pierre at the desk. The staff stayed until 11:50 to clean. By midnight she was alone in the suite, or so the system says. The cousin came back up at 12:28 saying she'd forgotten her phone. Used the family override at 12:31 when no one answered."
+"Why'd she come back at twelve thirty?"
+"That's exactly the question," Reyes said.
+The doors opened onto a private vestibule, and then onto the suite itself. The Whitmore penthouse was the kind of apartment that had been photographed for magazines that nobody actually bought. Floor-to-ceiling glass on three sides. A view that put most of Manhattan beneath it. Furniture that looked uncomfortable on principle. The dinner table was still set for twelve—eleven place settings used, one untouched at the head.
+Marcus stopped at the threshold and just looked.
+A glass of red wine was sitting on the side table by the balcony door, half-finished. A book lay open on the chaise—Isabella's reading, presumably, from sometime after the guests had left. Her phone was on the kitchen island next to a glass of water. Her shoes were beside the entryway, not put away. Everything about the suite said she had been there ten minutes ago. Nothing about it said she had left.
+"Where's the glove?" he asked.
+Reyes pointed. "Balcony. Don't go out yet, the print team's still—"
+"I know."
+He looked anyway. The terrace door was ajar by perhaps three inches. The glove lay on the limestone tile six feet from the rail, palm up. Black silk. Long. Evening wear. A single fingerprint on the inner cuff that would belong, almost certainly, to Isabella Hartwell.
+"Cousin's where?" Marcus asked.
+"Library. Down the hall. Lawyer's already with her."
+"Of course he is. Security feed?"
+Reyes hesitated. "That's the other thing. Hallway camera, elevator camera, lobby camera—all three went down at 12:01. Came back up at 12:05. Four minutes of nothing on every system in the building's east column."
+Marcus looked at him. "Just the east column?"
+"Just the east column."
+"That's not a malfunction."
+"No, sir. It's not."
+Marcus stood in the doorway of the penthouse and counted, the way he always counted at the start of a case—not the things that were there, but the things that should have been and weren't. No struggle. No body. No note. No forced entry. No clear exit. One glove, four missing minutes, eleven dinner guests, one cousin who came back for a phone she could have lived without until morning, and one safe—the safe, he knew now, that had been opened at 11:47, sixteen minutes before whatever happened.
+He had until sunrise. After that, the case would belong to the family, the press, and the precinct above his pay grade.
+"Get me a list," he said. "Every guest, when they arrived, when they left, who they sat next to, what they drank. I want Pierre at the desk in thirty minutes, and I want him separated from his union rep for the first ten. And get the cousin out of the library and into the kitchen. Libraries make people calm. I don't want her calm."
+"Yes, sir."
+Marcus stepped just inside the suite and stopped where the entry tile met the carpet, careful not to disturb anything yet. The half-glass of wine. The open book. The single shoe set neatly beside its mate. A woman who had been here. A door that was open by three inches. A glove on the terrace.
+"Isabella," he said quietly, to nobody. "Where did you go."
+The city below the Whitmore answered the way the city always did: with traffic and wind and the long indifferent hum of two million people who had no idea what had happened in the room above them, and no reason yet to care.
+He had until dawn.`,
+                        isPublished: true,
+                    },
+                ],
+                voteQuestion: "Marcus has the first hour. Where does the investigation start?",
+                votePrompt:
+                    "This vote sets the opening direction of Chapter 2 and decides which suspect Marcus pressures first—before the family lawyers and the press cordon arrive at sunrise.",
+                voteOptions: [
+                    {
+                        id: "press-the-cousin",
+                        title: "Press Vivienne in the kitchen, now",
+                        description:
+                            "Vivienne came back at 12:28 for a phone she did not need. Her alibi is paper-thin and her motive is the oldest one in the book. Marcus pulls her out of the library and questions her before her lawyer fully wakes up.",
+                        risk: "If Marcus pushes the only living Hartwell too hard and she turns out to be clean, the family's lawyers will have him off the case by 8 a.m.",
+                        votePercent: 40,
+                    },
+                    {
+                        id: "open-the-safe",
+                        title: "Force the safe—find out what was taken",
+                        description:
+                            "The penthouse safe was opened at 11:47, sixteen minutes before Isabella vanished. Whatever was inside is the actual reason for whatever happened next. Marcus calls in a court-order favor and gets the safe opened before dawn.",
+                        risk: "Forcing the safe without a clean warrant could compromise every piece of evidence found inside it. If the contents matter at trial, the trial may not have them.",
+                        votePercent: 35,
+                    },
+                    {
+                        id: "pierre-and-the-blackout",
+                        title: "Walk Pierre through the four-minute blackout",
+                        description:
+                            "Three cameras on the east column went dark for exactly four minutes, and Pierre was the only person at the desk. Whether he caused it, allowed it, or simply watched it, he is the closest thing to a witness Marcus has.",
+                        risk: "Pierre is connected to the building's ownership group. If Marcus mishandles him, the case is gone before the family even arrives.",
+                        votePercent: 25,
                     },
                 ],
             },
