@@ -22,7 +22,7 @@ export async function GET(request: Request) {
     }
 
     const optionIds = chapter.voteOptions.map((option) => option.id)
-    const summary = getChapterVoteSummary(storyId, chapterSlug, optionIds, userId)
+    const summary = await getChapterVoteSummary(storyId, chapterSlug, optionIds, userId)
 
     const results = chapter.voteOptions.map((option) => {
       const count = summary.counts[option.id] ?? 0
@@ -83,9 +83,9 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Option does not belong to this chapter" }, { status: 400 })
     }
 
-    castChapterVote(storyId, chapterSlug, userId, optionId)
+    await castChapterVote(storyId, chapterSlug, userId, optionId)
 
-    const summary = getChapterVoteSummary(
+    const summary = await getChapterVoteSummary(
       storyId,
       chapterSlug,
       chapter.voteOptions.map((option) => option.id),

@@ -2,6 +2,10 @@ import Link from "next/link"
 import { SERIAL_STORIES } from "@/lib/serial-stories"
 import { getChapterVoteSummary } from "@/lib/chapter-votes"
 
+// Vote counts change with every cast; render on each request so users
+// see live results rather than build-time-stale HTML.
+export const dynamic = "force-dynamic"
+
 type LeaderboardOption = {
   id: string
   title: string
@@ -21,64 +25,83 @@ type LeaderboardChapter = {
   isPreview: boolean
 }
 
-function buildChapterLeaderboard(): LeaderboardChapter[] {
-  const rows: LeaderboardChapter[] = []
+async function buildChapterLeaderboard(): Promise<LeaderboardChapter[]> {
+  // Collect every chapter that has vote options into a flat list, then
+  // run all the summary queries in parallel — much faster than awaiting
+  // sequentially across many stories.
+  const chapterTasks: Array<{
+    story: ReturnType<typeof Object.values<typeof SERIAL_STORIES>>[number]
+    chapter: typeof SERIAL_STORIES[string]["chapters"][number]
+    optionIds: string[]
+  }> = []
 
   for (const story of Object.values(SERIAL_STORIES)) {
     for (const chapter of story.chapters) {
       if (!chapter.voteOptions?.length) continue
-
-      const optionIds = chapter.voteOptions.map((option) => option.id)
-      const summary = getChapterVoteSummary(story.id, chapter.slug, optionIds)
-
-      const hasLiveVotes = summary.totalVotes > 0
-      const previewBaseVotes = 1000
-
-      const options = chapter.voteOptions
-        .map((option) => {
-          if (hasLiveVotes) {
-            const count = summary.counts[option.id] ?? 0
-            const percent = Math.round((count / Math.max(summary.totalVotes, 1)) * 100)
-            return {
-              id: option.id,
-              title: option.title,
-              count,
-              percent,
-              isPreview: false,
-            }
-          }
-
-          const percent = option.votePercent ?? Math.round(100 / chapter.voteOptions!.length)
-          return {
-            id: option.id,
-            title: option.title,
-            count: Math.round((percent / 100) * previewBaseVotes),
-            percent,
-            isPreview: true,
-          }
-        })
-        .sort((a, b) => b.count - a.count)
-
-      rows.push({
-        storyId: story.id,
-        storyTitle: story.title,
-        chapterSlug: chapter.slug,
-        chapterLabel: chapter.label,
-        chapterTitle: chapter.title,
-        totalVotes: hasLiveVotes
-          ? summary.totalVotes
-          : options.reduce((sum, option) => sum + option.count, 0),
-        options,
-        isPreview: !hasLiveVotes,
+      chapterTasks.push({
+        story,
+        chapter,
+        optionIds: chapter.voteOptions.map((option) => option.id),
       })
     }
   }
 
+  const summaries = await Promise.all(
+    chapterTasks.map((task) =>
+      getChapterVoteSummary(task.story.id, task.chapter.slug, task.optionIds)
+    )
+  )
+
+  const rows: LeaderboardChapter[] = chapterTasks.map((task, i) => {
+    const { story, chapter } = task
+    const summary = summaries[i]
+    const hasLiveVotes = summary.totalVotes > 0
+    const previewBaseVotes = 1000
+
+    const options = chapter.voteOptions!
+      .map((option) => {
+        if (hasLiveVotes) {
+          const count = summary.counts[option.id] ?? 0
+          const percent = Math.round((count / Math.max(summary.totalVotes, 1)) * 100)
+          return {
+            id: option.id,
+            title: option.title,
+            count,
+            percent,
+            isPreview: false,
+          }
+        }
+
+        const percent = option.votePercent ?? Math.round(100 / chapter.voteOptions!.length)
+        return {
+          id: option.id,
+          title: option.title,
+          count: Math.round((percent / 100) * previewBaseVotes),
+          percent,
+          isPreview: true,
+        }
+      })
+      .sort((a, b) => b.count - a.count)
+
+    return {
+      storyId: story.id,
+      storyTitle: story.title,
+      chapterSlug: chapter.slug,
+      chapterLabel: chapter.label,
+      chapterTitle: chapter.title,
+      totalVotes: hasLiveVotes
+        ? summary.totalVotes
+        : options.reduce((sum, option) => sum + option.count, 0),
+      options,
+      isPreview: !hasLiveVotes,
+    }
+  })
+
   return rows.sort((a, b) => b.totalVotes - a.totalVotes)
 }
 
-export default function LeaderboardPage() {
-  const chapters = buildChapterLeaderboard()
+export default async function LeaderboardPage() {
+  const chapters = await buildChapterLeaderboard()
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 px-6 py-20">

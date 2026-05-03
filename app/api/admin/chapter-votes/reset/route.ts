@@ -26,7 +26,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Invalid identifier format" }, { status: 400 })
     }
 
-    resetChapterVotes(storyId, chapterSlug)
+    await resetChapterVotes(storyId, chapterSlug)
 
     return NextResponse.json({ success: true })
   } catch {

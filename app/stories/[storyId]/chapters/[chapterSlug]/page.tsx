@@ -8,6 +8,9 @@ import { getActContent } from "@/lib/acts-content"
 import { getChapterVoteSummary } from "@/lib/chapter-votes"
 import { loadNarrationData, flattenSegments } from "@/lib/narration-data"
 
+// Reads live vote totals on each request — must not be statically prerendered.
+export const dynamic = "force-dynamic"
+
 type PageProps = {
   params: Promise<{ storyId: string; chapterSlug: string }>
 }
@@ -90,14 +93,13 @@ export default async function StoryChapterPage({ params }: PageProps) {
   const latestChapter = story.chapters[story.chapters.length - 1]
   const isLatest = latestChapter.slug === chapter.slug
 
-  const previousChapterSummary =
-    previousChapter?.voteOptions?.length
-      ? getChapterVoteSummary(
-          story.id,
-          previousChapter.slug,
-          previousChapter.voteOptions.map((option) => option.id)
-        )
-      : null
+  const previousChapterSummary = previousChapter?.voteOptions?.length
+    ? await getChapterVoteSummary(
+        story.id,
+        previousChapter.slug,
+        previousChapter.voteOptions.map((option) => option.id)
+      )
+    : null
   const previousChapterWinningOptionId = previousChapterSummary?.winningOptionId ?? previousChapter?.winningOptionId
   const showPreviousChapterChoice =
     Boolean(previousChapter) && Boolean(previousChapterWinningOptionId) && Boolean(previousChapter?.voteOptions?.length)

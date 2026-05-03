@@ -22,7 +22,7 @@ export async function runWeeklyTally(): Promise<TallyReport[]> {
 
   for (const [storyId, story] of Object.entries(SERIAL_STORIES)) {
     // Determine which chapter is active for voting
-    let state = getStoryState(storyId)
+    let state = await getStoryState(storyId)
 
     const activeChapterSlug =
       state?.activeChapterSlug ??
@@ -60,7 +60,7 @@ export async function runWeeklyTally(): Promise<TallyReport[]> {
     }
 
     const optionIds = activeChapter.voteOptions.map((o) => o.id)
-    const summary = getChapterVoteSummary(storyId, activeChapterSlug, optionIds)
+    const summary = await getChapterVoteSummary(storyId, activeChapterSlug, optionIds)
 
     if (summary.totalVotes === 0) {
       // No votes cast — story does NOT advance
@@ -80,7 +80,7 @@ export async function runWeeklyTally(): Promise<TallyReport[]> {
       }
       state.tallyHistory.push(record)
       state.updatedAt = new Date().toISOString()
-      saveStoryState(state)
+      await saveStoryState(state)
 
       reports.push({
         storyId,
@@ -122,7 +122,7 @@ export async function runWeeklyTally(): Promise<TallyReport[]> {
       }
       state.tallyHistory.push(record)
       state.updatedAt = new Date().toISOString()
-      saveStoryState(state)
+      await saveStoryState(state)
 
       reports.push({
         storyId,
