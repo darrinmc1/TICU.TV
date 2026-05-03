@@ -194,7 +194,7 @@ export default function HorrorPage() {
                       <Badge className="bg-red-600 text-red-100 text-xs">Active</Badge>
                     </div>
                     <p className="text-xs text-red-200/70 mb-3">
-                      "Should the shadow entity be fully revealed or remain mysterious?"
+                      &ldquo;Should the shadow entity be fully revealed or remain mysterious?&rdquo;
                     </p>
                     <div className="grid grid-cols-2 gap-2">
                       <Button
