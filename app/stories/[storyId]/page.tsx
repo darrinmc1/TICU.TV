@@ -129,6 +129,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🔧",
         gradient: "from-slate-600 to-blue-700",
         bio: "The man who single-handedly rebuilt Ares-9's oxygen recycler after the 2042 dust storm, Finn knows every pipe, wire, and failsafe in the colony by heart. His running commentary on the countdown to critical failure is both invaluable and terrifying.",
+        image: "/images/characters/rael.png",
       },
       {
         name: "Navigator Yui Tanaka",
@@ -136,6 +137,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "📡",
         gradient: "from-cyan-600 to-teal-600",
         bio: "A prodigy who graduated from the Mars Mission Corps at nineteen, Yui is the first to notice the signal follows a mathematical structure seen in theoretical xenolinguistics papers. She believes this is deliberate first contact—and that she is the only one who can translate it in time.",
+        image: "/images/characters/zhao.png",
       },
     ],
     actOptions: [
@@ -193,6 +195,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "📐",
         gradient: "from-rose-600 to-pink-700",
         bio: "A Parisian by birth who spent five years in Tokyo restoring traditional buildings and returned with a theory that the most beautiful architecture is what people almost don't notice. Luc is quiet in a way that means he is listening, not absent. He reached for that book because he's been searching for the original-cover edition since he was twelve.",
+        image: "/images/characters/luc.png",
       },
       {
         name: "Céline Dupont",
@@ -200,6 +203,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🥂",
         gradient: "from-violet-600 to-pink-500",
         bio: "Juliet's closest friend in Paris and the most practical romantic she's ever met. Céline has strong opinions on love, timing, and the exact right moment to act. She runs the gallery where Juliet's first Parisian show is scheduled for next month—her advice comes with both emotional investment and ulterior motive.",
+        image: "/images/characters/celine.png",
       },
     ],
     actOptions: [
@@ -250,6 +254,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "👻",
         gradient: "from-red-700 to-orange-700",
         bio: "A clinical psychologist and founding member of the Institute for Unexplained Phenomena, Eleanor entered Blackthorn Manor armed with thermal cameras, a rational mind, and a theory that hauntings are the product of infrasound and electrical interference. She was wrong. She knows that now.",
+        image: "/images/characters/eleanor.png",
       },
       {
         name: "Thomas Vrell",
@@ -257,6 +262,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🕯️",
         gradient: "from-stone-700 to-slate-700",
         bio: "Eighty-one years old and the only person who agreed to stay at Blackthorn during the incident of 1987, Thomas has been tending to the manor and its secrets ever since. He knows more than he tells, and everything he does tell turns out to be exactly true—and not at all comforting.",
+        image: "/images/characters/thomas_vrell.png",
       },
       {
         name: "Lady Ashford",
@@ -264,6 +270,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "✨",
         gradient: "from-slate-700 to-violet-800",
         bio: "She was the last Ashford to live in the manor—a woman known for her sharp intelligence and a collection of rare plants. The night she died, every clock in the house stopped at 3:17. She has been in the east wing ever since, waiting for something that never arrived—until Eleanor opened that door.",
+        image: "/images/characters/lady_ashford.png",
       },
     ],
     actOptions: [
@@ -324,6 +331,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🥃",
         gradient: "from-amber-700 to-red-700",
         bio: "The most informed person in Red Mesa, Rosa has been feeding, serving, and listening to every type of man this frontier produces for twenty years. She has no loyalty to the law or to the Holloways—only to her establishment and the community it sustains. She will back whoever she believes will still be standing at dawn.",
+        image: "/images/characters/rosa.png",
       },
       {
         name: 'Bart "Blaze" Holloway',
@@ -388,6 +396,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "💼",
         gradient: "from-slate-600 to-indigo-700",
         bio: "Isabella's only living relative and the sole heir to the Hartwell estate if Isabella is declared dead or legally incapacitated. Vivienne is composed, cooperative, and has a documented alibi. She also left the dinner party six minutes earlier than she claims—a discrepancy no one has mentioned to her yet.",
+        image: "/images/characters/vivienne.png",
       },
       {
         name: "Pierre Lavalle",
@@ -395,6 +404,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🗝️",
         gradient: "from-stone-600 to-indigo-600",
         bio: "Fifteen years at the Whitmore, Pierre has seen enough to know when someone is lying and when staying quiet is safer. He was at his desk between 11:45 p.m. and 12:10 a.m.—the precise window during which something happened—and his written statement covers that time with suspicious precision.",
+        image: "/images/characters/pierre.png",
       },
     ],
     actOptions: [
@@ -629,6 +639,9 @@ export default async function StoryPage({ params }: PageProps) {
   }
   const { label: statusLabel, badge: statusBadge } = statusConfig[story.status]
 
+  const chapterLabel = (story as any).chapter || "Chapter 1"
+  const chapterSlug = chapterLabel.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")
+
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* ─── Hero ─────────────────────────────────────────────────────────── */}
@@ -687,7 +700,7 @@ export default async function StoryPage({ params }: PageProps) {
                 {story.genre}
               </span>
               <span className="rounded-full border border-white/20 px-3 py-1 text-xs text-white/60">
-                {story.chapter}
+                {chapterLabel}
               </span>
             </div>
 
@@ -736,8 +749,8 @@ export default async function StoryPage({ params }: PageProps) {
           </p>
           <StoryVoting
             storyId={storyId}
-            chapterSlug={story.chapter.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}
-            actOptions={story.actOptions}
+            chapterSlug={chapterSlug}
+            actOptions={story.actOptions || (story.chapters && story.chapters[0]?.voteOptions) || []}
             isComplete={story.status === "complete"}
             accentTextClass={story.accentTextClass}
             gradientClass={story.coverGradient}

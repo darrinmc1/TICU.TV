@@ -778,6 +778,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
                 emoji: "📐",
                 gradient: "from-slate-600 to-blue-700",
                 bio: "Étienne restores old buildings for a living and collects first editions as a hobby he treats more seriously than the living. He is careful, precise, and slightly infuriating in conversation—the kind of man who knows exactly what he thinks but takes his time saying it, which Juliet immediately finds either appealing or maddening depending on the hour.",
+                image: "/images/characters/etienne.png",
             },
             {
                 name: "Céline Dufour",
@@ -785,6 +786,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
                 emoji: "☕",
                 gradient: "from-amber-500 to-orange-600",
                 bio: "Céline has lived in Paris her whole life and has the particular Parisian gift of making everything look effortless, including friendship. She invited Juliet for the fellowship, is aggressively on her side, and has already decided Étienne is interesting based entirely on secondhand information and instinct.",
+                image: "/images/characters/celine.png",
             },
             {
                 name: "Henri Beaumont",
@@ -792,6 +794,7 @@ He didn't look back at Mira. He was afraid if he did he would stay, and staying 
                 emoji: "📚",
                 gradient: "from-stone-500 to-amber-700",
                 bio: "Henri has run Librairie du Pont for thirty-one years. He has watched a great many people fall in love in his shop, which he considers a secondary service he provides at no extra charge. He does not intervene in these matters. He does, occasionally, offer tea.",
+                image: "/images/characters/henri.png",
             },
         ],
         chapters: [
@@ -952,6 +955,7 @@ Henri, from the back: "There is always coffee."
                 emoji: "🔫",
                 gradient: "from-rose-600 to-red-700",
                 bio: "Rosa is twenty-six and has been deputy for eighteen months, which is long enough to know that Jake's instincts are good and short enough to still argue about why. She's the faster rider, the better shot at distance, and the one who went to Tucson to verify the rumor when Jake said it was probably nothing. She was right. He was wrong. She has not made a large production of this.",
+                image: "/images/characters/rosa.png",
             },
             {
                 name: "Eli Bransen",
@@ -959,6 +963,7 @@ Henri, from the back: "There is always coffee."
                 emoji: "🍺",
                 gradient: "from-stone-500 to-amber-700",
                 bio: "Eli has been running the Long Rail saloon for eleven years and has a practiced gift for knowing things without being asked and saying them without being pushed. He served the Holloway gang once, in a different town, in a different life. He doesn't talk about that. He does, occasionally, talk around it.",
+                image: "/images/characters/eli.png",
             },
             {
                 name: "Old Man Holloway",
@@ -966,6 +971,7 @@ Henri, from the back: "There is always coffee."
                 emoji: "💀",
                 gradient: "from-gray-600 to-slate-700",
                 bio: "Cornelius Holloway is sixty-three and runs his outfit the way he runs everything—with the patient certainty of a man who has outlived everyone who ever tried to stop him. He is not, technically, the most dangerous member of his own gang. He is, however, the one who decides when to leave and what to leave behind.",
+                image: "/images/characters/holloway.png",
             },
         ],
         chapters: [
@@ -1095,6 +1101,7 @@ Jake looked at the street one more time. The schoolbell had stopped. Somewhere a
                 emoji: "📡",
                 gradient: "from-violet-600 to-indigo-700",
                 bio: "Rael is the reason the colony's communication array works as well as it does, which he considers a mixed blessing given that he now has to figure out what it's receiving. He has the particular intensity of someone who has been waiting for something interesting to happen and is alarmed to discover how interesting it has gotten.",
+                image: "/images/characters/rael.png",
             },
             {
                 name: "Chief Martinez",
@@ -1102,6 +1109,7 @@ Jake looked at the street one more time. The schoolbell had stopped. Somewhere a
                 emoji: "🛡️",
                 gradient: "from-red-600 to-orange-700",
                 bio: "Martinez has spent nine years on Mars being prepared for problems that never arrived, which has either kept him sharp or made him paranoid—he considers both assessments fair. He has opinions about what should happen next and will not volunteer them unless asked, and possibly not then.",
+                image: "/images/characters/martinez.png",
             },
             {
                 name: "Dr. Lian Zhao",
@@ -1109,6 +1117,7 @@ Jake looked at the street one more time. The schoolbell had stopped. Somewhere a
                 emoji: "🪨",
                 gradient: "from-stone-500 to-amber-700",
                 bio: "Lian has been studying the Elysium stratum for three years and knows the Martian substrate the way she knows her own apartment: intimately, with a few surprises that turned out to be explainable and one that hasn't been yet. The drill returning a non-geological contact is, by her reckoning, either the most important discovery in human history or a calibration error. She is fairly certain it is not a calibration error.",
+                image: "/images/characters/zhao.png",
             },
         ],
         chapters: [
@@ -1241,6 +1250,7 @@ Two and a half hours to decide how to answer a question that humanity had been a
                 emoji: "💎",
                 gradient: "from-fuchsia-500 to-purple-700",
                 bio: "Twenty-nine years old, sole heir to the Hartwell trust, and—according to everyone who knew her—the kind of person who never went anywhere without three people knowing exactly where she was going. She kept a ledger. She kept appointments. She kept a small private safe that was opened sixteen minutes before she disappeared. Marcus has not yet met her, only the shape she left behind.",
+                image: "/images/characters/isabella.png",
             },
             {
                 name: "Vivienne Hartwell",
@@ -1248,6 +1258,7 @@ Two and a half hours to decide how to answer a question that humanity had been a
                 emoji: "💼",
                 gradient: "from-slate-600 to-indigo-700",
                 bio: "Vivienne is composed in the precise way that suggests she has been composed for hours before anyone arrived to test her. She is Isabella's only remaining family, the named alternate beneficiary of the Hartwell estate, and—by her own statement—was on the eighth-floor terrace at 12:03 a.m. The dinner staff log her leaving the eighth-floor terrace at 11:57. No one has corrected her about this yet.",
+                image: "/images/characters/vivienne.png",
             },
             {
                 name: "Pierre Lavalle",
@@ -1255,6 +1266,7 @@ Two and a half hours to decide how to answer a question that humanity had been a
                 emoji: "🗝️",
                 gradient: "from-stone-600 to-indigo-600",
                 bio: "Fifteen years at the Whitmore desk. Pierre has the particular skill of seeing without appearing to look, which has made him useful to a great many people who would not want to be observed. He was at his post between 11:45 and 12:10. His written statement covers that window with the precision of a man who has rehearsed it.",
+                image: "/images/characters/pierre.png",
             },
         ],
         chapters: [
@@ -1347,6 +1359,101 @@ He had until dawn.`,
                             "Three cameras on the east column went dark for exactly four minutes, and Pierre was the only person at the desk. Whether he caused it, allowed it, or simply watched it, he is the closest thing to a witness Marcus has.",
                         risk: "Pierre is connected to the building's ownership group. If Marcus mishandles him, the case is gone before the family even arrives.",
                         votePercent: 25,
+                    },
+                ],
+            },
+        ],
+    },
+    "haunted-manor": {
+        id: "haunted-manor",
+        title: "The Haunted Manor",
+        genre: "Horror",
+        genreEmoji: "👻",
+        heroImage: "/images/stories/haunted-manor/chapter-1/establishing.png",
+        status: "complete",
+        votes: 23891,
+        synopsis:
+            "Blackthorn Manor has stood empty for thirty-seven years, sealed after a single night in 1987 that no official record explains fully. Dr. Eleanor Blackwood has just arrived—the first person granted permission to enter since the iron gates were locked. Her equipment fills the boot of a hired car. Her theory is that the paranormal is a science problem. Chapter One begins the moment she steps through the gate and hears, very clearly, the sound of a clock ticking in a house with no electricity.",
+        hook: "The manor is awake—and the first door she opens may not let her leave.",
+        coverGradient: "from-green-600 to-emerald-600",
+        accentTextClass: "text-green-400",
+        ringClass: "ring-green-400",
+        characters: [
+            {
+                name: "Dr. Eleanor Blackwood",
+                role: "Paranormal Investigator",
+                emoji: "👻",
+                gradient: "from-red-700 to-orange-700",
+                bio: "A clinical psychologist and founding member of the Institute for Unexplained Phenomena, Eleanor entered Blackthorn Manor armed with thermal cameras, a rational mind, and a theory that hauntings are the product of infrasound and electrical interference. She was wrong. She knows that now.",
+                image: "/images/characters/eleanor.png",
+            },
+            {
+                name: "Thomas Vrell",
+                role: "Ancient Caretaker",
+                emoji: "🕯️",
+                gradient: "from-stone-700 to-slate-700",
+                bio: "Eighty-one years old and the only person who agreed to stay at Blackthorn during the incident of 1987, Thomas has been tending to the manor and its secrets ever since. He knows more than he tells, and everything he does tell turns out to be exactly true—and not at all comforting.",
+                image: "/images/characters/thomas_vrell.png",
+            },
+            {
+                name: "Lady Ashford",
+                role: "The Manor's Spirit",
+                emoji: "✨",
+                gradient: "from-slate-700 to-violet-800",
+                bio: "She was the last Ashford to live in the manor—a woman known for her sharp intelligence and a collection of rare plants. The night she died, every clock in the house stopped at 3:17. She has been in the east wing ever since, waiting for something that never arrived—until Eleanor opened that door.",
+                image: "/images/characters/lady_ashford.png",
+            },
+        ],
+        chapters: [
+            {
+                slug: "chapter-1-the-east-wing",
+                chapterNumber: 1,
+                title: "The East Wing",
+                label: "Chapter 1",
+                shortDescription:
+                    "Dr. Eleanor Blackwood enters Blackthorn Manor. Every clock has stopped at 3:17, and the air is heavy with the weight of thirty-seven years of silence.",
+                opening:
+                    "Dr. Eleanor Blackwood steps through the iron gates of Blackthorn Manor as thunder rolls above the hills. Portraits watch from dark corridors, and every clock in the house has stopped at 3:17.",
+                status: "complete",
+                sections: [
+                    {
+                        id: "act-1",
+                        title: "Act I: The Threshold",
+                        imageSrc: "/images/stories/haunted-manor/chapter-1/act-1-threshold.jpg",
+                        imageCaption: "The main hall of Blackthorn Manor",
+                        imageRevealAfterParagraph: 4,
+                        summary:
+                            "The gates of Blackthorn Manor groaned with a sound like a long-forgotten language as Eleanor pushed them open. The air inside the grounds was stiller than it had any right to be, the smell of damp earth and ancient stone rising to meet her. She carried a thermal imager in one hand and her journal in the other, her logical mind already cataloging the architectural decay as evidence of neglect rather than malice. But then she saw the clocks. Every single one in the main hall—the grandfather clock by the stairs, the delicate porcelain one on the mantle, the small travel clock in the display case—all had their hands frozen at precisely 3:17. And despite the lack of power, she could swear she heard a rhythmic thumping from the floor above, too heavy for a mouse, too deliberate for the wind.",
+                        isPublished: true,
+                    },
+                ],
+                voteQuestion: "Eleanor stands before the heavy oak door of the East Wing. What does she do?",
+                votePrompt:
+                    "Choose how Eleanor proceeds with her investigation of the manor's most active area.",
+                voteOptions: [
+                    {
+                        id: "a",
+                        title: "Into the East Wing",
+                        description:
+                            "Eleanor ignores Thomas's warning and pushes through the sealed door, stepping into rooms untouched since the night Lady Ashford died. The temperature drops eight degrees the moment she crosses the threshold.",
+                        risk: "The spirits of the manor do not take kindly to uninvited guests.",
+                        votePercent: 41,
+                    },
+                    {
+                        id: "b",
+                        title: "The Clock Confession",
+                        description:
+                            "Question Thomas about why every clock stopped at 3:17, pressing until he reveals what he saw the night of the incident—a confession that changes everything about what really happened.",
+                        risk: "The truth might be more dangerous than the silence.",
+                        votePercent: 35,
+                    },
+                    {
+                        id: "c",
+                        title: "The Midnight Séance",
+                        description:
+                            "Eleanor sets up her instruments in the drawing room and attempts direct communication with the presence inside Blackthorn Manor—inviting contact on its own terms.",
+                        risk: "You should never invite a spirit into your mind if you aren't prepared to share it.",
+                        votePercent: 24,
                     },
                 ],
             },

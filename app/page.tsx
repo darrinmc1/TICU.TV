@@ -473,50 +473,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="py-16 sm:py-20 px-4 sm:px-6 bg-slate-950/35 reveal-up delay-2">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-12">
-            <p className="editorial-kicker mb-3">Collector's Shelf</p>
-            <h2 className="section-title font-serif mb-4 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
-              Official Merchandise
-            </h2>
-            <p className="mx-auto max-w-2xl text-base sm:text-lg text-white/75">Bring your favorite stories home</p>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6 reveal-stagger">
-            {MERCH_ITEMS.map((item, index) => (
-            <Card key={item.id} className={`glass-panel ${item.borderColor} transition-all duration-300 hover:-translate-y-1 group`}>
-              <CardContent className="p-5 sm:p-6" style={{ animationDelay: `${index * 75}ms` }}>
-                <div className={`aspect-square bg-gradient-to-br ${item.gradientColor} rounded-lg mb-4 flex items-center justify-center text-6xl`} aria-hidden="true">
-                  {item.emoji}
-                </div>
-                <h3 className={`font-serif text-lg font-bold mb-2 group-hover:${item.textColor} transition-colors`}>
-                  {item.name}
-                </h3>
-                <p className="text-sm text-white/60 mb-2">{item.collection}</p>
-                <div className="flex items-center justify-between">
-                  <span className={`text-xl font-bold ${item.textColor}`}>{item.price}</span>
-                  <Button asChild size="sm" className={`bg-gradient-to-r ${item.borderColor.replace('border-', '').replace('/30 hover:border-', ' hover:').replace('/60', '')}`} aria-label={`Shop for ${item.name}`}>
-                    <Link href="/products">Shop Now</Link>
-                  </Button>
-                </div>
-              </CardContent>
-            </Card>
-            ))}
-          </div>
-
-          <div className="text-center mt-12">
-            <Button
-              asChild
-              size="lg"
-              className="bg-gradient-to-r from-amber-500 to-cyan-500 text-slate-950 hover:from-amber-400 hover:to-cyan-400"
-              aria-label="Browse all available merchandise"
-            >
-              <Link href="/products">Browse All Merchandise</Link>
-            </Button>
-          </div>
-        </div>
-      </section>
 
       <section id="genres" className="py-16 sm:py-20 px-4 sm:px-6 reveal-up delay-2">
         <div className="max-w-7xl mx-auto">
@@ -544,16 +500,67 @@ export default function HomePage() {
                         alt={genre.name}
                         className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                       />
-                      <div className={`absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/10 to-transparent opacity-80`} />
-                      <div className="absolute inset-0 flex flex-col items-center justify-center p-3">
-                        <div className="mb-2 text-4xl drop-shadow-2xl group-hover:scale-110 transition-transform" aria-hidden="true">{genre.icon}</div>
-                        <p className="text-[10px] uppercase tracking-[0.28em] text-white/40 group-hover:text-white/60 transition-colors">Genre Art</p>
-                      </div>
+                      <div className={`absolute inset-0 bg-gradient-to-t from-slate-950/80 via-slate-950/10 to-transparent opacity-40 group-hover:opacity-60 transition-opacity`} />
                     </div>
-                    <h3 className="font-semibold">{genre.name}</h3>
+                    <h3 className="font-semibold flex items-center justify-center gap-2 group-hover:text-amber-300 transition-colors">
+                      <span className="text-xl" aria-hidden="true">{genre.icon}</span>
+                      {genre.name}
+                    </h3>
                   </CardContent>
                 </Card>
               </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="py-16 sm:py-20 px-4 sm:px-6 bg-slate-950/35 reveal-up delay-2">
+        <div className="max-w-7xl mx-auto">
+          <div className="text-center mb-10">
+            <p className="editorial-kicker mb-2 text-xs uppercase tracking-widest text-amber-300">Collector's Shelf</p>
+            <h2 className="text-3xl font-serif mb-3 bg-gradient-to-r from-amber-200 via-orange-300 to-cyan-300 bg-clip-text text-transparent">
+              Official Merchandise
+            </h2>
+            <p className="mx-auto max-w-xl text-sm text-white/60">Limited edition collectibles from your favorite story universes</p>
+          </div>
+
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 reveal-stagger">
+            {MERCH_ITEMS.map((item, index) => (
+            <Card key={item.id} className={`glass-panel ${item.borderColor} transition-all duration-300 hover:-translate-y-1 group flex flex-col h-full`}>
+              <CardContent className="p-3 sm:p-4 flex flex-col h-full" style={{ animationDelay: `${index * 50}ms` }}>
+                <div className={`aspect-square bg-slate-900 rounded-md mb-3 overflow-hidden relative group-hover:ring-2 ${item.borderColor.split(' ')[0]} transition-all`} aria-hidden="true">
+                  {item.image ? (
+                    <img src={item.image} alt={item.name} className="w-full h-full object-cover transition-transform group-hover:scale-110" />
+                  ) : (
+                    <div className={`w-full h-full bg-gradient-to-br ${item.gradientColor} flex items-center justify-center text-4xl`}>
+                      {item.emoji}
+                    </div>
+                  )}
+                  <div className="absolute inset-0 bg-slate-950/20 group-hover:opacity-0 transition-opacity" />
+                </div>
+                <div className="flex-1 min-h-[4rem]">
+                  <h3 className={`font-serif text-[13px] leading-tight font-bold mb-1 line-clamp-2 group-hover:${item.textColor} transition-colors`}>
+                    {item.name}
+                  </h3>
+                  <p className="text-[10px] text-white/40 uppercase tracking-tighter mb-2">{item.collection.split(' ')[0]}</p>
+                </div>
+                <div className="mt-auto pt-3 border-t border-white/5 flex flex-col gap-2">
+                  <span className={`text-sm font-bold ${item.textColor}`}>${item.price}</span>
+                  <Button 
+                    size="sm" 
+                    className={`w-full h-7 text-[9px] uppercase tracking-wider font-bold bg-gradient-to-r ${item.borderColor.replace('border-', '').replace('/30 hover:border-', ' hover:').replace('/60', '')}`} 
+                    aria-label={`Request ${item.name}`}
+                    onClick={() => {
+                      const subject = encodeURIComponent(`Merchandise Request: ${item.name}`);
+                      const body = encodeURIComponent(`I would like to request information about purchasing the ${item.name} ($${item.price}) from the ${item.collection}.`);
+                      window.location.href = `mailto:admin@ticu.tv?subject=${subject}&body=${body}`;
+                    }}
+                  >
+                    Request Item
+                  </Button>
+                </div>
+              </CardContent>
+            </Card>
             ))}
           </div>
         </div>
