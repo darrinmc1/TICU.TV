@@ -111,6 +111,10 @@ export default function VotePage() {
   }
   return (
     <div className="story-atmosphere relative min-h-screen overflow-hidden">
+      {/* Coming soon banner — this page is a v0 placeholder, not yet wired to live data. */}
+      <div className="relative z-[60] bg-amber-500/90 text-slate-950 text-center text-sm font-medium py-2 px-4">
+        Coming soon — this page is being rebuilt and will return with live data.
+      </div>
       <div className="film-grain pointer-events-none absolute inset-0 z-0" aria-hidden="true" />
       <div className="pointer-events-none absolute -left-24 top-14 h-80 w-80 rounded-full bg-orange-400/20 blur-3xl" aria-hidden="true" />
       <div className="pointer-events-none absolute -right-24 top-28 h-96 w-96 rounded-full bg-cyan-400/20 blur-3xl" aria-hidden="true" />
