@@ -1,3 +1,4 @@
+import Image from "next/image"
 import Link from "next/link"
 import { notFound } from "next/navigation"
 import StoryVoting from "./story-voting"
@@ -11,7 +12,7 @@ export type CharacterData = {
   emoji: string
   gradient: string
   bio: string
-  imageSrc?: string
+  image?: string
 }
 
 type StoryDetailData = {
@@ -23,6 +24,7 @@ type StoryDetailData = {
   votes: number
   synopsis: string
   opening: string
+  heroImage?: string
   hook: string
   coverGradient: string
   accentTextClass: string
@@ -39,6 +41,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1: Ember at Dawn",
     status: "voting",
     votes: 12847,
+    heroImage: "/images/stories/dragons-last-breath/chapter-1/establishing.png",
     synopsis:
       "In the shadow of the Ashveil Mountains, the young knight Serana Valeblade and her companions have just crossed into territory where the kingdom's laws no longer hold. Word of a dragon sighting has drawn them east—a creature not seen in three generations, whose awakening has already emptied villages and shut down every trade route through the pass. Chapter One opens at dawn, at the foot of a ruined watchtower that marks the edge of everything safe.",
     opening:
@@ -54,8 +57,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🗡️",
         gradient: "from-purple-600 to-pink-600",
         bio: "Born into a minor noble house that lost everything to a dragon attack twenty years ago, Serana devoted her life to protecting others through faith and combat. Her unwavering moral code is both her greatest strength and her most dangerous limitation—she refuses to win through deception, even when the odds demand it.",
-        imageSrc:
-          "/images/design-mode/Serana%20Valeblade%20%E2%80%94%20Knight%20%20Scholar%20of%20Faith2.jpg.jpeg",
+        image: "/images/characters/serana.png",
       },
       {
         name: "Kael Thornwood",
@@ -104,6 +106,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1",
     status: "new",
     votes: 8234,
+    heroImage: "/images/stories/mars-colony/chapter-1/establishing.png",
     synopsis:
       "Ares-9 is humanity's most ambitious achievement—a self-sustaining colony of 4,000 settlers on Mars. It is also, as of 3:47 a.m. local time, under siege by an unknown signal that is rewriting life support algorithms and corrupting navigation databases. Commander Aria Chen has minutes to decide the colony's first move.",
     opening:
@@ -126,6 +129,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🔧",
         gradient: "from-slate-600 to-blue-700",
         bio: "The man who single-handedly rebuilt Ares-9's oxygen recycler after the 2042 dust storm, Finn knows every pipe, wire, and failsafe in the colony by heart. His running commentary on the countdown to critical failure is both invaluable and terrifying.",
+        image: "/images/characters/rael.png",
       },
       {
         name: "Navigator Yui Tanaka",
@@ -133,6 +137,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "📡",
         gradient: "from-cyan-600 to-teal-600",
         bio: "A prodigy who graduated from the Mars Mission Corps at nineteen, Yui is the first to notice the signal follows a mathematical structure seen in theoretical xenolinguistics papers. She believes this is deliberate first contact—and that she is the only one who can translate it in time.",
+        image: "/images/characters/zhao.png",
       },
     ],
     actOptions: [
@@ -167,6 +172,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1: Rain on Rue de Rivoli",
     status: "voting",
     votes: 15432,
+    heroImage: "/images/stories/love-paris/chapter-1/establishing.png",
     synopsis:
       "Juliet Moreau has just arrived in Paris—she left her marketing career behind to paint, a decision her family calls reckless and her heart calls survival. She has a small apartment in Montmartre, paint-stained hands, and a life she is still learning the shape of. Her very first evening alone in the city, ducking into a bookshop to escape the rain, she reaches for a worn novel on the shelf—and her hand meets another.",
     opening:
@@ -189,6 +195,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "📐",
         gradient: "from-rose-600 to-pink-700",
         bio: "A Parisian by birth who spent five years in Tokyo restoring traditional buildings and returned with a theory that the most beautiful architecture is what people almost don't notice. Luc is quiet in a way that means he is listening, not absent. He reached for that book because he's been searching for the original-cover edition since he was twelve.",
+        image: "/images/characters/luc.png",
       },
       {
         name: "Céline Dupont",
@@ -196,6 +203,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🥂",
         gradient: "from-violet-600 to-pink-500",
         bio: "Juliet's closest friend in Paris and the most practical romantic she's ever met. Céline has strong opinions on love, timing, and the exact right moment to act. She runs the gallery where Juliet's first Parisian show is scheduled for next month—her advice comes with both emotional investment and ulterior motive.",
+        image: "/images/characters/celine.png",
       },
     ],
     actOptions: [
@@ -230,6 +238,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1: The East Wing",
     status: "complete",
     votes: 23891,
+    heroImage: "/images/stories/haunted-manor/chapter-1/establishing.png",
     synopsis:
       "Blackthorn Manor has stood empty for thirty-seven years, sealed after a single night in 1987 that no official record explains fully. Dr. Eleanor Blackwood has just arrived—the first person granted permission to enter since the iron gates were locked. Her equipment fills the boot of a hired car. Her theory is that the paranormal is a science problem. Chapter One begins the moment she steps through the gate and hears, very clearly, the sound of a clock ticking in a house with no electricity.",
     opening:
@@ -245,6 +254,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "👻",
         gradient: "from-red-700 to-orange-700",
         bio: "A clinical psychologist and founding member of the Institute for Unexplained Phenomena, Eleanor entered Blackthorn Manor armed with thermal cameras, a rational mind, and a theory that hauntings are the product of infrasound and electrical interference. She was wrong. She knows that now.",
+        image: "/images/characters/eleanor.png",
       },
       {
         name: "Thomas Vrell",
@@ -252,6 +262,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🕯️",
         gradient: "from-stone-700 to-slate-700",
         bio: "Eighty-one years old and the only person who agreed to stay at Blackthorn during the incident of 1987, Thomas has been tending to the manor and its secrets ever since. He knows more than he tells, and everything he does tell turns out to be exactly true—and not at all comforting.",
+        image: "/images/characters/thomas_vrell.png",
       },
       {
         name: "Lady Ashford",
@@ -259,6 +270,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "✨",
         gradient: "from-slate-700 to-violet-800",
         bio: "She was the last Ashford to live in the manor—a woman known for her sharp intelligence and a collection of rare plants. The night she died, every clock in the house stopped at 3:17. She has been in the east wing ever since, waiting for something that never arrived—until Eleanor opened that door.",
+        image: "/images/characters/lady_ashford.png",
       },
     ],
     actOptions: [
@@ -296,6 +308,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1: Dust and Oaths",
     status: "voting",
     votes: 6543,
+    heroImage: "/images/stories/showdown-sunset/chapter-1/establishing.png",
     synopsis:
       "Red Mesa has known three years of peace—the Holloway gang was driven out and scattered north after the last confrontation. That peace ends today. The noon train carries news that the gang has reformed, that Bart Holloway is back, and that they are riding south. Sheriff Jake Morgan has until sunset to decide how he faces what is coming. He has three deputies, one town, and eleven years of reputation about to face the test they were always building toward.",
     opening:
@@ -318,6 +331,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🥃",
         gradient: "from-amber-700 to-red-700",
         bio: "The most informed person in Red Mesa, Rosa has been feeding, serving, and listening to every type of man this frontier produces for twenty years. She has no loyalty to the law or to the Holloways—only to her establishment and the community it sustains. She will back whoever she believes will still be standing at dawn.",
+        image: "/images/characters/rosa.png",
       },
       {
         name: 'Bart "Blaze" Holloway',
@@ -359,6 +373,7 @@ const STORIES: Record<string, StoryDetailData> = {
     chapter: "Chapter 1",
     status: "new",
     votes: 4123,
+    heroImage: "/images/stories/missing-heiress/chapter-1/establishing.png",
     synopsis:
       "Isabella Hartwell vanished from her penthouse at the top of the Whitmore Building at exactly 12:03 a.m. The suite was locked from the inside. The security system was disabled for precisely four minutes. The guest list from the evening's private dinner—eleven people—has produced eleven different accounts of what happened and when. Detective Marcus Vale has until morning to find something solid before the media arrives and the trail goes cold.",
     opening:
@@ -381,6 +396,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "💼",
         gradient: "from-slate-600 to-indigo-700",
         bio: "Isabella's only living relative and the sole heir to the Hartwell estate if Isabella is declared dead or legally incapacitated. Vivienne is composed, cooperative, and has a documented alibi. She also left the dinner party six minutes earlier than she claims—a discrepancy no one has mentioned to her yet.",
+        image: "/images/characters/vivienne.png",
       },
       {
         name: "Pierre Lavalle",
@@ -388,6 +404,7 @@ const STORIES: Record<string, StoryDetailData> = {
         emoji: "🗝️",
         gradient: "from-stone-600 to-indigo-600",
         bio: "Fifteen years at the Whitmore, Pierre has seen enough to know when someone is lying and when staying quiet is safer. He was at his desk between 11:45 p.m. and 12:10 a.m.—the precise window during which something happened—and his written statement covers that time with suspicious precision.",
+        image: "/images/characters/pierre.png",
       },
     ],
     actOptions: [
@@ -417,14 +434,14 @@ const STORIES: Record<string, StoryDetailData> = {
 }
 
 // ─── Character Card ───────────────────────────────────────────────────────────
-function CharacterCard({ character }: { character: CharacterData }) {
+function CharacterCard({ character }: { character: any }) {
   return (
     <div className="rounded-xl border border-white/10 bg-slate-900/60 p-6 backdrop-blur-md">
       <div className="mb-4 flex justify-center">
-        {character.imageSrc ? (
+        {character.image ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={character.imageSrc}
+            src={character.image}
             alt={character.name}
             className="h-28 w-28 rounded-full object-cover border-2 border-white/20 shadow-lg"
           />
@@ -453,15 +470,33 @@ function SerialStoryHub({ story }: { story: SerialStory }) {
 
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
-      <div className="relative overflow-hidden bg-slate-950 pb-16 pt-24">
-        <div
-          className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${story.coverGradient} opacity-10`}
-        />
-        <div
-          className={`pointer-events-none absolute -top-40 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-gradient-to-br ${story.coverGradient} opacity-20 blur-3xl`}
-        />
+      <div className="relative min-h-[500px] overflow-hidden bg-slate-950 pb-16 pt-24 flex items-end">
+        {/* Cinematic Hero Background */}
+        {story.heroImage && (
+          <div className="absolute inset-0 z-0">
+            <Image
+              src={story.heroImage}
+              alt={story.title}
+              fill
+              className="object-cover object-[center_25%] opacity-60"
+              priority
+            />
+            <div className="absolute inset-0 bg-slate-950/20" />
+          </div>
+        )}
+        
+        {!story.heroImage && (
+          <>
+            <div
+              className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${story.coverGradient} opacity-10`}
+            />
+            <div
+              className={`pointer-events-none absolute -top-40 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-gradient-to-br ${story.coverGradient} opacity-20 blur-3xl`}
+            />
+          </>
+        )}
 
-        <div className="relative mx-auto max-w-5xl px-6">
+        <div className="relative z-10 mx-auto max-w-5xl w-full px-6">
           <Link
             href="/"
             className="mb-8 inline-flex items-center gap-2 text-sm text-white/60 transition-colors hover:text-white"
@@ -469,16 +504,18 @@ function SerialStoryHub({ story }: { story: SerialStory }) {
             ← Back to Stories
           </Link>
 
-          <div className="text-center">
-            <div
-              className={`mx-auto mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-gradient-to-br ${story.coverGradient} shadow-2xl`}
-            >
-              <span className="text-6xl select-none" role="img" aria-label={story.genre}>
-                {story.genreEmoji}
-              </span>
-            </div>
+          <div className="text-left md:max-w-3xl">
+            {!story.heroImage && (
+              <div
+                className={`mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-gradient-to-br ${story.coverGradient} shadow-2xl`}
+              >
+                <span className="text-6xl select-none" role="img" aria-label={story.genre}>
+                  {story.genreEmoji}
+                </span>
+              </div>
+            )}
 
-            <div className="mb-4 flex flex-wrap items-center justify-center gap-2">
+            <div className="mb-4 flex flex-wrap items-center gap-2">
               <span className="rounded-full border border-green-500/30 bg-green-500/20 px-3 py-1 text-xs font-semibold text-green-400">
                 Voting Open
               </span>
@@ -490,9 +527,9 @@ function SerialStoryHub({ story }: { story: SerialStory }) {
               </span>
             </div>
 
-            <h1 className="mb-6 text-4xl font-bold text-white md:text-5xl">{story.title}</h1>
+            <h1 className="mb-6 text-4xl font-bold text-white md:text-6xl drop-shadow-2xl">{story.title}</h1>
             <blockquote
-              className={`mx-auto max-w-2xl border-l-4 border-current pl-5 text-left text-base italic leading-relaxed ${story.accentTextClass}`}
+              className={`max-w-2xl border-l-4 border-current pl-5 text-left text-lg italic leading-relaxed ${story.accentTextClass} drop-shadow-lg`}
             >
               {story.hook}
             </blockquote>
@@ -602,19 +639,39 @@ export default async function StoryPage({ params }: PageProps) {
   }
   const { label: statusLabel, badge: statusBadge } = statusConfig[story.status]
 
+  const chapterLabel = (story as any).chapter || "Chapter 1"
+  const chapterSlug = chapterLabel.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "")
+
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
       {/* ─── Hero ─────────────────────────────────────────────────────────── */}
-      <div className="relative overflow-hidden bg-slate-950 pb-16 pt-24">
-        {/* Atmospheric glow */}
-        <div
-          className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${story.coverGradient} opacity-10`}
-        />
-        <div
-          className={`pointer-events-none absolute -top-40 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-gradient-to-br ${story.coverGradient} opacity-20 blur-3xl`}
-        />
+      <div className="relative min-h-[500px] overflow-hidden bg-slate-950 pb-16 pt-24 flex items-end">
+        {/* Cinematic Hero Background */}
+        {story.heroImage && (
+          <div className="absolute inset-0 z-0">
+            <Image
+              src={story.heroImage}
+              alt={story.title}
+              fill
+              className="object-cover object-[center_25%] opacity-60"
+              priority
+            />
+            <div className="absolute inset-0 bg-slate-950/20" />
+          </div>
+        )}
 
-        <div className="relative mx-auto max-w-5xl px-6">
+        {!story.heroImage && (
+          <>
+            <div
+              className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${story.coverGradient} opacity-10`}
+            />
+            <div
+              className={`pointer-events-none absolute -top-40 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-gradient-to-br ${story.coverGradient} opacity-20 blur-3xl`}
+            />
+          </>
+        )}
+
+        <div className="relative z-10 mx-auto max-w-5xl w-full px-6">
           <Link
             href="/"
             className="mb-8 inline-flex items-center gap-2 text-sm text-white/60 transition-colors hover:text-white"
@@ -622,18 +679,20 @@ export default async function StoryPage({ params }: PageProps) {
             ← Back to Stories
           </Link>
 
-          <div className="text-center">
+          <div className="text-left md:max-w-3xl">
             {/* Cover icon */}
-            <div
-              className={`mx-auto mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-gradient-to-br ${story.coverGradient} shadow-2xl`}
-            >
-              <span className="text-6xl select-none" role="img" aria-label={story.genre}>
-                {story.genreEmoji}
-              </span>
-            </div>
+            {!story.heroImage && (
+              <div
+                className={`mb-6 flex h-28 w-28 items-center justify-center rounded-full bg-gradient-to-br ${story.coverGradient} shadow-2xl`}
+              >
+                <span className="text-6xl select-none" role="img" aria-label={story.genre}>
+                  {story.genreEmoji}
+                </span>
+              </div>
+            )}
 
             {/* Badges */}
-            <div className="mb-4 flex flex-wrap items-center justify-center gap-2">
+            <div className="mb-4 flex flex-wrap items-center gap-2">
               <span className={`rounded-full px-3 py-1 text-xs font-semibold ${statusBadge}`}>
                 {statusLabel}
               </span>
@@ -641,14 +700,14 @@ export default async function StoryPage({ params }: PageProps) {
                 {story.genre}
               </span>
               <span className="rounded-full border border-white/20 px-3 py-1 text-xs text-white/60">
-                {story.chapter}
+                {chapterLabel}
               </span>
             </div>
 
-            <h1 className="mb-6 text-4xl font-bold text-white md:text-5xl">{story.title}</h1>
+            <h1 className="mb-6 text-4xl font-bold text-white md:text-6xl drop-shadow-2xl">{story.title}</h1>
 
             <blockquote
-              className={`mx-auto max-w-2xl border-l-4 border-current pl-5 text-left text-base italic leading-relaxed ${story.accentTextClass}`}
+              className={`max-w-2xl border-l-4 border-current pl-5 text-left text-lg italic leading-relaxed ${story.accentTextClass} drop-shadow-lg`}
             >
               {story.hook}
             </blockquote>
@@ -690,8 +749,8 @@ export default async function StoryPage({ params }: PageProps) {
           </p>
           <StoryVoting
             storyId={storyId}
-            chapterSlug={story.chapter.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}
-            actOptions={story.actOptions}
+            chapterSlug={chapterSlug}
+            actOptions={story.actOptions || (story.chapters && story.chapters[0]?.voteOptions) || []}
             isComplete={story.status === "complete"}
             accentTextClass={story.accentTextClass}
             gradientClass={story.coverGradient}
