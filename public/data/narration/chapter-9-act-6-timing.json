@@ -1,0 +1,745 @@
+{
+  "chapter": 9,
+  "act": 6,
+  "actTitle": "Ashes",
+  "audioFile": "/audio/chapters/chapter-9-act-6.mp3",
+  "totalDuration": 502.475,
+  "segments": [
+    {
+      "id": "ch9-act6-seg174",
+      "start": 0.0,
+      "end": 14.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Smoke crawled along the square's roofline like a cat learning to be brave. The smell was sweat, pitch, cooked iron, and the bitter, wrong scent the thralls left behind -- the corruption-reek that clung to stone and cloth and memory and wouldn't wash out for days."
+    },
+    {
+      "id": "ch9-act6-seg175",
+      "start": 14.3,
+      "end": 16.7,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Water on the east thatch!\""
+    },
+    {
+      "id": "ch9-act6-seg176",
+      "start": 17.0,
+      "end": 22.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "a sergeant called -- Vale's echo in his voice, trying to fill a space that couldn't be filled."
+    },
+    {
+      "id": "ch9-act6-seg177",
+      "start": 22.85,
+      "end": 28.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They moved bodies to the south lane and covered them with clean sheets that smelled of sun and soap."
+    },
+    {
+      "id": "ch9-act6-seg178",
+      "start": 29.2,
+      "end": 41.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Captain Vale lay among them, his hands crossed over the spear that had saved a boy who stood ten feet away and couldn't understand why he was still standing. The boy's spear was still level. His feet were still set."
+    },
+    {
+      "id": "ch9-act6-seg179",
+      "start": 41.475,
+      "end": 46.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He'd kept the form even after his reason for learning it had stopped breathing."
+    },
+    {
+      "id": "ch9-act6-seg180",
+      "start": 46.5,
+      "end": 51.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana knelt. Her light failed to gather. She prayed anyway, voice a rasp."
+    },
+    {
+      "id": "ch9-act6-seg181",
+      "start": 51.6,
+      "end": 54.225,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Guide him. He kept his watch.\""
+    },
+    {
+      "id": "ch9-act6-seg182",
+      "start": 54.525,
+      "end": 63.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The words landed because she said them, light or no. She'd stopped asking whether anyone was listening. She said them because they were true, and true was enough."
+    },
+    {
+      "id": "ch9-act6-seg183",
+      "start": 63.95,
+      "end": 77.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric worked in the center of the square, surrounded by wounded, hands moving with the mechanical rhythm of someone past exhaustion who has no intention of stopping. When Caelin approached, he didn't look up from wrapping a farmer's arm."
+    },
+    {
+      "id": "ch9-act6-seg184",
+      "start": 77.325,
+      "end": 79.575,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Everyone needs a healer,\""
+    },
+    {
+      "id": "ch9-act6-seg185",
+      "start": 79.875,
+      "end": 81.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch9-act6-seg186",
+      "start": 81.4,
+      "end": 83.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Get in line.\""
+    },
+    {
+      "id": "ch9-act6-seg187",
+      "start": 83.425,
+      "end": 85.375,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"She's still breathing,\""
+    },
+    {
+      "id": "ch9-act6-seg188",
+      "start": 85.675,
+      "end": 87.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said quietly."
+    },
+    {
+      "id": "ch9-act6-seg189",
+      "start": 88.15,
+      "end": 91.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric's hands stilled for just a heartbeat."
+    },
+    {
+      "id": "ch9-act6-seg190",
+      "start": 91.475,
+      "end": 93.8,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Good. Keep it that way.\""
+    },
+    {
+      "id": "ch9-act6-seg191",
+      "start": 94.1,
+      "end": 97.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He tied off the bandage, moved to the next patient."
+    },
+    {
+      "id": "ch9-act6-seg192",
+      "start": 97.775,
+      "end": 99.9,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Wake me if she stops.\""
+    },
+    {
+      "id": "ch9-act6-seg193",
+      "start": 100.2,
+      "end": 111.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik found the hinge at the east gate had splintered under blast and weight. No one asked. He set his hammer against the bent pin and began to work the metal back true. Tap, heat, wedge."
+    },
+    {
+      "id": "ch9-act6-seg194",
+      "start": 111.3,
+      "end": 124.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His tool-harness hung empty at his ribs, loops that should have held cleverness now just leather and air. He worked anyway, the old way, with sweat and stubbornness. The gate would hold or it wouldn't, but it wouldn't fail because a dwarf had let it."
+    },
+    {
+      "id": "ch9-act6-seg195",
+      "start": 124.675,
+      "end": 137.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara did not linger in the square once the dead were counted and the living were moving. She took a narrow stair to the little room behind the archive, slid the bolt, and sat very still until the tremor in her hands stopped."
+    },
+    {
+      "id": "ch9-act6-seg196",
+      "start": 137.55,
+      "end": 143.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The gloves would come off later, in private. The accounting would be done where no one could see."
+    },
+    {
+      "id": "ch9-act6-seg197",
+      "start": 143.475,
+      "end": 151.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan cleaned his blades with method that could have been prayer. His shadow lay obedient at his boots; his shoulders were too square."
+    },
+    {
+      "id": "ch9-act6-seg198",
+      "start": 151.55,
+      "end": 164.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When the nosebleed started again, he pressed the heel of his hand to it and turned slightly so the dark cloth drank the red. He kept his eyes on Caelin across the square and told himself that standing here was still a choice he was making."
+    },
+    {
+      "id": "ch9-act6-seg199",
+      "start": 165.2,
+      "end": 173.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin found Aldric on an upturned bucket at the square's edge, stitching a cut in his own forearm with the calm of a man mending a saddle."
+    },
+    {
+      "id": "ch9-act6-seg200",
+      "start": 173.475,
+      "end": 175.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You do that yourself?\""
+    },
+    {
+      "id": "ch9-act6-seg201",
+      "start": 175.975,
+      "end": 177.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin asked."
+    },
+    {
+      "id": "ch9-act6-seg202",
+      "start": 177.95,
+      "end": 179.8,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Every time.\""
+    },
+    {
+      "id": "ch9-act6-seg203",
+      "start": 180.1,
+      "end": 182.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric bit the thread."
+    },
+    {
+      "id": "ch9-act6-seg204",
+      "start": 182.45,
+      "end": 190.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Forty years of practice. You get good at it or you get dead, and I've always had a mild preference for the first option.\""
+    },
+    {
+      "id": "ch9-act6-seg205",
+      "start": 190.975,
+      "end": 192.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin crouched."
+    },
+    {
+      "id": "ch9-act6-seg206",
+      "start": 192.975,
+      "end": 195.125,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"You're not from Millbrook.\""
+    },
+    {
+      "id": "ch9-act6-seg207",
+      "start": 195.275,
+      "end": 196.575,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"No.\""
+    },
+    {
+      "id": "ch9-act6-seg208",
+      "start": 196.875,
+      "end": 199.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric rolled his sleeve down."
+    },
+    {
+      "id": "ch9-act6-seg209",
+      "start": 199.6,
+      "end": 208.2,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Third Harrow Company, retired. Field surgeon fifteen years, then walking between towns for another ten patching whoever needed patching.\""
+    },
+    {
+      "id": "ch9-act6-seg210",
+      "start": 208.5,
+      "end": 215.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He paused, looking at his hands -- steady, clean, the hands of a man who'd spent a career making sure they stayed both."
+    },
+    {
+      "id": "ch9-act6-seg211",
+      "start": 215.475,
+      "end": 230.825,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I was attached to the garrison at Veln's Post when the seals started failing two years ago. Forty men. Good men, most of them -- well-trained, sensible, the sort who ate their vegetables and didn't gamble more than they could lose.\""
+    },
+    {
+      "id": "ch9-act6-seg212",
+      "start": 231.125,
+      "end": 238.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He said it with the flat affect of someone who'd had time to turn the memory into something he could carry without breaking."
+    },
+    {
+      "id": "ch9-act6-seg213",
+      "start": 238.35,
+      "end": 251.25,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Thirty-seven of them died to something that came through the lower vault. I couldn't cut it out. Couldn't bandage it. Couldn't do a single useful thing except count the living afterward and try not to notice how short the count was.\""
+    },
+    {
+      "id": "ch9-act6-seg214",
+      "start": 251.4,
+      "end": 253.2,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You survived.\""
+    },
+    {
+      "id": "ch9-act6-seg215",
+      "start": 253.35,
+      "end": 259.175,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I was in the east tower when it happened. A healer who was somewhere else when people needed healing.\""
+    },
+    {
+      "id": "ch9-act6-seg216",
+      "start": 259.475,
+      "end": 263.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He looked at his hands once, briefly, then didn't again."
+    },
+    {
+      "id": "ch9-act6-seg217",
+      "start": 263.375,
+      "end": 286.825,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Since then I've been trying to get back into the plateau's border country. Find out what came through that vault. Find out if the other sealed vaults are next. Because whatever killed those thirty-seven men is going to do it again, and I'd like to be in the room this time. Not because I think I can stop it. But because I owe it the courtesy of being present when it tries.\""
+    },
+    {
+      "id": "ch9-act6-seg218",
+      "start": 287.125,
+      "end": 289.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, carefully:"
+    },
+    {
+      "id": "ch9-act6-seg219",
+      "start": 289.5,
+      "end": 293.075,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Veln's Post is Depthspire's eastern approach.\""
+    },
+    {
+      "id": "ch9-act6-seg220",
+      "start": 293.225,
+      "end": 295.225,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I know where it is.\""
+    },
+    {
+      "id": "ch9-act6-seg221",
+      "start": 295.525,
+      "end": 296.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A beat."
+    },
+    {
+      "id": "ch9-act6-seg222",
+      "start": 297.025,
+      "end": 300.225,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We're going in. North, toward Depthspire.\""
+    },
+    {
+      "id": "ch9-act6-seg223",
+      "start": 300.375,
+      "end": 302.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I know what you are.\""
+    },
+    {
+      "id": "ch9-act6-seg224",
+      "start": 302.725,
+      "end": 305.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric nodded at Caelin's wrapped arm."
+    },
+    {
+      "id": "ch9-act6-seg225",
+      "start": 306.075,
+      "end": 310.975,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Saw the mark when you were on your knees beside the woman. Knew what you were about.\""
+    },
+    {
+      "id": "ch9-act6-seg226",
+      "start": 311.275,
+      "end": 314.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He stood, joints filing their usual complaints."
+    },
+    {
+      "id": "ch9-act6-seg227",
+      "start": 314.9,
+      "end": 325.5,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You'll need a healer. That plateau has spent the last two years demonstrating that it can open people up in ways that don't respond well to wishful thinking.\""
+    },
+    {
+      "id": "ch9-act6-seg228",
+      "start": 325.65,
+      "end": 328.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Sounds like a reason to stay away,\""
+    },
+    {
+      "id": "ch9-act6-seg229",
+      "start": 328.3,
+      "end": 338.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said from behind Caelin. He hadn't heard her cross the square -- which meant she was either getting better at moving quietly or his hearing was getting worse, and neither option was comforting."
+    },
+    {
+      "id": "ch9-act6-seg230",
+      "start": 339.125,
+      "end": 341.7,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"That's what the thirty-seven thought,\""
+    },
+    {
+      "id": "ch9-act6-seg231",
+      "start": 342.0,
+      "end": 344.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric said pleasantly,"
+    },
+    {
+      "id": "ch9-act6-seg232",
+      "start": 344.4,
+      "end": 346.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"before they stopped having opinions.\""
+    },
+    {
+      "id": "ch9-act6-seg233",
+      "start": 347.275,
+      "end": 354.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He looked at Vex's shoulder with the eyes of a man who'd assessed a great many wounds and was unimpressed by what he was seeing."
+    },
+    {
+      "id": "ch9-act6-seg234",
+      "start": 354.65,
+      "end": 358.025,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"That wrap needs redoing. Sit down.\""
+    },
+    {
+      "id": "ch9-act6-seg235",
+      "start": 358.325,
+      "end": 362.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex sat down. It was the most decisive thing she'd done all night."
+    },
+    {
+      "id": "ch9-act6-seg236",
+      "start": 362.9,
+      "end": 368.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She woke near midnight. Caelin was there, which she registered before she registered anything else."
+    },
+    {
+      "id": "ch9-act6-seg237",
+      "start": 368.975,
+      "end": 369.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Six,\""
+    },
+    {
+      "id": "ch9-act6-seg238",
+      "start": 369.975,
+      "end": 372.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, when her eyes focused."
+    },
+    {
+      "id": "ch9-act6-seg239",
+      "start": 372.8,
+      "end": 376.4,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Before you fell. In case you were counting.\""
+    },
+    {
+      "id": "ch9-act6-seg240",
+      "start": 376.55,
+      "end": 377.425,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Seven,\""
+    },
+    {
+      "id": "ch9-act6-seg241",
+      "start": 377.725,
+      "end": 379.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch9-act6-seg242",
+      "start": 379.275,
+      "end": 382.075,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"You missed one at the drainpipe.\""
+    },
+    {
+      "id": "ch9-act6-seg243",
+      "start": 382.375,
+      "end": 384.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He almost smiled."
+    },
+    {
+      "id": "ch9-act6-seg244",
+      "start": 384.575,
+      "end": 386.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"How's your head?\""
+    },
+    {
+      "id": "ch9-act6-seg245",
+      "start": 386.225,
+      "end": 389.7,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Feels like someone rang it like a bell.\""
+    },
+    {
+      "id": "ch9-act6-seg246",
+      "start": 390.0,
+      "end": 392.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She shifted, winced, settled."
+    },
+    {
+      "id": "ch9-act6-seg247",
+      "start": 392.75,
+      "end": 393.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Vale?\""
+    },
+    {
+      "id": "ch9-act6-seg248",
+      "start": 393.9,
+      "end": 396.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The almost-smile went away."
+    },
+    {
+      "id": "ch9-act6-seg249",
+      "start": 396.5,
+      "end": 399.975,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"He saved people. We'll say his name right.\""
+    },
+    {
+      "id": "ch9-act6-seg250",
+      "start": 400.275,
+      "end": 402.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was quiet a moment. Then:"
+    },
+    {
+      "id": "ch9-act6-seg251",
+      "start": 403.05,
+      "end": 405.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"This Aldric. He any good?\""
+    },
+    {
+      "id": "ch9-act6-seg252",
+      "start": 405.225,
+      "end": 413.0,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"He stitched his own arm without flinching and told a man with a broken leg that it was a net positive. I think he'll do.\""
+    },
+    {
+      "id": "ch9-act6-seg253",
+      "start": 413.15,
+      "end": 413.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Mm.\""
+    },
+    {
+      "id": "ch9-act6-seg254",
+      "start": 414.05,
+      "end": 416.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She closed her eyes."
+    },
+    {
+      "id": "ch9-act6-seg255",
+      "start": 416.375,
+      "end": 421.175,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Don't let him touch my shoulder again while I'm awake. He's not gentle.\""
+    },
+    {
+      "id": "ch9-act6-seg256",
+      "start": 421.325,
+      "end": 426.35,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"He said you'd say that. He said if you say that, he was right about the wrap and you can thank him later.\""
+    },
+    {
+      "id": "ch9-act6-seg257",
+      "start": 426.65,
+      "end": 432.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said something short and accurate about Aldric's bedside manner and went back to sleep."
+    },
+    {
+      "id": "ch9-act6-seg258",
+      "start": 432.85,
+      "end": 438.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Night came early, as it does after battles. Millbrook slept in ragged shifts."
+    },
+    {
+      "id": "ch9-act6-seg259",
+      "start": 438.375,
+      "end": 444.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin sat outside on the stable step and watched the sky find stars one at a time."
+    },
+    {
+      "id": "ch9-act6-seg260",
+      "start": 444.325,
+      "end": 455.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale had settled lower than it had been in days -- the scream-cast had burned something down to a truer level, cleared some pressure he hadn't known had been building. He flexed his fingers in the dark."
+    },
+    {
+      "id": "ch9-act6-seg261",
+      "start": 456.1,
+      "end": 463.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The lattice answered steady and sullen, like a fire that had stopped trying to be impressive and committed to just burning."
+    },
+    {
+      "id": "ch9-act6-seg262",
+      "start": 463.5,
+      "end": 475.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He looked north. The scale warmed a fraction -- the same direction it had been pointing since the mountain, patient as a compass needle. Somewhere out there the Depthspire aurora had written curtains across the sky."
+    },
+    {
+      "id": "ch9-act6-seg263",
+      "start": 475.6,
+      "end": 482.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Somewhere out there L's note said two weeks. Somewhere out there thirty-seven men from Veln's Post were owed an answer."
+    },
+    {
+      "id": "ch9-act6-seg264",
+      "start": 483.1,
+      "end": 490.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The third bell had rung too late. Millbrook held, but Vale was gone, and the cost of holding felt heavier than the victory."
+    },
+    {
+      "id": "ch9-act6-seg265",
+      "start": 490.625,
+      "end": 502.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He let that sit. He wasn't going to argue with it. He let it settle beside the other things he was carrying, and then he went in to sleep in pieces, the way you do after battles, and let the north wait until morning."
+    }
+  ]
+}

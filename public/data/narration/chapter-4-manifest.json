@@ -1,0 +1,55 @@
+{
+  "chapter": 4,
+  "title": "Bonds and Burdens",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "Morning Camp",
+      "audioFile": "/audio/chapters/chapter-4-act-1.mp3",
+      "timingFile": "/data/narration/chapter-4-act-1-timing.json",
+      "totalDuration": 316.9,
+      "segmentCount": 55
+    },
+    {
+      "act": 2,
+      "actTitle": "Old Stories",
+      "audioFile": "/audio/chapters/chapter-4-act-2.mp3",
+      "timingFile": "/data/narration/chapter-4-act-2-timing.json",
+      "totalDuration": 259.6,
+      "segmentCount": 63
+    },
+    {
+      "act": 3,
+      "actTitle": "The Fork",
+      "audioFile": "/audio/chapters/chapter-4-act-3.mp3",
+      "timingFile": "/data/narration/chapter-4-act-3-timing.json",
+      "totalDuration": 596.475,
+      "segmentCount": 125
+    },
+    {
+      "act": 4,
+      "actTitle": "Bonds Tested",
+      "audioFile": "/audio/chapters/chapter-4-act-4.mp3",
+      "timingFile": "/data/narration/chapter-4-act-4-timing.json",
+      "totalDuration": 327.275,
+      "segmentCount": 61
+    },
+    {
+      "act": 5,
+      "actTitle": "Gareth's Burden",
+      "audioFile": "/audio/chapters/chapter-4-act-5.mp3",
+      "timingFile": "/data/narration/chapter-4-act-5-timing.json",
+      "totalDuration": 537.3,
+      "segmentCount": 118
+    },
+    {
+      "act": 6,
+      "actTitle": "Moving On",
+      "audioFile": "/audio/chapters/chapter-4-act-6.mp3",
+      "timingFile": "/data/narration/chapter-4-act-6-timing.json",
+      "totalDuration": 536.775,
+      "segmentCount": 131
+    }
+  ],
+  "totalDuration": 2574.325
+}

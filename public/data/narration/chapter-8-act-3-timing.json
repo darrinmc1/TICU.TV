@@ -1,0 +1,1257 @@
+{
+  "chapter": 8,
+  "act": 3,
+  "actTitle": "The Valley",
+  "audioFile": "/audio/chapters/chapter-8-act-3.mp3",
+  "totalDuration": 806.125,
+  "segments": [
+    {
+      "id": "ch8-act3-seg149",
+      "start": 0.0,
+      "end": 13.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Millbrook had convinced itself of spring. Meltwater ran in narrow gullies between cobbles. Laundry pretended the wind was helpful. A cartwheel argued with a rut and lost. Normalcy stacked itself high enough to be worth falling from."
+    },
+    {
+      "id": "ch8-act3-seg150",
+      "start": 14.075,
+      "end": 23.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They procured soap, a length of decent rope, a handful of nails Thornik admired as if they were art, and bread with enough heat left in it to sting fingers."
+    },
+    {
+      "id": "ch8-act3-seg151",
+      "start": 23.925,
+      "end": 31.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin carried the loaf under his good arm and learned that you can remember a person with your nose as easily as any other way."
+    },
+    {
+      "id": "ch8-act3-seg152",
+      "start": 32.025,
+      "end": 44.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three more breaths of it and he knew exactly which market stall Elowen would have gone to first, and what she would have said to the baker, and why that was exactly the kind of thing that was going to keep ambushing him for a long time."
+    },
+    {
+      "id": "ch8-act3-seg153",
+      "start": 44.85,
+      "end": 46.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Quiet Rooms"
+    },
+    {
+      "id": "ch8-act3-seg154",
+      "start": 46.975,
+      "end": 49.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara asked Vale for"
+    },
+    {
+      "id": "ch8-act3-seg155",
+      "start": 49.675,
+      "end": 52.65,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"a door that locks and a basin that doesn't leak.\""
+    },
+    {
+      "id": "ch8-act3-seg156",
+      "start": 52.95,
+      "end": 66.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He gave her a narrow cell behind the archive. She closed the bolt and peeled her gloves off in the shadowed light -- flesh blackened at the fingertips where death-magic had taken its rent. Linen. Oil. The practiced ritual of binding and unbinding."
+    },
+    {
+      "id": "ch8-act3-seg157",
+      "start": 66.75,
+      "end": 72.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not performance; maintenance. Out of sight because sometimes strength is simply privacy."
+    },
+    {
+      "id": "ch8-act3-seg158",
+      "start": 72.625,
+      "end": 79.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "By the time she reemerged, the gloves were back on, immaculate as always, and no one had been invited to pity."
+    },
+    {
+      "id": "ch8-act3-seg159",
+      "start": 79.7,
+      "end": 81.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A Healer's Word"
+    },
+    {
+      "id": "ch8-act3-seg160",
+      "start": 81.875,
+      "end": 88.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's new bandage smelled of willow and camphor. The healer had done what she could: dulled the edges, steadied his breath."
+    },
+    {
+      "id": "ch8-act3-seg161",
+      "start": 88.925,
+      "end": 91.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Not the same as your druid,\""
+    },
+    {
+      "id": "ch8-act3-seg162",
+      "start": 91.725,
+      "end": 102.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she'd said, and he hadn't asked how she knew -- because he'd told her, softly, before he could stop himself. Elowen's name didn't cross his lips; it didn't have to. The ache made a name of its own."
+    },
+    {
+      "id": "ch8-act3-seg163",
+      "start": 102.675,
+      "end": 113.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "On the walk back, Vex paced him without comment. When his step hitched on a pothole, her hand shot out and steadied his elbow as if she hadn't meant to. She let go just as quickly, pretending she hadn't."
+    },
+    {
+      "id": "ch8-act3-seg164",
+      "start": 114.075,
+      "end": 114.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Thanks,\""
+    },
+    {
+      "id": "ch8-act3-seg165",
+      "start": 115.125,
+      "end": 116.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch8-act3-seg166",
+      "start": 116.65,
+      "end": 118.45,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Watch your feet,\""
+    },
+    {
+      "id": "ch8-act3-seg167",
+      "start": 118.75,
+      "end": 123.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she replied, sharpening the words to hide the softness inside them."
+    },
+    {
+      "id": "ch8-act3-seg168",
+      "start": 123.575,
+      "end": 125.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Copper Ladle"
+    },
+    {
+      "id": "ch8-act3-seg169",
+      "start": 125.85,
+      "end": 140.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Millbrook's main tavern wore its age in grooves on the floorboards and soot in the rafters. The Copper Ladle's low ceiling trapped smoke and noise in equal measure. Refugees packed the benches, their conversations a blend of fear and forced normalcy."
+    },
+    {
+      "id": "ch8-act3-seg170",
+      "start": 140.5,
+      "end": 153.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale took the corner bench with Serana to walk the defensive map again; Vex ghosted to a column with clear sight of both doors; Durgan planted himself by the back exit and watched shadows decide if they wanted to misbehave."
+    },
+    {
+      "id": "ch8-act3-seg171",
+      "start": 154.05,
+      "end": 161.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin shouldered through the press toward an empty table, the scale's heat making his arm ache worse in the crowded warmth."
+    },
+    {
+      "id": "ch8-act3-seg172",
+      "start": 161.375,
+      "end": 162.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The Ember-born.\""
+    },
+    {
+      "id": "ch8-act3-seg173",
+      "start": 163.15,
+      "end": 168.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The voice was silk over steel, carrying easily over the tavern's din."
+    },
+    {
+      "id": "ch8-act3-seg174",
+      "start": 168.15,
+      "end": 173.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Fortune smiles -- I'd begun to worry you'd take another route entirely.\""
+    },
+    {
+      "id": "ch8-act3-seg175",
+      "start": 173.725,
+      "end": 183.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The speaker rose from a corner table with practiced grace -- dark hair, amber eyes that catalogued everything, expensive leather armor that looked effortlessly casual."
+    },
+    {
+      "id": "ch8-act3-seg176",
+      "start": 183.95,
+      "end": 194.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Maps and journals spread before him like a merchant's wares, a bottle of Stormhaven red already half-empty. Five cups waited with the patience of a man accustomed to getting his way."
+    },
+    {
+      "id": "ch8-act3-seg177",
+      "start": 195.125,
+      "end": 198.15,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Jasper Coinblight, at your considerable service.\""
+    },
+    {
+      "id": "ch8-act3-seg178",
+      "start": 198.45,
+      "end": 203.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He gestured to the empty chairs with a flourish that somehow didn't look theatrical."
+    },
+    {
+      "id": "ch8-act3-seg179",
+      "start": 203.75,
+      "end": 221.5,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Information broker, relic hunter, and -- if the cards fall favorably -- your guide to wealth beyond imagining. Please, do sit. The wine is exceptional, the company promises to be memorable, and the conversation will be worth considerably more than both.\""
+    },
+    {
+      "id": "ch8-act3-seg180",
+      "start": 221.8,
+      "end": 225.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex's hand drifted toward a dagger hilt."
+    },
+    {
+      "id": "ch8-act3-seg181",
+      "start": 225.25,
+      "end": 227.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You've been waiting for us specifically.\""
+    },
+    {
+      "id": "ch8-act3-seg182",
+      "start": 227.9,
+      "end": 234.3,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Waiting implies passivity. I prefer 'strategically positioned along probable routes.'\""
+    },
+    {
+      "id": "ch8-act3-seg183",
+      "start": 234.6,
+      "end": 238.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's smile could have charmed coin from a miser's purse."
+    },
+    {
+      "id": "ch8-act3-seg184",
+      "start": 238.75,
+      "end": 250.35,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"When the dragon-marked and his remarkable companions depart Thornwick heading east, certain destinations become statistically likely. And statistics, my dear shadow-dancer, are simply opportunities wearing numbers.\""
+    },
+    {
+      "id": "ch8-act3-seg185",
+      "start": 250.65,
+      "end": 258.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin felt the scale pulse steady -- no white-hot sting of deception. Whatever else this man was, he believed his own silver tongue."
+    },
+    {
+      "id": "ch8-act3-seg186",
+      "start": 258.775,
+      "end": 260.85,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"You know where we're going,\""
+    },
+    {
+      "id": "ch8-act3-seg187",
+      "start": 261.15,
+      "end": 263.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. Not a question."
+    },
+    {
+      "id": "ch8-act3-seg188",
+      "start": 263.85,
+      "end": 265.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I know where you must go.\""
+    },
+    {
+      "id": "ch8-act3-seg189",
+      "start": 265.975,
+      "end": 271.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper spread his maps across the table with the reverence of a priest laying out scripture."
+    },
+    {
+      "id": "ch8-act3-seg190",
+      "start": 271.925,
+      "end": 279.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Depthspire. The Concord's most ambitious prison-vault, and quite possibly their most catastrophically brilliant mistake.\""
+    },
+    {
+      "id": "ch8-act3-seg191",
+      "start": 279.825,
+      "end": 283.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He traced elegant fingers across the largest map."
+    },
+    {
+      "id": "ch8-act3-seg192",
+      "start": 283.8,
+      "end": 300.475,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Picture, if you will, a fortress designed not merely to store treasures, but to defend them using the very monsters too dangerous to kill. Corrupted mages. Possessed warriors. Things that slipped through conjuration rifts and refused to die politely. The Concord imprisoned them alongside their most valuable relics and artifacts.\""
+    },
+    {
+      "id": "ch8-act3-seg193",
+      "start": 300.625,
+      "end": 303.325,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Using prisoners as guards?\""
+    },
+    {
+      "id": "ch8-act3-seg194",
+      "start": 303.625,
+      "end": 307.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik's scholarly interest overrode his caution."
+    },
+    {
+      "id": "ch8-act3-seg195",
+      "start": 307.375,
+      "end": 309.8,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"As a living security system.\""
+    },
+    {
+      "id": "ch8-act3-seg196",
+      "start": 310.1,
+      "end": 312.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's eyes gleamed."
+    },
+    {
+      "id": "ch8-act3-seg197",
+      "start": 312.675,
+      "end": 324.775,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Adaptive, intelligent, and utterly motivated. Each prisoner positioned between entrance and vault, each one desperate for freedom and quite willing to kill anyone foolish enough to offer the opportunity.\""
+    },
+    {
+      "id": "ch8-act3-seg198",
+      "start": 325.075,
+      "end": 327.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He paused for effect."
+    },
+    {
+      "id": "ch8-act3-seg199",
+      "start": 327.425,
+      "end": 330.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Brilliance and horror in equal measure, wouldn't you agree?\""
+    },
+    {
+      "id": "ch8-act3-seg200",
+      "start": 330.825,
+      "end": 332.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Three entrances,\""
+    },
+    {
+      "id": "ch8-act3-seg201",
+      "start": 333.25,
+      "end": 336.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper continued, tapping locations."
+    },
+    {
+      "id": "ch8-act3-seg202",
+      "start": 336.625,
+      "end": 350.775,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"East -- heavily guarded by what remains of the prison's original wardens. Inadvisable. South -- flooded for decades, structurally unsound. Suicidal. West -- the deep prison levels where, curiously enough, the wards are failing and certain occupied cells are beginning to open.\""
+    },
+    {
+      "id": "ch8-act3-seg203",
+      "start": 351.075,
+      "end": 353.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's scale warmed at that."
+    },
+    {
+      "id": "ch8-act3-seg204",
+      "start": 353.9,
+      "end": 356.05,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The doors are opening?\""
+    },
+    {
+      "id": "ch8-act3-seg205",
+      "start": 356.2,
+      "end": 361.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Indeed. And here's where your particular destiny intersects with my professional aspirations.\""
+    },
+    {
+      "id": "ch8-act3-seg206",
+      "start": 361.7,
+      "end": 366.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper leaned forward, all business now despite the smooth delivery."
+    },
+    {
+      "id": "ch8-act3-seg207",
+      "start": 366.55,
+      "end": 379.625,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"As the Nine relics awaken -- as that remarkable scale of yours came alive -- the binding magic weakens. The prisoners are stirring. Some cells have already failed. The dungeon becomes more dangerous every day.\""
+    },
+    {
+      "id": "ch8-act3-seg208",
+      "start": 379.775,
+      "end": 381.725,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"But also more accessible,\""
+    },
+    {
+      "id": "ch8-act3-seg209",
+      "start": 382.025,
+      "end": 384.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex finished, understanding dawning."
+    },
+    {
+      "id": "ch8-act3-seg210",
+      "start": 385.0,
+      "end": 386.75,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Precisely.\""
+    },
+    {
+      "id": "ch8-act3-seg211",
+      "start": 387.05,
+      "end": 390.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's smile acknowledged her sharp mind."
+    },
+    {
+      "id": "ch8-act3-seg212",
+      "start": 390.525,
+      "end": 399.925,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You must traverse all three levels to reach the vault itself. One relic waits there -- a piece of your grand puzzle. Plus sufficient treasures to fund, oh, a dozen expeditions.\""
+    },
+    {
+      "id": "ch8-act3-seg213",
+      "start": 400.225,
+      "end": 402.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He spread his hands."
+    },
+    {
+      "id": "ch8-act3-seg214",
+      "start": 402.4,
+      "end": 406.725,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"What I'm proposing is a partnership of enlightened self-interest.\""
+    },
+    {
+      "id": "ch8-act3-seg215",
+      "start": 406.875,
+      "end": 408.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You want a share,\""
+    },
+    {
+      "id": "ch8-act3-seg216",
+      "start": 408.475,
+      "end": 410.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said flatly."
+    },
+    {
+      "id": "ch8-act3-seg217",
+      "start": 410.6,
+      "end": 413.775,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I want to survive long enough to spend it.\""
+    },
+    {
+      "id": "ch8-act3-seg218",
+      "start": 414.075,
+      "end": 417.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper met her mismatched eyes without flinching."
+    },
+    {
+      "id": "ch8-act3-seg219",
+      "start": 417.725,
+      "end": 428.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I've researched Depthspire for three years. I know the approach, the architecture, the legends. More importantly, I have an associate whose particular talents make him utterly invaluable for what we're attempting.\""
+    },
+    {
+      "id": "ch8-act3-seg220",
+      "start": 428.55,
+      "end": 430.9,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"What kind of associate?\""
+    },
+    {
+      "id": "ch8-act3-seg221",
+      "start": 431.2,
+      "end": 433.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana asked carefully."
+    },
+    {
+      "id": "ch8-act3-seg222",
+      "start": 433.95,
+      "end": 436.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's smile turned enigmatic."
+    },
+    {
+      "id": "ch8-act3-seg223",
+      "start": 437.075,
+      "end": 441.45,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The kind the Copper Ladle refuses to serve. Something about rats and smell.\""
+    },
+    {
+      "id": "ch8-act3-seg224",
+      "start": 441.75,
+      "end": 443.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He stood smoothly."
+    },
+    {
+      "id": "ch8-act3-seg225",
+      "start": 443.95,
+      "end": 453.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"But words do him disservice -- you should meet him yourselves. He's waiting outside, as taverns have become rather inhospitable to his unique charms.\""
+    },
+    {
+      "id": "ch8-act3-seg226",
+      "start": 453.65,
+      "end": 456.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He moved toward the door, then paused."
+    },
+    {
+      "id": "ch8-act3-seg227",
+      "start": 456.675,
+      "end": 465.125,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Fair warning: Puddle is an acquired taste. But he possesses skills that will mean the difference between reaching that vault and becoming another cautionary tale.\""
+    },
+    {
+      "id": "ch8-act3-seg228",
+      "start": 465.425,
+      "end": 469.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His amber eyes held something that might have been genuine respect."
+    },
+    {
+      "id": "ch8-act3-seg229",
+      "start": 469.95,
+      "end": 475.05,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"One week. West entrance. Don't be late -- the dungeon doesn't improve with age.\""
+    },
+    {
+      "id": "ch8-act3-seg230",
+      "start": 475.35,
+      "end": 477.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Outside in the Alley"
+    },
+    {
+      "id": "ch8-act3-seg231",
+      "start": 477.8,
+      "end": 486.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The alley was dark, narrow, smelling of rain-soaked wood and old barrel rot. Jasper led them around the tavern's side where shadows pooled thick."
+    },
+    {
+      "id": "ch8-act3-seg232",
+      "start": 486.725,
+      "end": 487.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Puddle?\""
+    },
+    {
+      "id": "ch8-act3-seg233",
+      "start": 487.925,
+      "end": 489.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he called."
+    },
+    {
+      "id": "ch8-act3-seg234",
+      "start": 489.525,
+      "end": 493.3,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Our potential associates have agreed to an introduction.\""
+    },
+    {
+      "id": "ch8-act3-seg235",
+      "start": 493.6,
+      "end": 498.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Movement along the wall -- something scuttling with unsettling fluidity."
+    },
+    {
+      "id": "ch8-act3-seg236",
+      "start": 498.55,
+      "end": 501.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A figure emerged from the shadows."
+    },
+    {
+      "id": "ch8-act3-seg237",
+      "start": 501.675,
+      "end": 514.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Small. Barely five feet tall, hunched beneath a tattered dark cloak that looked like it had been stitched from a dozen different rags. Greenish skin caught the moonlight, and a broad, almost manic grin split his face, showing prominent teeth."
+    },
+    {
+      "id": "ch8-act3-seg238",
+      "start": 514.7,
+      "end": 525.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Oversized eyes gleamed with cheerful intensity beneath the hood. Multiple pouches hung from a belt alongside small cages -- some occupied by small, squeaking shapes."
+    },
+    {
+      "id": "ch8-act3-seg239",
+      "start": 525.425,
+      "end": 531.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He gripped a gnarled walking stick, and perched on his shoulders, tucked into pockets, one even nestled in his hood --"
+    },
+    {
+      "id": "ch8-act3-seg240",
+      "start": 532.125,
+      "end": 535.375,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Hello! Puddle is Puddle! And these are Puddle's friends!\""
+    },
+    {
+      "id": "ch8-act3-seg241",
+      "start": 535.675,
+      "end": 543.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The half-orc gestured proudly to the rats with his free hand, the movement making them adjust positions with practiced ease."
+    },
+    {
+      "id": "ch8-act3-seg242",
+      "start": 543.4,
+      "end": 548.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The smell arrived a heartbeat later: earthy, musty, cheese, underground."
+    },
+    {
+      "id": "ch8-act3-seg243",
+      "start": 548.35,
+      "end": 553.85,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Too bright out here. Puddle prefers dark. Dark is safe! Lights make Puddles squinty!\""
+    },
+    {
+      "id": "ch8-act3-seg244",
+      "start": 554.0,
+      "end": 555.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Puddle Thrym,\""
+    },
+    {
+      "id": "ch8-act3-seg245",
+      "start": 555.525,
+      "end": 558.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper introduced smoothly."
+    },
+    {
+      "id": "ch8-act3-seg246",
+      "start": 558.275,
+      "end": 564.5,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The finest tunnel-runner, dungeon-mapper, and all-around subterranean specialist currently breathing.\""
+    },
+    {
+      "id": "ch8-act3-seg247",
+      "start": 564.8,
+      "end": 567.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle beamed at the praise."
+    },
+    {
+      "id": "ch8-act3-seg248",
+      "start": 567.325,
+      "end": 572.425,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Fire-mark! Metal-beard! Shiny-paladin! Dark-lady! Pretty-knife-lady! Quiet-man-with-funny-shadow!\""
+    },
+    {
+      "id": "ch8-act3-seg249",
+      "start": 572.725,
+      "end": 577.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He'd named them all instantly, head tilting at each in turn."
+    },
+    {
+      "id": "ch8-act3-seg250",
+      "start": 577.175,
+      "end": 579.15,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Your... friends?\""
+    },
+    {
+      "id": "ch8-act3-seg251",
+      "start": 579.45,
+      "end": 582.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin asked carefully, gesturing toward the rats."
+    },
+    {
+      "id": "ch8-act3-seg252",
+      "start": 583.125,
+      "end": 585.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Yes! Puddle's friends are very helpful!\""
+    },
+    {
+      "id": "ch8-act3-seg253",
+      "start": 586.05,
+      "end": 592.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "One of the rats -- grey-brown with intelligent eyes -- chittered at length. Puddle listened intently, nodding."
+    },
+    {
+      "id": "ch8-act3-seg254",
+      "start": 592.675,
+      "end": 598.9,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Whiskers is very wise! Whiskers says Fire-mark smells like fire and old magic!\""
+    },
+    {
+      "id": "ch8-act3-seg255",
+      "start": 599.2,
+      "end": 602.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He tilted his head at Caelin, concerned."
+    },
+    {
+      "id": "ch8-act3-seg256",
+      "start": 602.625,
+      "end": 607.2,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"And... sadness? Why Fire-mark sad? Is Puddle's smell? Puddle can stand farther away!\""
+    },
+    {
+      "id": "ch8-act3-seg257",
+      "start": 607.35,
+      "end": 609.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It's not your smell,\""
+    },
+    {
+      "id": "ch8-act3-seg258",
+      "start": 609.375,
+      "end": 615.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, something almost gentle in her tone despite the absurdity of the conversation."
+    },
+    {
+      "id": "ch8-act3-seg259",
+      "start": 615.4,
+      "end": 617.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle brightened immediately."
+    },
+    {
+      "id": "ch8-act3-seg260",
+      "start": 618.025,
+      "end": 623.025,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Good! Puddle works very hard on smell! Many years of sewer-living!\""
+    },
+    {
+      "id": "ch8-act3-seg261",
+      "start": 623.175,
+      "end": 625.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Puddle's companions,\""
+    },
+    {
+      "id": "ch8-act3-seg262",
+      "start": 625.3,
+      "end": 629.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper explained with the patience of long practice,"
+    },
+    {
+      "id": "ch8-act3-seg263",
+      "start": 629.25,
+      "end": 641.35,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"possess talents that conventional scouts lack. They can navigate spaces no human could access. And most crucially -- they can map dungeons with remarkable accuracy.\""
+    },
+    {
+      "id": "ch8-act3-seg264",
+      "start": 641.5,
+      "end": 649.325,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Friends go where big people can't! Friends see what big people miss! Puddle finds secret ways! Small tunnels! Drainage! Places metal-crushers don't see!\""
+    },
+    {
+      "id": "ch8-act3-seg265",
+      "start": 649.625,
+      "end": 653.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His enthusiasm was infectious, despite the strangeness."
+    },
+    {
+      "id": "ch8-act3-seg266",
+      "start": 653.925,
+      "end": 655.725,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Metal-crushers?\""
+    },
+    {
+      "id": "ch8-act3-seg267",
+      "start": 656.025,
+      "end": 657.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik asked."
+    },
+    {
+      "id": "ch8-act3-seg268",
+      "start": 657.975,
+      "end": 660.25,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Big metal things that patrol,\""
+    },
+    {
+      "id": "ch8-act3-seg269",
+      "start": 660.55,
+      "end": 666.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle said matter-of-factly, then reached into one of his pouches and withdrew something small and dried."
+    },
+    {
+      "id": "ch8-act3-seg270",
+      "start": 666.825,
+      "end": 673.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Puddle brings gift to celebrate partnership! Is very fresh jerky! Only died this morning!\""
+    },
+    {
+      "id": "ch8-act3-seg271",
+      "start": 673.5,
+      "end": 677.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Moonlight caught it clearly: unmistakably rat-shaped."
+    },
+    {
+      "id": "ch8-act3-seg272",
+      "start": 677.425,
+      "end": 679.625,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Absolutely not,\""
+    },
+    {
+      "id": "ch8-act3-seg273",
+      "start": 679.925,
+      "end": 682.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said immediately."
+    },
+    {
+      "id": "ch8-act3-seg274",
+      "start": 682.675,
+      "end": 683.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Hard pass,\""
+    },
+    {
+      "id": "ch8-act3-seg275",
+      "start": 684.125,
+      "end": 685.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex added."
+    },
+    {
+      "id": "ch8-act3-seg276",
+      "start": 686.075,
+      "end": 690.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle shrugged cheerfully and ate it himself, the crunch audible."
+    },
+    {
+      "id": "ch8-act3-seg277",
+      "start": 690.5,
+      "end": 692.7,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"More for Puddle then!\""
+    },
+    {
+      "id": "ch8-act3-seg278",
+      "start": 693.0,
+      "end": 696.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's smooth mask cracked into a genuine smile."
+    },
+    {
+      "id": "ch8-act3-seg279",
+      "start": 697.025,
+      "end": 699.2,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"As I said -- acquired taste.\""
+    },
+    {
+      "id": "ch8-act3-seg280",
+      "start": 699.5,
+      "end": 701.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He turned serious again."
+    },
+    {
+      "id": "ch8-act3-seg281",
+      "start": 701.975,
+      "end": 711.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"One week. West entrance. Puddle can map the dungeon as we go -- find routes around the worst dangers, locate passages others would miss entirely.\""
+    },
+    {
+      "id": "ch8-act3-seg282",
+      "start": 711.575,
+      "end": 714.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"And if we decide this is suicide?\""
+    },
+    {
+      "id": "ch8-act3-seg283",
+      "start": 714.325,
+      "end": 716.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked."
+    },
+    {
+      "id": "ch8-act3-seg284",
+      "start": 716.175,
+      "end": 723.325,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Then I'll find someone else who values the difference between 'impossible' and 'merely extraordinarily dangerous.'\""
+    },
+    {
+      "id": "ch8-act3-seg285",
+      "start": 723.625,
+      "end": 728.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper's amber eyes held calculation and something like respect."
+    },
+    {
+      "id": "ch8-act3-seg286",
+      "start": 728.475,
+      "end": 740.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"But I don't believe you will. You're heading to the Emberpeaks regardless -- Depthspire is the only intact Concord structure in that range. The question isn't if you'll need us, but whether you'll be wise enough to accept the help before attempting it blind.\""
+    },
+    {
+      "id": "ch8-act3-seg287",
+      "start": 741.15,
+      "end": 744.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle produced a clay bottle from another pouch."
+    },
+    {
+      "id": "ch8-act3-seg288",
+      "start": 744.775,
+      "end": 749.75,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Puddle has mushroom wine for celebrating! Makes tongue fuzzy! Very fun!\""
+    },
+    {
+      "id": "ch8-act3-seg289",
+      "start": 749.9,
+      "end": 750.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"No,\""
+    },
+    {
+      "id": "ch8-act3-seg290",
+      "start": 750.9,
+      "end": 753.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "came the immediate collective response."
+    },
+    {
+      "id": "ch8-act3-seg291",
+      "start": 754.0,
+      "end": 756.05,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Suit yourselves.\""
+    },
+    {
+      "id": "ch8-act3-seg292",
+      "start": 756.35,
+      "end": 758.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Jasper clapped Puddle's shoulder."
+    },
+    {
+      "id": "ch8-act3-seg293",
+      "start": 759.075,
+      "end": 762.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Come along, my aromatic friend. We have preparations to make.\""
+    },
+    {
+      "id": "ch8-act3-seg294",
+      "start": 762.925,
+      "end": 768.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Puddle waved cheerfully to the party, rats chittering in what might have been farewell."
+    },
+    {
+      "id": "ch8-act3-seg295",
+      "start": 768.175,
+      "end": 771.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"One week! West entrance! Puddle will be ready!\""
+    },
+    {
+      "id": "ch8-act3-seg296",
+      "start": 771.825,
+      "end": 774.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He grinned that broad, manic grin."
+    },
+    {
+      "id": "ch8-act3-seg297",
+      "start": 774.9,
+      "end": 777.45,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Dark is better for traveling anyway!\""
+    },
+    {
+      "id": "ch8-act3-seg298",
+      "start": 777.75,
+      "end": 786.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The two disappeared into the barrel-shadows -- Jasper's smooth grace and Puddle's hunched, scuttling gait. Distant squeaking faded into silence."
+    },
+    {
+      "id": "ch8-act3-seg299",
+      "start": 786.65,
+      "end": 789.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The party stood for a long moment."
+    },
+    {
+      "id": "ch8-act3-seg300",
+      "start": 789.45,
+      "end": 792.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We're trusting our lives to that?\""
+    },
+    {
+      "id": "ch8-act3-seg301",
+      "start": 792.425,
+      "end": 794.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said faintly."
+    },
+    {
+      "id": "ch8-act3-seg302",
+      "start": 794.7,
+      "end": 796.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"If we go,\""
+    },
+    {
+      "id": "ch8-act3-seg303",
+      "start": 796.725,
+      "end": 801.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin corrected. He looked back toward the warm light of the tavern."
+    },
+    {
+      "id": "ch8-act3-seg304",
+      "start": 801.25,
+      "end": 806.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Right now we have a council to prepare for and a town to help hold.\""
+    }
+  ]
+}

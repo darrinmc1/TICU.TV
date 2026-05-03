@@ -1,0 +1,433 @@
+{
+  "chapter": 9,
+  "act": 3,
+  "actTitle": "Second Bell",
+  "audioFile": "/audio/chapters/chapter-9-act-3.mp3",
+  "totalDuration": 316.95,
+  "segments": [
+    {
+      "id": "ch9-act3-seg062",
+      "start": 0.0,
+      "end": 11.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The second bell rang and the square was a box of breath and noise -- barrows shoved into a wall, barrels upright for the bucket chain, a slapped-together barricade that would break once, maybe twice."
+    },
+    {
+      "id": "ch9-act3-seg063",
+      "start": 11.3,
+      "end": 19.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Villagers braced spears with white knuckles; Vale ran the line, tapping shoulders, fixing spacing, making fear into formation."
+    },
+    {
+      "id": "ch9-act3-seg064",
+      "start": 19.4,
+      "end": 21.6,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Reserve on the right,\""
+    },
+    {
+      "id": "ch9-act3-seg065",
+      "start": 21.9,
+      "end": 23.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he told a sergeant."
+    },
+    {
+      "id": "ch9-act3-seg066",
+      "start": 24.125,
+      "end": 28.45,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"When the paladin gives you the nod, you move. No heroics. We live.\""
+    },
+    {
+      "id": "ch9-act3-seg067",
+      "start": 28.75,
+      "end": 40.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thralls came hard now, shadows flaring like oil under wind. More of them -- eight, ten, too fast to count -- and they came from three directions because they'd remembered where the defense was thin and aimed for it."
+    },
+    {
+      "id": "ch9-act3-seg068",
+      "start": 41.0,
+      "end": 42.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Thornik!\""
+    },
+    {
+      "id": "ch9-act3-seg069",
+      "start": 42.3,
+      "end": 44.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex called from the parapet."
+    },
+    {
+      "id": "ch9-act3-seg070",
+      "start": 44.8,
+      "end": 45.975,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Left!\""
+    },
+    {
+      "id": "ch9-act3-seg071",
+      "start": 46.275,
+      "end": 54.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He burned two charges to break a rush that would have folded the line. The belt went lighter at his ribs. He tapped the emptiness with a grim snort."
+    },
+    {
+      "id": "ch9-act3-seg072",
+      "start": 54.9,
+      "end": 57.55,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Three left. Then it's axes and prayer.\""
+    },
+    {
+      "id": "ch9-act3-seg073",
+      "start": 57.7,
+      "end": 59.9,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Prayer's out of stock,\""
+    },
+    {
+      "id": "ch9-act3-seg074",
+      "start": 60.2,
+      "end": 65.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said through her teeth, driving a thrall back with the flat of her blade."
+    },
+    {
+      "id": "ch9-act3-seg075",
+      "start": 65.25,
+      "end": 68.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You'll have to settle for geometry and stubbornness.\""
+    },
+    {
+      "id": "ch9-act3-seg076",
+      "start": 68.7,
+      "end": 78.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara was cool and surgical -- veils of suggestion and stutters of hesitation blooming in enemy minds, buying heartbeats where heartbeats meant survival."
+    },
+    {
+      "id": "ch9-act3-seg077",
+      "start": 78.375,
+      "end": 91.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thralls' coordination would fragment for a breath, two breaths, their learning interrupted by psychic static that Nyxara laid down with the precision of a woman placing caltrops. She did not reach for the deeper well yet. Not yet."
+    },
+    {
+      "id": "ch9-act3-seg078",
+      "start": 91.975,
+      "end": 97.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The patron's price was measured in fingertips, and she had a limited supply."
+    },
+    {
+      "id": "ch9-act3-seg079",
+      "start": 97.325,
+      "end": 102.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A scream cut through the chaos -- civilian down in the square, leg twisted wrong."
+    },
+    {
+      "id": "ch9-act3-seg080",
+      "start": 102.8,
+      "end": 109.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A voice cut through the noise -- not a shout, a command, the kind that had been obeyed on fields worse than this:"
+    },
+    {
+      "id": "ch9-act3-seg081",
+      "start": 109.6,
+      "end": 112.675,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Don't move him! Spine's compromised!\""
+    },
+    {
+      "id": "ch9-act3-seg082",
+      "start": 112.975,
+      "end": 114.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin turned."
+    },
+    {
+      "id": "ch9-act3-seg083",
+      "start": 115.1,
+      "end": 128.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A man knelt over the fallen villager -- grey-bearded, built like two decades of campaign work that had never quite softened, hands moving with the unhurried speed of someone who'd stopped being surprised by injury somewhere around middle age."
+    },
+    {
+      "id": "ch9-act3-seg084",
+      "start": 128.95,
+      "end": 138.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Battered medical bag, open on bloody cobbles. Leather strap between his teeth while he worked, because his hands were busy and his mouth had learned to hold things."
+    },
+    {
+      "id": "ch9-act3-seg085",
+      "start": 138.85,
+      "end": 149.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Every motion economical, precise -- not the careful slowness of someone trying to get it right, but the fluent speed of someone who'd gotten it right ten thousand times and stopped thinking about it."
+    },
+    {
+      "id": "ch9-act3-seg086",
+      "start": 150.15,
+      "end": 152.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't look up."
+    },
+    {
+      "id": "ch9-act3-seg087",
+      "start": 152.2,
+      "end": 153.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You.\""
+    },
+    {
+      "id": "ch9-act3-seg088",
+      "start": 153.35,
+      "end": 155.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "This at a woman nearby."
+    },
+    {
+      "id": "ch9-act3-seg089",
+      "start": 156.025,
+      "end": 158.975,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Neck brace. My bag. Green strap.\""
+    },
+    {
+      "id": "ch9-act3-seg090",
+      "start": 159.275,
+      "end": 164.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then to the wounded man, in the gentler voice of a carpenter addressing a split beam:"
+    },
+    {
+      "id": "ch9-act3-seg091",
+      "start": 164.925,
+      "end": 170.45,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You're going to live. I've pulled men through worse than this with less. The bad news is you're going to remember it.\""
+    },
+    {
+      "id": "ch9-act3-seg092",
+      "start": 170.75,
+      "end": 173.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then to Caelin, still not looking up:"
+    },
+    {
+      "id": "ch9-act3-seg093",
+      "start": 173.825,
+      "end": 175.725,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Are you bleeding?\""
+    },
+    {
+      "id": "ch9-act3-seg094",
+      "start": 175.875,
+      "end": 176.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"No.\""
+    },
+    {
+      "id": "ch9-act3-seg095",
+      "start": 176.75,
+      "end": 182.725,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Then step aside. I have a limited amount of time and an unlimited amount of injured people.\""
+    },
+    {
+      "id": "ch9-act3-seg096",
+      "start": 183.025,
+      "end": 192.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin stepped aside. The man splinted, wrapped, assessed, and moved on with the relentless efficiency of a river that knows its course and doesn't ask permission."
+    },
+    {
+      "id": "ch9-act3-seg097",
+      "start": 192.55,
+      "end": 193.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Good news,\""
+    },
+    {
+      "id": "ch9-act3-seg098",
+      "start": 193.975,
+      "end": 200.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "the man told a screaming patient with a broken leg, already fitting a spear-shaft splint with someone's belt."
+    },
+    {
+      "id": "ch9-act3-seg099",
+      "start": 200.8,
+      "end": 209.325,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"You'll live. You'll walk with a limp that'll get you out of digging latrine pits for the rest of your natural life. In my experience that's a net positive.\""
+    },
+    {
+      "id": "ch9-act3-seg100",
+      "start": 209.625,
+      "end": 223.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin pushed harder. A spearline of red-gold leapt from his palm and cut a corridor through grasping shadows; a second cast flared broader, washing the cobbles clean for the bucket line to move. The lattice screamed inside his skin. He tasted copper."
+    },
+    {
+      "id": "ch9-act3-seg101",
+      "start": 224.15,
+      "end": 237.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale's coal-glow intensified to angry amber -- not the black-violet of corruption, but the white-edged heat of a system being pushed past design tolerance. He did it anyway, because three thralls had slipped the ward seam Vex was guarding."
+    },
+    {
+      "id": "ch9-act3-seg102",
+      "start": 238.05,
+      "end": 249.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She cut one's knee, hamstrung the second, rolled under the third and took its throat clean -- then a fourth she hadn't seen came in low. The butt of its spear caught her temple. The world went sideways."
+    },
+    {
+      "id": "ch9-act3-seg103",
+      "start": 249.325,
+      "end": 250.575,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Vex!\""
+    },
+    {
+      "id": "ch9-act3-seg104",
+      "start": 250.875,
+      "end": 257.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik shouted, trying to cut across, but the line surged to fill the gap and he was a beat too slow."
+    },
+    {
+      "id": "ch9-act3-seg105",
+      "start": 257.3,
+      "end": 262.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin turned and saw her folded at an angle wrong for living things."
+    },
+    {
+      "id": "ch9-act3-seg106",
+      "start": 262.35,
+      "end": 264.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Something in him broke open."
+    },
+    {
+      "id": "ch9-act3-seg107",
+      "start": 265.275,
+      "end": 266.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He screamed."
+    },
+    {
+      "id": "ch9-act3-seg108",
+      "start": 267.225,
+      "end": 269.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Fire answered."
+    },
+    {
+      "id": "ch9-act3-seg109",
+      "start": 269.35,
+      "end": 282.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not careful. Not neat. A blast-front roared across half the square, a dragon's exhale made narrow by brutal will. Thralls blackened and curled like paper in a hearth. The heat washed over the barricade and set pitch-seams smoking."
+    },
+    {
+      "id": "ch9-act3-seg110",
+      "start": 282.65,
+      "end": 296.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three seconds of absolute, obliterating power -- and then the lattice went dark, the filaments went cold, and Caelin dropped to his knees on scorched cobblestones with his arm dead from shoulder to fingertips and his vision going to snow."
+    },
+    {
+      "id": "ch9-act3-seg111",
+      "start": 296.375,
+      "end": 308.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The grey-bearded man was beside Vex in three strides. Hands on her neck, checking pulse. Fingers at her pupils. He looked up at Caelin with the measured assessment of a man who'd decided something about both of them."
+    },
+    {
+      "id": "ch9-act3-seg112",
+      "start": 308.7,
+      "end": 310.25,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"She'll live,\""
+    },
+    {
+      "id": "ch9-act3-seg113",
+      "start": 310.55,
+      "end": 311.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch9-act3-seg114",
+      "start": 312.075,
+      "end": 316.95,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You, on the other hand, need to stop doing that before you kill yourself.\""
+    }
+  ]
+}

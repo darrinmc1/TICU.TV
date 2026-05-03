@@ -1,0 +1,417 @@
+{
+  "chapter": 10,
+  "act": 1,
+  "actTitle": "Nyxara",
+  "audioFile": "/audio/chapters/chapter-10-act-1.mp3",
+  "totalDuration": 323.875,
+  "segments": [
+    {
+      "id": "ch10-act1-seg001",
+      "start": 0.0,
+      "end": 13.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara was already awake when the light arrived; warlocks don't court daylight -- they wait it out. She came down the loft's shadow-ladder of the stable and stopped in the dark beneath the last rafter, away from the door. The left glove came off."
+    },
+    {
+      "id": "ch10-act1-seg002",
+      "start": 13.6,
+      "end": 26.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She held the hand up in the thin grey light coming through the gap in the boards. The fingertips were black to the second knuckle now. The skin had the texture of something that had been cold too long -- not dead, not yet, but learning the direction."
+    },
+    {
+      "id": "ch10-act1-seg003",
+      "start": 26.875,
+      "end": 39.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She flexed each finger in turn, feeling the nerves report from their diminished distance. Not pain exactly. More like the memory of pain, arriving late and quiet. She counted the joints. Same number as yesterday."
+    },
+    {
+      "id": "ch10-act1-seg004",
+      "start": 39.575,
+      "end": 43.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She had stopped being grateful for that and started just counting."
+    },
+    {
+      "id": "ch10-act1-seg005",
+      "start": 44.025,
+      "end": 46.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ring finger was the worst."
+    },
+    {
+      "id": "ch10-act1-seg006",
+      "start": 46.925,
+      "end": 61.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The black had climbed past the second knuckle to the base, and when she bent it, there was a fraction of a second's delay between the instruction and the obedience -- a tiny lag, like a conversation through a translator, where her body had once been a single language."
+    },
+    {
+      "id": "ch10-act1-seg007",
+      "start": 61.55,
+      "end": 66.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She'd noticed the delay three days ago. She hadn't told anyone. The delay was hers."
+    },
+    {
+      "id": "ch10-act1-seg008",
+      "start": 67.075,
+      "end": 83.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She tested the grip: fist closed, fist open, fist closed. Strength at maybe seventy percent. Enough for wards. Enough for the subtle work -- the suggestion-veils, the psychic caltrops she'd laid during the siege. Not enough for the deep casting, the patron's full gift. Not without losing more."
+    },
+    {
+      "id": "ch10-act1-seg009",
+      "start": 83.35,
+      "end": 96.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The math was simple and she'd done it many times. Each major casting cost a joint. A knuckle. An inch of herself converted to the patron's currency. At this rate, the hand by winter. The arm by spring. And after the arm --"
+    },
+    {
+      "id": "ch10-act1-seg010",
+      "start": 96.35,
+      "end": 101.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She didn't think past the arm. Past the arm was a conversation she wasn't ready to have."
+    },
+    {
+      "id": "ch10-act1-seg011",
+      "start": 102.15,
+      "end": 105.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The glove went back on before she stepped into the yard."
+    },
+    {
+      "id": "ch10-act1-seg012",
+      "start": 106.25,
+      "end": 118.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She crossed the square alone. The cobbles were still scorched in places where Caelin's fire had swept through; the barricade had been pulled aside but not yet cleared, and someone had left a bucket where a man had died."
+    },
+    {
+      "id": "ch10-act1-seg013",
+      "start": 118.4,
+      "end": 131.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The smell of the night before hung in the cold air -- pitch, iron, the strange wrong-sweetness the thralls left behind. She walked through it without slowing. She had learned early that the best way to move through a bad place was to move through it."
+    },
+    {
+      "id": "ch10-act1-seg014",
+      "start": 131.95,
+      "end": 143.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She found Caelin where she'd expected -- on the stable step in the early cold, carefully re-wrapping his arm, testing the grip against the ache. He didn't try to stand when she approached. It would cost too much."
+    },
+    {
+      "id": "ch10-act1-seg015",
+      "start": 144.0,
+      "end": 149.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A thumb-sized mirror-coin lay in her palm, frost veining the face from the inside."
+    },
+    {
+      "id": "ch10-act1-seg016",
+      "start": 149.575,
+      "end": 150.95,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Summoned,\""
+    },
+    {
+      "id": "ch10-act1-seg017",
+      "start": 151.25,
+      "end": 152.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch10-act1-seg018",
+      "start": 152.8,
+      "end": 156.075,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"And I was told to tell you. You, specifically.\""
+    },
+    {
+      "id": "ch10-act1-seg019",
+      "start": 156.225,
+      "end": 158.175,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"By your patron?\""
+    },
+    {
+      "id": "ch10-act1-seg020",
+      "start": 158.475,
+      "end": 161.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He kept his eyes on the wrap."
+    },
+    {
+      "id": "ch10-act1-seg021",
+      "start": 161.35,
+      "end": 165.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She tilted the coin; the frost vanished as if swallowed."
+    },
+    {
+      "id": "ch10-act1-seg022",
+      "start": 165.55,
+      "end": 173.075,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"When they call, I go. And right now I'm held together with spite and linen. If I cast like I did yesterday, I'll lose these.\""
+    },
+    {
+      "id": "ch10-act1-seg023",
+      "start": 173.375,
+      "end": 176.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She lifted the gloved hand. He knew what was under it."
+    },
+    {
+      "id": "ch10-act1-seg024",
+      "start": 177.075,
+      "end": 180.1,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Next time it's the hand. Then the arm.\""
+    },
+    {
+      "id": "ch10-act1-seg025",
+      "start": 180.4,
+      "end": 182.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He nodded once."
+    },
+    {
+      "id": "ch10-act1-seg026",
+      "start": 182.45,
+      "end": 184.975,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Do you want me to tell the others?\""
+    },
+    {
+      "id": "ch10-act1-seg027",
+      "start": 185.125,
+      "end": 186.6,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"In a bit.\""
+    },
+    {
+      "id": "ch10-act1-seg028",
+      "start": 186.9,
+      "end": 195.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She pressed a looped obsidian sliver into his palm -- smooth, black, the length of a thumbnail and sharp enough to draw blood from the air around it."
+    },
+    {
+      "id": "ch10-act1-seg029",
+      "start": 195.325,
+      "end": 200.175,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"One breath where lies land like truth. Spend it to buy time, not fate.\""
+    },
+    {
+      "id": "ch10-act1-seg030",
+      "start": 200.325,
+      "end": 202.325,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"What does that mean?\""
+    },
+    {
+      "id": "ch10-act1-seg031",
+      "start": 202.475,
+      "end": 208.7,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"It means you'll know when you need it. And when you use it, you'll wish you hadn't. That's how all the best gifts work.\""
+    },
+    {
+      "id": "ch10-act1-seg032",
+      "start": 209.0,
+      "end": 215.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Before he could answer, she drew out a narrow dark ribbon knotted with a hair-fine thread of silver."
+    },
+    {
+      "id": "ch10-act1-seg033",
+      "start": 215.15,
+      "end": 222.4,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Tie it under your sleeve. If I'm within about a hundred miles, the silver will shade darker. Not a map -- just nearness.\""
+    },
+    {
+      "id": "ch10-act1-seg034",
+      "start": 222.7,
+      "end": 224.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He studied it."
+    },
+    {
+      "id": "ch10-act1-seg035",
+      "start": 224.525,
+      "end": 226.025,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"That helps.\""
+    },
+    {
+      "id": "ch10-act1-seg036",
+      "start": 226.325,
+      "end": 237.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She didn't add -- and he didn't ask -- that the knot carried a return thread only she could read; that if she needed to find him, the ribbon answered her too. Some gifts are best given without explaining the price tag."
+    },
+    {
+      "id": "ch10-act1-seg037",
+      "start": 238.1,
+      "end": 240.675,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Anything else I should know?\""
+    },
+    {
+      "id": "ch10-act1-seg038",
+      "start": 240.975,
+      "end": 242.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he asked."
+    },
+    {
+      "id": "ch10-act1-seg039",
+      "start": 242.525,
+      "end": 244.2,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Only this.\""
+    },
+    {
+      "id": "ch10-act1-seg040",
+      "start": 244.5,
+      "end": 257.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She took his wrist, quick and careful, and tied the ribbon for him beneath the wrap where it wouldn't show. Her fingers -- even the dark ones -- moved with the precise grace of someone who'd learned that dexterity was not optional in her profession."
+    },
+    {
+      "id": "ch10-act1-seg041",
+      "start": 257.7,
+      "end": 261.325,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"I'm going because I must, not because I want to. And -- \""
+    },
+    {
+      "id": "ch10-act1-seg042",
+      "start": 261.625,
+      "end": 265.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "her grin flashed, wicked even through exhaustion"
+    },
+    {
+      "id": "ch10-act1-seg043",
+      "start": 265.2,
+      "end": 269.5,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\" -- try not to exhaust yourself without me. I'd hate to miss it.\""
+    },
+    {
+      "id": "ch10-act1-seg044",
+      "start": 269.8,
+      "end": 272.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Even hurt, he huffed a laugh."
+    },
+    {
+      "id": "ch10-act1-seg045",
+      "start": 272.45,
+      "end": 274.4,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"No promises.\""
+    },
+    {
+      "id": "ch10-act1-seg046",
+      "start": 274.55,
+      "end": 276.05,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Good boy.\""
+    },
+    {
+      "id": "ch10-act1-seg047",
+      "start": 276.35,
+      "end": 286.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Two fingers -- the least ruined -- touched his cheek, almost ceremonial. A blessing from a woman who didn't believe in blessings, offered to a man who didn't believe he deserved one."
+    },
+    {
+      "id": "ch10-act1-seg048",
+      "start": 286.925,
+      "end": 291.575,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Walk with ghosts if you must. Don't become one to keep them company.\""
+    },
+    {
+      "id": "ch10-act1-seg049",
+      "start": 291.875,
+      "end": 302.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She stepped away into the lane, her boots finding the cleanest path through the scorched cobbles without apparent effort. She didn't look back. She was good at not looking back. She'd had a lot of practice."
+    },
+    {
+      "id": "ch10-act1-seg050",
+      "start": 302.925,
+      "end": 315.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin watched her go. The yard felt larger -- the way a room feels larger when the heat has gone, when the particular energy of a person who takes up more space than their body occupies simply isn't there anymore."
+    },
+    {
+      "id": "ch10-act1-seg051",
+      "start": 315.45,
+      "end": 323.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He touched the ribbon under his wrap. The silver thread was cool. He wondered how far a hundred miles was and whether he'd feel the moment it went dark."
+    }
+  ]
+}

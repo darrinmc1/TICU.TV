@@ -1,0 +1,993 @@
+{
+  "chapter": 5,
+  "act": 5,
+  "actTitle": "Awakening",
+  "audioFile": "/audio/chapters/chapter-5-act-5.mp3",
+  "totalDuration": 591.175,
+  "segments": [
+    {
+      "id": "ch5-act5-seg409",
+      "start": 0.0,
+      "end": 4.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin woke to a sound his bones recognized before his mind did."
+    },
+    {
+      "id": "ch5-act5-seg410",
+      "start": 5.1,
+      "end": 6.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch5-act5-seg411",
+      "start": 6.6,
+      "end": 11.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not weather. Not rockfall. The counting of something chained far below."
+    },
+    {
+      "id": "ch5-act5-seg412",
+      "start": 11.575,
+      "end": 24.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale answered with a brighter coal-glow; ember drift quickened inside the obsidian. Around the circle, heads lifted one by one. The sound came again, nearer -- or just more focused, as if attention had turned their direction."
+    },
+    {
+      "id": "ch5-act5-seg413",
+      "start": 25.15,
+      "end": 27.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud-thud-thud-thud --"
+    },
+    {
+      "id": "ch5-act5-seg414",
+      "start": 27.425,
+      "end": 31.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik's needles jittered from calm green to anxious yellow."
+    },
+    {
+      "id": "ch5-act5-seg415",
+      "start": 31.7,
+      "end": 36.0,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Movement. Multiple. Below us. Above us. Possibly... through us?\""
+    },
+    {
+      "id": "ch5-act5-seg416",
+      "start": 36.15,
+      "end": 38.1,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Any other good news?\""
+    },
+    {
+      "id": "ch5-act5-seg417",
+      "start": 38.4,
+      "end": 42.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked, already on her feet, daggers appearing in her hands."
+    },
+    {
+      "id": "ch5-act5-seg418",
+      "start": 42.85,
+      "end": 45.625,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"The ventilation is superb,\""
+    },
+    {
+      "id": "ch5-act5-seg419",
+      "start": 45.925,
+      "end": 49.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, shouldering his pack with practiced speed."
+    },
+    {
+      "id": "ch5-act5-seg420",
+      "start": 49.725,
+      "end": 52.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"And I'm very attached to my head.\""
+    },
+    {
+      "id": "ch5-act5-seg421",
+      "start": 52.325,
+      "end": 60.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "From the three corridors -- the sealed, the flooded, the safe -- stone began to move. Grinding. Opening. The air drew a breath that wasn't theirs."
+    },
+    {
+      "id": "ch5-act5-seg422",
+      "start": 61.1,
+      "end": 66.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana rose fully armored, sword in hand, voice calm to keep the pulse down in others."
+    },
+    {
+      "id": "ch5-act5-seg423",
+      "start": 66.925,
+      "end": 75.15,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We move now. Thornik on point. Same formation. If a ward asks for courtesy, we give it. If something tries to herd us -- \""
+    },
+    {
+      "id": "ch5-act5-seg424",
+      "start": 75.3,
+      "end": 76.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We bite the hand,\""
+    },
+    {
+      "id": "ch5-act5-seg425",
+      "start": 77.125,
+      "end": 81.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, rolling a shoulder and wincing as her ribs protested."
+    },
+    {
+      "id": "ch5-act5-seg426",
+      "start": 81.65,
+      "end": 83.15,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Then run.\""
+    },
+    {
+      "id": "ch5-act5-seg427",
+      "start": 83.45,
+      "end": 96.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin stood. The ache was a live thing in his bones. Elowen's palm hovered near his arm -- she tested the air for fresh-burn and found none. Relief drifted in like cool rain; the pain stepped back a pace, manageable again."
+    },
+    {
+      "id": "ch5-act5-seg428",
+      "start": 96.475,
+      "end": 102.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He swallowed gratitude, because speaking it would make it real, and he didn't know how many more times he'd get it."
+    },
+    {
+      "id": "ch5-act5-seg429",
+      "start": 103.225,
+      "end": 107.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan slid to rear-guard. His shadow pooled obedi --"
+    },
+    {
+      "id": "ch5-act5-seg430",
+      "start": 107.475,
+      "end": 117.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No. It pressed at the edges like tide against a seawall. He smoothed it with breath and didn't look at Caelin, didn't acknowledge the way it wanted to reach toward the coal-glow in the dark."
+    },
+    {
+      "id": "ch5-act5-seg431",
+      "start": 117.725,
+      "end": 129.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara passed the Evocation alcove and paused for a heartbeat, head tilted. The scale gave a silver shimmer -- a brief halo that said another magic is looking back. She smiled to herself and moved on."
+    },
+    {
+      "id": "ch5-act5-seg432",
+      "start": 130.05,
+      "end": 142.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They stepped toward the straight corridor. Behind them, in the polished seal of the Deep Hall's floor, their reflections delayed by a single blink -- there, then gone, as if the stone was deciding whether to remember them."
+    },
+    {
+      "id": "ch5-act5-seg433",
+      "start": 142.375,
+      "end": 146.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The heartbeat below picked up, counting them like beads on a string."
+    },
+    {
+      "id": "ch5-act5-seg434",
+      "start": 146.925,
+      "end": 148.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They went up."
+    },
+    {
+      "id": "ch5-act5-seg435",
+      "start": 148.8,
+      "end": 160.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They moved quickly after that, not running -- no one wanted to find out what would give chase -- but with the shared precision of people who'd heard a door close behind them and didn't know whose house they were in."
+    },
+    {
+      "id": "ch5-act5-seg436",
+      "start": 160.35,
+      "end": 170.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The tunnels felt steeper on the way out, as if the mountain had grown new muscles while they weren't watching. Gravity pulled harder, or perhaps exhaustion made it feel that way."
+    },
+    {
+      "id": "ch5-act5-seg437",
+      "start": 170.725,
+      "end": 178.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Walls that had been smooth now carried shallow grooves -- fresh, unfinished work, stone still warm under fingertips that brushed too close."
+    },
+    {
+      "id": "ch5-act5-seg438",
+      "start": 179.075,
+      "end": 184.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik muttered calculations under his breath, consulting his instruments."
+    },
+    {
+      "id": "ch5-act5-seg439",
+      "start": 184.3,
+      "end": 187.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Stress fractures don't self-heal. Something's rewriting geology.\""
+    },
+    {
+      "id": "ch5-act5-seg440",
+      "start": 188.275,
+      "end": 189.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex:"
+    },
+    {
+      "id": "ch5-act5-seg441",
+      "start": 189.575,
+      "end": 191.325,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Tell it to stop.\""
+    },
+    {
+      "id": "ch5-act5-seg442",
+      "start": 191.475,
+      "end": 193.775,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Would if I knew the syntax.\""
+    },
+    {
+      "id": "ch5-act5-seg443",
+      "start": 193.925,
+      "end": 196.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Try screaming louder.\""
+    },
+    {
+      "id": "ch5-act5-seg444",
+      "start": 196.325,
+      "end": 198.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She smiled. No one else did."
+    },
+    {
+      "id": "ch5-act5-seg445",
+      "start": 199.25,
+      "end": 210.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At the first junction they hit a dead end that hadn't existed before. The floor sloped upward in a spiral of newly-cooled glass, the surface too perfect to be natural, too warm to be old."
+    },
+    {
+      "id": "ch5-act5-seg446",
+      "start": 210.95,
+      "end": 214.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana touched the seam where new met old."
+    },
+    {
+      "id": "ch5-act5-seg447",
+      "start": 214.325,
+      "end": 216.725,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It's sealing itself behind us.\""
+    },
+    {
+      "id": "ch5-act5-seg448",
+      "start": 217.025,
+      "end": 221.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara looked at the closing curve, studying it with professional interest."
+    },
+    {
+      "id": "ch5-act5-seg449",
+      "start": 222.1,
+      "end": 227.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Or ahead of us. Perspective is the first casualty of divine architecture.\""
+    },
+    {
+      "id": "ch5-act5-seg450",
+      "start": 228.175,
+      "end": 233.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin set his palm against the wall; the scale pulsed once -- recognition, not alarm."
+    },
+    {
+      "id": "ch5-act5-seg451",
+      "start": 233.9,
+      "end": 235.925,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It's guiding, not trapping.\""
+    },
+    {
+      "id": "ch5-act5-seg452",
+      "start": 236.075,
+      "end": 237.15,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Comforting,\""
+    },
+    {
+      "id": "ch5-act5-seg453",
+      "start": 237.45,
+      "end": 241.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, checking over her shoulder at the way they'd come."
+    },
+    {
+      "id": "ch5-act5-seg454",
+      "start": 241.35,
+      "end": 243.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Until it stops.\""
+    },
+    {
+      "id": "ch5-act5-seg455",
+      "start": 243.5,
+      "end": 251.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The second tunnel forked into shadow. A draft hissed through like breath through teeth, carrying the smell of deep earth and older dark."
+    },
+    {
+      "id": "ch5-act5-seg456",
+      "start": 251.5,
+      "end": 257.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana drew light. It came thin and trembling, barely enough to push back the shadows."
+    },
+    {
+      "id": "ch5-act5-seg457",
+      "start": 257.3,
+      "end": 262.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She tried again. The radiance stuttered, guttered, and went out like a candle in wind."
+    },
+    {
+      "id": "ch5-act5-seg458",
+      "start": 262.6,
+      "end": 264.55,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I... can't feel the source.\""
+    },
+    {
+      "id": "ch5-act5-seg459",
+      "start": 264.85,
+      "end": 267.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her voice was calm because she'd trained it"
+    },
+    {
+      "id": "ch5-act5-seg460",
+      "start": 268.225,
+      "end": 272.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "to be, but her hand shook slightly before she lowered it."
+    },
+    {
+      "id": "ch5-act5-seg461",
+      "start": 272.325,
+      "end": 275.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara's reply was all sugar."
+    },
+    {
+      "id": "ch5-act5-seg462",
+      "start": 275.45,
+      "end": 279.275,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You're running on faith, darling. Check your reserves.\""
+    },
+    {
+      "id": "ch5-act5-seg463",
+      "start": 279.425,
+      "end": 280.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Enough.\""
+    },
+    {
+      "id": "ch5-act5-seg464",
+      "start": 280.6,
+      "end": 286.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's tone cut sharper than intended. The warmth of the scale spilled into his voice, unasked."
+    },
+    {
+      "id": "ch5-act5-seg465",
+      "start": 286.95,
+      "end": 289.525,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"She's tired, not empty.\""
+    },
+    {
+      "id": "ch5-act5-seg466",
+      "start": 289.825,
+      "end": 297.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana looked at him -- really looked -- and he saw in her eyes the flicker of gratitude and shame tangled together like roots and chains."
+    },
+    {
+      "id": "ch5-act5-seg467",
+      "start": 297.95,
+      "end": 299.35,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I'll manage.\""
+    },
+    {
+      "id": "ch5-act5-seg468",
+      "start": 299.65,
+      "end": 301.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She didn't."
+    },
+    {
+      "id": "ch5-act5-seg469",
+      "start": 301.45,
+      "end": 311.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They climbed a narrow chute where the roof had already dropped its first warning stones -- small ones, pebbles that clattered down like dice announcing the mountain's intentions."
+    },
+    {
+      "id": "ch5-act5-seg470",
+      "start": 311.625,
+      "end": 321.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik went first, hammering pitons into half-molten rock with steady, practiced strikes. Each blow echoed differently, telling him what the stone would hold and what it wouldn't."
+    },
+    {
+      "id": "ch5-act5-seg471",
+      "start": 322.0,
+      "end": 328.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Halfway up, the air shifted -- pressure collapse, no sound, just a sudden absence -- then the wall shuddered."
+    },
+    {
+      "id": "ch5-act5-seg472",
+      "start": 328.475,
+      "end": 331.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin felt the pull in his arm flare white-hot."
+    },
+    {
+      "id": "ch5-act5-seg473",
+      "start": 332.075,
+      "end": 333.425,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Move!\""
+    },
+    {
+      "id": "ch5-act5-seg474",
+      "start": 333.725,
+      "end": 345.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They ran on instinct. The rear half of the tunnel folded inward, stone sighing like something exhaling dust and disappointment. Rock met rock with the sound of finality, sealing the way they'd come."
+    },
+    {
+      "id": "ch5-act5-seg475",
+      "start": 345.575,
+      "end": 348.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When the noise settled, the way back was gone."
+    },
+    {
+      "id": "ch5-act5-seg476",
+      "start": 349.075,
+      "end": 352.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik stared at the new wall, panting."
+    },
+    {
+      "id": "ch5-act5-seg477",
+      "start": 352.15,
+      "end": 355.275,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Correction: rewriting geology in real time.\""
+    },
+    {
+      "id": "ch5-act5-seg478",
+      "start": 355.575,
+      "end": 359.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex pressed her hand against the fresh barrier. Still warm."
+    },
+    {
+      "id": "ch5-act5-seg479",
+      "start": 359.85,
+      "end": 364.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"So we go forward or we stay here until we're decoration.\""
+    },
+    {
+      "id": "ch5-act5-seg480",
+      "start": 364.35,
+      "end": 365.7,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Forward,\""
+    },
+    {
+      "id": "ch5-act5-seg481",
+      "start": 366.0,
+      "end": 370.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, voice steady though her light had guttered out entirely."
+    },
+    {
+      "id": "ch5-act5-seg482",
+      "start": 370.725,
+      "end": 372.65,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Always forward.\""
+    },
+    {
+      "id": "ch5-act5-seg483",
+      "start": 372.95,
+      "end": 376.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The climb stole what little rhythm remained in their breathing."
+    },
+    {
+      "id": "ch5-act5-seg484",
+      "start": 377.275,
+      "end": 387.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's right arm ached with the memory of the sigils -- hot where the rest of him was cold. The filaments crawled beneath his skin like they were searching for something they'd lost."
+    },
+    {
+      "id": "ch5-act5-seg485",
+      "start": 387.65,
+      "end": 391.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen fell into step beside him without being asked."
+    },
+    {
+      "id": "ch5-act5-seg486",
+      "start": 391.725,
+      "end": 393.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"You're shaking.\""
+    },
+    {
+      "id": "ch5-act5-seg487",
+      "start": 393.675,
+      "end": 395.325,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"It's the pull.\""
+    },
+    {
+      "id": "ch5-act5-seg488",
+      "start": 395.475,
+      "end": 397.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Then push back.\""
+    },
+    {
+      "id": "ch5-act5-seg489",
+      "start": 397.65,
+      "end": 400.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He managed a half-laugh."
+    },
+    {
+      "id": "ch5-act5-seg490",
+      "start": 400.225,
+      "end": 401.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"That easy?\""
+    },
+    {
+      "id": "ch5-act5-seg491",
+      "start": 402.025,
+      "end": 403.0,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"No,\""
+    },
+    {
+      "id": "ch5-act5-seg492",
+      "start": 403.3,
+      "end": 404.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch5-act5-seg493",
+      "start": 404.85,
+      "end": 406.725,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"But start somewhere.\""
+    },
+    {
+      "id": "ch5-act5-seg494",
+      "start": 407.025,
+      "end": 415.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She brushed her hand near his sleeve; the ache dulled. Not gone -- just bearable. The green of her tattoos flickered, dimmed slightly, another small price paid."
+    },
+    {
+      "id": "ch5-act5-seg495",
+      "start": 416.025,
+      "end": 417.375,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Thank you.\""
+    },
+    {
+      "id": "ch5-act5-seg496",
+      "start": 417.525,
+      "end": 418.825,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Later,\""
+    },
+    {
+      "id": "ch5-act5-seg497",
+      "start": 419.125,
+      "end": 420.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch5-act5-seg498",
+      "start": 420.675,
+      "end": 422.325,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"When we're out.\""
+    },
+    {
+      "id": "ch5-act5-seg499",
+      "start": 422.625,
+      "end": 431.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Behind them Nyxara glanced at Durgan's shadow -- still too obedient, too smooth, like a dog trained to sit perfectly still while its master walked away."
+    },
+    {
+      "id": "ch5-act5-seg500",
+      "start": 431.825,
+      "end": 433.625,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You hear it too?\""
+    },
+    {
+      "id": "ch5-act5-seg501",
+      "start": 433.925,
+      "end": 436.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she asked quietly."
+    },
+    {
+      "id": "ch5-act5-seg502",
+      "start": 436.175,
+      "end": 437.575,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The hum?\""
+    },
+    {
+      "id": "ch5-act5-seg503",
+      "start": 437.875,
+      "end": 440.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He shook his head once."
+    },
+    {
+      "id": "ch5-act5-seg504",
+      "start": 440.275,
+      "end": 441.75,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Footsteps.\""
+    },
+    {
+      "id": "ch5-act5-seg505",
+      "start": 441.9,
+      "end": 442.925,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Whose?\""
+    },
+    {
+      "id": "ch5-act5-seg506",
+      "start": 443.225,
+      "end": 451.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't answer. Didn't look at her. Just kept walking with that deliberate, measured pace that suggested if he stopped, he might not start again."
+    },
+    {
+      "id": "ch5-act5-seg507",
+      "start": 451.825,
+      "end": 462.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When she looked again, his shadow was holding perfectly still while his boots moved -- a fraction too much control, the kind that comes from fighting something every single second."
+    },
+    {
+      "id": "ch5-act5-seg508",
+      "start": 462.4,
+      "end": 465.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At last the tunnel widened enough for rest."
+    },
+    {
+      "id": "ch5-act5-seg509",
+      "start": 465.9,
+      "end": 475.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik struck a flame that barely caught, nursing it like a dying thing. The light painted their faces in ochre and exhaustion, hollowing cheeks and deepening shadows."
+    },
+    {
+      "id": "ch5-act5-seg510",
+      "start": 475.85,
+      "end": 490.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex divided rations without asking; she had counted before anyone noticed they were running low. Dried meat, harder cheese, a swallow of water each. She moved with the efficiency of someone who'd learned hunger as a child and never forgotten the lesson."
+    },
+    {
+      "id": "ch5-act5-seg511",
+      "start": 490.3,
+      "end": 503.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana knelt apart, tracing the sigil of her order in ash on the ground. The mark wouldn't hold shape. The dust slid away from her fingers as if the mountain itself rejected the prayer. She tried again. Again the ash refused her."
+    },
+    {
+      "id": "ch5-act5-seg512",
+      "start": 503.875,
+      "end": 506.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin watched but didn't interrupt."
+    },
+    {
+      "id": "ch5-act5-seg513",
+      "start": 506.9,
+      "end": 510.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Some prayers, he thought, were best left unanswered."
+    },
+    {
+      "id": "ch5-act5-seg514",
+      "start": 510.875,
+      "end": 514.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A faint tremor moved through the stone like a muscle tensing."
+    },
+    {
+      "id": "ch5-act5-seg515",
+      "start": 515.15,
+      "end": 517.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Their gear jingled once, softly."
+    },
+    {
+      "id": "ch5-act5-seg516",
+      "start": 518.275,
+      "end": 522.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then the hum changed key -- dropping a full tone, deeper, more present."
+    },
+    {
+      "id": "ch5-act5-seg517",
+      "start": 523.0,
+      "end": 525.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik's head snapped up."
+    },
+    {
+      "id": "ch5-act5-seg518",
+      "start": 525.475,
+      "end": 527.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"That's not us.\""
+    },
+    {
+      "id": "ch5-act5-seg519",
+      "start": 527.5,
+      "end": 533.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen closed her eyes, listening with her whole body the way trees listen to approaching storms."
+    },
+    {
+      "id": "ch5-act5-seg520",
+      "start": 533.675,
+      "end": 536.825,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Something old is turning over in its sleep.\""
+    },
+    {
+      "id": "ch5-act5-seg521",
+      "start": 537.125,
+      "end": 540.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex sheathed her knife slow, deliberate."
+    },
+    {
+      "id": "ch5-act5-seg522",
+      "start": 540.225,
+      "end": 542.95,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Let's not be the alarm clock.\""
+    },
+    {
+      "id": "ch5-act5-seg523",
+      "start": 543.25,
+      "end": 546.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They climbed the last stretch in silence."
+    },
+    {
+      "id": "ch5-act5-seg524",
+      "start": 546.475,
+      "end": 556.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Snowlight filtered down from a crack above -- thin, colorless, precious as air. The temperature dropped with every step, breath turning to visible ghosts in the suddenly frigid air."
+    },
+    {
+      "id": "ch5-act5-seg525",
+      "start": 557.15,
+      "end": 564.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When they emerged onto open rock, the air hit like resurrection: cold, clean, cruelly bright after so long in the dark."
+    },
+    {
+      "id": "ch5-act5-seg526",
+      "start": 564.95,
+      "end": 576.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin turned back once. The tunnel mouth had already begun to glass over, edges smoothing and sealing, faintly glowing from within with a light that pulsed in time with the distant counting below."
+    },
+    {
+      "id": "ch5-act5-seg527",
+      "start": 576.75,
+      "end": 581.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He couldn't tell if it was sealing itself shut or lighting a path back."
+    },
+    {
+      "id": "ch5-act5-seg528",
+      "start": 581.45,
+      "end": 584.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Either way, it watched them go."
+    },
+    {
+      "id": "ch5-act5-seg529",
+      "start": 584.275,
+      "end": 586.6,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"The mountain remembers,\""
+    },
+    {
+      "id": "ch5-act5-seg530",
+      "start": 586.9,
+      "end": 588.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen whispered."
+    },
+    {
+      "id": "ch5-act5-seg531",
+      "start": 589.125,
+      "end": 591.175,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Question is -- what?\""
+    }
+  ]
+}

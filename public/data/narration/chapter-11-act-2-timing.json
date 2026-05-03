@@ -1,0 +1,369 @@
+{
+  "chapter": 11,
+  "act": 2,
+  "actTitle": "Post-Siege Country",
+  "audioFile": "/audio/chapters/chapter-11-act-2.mp3",
+  "totalDuration": 235.025,
+  "segments": [
+    {
+      "id": "ch11-act2-seg045",
+      "start": 0.0,
+      "end": 6.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The road narrowed to a wheel-track pressed between thorn and alder, and the countryside began to tell its story."
+    },
+    {
+      "id": "ch11-act2-seg046",
+      "start": 6.975,
+      "end": 23.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A farmstead stood empty beside the track -- door ajar, chickens still pecking the yard, a kettle on an iron hook over a fire that had gone cold two days ago. The table inside was set for four. Someone had been halfway through a meal when they'd decided that eating was less important than running."
+    },
+    {
+      "id": "ch11-act2-seg047",
+      "start": 23.5,
+      "end": 24.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Yesterday,\""
+    },
+    {
+      "id": "ch11-act2-seg048",
+      "start": 24.975,
+      "end": 27.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, reading the tracks."
+    },
+    {
+      "id": "ch11-act2-seg049",
+      "start": 27.5,
+      "end": 32.275,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Family of four, two children. South toward the river crossing.\""
+    },
+    {
+      "id": "ch11-act2-seg050",
+      "start": 32.575,
+      "end": 39.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She crouched at the doorframe, ran a finger along a mark in the wood -- a deep gouge, fresh, the width of a shadow-thrall's reach."
+    },
+    {
+      "id": "ch11-act2-seg051",
+      "start": 39.925,
+      "end": 41.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"They got out. Barely.\""
+    },
+    {
+      "id": "ch11-act2-seg052",
+      "start": 41.825,
+      "end": 43.2,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"It's spreading,\""
+    },
+    {
+      "id": "ch11-act2-seg053",
+      "start": 43.5,
+      "end": 57.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric said, standing in the farmyard with the particular attention of a man cataloguing symptoms. He looked at the scorched ground where the thrall had touched the earth -- a palm-print of wrong, the grass blackened in a shape that was almost a hand and almost not."
+    },
+    {
+      "id": "ch11-act2-seg054",
+      "start": 57.75,
+      "end": 60.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The siege wasn't the end. It was an announcement.\""
+    },
+    {
+      "id": "ch11-act2-seg055",
+      "start": 60.875,
+      "end": 75.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin knelt beside the scorched print. The scale warmed -- not the black-violet of immediate corruption, but a dull, steady heat that said: you're getting closer to the source. Every step northeast was a step toward whatever was pushing these things up from below."
+    },
+    {
+      "id": "ch11-act2-seg056",
+      "start": 75.25,
+      "end": 78.6,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"How far from Veln's Post to here?\""
+    },
+    {
+      "id": "ch11-act2-seg057",
+      "start": 78.9,
+      "end": 80.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he asked Aldric."
+    },
+    {
+      "id": "ch11-act2-seg058",
+      "start": 81.025,
+      "end": 88.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Eighty miles, maybe ninety. Two years ago, the thralls were only in the lower vaults. They didn't surface for six months after the seals cracked.\""
+    },
+    {
+      "id": "ch11-act2-seg059",
+      "start": 88.7,
+      "end": 92.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric looked north, where the sky was too clear and too pale."
+    },
+    {
+      "id": "ch11-act2-seg060",
+      "start": 92.925,
+      "end": 97.925,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Now they're in farmyards. That's not expansion. That's acceleration.\""
+    },
+    {
+      "id": "ch11-act2-seg061",
+      "start": 98.225,
+      "end": 110.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They passed two more empty homesteads before noon. A broken cart on the roadside, its axle split, contents scattered in the mud -- blankets, a child's cloth doll, a sack of grain burst and already sprouting in the damp."
+    },
+    {
+      "id": "ch11-act2-seg062",
+      "start": 111.05,
+      "end": 118.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Evidence of people running, leaving behind the things that mattered because the things that mattered couldn't run fast enough."
+    },
+    {
+      "id": "ch11-act2-seg063",
+      "start": 118.675,
+      "end": 129.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan walked through it all without expression. But at the second empty farmstead, where a dog sat chained to a post and whined at their approach, he stopped. Knelt. Drew a knife -- and cut the chain."
+    },
+    {
+      "id": "ch11-act2-seg064",
+      "start": 129.825,
+      "end": 136.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The dog bolted toward the treeline, running south, running away from whatever it could smell on the northern wind."
+    },
+    {
+      "id": "ch11-act2-seg065",
+      "start": 136.8,
+      "end": 140.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan wiped the knife and sheathed it without comment."
+    },
+    {
+      "id": "ch11-act2-seg066",
+      "start": 140.7,
+      "end": 143.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex watched from five paces back."
+    },
+    {
+      "id": "ch11-act2-seg067",
+      "start": 143.825,
+      "end": 145.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That was decent of you.\""
+    },
+    {
+      "id": "ch11-act2-seg068",
+      "start": 145.9,
+      "end": 150.075,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"It was practical. A chained dog draws attention.\""
+    },
+    {
+      "id": "ch11-act2-seg069",
+      "start": 150.225,
+      "end": 150.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Sure,\""
+    },
+    {
+      "id": "ch11-act2-seg070",
+      "start": 151.275,
+      "end": 158.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, in the voice she used when she was letting someone keep their excuse because the truth was too kind to be comfortable."
+    },
+    {
+      "id": "ch11-act2-seg071",
+      "start": 159.225,
+      "end": 164.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric fell into step beside Caelin as the road climbed toward the afternoon."
+    },
+    {
+      "id": "ch11-act2-seg072",
+      "start": 164.575,
+      "end": 165.85,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"The arm,\""
+    },
+    {
+      "id": "ch11-act2-seg073",
+      "start": 166.15,
+      "end": 168.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, not quite a question."
+    },
+    {
+      "id": "ch11-act2-seg074",
+      "start": 168.725,
+      "end": 170.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Still holding.\""
+    },
+    {
+      "id": "ch11-act2-seg075",
+      "start": 170.225,
+      "end": 179.1,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"I'd like to check the wrap before nightfall. Not the scale -- I know better than to touch what I don't understand. Just the tissue. The human parts.\""
+    },
+    {
+      "id": "ch11-act2-seg076",
+      "start": 179.4,
+      "end": 181.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He glanced sideways."
+    },
+    {
+      "id": "ch11-act2-seg077",
+      "start": 181.675,
+      "end": 194.275,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You're compensating with your left shoulder, which means the right is carrying more pain than you're admitting. I've seen soldiers do that for weeks before the compensating joint fails. It's a bad habit. I'd like to catch it before it becomes a disability.\""
+    },
+    {
+      "id": "ch11-act2-seg078",
+      "start": 194.425,
+      "end": 196.375,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"You're very direct.\""
+    },
+    {
+      "id": "ch11-act2-seg079",
+      "start": 196.525,
+      "end": 200.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I'm very old. Subtlety takes time I'd rather spend being useful.\""
+    },
+    {
+      "id": "ch11-act2-seg080",
+      "start": 200.6,
+      "end": 202.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin almost smiled."
+    },
+    {
+      "id": "ch11-act2-seg081",
+      "start": 203.075,
+      "end": 204.3,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Aldric.\""
+    },
+    {
+      "id": "ch11-act2-seg082",
+      "start": 204.45,
+      "end": 205.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Mmm?\""
+    },
+    {
+      "id": "ch11-act2-seg083",
+      "start": 205.325,
+      "end": 208.65,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Thank you. For last night. For Vex.\""
+    },
+    {
+      "id": "ch11-act2-seg084",
+      "start": 208.95,
+      "end": 211.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric's expression didn't change."
+    },
+    {
+      "id": "ch11-act2-seg085",
+      "start": 211.95,
+      "end": 216.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"She was injured. I treat injuries. That's what I do. You don't thank a river for running downhill.\""
+    },
+    {
+      "id": "ch11-act2-seg086",
+      "start": 217.025,
+      "end": 218.0,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Still.\""
+    },
+    {
+      "id": "ch11-act2-seg087",
+      "start": 218.15,
+      "end": 228.1,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Still nothing. She'll need the wrap changed again tonight, and she'll argue about it, and I'll do it anyway, and we'll both pretend the argument was the point. That's how it works with people who don't like being helped.\""
+    },
+    {
+      "id": "ch11-act2-seg088",
+      "start": 228.4,
+      "end": 230.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He adjusted his bag."
+    },
+    {
+      "id": "ch11-act2-seg089",
+      "start": 230.825,
+      "end": 235.025,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"I've been doing this for forty years. Trust the process.\""
+    }
+  ]
+}

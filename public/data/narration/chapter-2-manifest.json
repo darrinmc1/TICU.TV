@@ -1,0 +1,31 @@
+{
+  "chapter": 2,
+  "title": "Gathering Shadows",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "The Mountain Pass",
+      "audioFile": "/audio/chapters/chapter-2-act-1.mp3",
+      "timingFile": "/data/narration/chapter-2-act-1-timing.json",
+      "totalDuration": 839.4,
+      "segmentCount": 140
+    },
+    {
+      "act": 2,
+      "actTitle": "Strangers and Allies",
+      "audioFile": "/audio/chapters/chapter-2-act-2.mp3",
+      "timingFile": "/data/narration/chapter-2-act-2-timing.json",
+      "totalDuration": 774.625,
+      "segmentCount": 137
+    },
+    {
+      "act": 3,
+      "actTitle": "Night Watch",
+      "audioFile": "/audio/chapters/chapter-2-act-3.mp3",
+      "timingFile": "/data/narration/chapter-2-act-3-timing.json",
+      "totalDuration": 901.75,
+      "segmentCount": 170
+    }
+  ],
+  "totalDuration": 2515.775
+}

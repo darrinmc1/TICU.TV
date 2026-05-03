@@ -1,0 +1,633 @@
+{
+  "chapter": 7,
+  "act": 6,
+  "actTitle": "Escape",
+  "audioFile": "/audio/chapters/chapter-7-act-6.mp3",
+  "totalDuration": 299.825,
+  "segments": [
+    {
+      "id": "ch7-act6-seg552",
+      "start": 0.0,
+      "end": 5.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below: Caelin and Nyxara hiked the east-face band, the ledge slanting toward a darker cleft that had to be the exit. Nyxara kept to his left -- habit now, where the drop yawned wider -- and made a show of not leaning on him."
+    },
+    {
+      "id": "ch7-act6-seg553",
+      "start": 5.25,
+      "end": 7.025,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Almost there,\""
+    },
+    {
+      "id": "ch7-act6-seg554",
+      "start": 7.325,
+      "end": 8.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch7-act6-seg555",
+      "start": 8.875,
+      "end": 11.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"See? No dramatic rescues required. Very dull.\""
+    },
+    {
+      "id": "ch7-act6-seg556",
+      "start": 12.125,
+      "end": 14.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Would've helped if you'd fallen,\""
+    },
+    {
+      "id": "ch7-act6-seg557",
+      "start": 14.825,
+      "end": 17.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, then realized how it sounded."
+    },
+    {
+      "id": "ch7-act6-seg558",
+      "start": 18.075,
+      "end": 19.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"To get it over with.\""
+    },
+    {
+      "id": "ch7-act6-seg559",
+      "start": 20.2,
+      "end": 21.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He grimaced."
+    },
+    {
+      "id": "ch7-act6-seg560",
+      "start": 21.925,
+      "end": 24.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"That was poorly phrased.\""
+    },
+    {
+      "id": "ch7-act6-seg561",
+      "start": 24.425,
+      "end": 25.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Adorable,\""
+    },
+    {
+      "id": "ch7-act6-seg562",
+      "start": 25.875,
+      "end": 28.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, delighted."
+    },
+    {
+      "id": "ch7-act6-seg563",
+      "start": 28.15,
+      "end": 30.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Points for honesty.\""
+    },
+    {
+      "id": "ch7-act6-seg564",
+      "start": 30.575,
+      "end": 33.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They rounded a buttress; the ledge widened."
+    },
+    {
+      "id": "ch7-act6-seg565",
+      "start": 34.0,
+      "end": 46.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Above: Thornik and Vex took first watch positions overlooking the cave mouth. The air bit their teeth; the lichen patches on sun-facing rock bled a pleasant, warm smell that didn't belong to cold places."
+    },
+    {
+      "id": "ch7-act6-seg566",
+      "start": 46.3,
+      "end": 47.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"They're late,\""
+    },
+    {
+      "id": "ch7-act6-seg567",
+      "start": 47.6,
+      "end": 50.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, hand pressed to her ribs."
+    },
+    {
+      "id": "ch7-act6-seg568",
+      "start": 50.625,
+      "end": 52.25,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"They're alive,\""
+    },
+    {
+      "id": "ch7-act6-seg569",
+      "start": 52.55,
+      "end": 56.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik countered, because you had to choose which truth to feed."
+    },
+    {
+      "id": "ch7-act6-seg570",
+      "start": 56.9,
+      "end": 65.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below: A glint of metal ahead -- a buckle on a pack strap -- then the shape wearing it resolved into Thornik, broader than the mountain remembered."
+    },
+    {
+      "id": "ch7-act6-seg571",
+      "start": 65.35,
+      "end": 67.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin lifted a hand."
+    },
+    {
+      "id": "ch7-act6-seg572",
+      "start": 67.9,
+      "end": 69.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Above:"
+    },
+    {
+      "id": "ch7-act6-seg573",
+      "start": 69.4,
+      "end": 70.85,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Movement,\""
+    },
+    {
+      "id": "ch7-act6-seg574",
+      "start": 71.15,
+      "end": 78.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, and Vex was already rising, jaw tight as the ribs reminded her she was made of meat and stubbornness."
+    },
+    {
+      "id": "ch7-act6-seg575",
+      "start": 78.625,
+      "end": 86.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana stood slower, as if unwilling to jinx it, and Durgan's eyes found a coal-glow he'd been both dreading and needing."
+    },
+    {
+      "id": "ch7-act6-seg576",
+      "start": 86.4,
+      "end": 90.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below: Nyxara waved like they'd come across friends at a festival."
+    },
+    {
+      "id": "ch7-act6-seg577",
+      "start": 91.075,
+      "end": 93.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Well. How convenient.\""
+    },
+    {
+      "id": "ch7-act6-seg578",
+      "start": 93.3,
+      "end": 94.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Above:"
+    },
+    {
+      "id": "ch7-act6-seg579",
+      "start": 94.8,
+      "end": 96.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"They're alive,\""
+    },
+    {
+      "id": "ch7-act6-seg580",
+      "start": 96.725,
+      "end": 102.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, and didn't smile so much as allow the expression to happen to her face."
+    },
+    {
+      "id": "ch7-act6-seg581",
+      "start": 102.5,
+      "end": 107.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They met on a rubble-shelf wide enough for six people and too small for grief."
+    },
+    {
+      "id": "ch7-act6-seg582",
+      "start": 107.9,
+      "end": 113.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's gauntleted hand settled on Caelin's shoulder -- not a hug, just proof."
+    },
+    {
+      "id": "ch7-act6-seg583",
+      "start": 113.45,
+      "end": 114.8,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You made it.\""
+    },
+    {
+      "id": "ch7-act6-seg584",
+      "start": 114.95,
+      "end": 116.625,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"So did you,\""
+    },
+    {
+      "id": "ch7-act6-seg585",
+      "start": 116.925,
+      "end": 118.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch7-act6-seg586",
+      "start": 118.6,
+      "end": 130.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik checked them both with brisk, professional hands, then blinked when Caelin handed him the fractured chisel. He turned it over, breath catching at the twin maker's marks -- dwarf and dragon, working as one."
+    },
+    {
+      "id": "ch7-act6-seg587",
+      "start": 130.475,
+      "end": 132.25,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"By the old forges,\""
+    },
+    {
+      "id": "ch7-act6-seg588",
+      "start": 132.55,
+      "end": 134.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he whispered."
+    },
+    {
+      "id": "ch7-act6-seg589",
+      "start": 134.325,
+      "end": 138.075,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"This... this is going to shut some very loud people up.\""
+    },
+    {
+      "id": "ch7-act6-seg590",
+      "start": 138.225,
+      "end": 139.925,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Use it well,\""
+    },
+    {
+      "id": "ch7-act6-seg591",
+      "start": 140.225,
+      "end": 141.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch7-act6-seg592",
+      "start": 142.175,
+      "end": 152.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex hung back a half step, letting relief show only in how her knives went away without being asked. She straightened too fast; pain shot through her ribs. She swallowed the sound."
+    },
+    {
+      "id": "ch7-act6-seg593",
+      "start": 153.05,
+      "end": 160.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik noticed anyway and shifted his pack off his right shoulder so she wouldn't have to take the wind on her bad side."
+    },
+    {
+      "id": "ch7-act6-seg594",
+      "start": 160.65,
+      "end": 164.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara's eyes moved across faces, counting."
+    },
+    {
+      "id": "ch7-act6-seg595",
+      "start": 164.45,
+      "end": 166.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Not everyone,\""
+    },
+    {
+      "id": "ch7-act6-seg596",
+      "start": 166.65,
+      "end": 168.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, soft for her."
+    },
+    {
+      "id": "ch7-act6-seg597",
+      "start": 169.25,
+      "end": 172.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one answered. The mountain had already said it."
+    },
+    {
+      "id": "ch7-act6-seg598",
+      "start": 173.025,
+      "end": 181.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "From the stone's long throat, distant and patient and impossible to place: thud. Thud. Thud. The Seal's count resumed, indifferent to daylight."
+    },
+    {
+      "id": "ch7-act6-seg599",
+      "start": 182.025,
+      "end": 187.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana let the moment last exactly as long as it could bear and not a blink more."
+    },
+    {
+      "id": "ch7-act6-seg600",
+      "start": 187.525,
+      "end": 193.4,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"We move. Millbrook is three days. Rest, resupply, information. Then we plan.\""
+    },
+    {
+      "id": "ch7-act6-seg601",
+      "start": 193.55,
+      "end": 195.225,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"What do we plan?\""
+    },
+    {
+      "id": "ch7-act6-seg602",
+      "start": 195.525,
+      "end": 197.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik asked, though he knew."
+    },
+    {
+      "id": "ch7-act6-seg603",
+      "start": 198.0,
+      "end": 200.325,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"To finish what we started,\""
+    },
+    {
+      "id": "ch7-act6-seg604",
+      "start": 200.625,
+      "end": 202.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch7-act6-seg605",
+      "start": 202.175,
+      "end": 204.45,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"To make it mean something.\""
+    },
+    {
+      "id": "ch7-act6-seg606",
+      "start": 204.75,
+      "end": 210.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They turned down-slope, six where there had been seven, the east wind combing the cliff grass into silver."
+    },
+    {
+      "id": "ch7-act6-seg607",
+      "start": 211.275,
+      "end": 215.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Half a switchback below, Vex paused, head canted to the wind."
+    },
+    {
+      "id": "ch7-act6-seg608",
+      "start": 215.7,
+      "end": 217.45,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Don't look now,\""
+    },
+    {
+      "id": "ch7-act6-seg609",
+      "start": 217.75,
+      "end": 219.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said lightly,"
+    },
+    {
+      "id": "ch7-act6-seg610",
+      "start": 219.825,
+      "end": 221.975,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"but we have admirers.\""
+    },
+    {
+      "id": "ch7-act6-seg611",
+      "start": 222.275,
+      "end": 229.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik followed her line. Far down the face, where the scree ran like a river, a single figure crested a rib of stone."
+    },
+    {
+      "id": "ch7-act6-seg612",
+      "start": 229.75,
+      "end": 239.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Too still. Too patient. Even at distance, something about its silhouette felt WRONG -- the way it held itself, the way it didn't shift weight like living things do."
+    },
+    {
+      "id": "ch7-act6-seg613",
+      "start": 239.3,
+      "end": 240.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It watched."
+    },
+    {
+      "id": "ch7-act6-seg614",
+      "start": 241.1,
+      "end": 245.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then it stepped backward -- not turning, just REVERSING -- and was gone."
+    },
+    {
+      "id": "ch7-act6-seg615",
+      "start": 245.525,
+      "end": 246.65,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Scouts,\""
+    },
+    {
+      "id": "ch7-act6-seg616",
+      "start": 246.95,
+      "end": 250.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, voice flat. Not afraid. Accounting."
+    },
+    {
+      "id": "ch7-act6-seg617",
+      "start": 250.775,
+      "end": 252.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Distant,\""
+    },
+    {
+      "id": "ch7-act6-seg618",
+      "start": 252.5,
+      "end": 256.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex confirmed, hand already on a dagger hilt."
+    },
+    {
+      "id": "ch7-act6-seg619",
+      "start": 256.175,
+      "end": 257.4,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"For now.\""
+    },
+    {
+      "id": "ch7-act6-seg620",
+      "start": 257.55,
+      "end": 260.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Then we take the gift of distance,\""
+    },
+    {
+      "id": "ch7-act6-seg621",
+      "start": 260.65,
+      "end": 263.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, and set them moving again."
+    },
+    {
+      "id": "ch7-act6-seg622",
+      "start": 264.05,
+      "end": 273.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They left the mountain to its long arithmetic -- counting, waiting, patient as chains -- and followed a narrower math: miles to town, hours to water, steps to sleep."
+    },
+    {
+      "id": "ch7-act6-seg623",
+      "start": 274.225,
+      "end": 285.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Behind them, the Forge Road's cave mouth went back to being rock. The junction chambers settled into their new geometry. And somewhere vast and deep, something chained counted heartbeats that weren't its own."
+    },
+    {
+      "id": "ch7-act6-seg624",
+      "start": 286.2,
+      "end": 287.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act6-seg625",
+      "start": 287.7,
+      "end": 288.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act6-seg626",
+      "start": 289.2,
+      "end": 290.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act6-seg627",
+      "start": 290.7,
+      "end": 294.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Ahead, the sky was very blue and very cruel and very free."
+    },
+    {
+      "id": "ch7-act6-seg628",
+      "start": 295.225,
+      "end": 297.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "END CHAPTER 7"
+    },
+    {
+      "id": "ch7-act6-seg629",
+      "start": 297.65,
+      "end": 299.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Word Count: ~18,400 words"
+    }
+  ]
+}

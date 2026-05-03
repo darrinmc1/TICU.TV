@@ -1,1338 +1,2322 @@
 [
   {
-    "id": "ch11-act2-seg001",
+    "id": "ch11-act1-seg001",
     "type": "narration",
     "speaker": "narrator",
-    "text": "By mid-morning the ironwoods began to thin. The air lost its tang of cold iron and sap; warm earth came up instead -- mud, wet moss, the faint yeasty breath of leaf-rot.",
-    "act": 2,
+    "text": "They slipped out at first light, when Millbrook's smoke was still thin and blue and the streets were quiet except for scavenging crows.",
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch11-act2-seg002",
+    "id": "ch11-act1-seg002",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Caelin walked center, the witch-knot ribbon Nyxara had tied at his wrist dull as old wine in the daylight. Every so often it ticked with the gentlest tug, as if a spider had plucked a single strand of web and let it sing.",
-    "act": 2,
+    "text": "The palisade gate stood propped with a beam Thornik had reset the night before -- his last job in the town -- and it creaked in the morning chill, wood resin sharp in the air.",
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch11-act2-seg003",
+    "id": "ch11-act1-seg003",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Not a direction -- just a proof of distance, of attention. Someone, somewhere, still watching.",
-    "act": 2,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch11-act2-seg004",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex ranged left, favoring her wrapped ribs but moving like a rumor. Durgan took the right, ice-blue eyes on the tree line, shadow obedient as a good dog at noon.",
-    "act": 2,
+    "text": "The farewells were already done. They'd happened at a mile-stone a mile back, where the road forked three ways and people they trusted had taken two of the other turnings. What remained was just four shadows crossing frost-stiff grass, heading northeast.",
+    "act": 1,
     "paragraphIndex": 1
   },
   {
-    "id": "ch11-act2-seg005",
+    "id": "ch11-act1-seg004",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Aldric walked rear -- medical bag across one shoulder, eyes moving between the road ahead and the tree line Durgan was watching, doing his own quiet accounting of threats.",
-    "act": 2,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act2-seg006",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The world smelled almost domestic for the first time since the mountain -- woodsmoke drift from somewhere far downslope; a farm's latrine, honest and rank. Civilization as scent.",
-    "act": 2,
+    "text": "Caelin set an easy pace. The Ember's coal-glow tucked beneath a fresh wrap. The ribbon Nyxara had knotted at his wrist lay soft and cool against skin, its silver thread no darker than yesterday. He didn't tug at it. He resisted the urge to.",
+    "act": 1,
     "paragraphIndex": 2
   },
   {
-    "id": "ch11-act2-seg007",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They hit the ruts of the old Merchant Road by noon -- two pale crescents pressed into clay, puddles winking with sky. Ahead, a broken cart tilted against a ditch. A kettle still hung from its hook, long gone cold. Chicken feathers lay stuck to sap on a fallen branch. Someone had left in a hurry.",
-    "act": 2,
+    "id": "ch11-act1-seg005",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Your stride's heavier,\"",
+    "act": 1,
     "paragraphIndex": 3
   },
   {
-    "id": "ch11-act2-seg008",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Tracks,\"",
-    "act": 2,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch11-act2-seg009",
+    "id": "ch11-act1-seg006",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex said, crouching.",
-    "act": 2,
-    "paragraphIndex": 4
+    "text": "Vex said eventually, mismatched eyes flicking to his arm and away again. She was moving carefully herself -- her ribs logged every twist of the torso, and she'd learned to stop twisting.",
+    "act": 1,
+    "paragraphIndex": 3
   },
   {
-    "id": "ch11-act2-seg010",
+    "id": "ch11-act1-seg007",
     "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Two families. One cartwheel cracked, they ditched it. Southbound -- same as us.\"",
-    "act": 2,
+    "speaker": "caelin",
+    "text": "\"Hurts more in the cold,\"",
+    "act": 1,
     "paragraphIndex": 4
   },
   {
-    "id": "ch11-act2-seg011",
+    "id": "ch11-act1-seg008",
     "type": "narration",
     "speaker": "narrator",
-    "text": "She sniffed the air, a feral, automatic habit.",
-    "act": 2,
+    "text": "Caelin admitted.",
+    "act": 1,
     "paragraphIndex": 4
   },
   {
-    "id": "ch11-act2-seg012",
+    "id": "ch11-act1-seg009",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"Yesterday, maybe sunrise.\"",
-    "act": 2,
+    "text": "\"It'll level out.\"",
+    "act": 1,
     "paragraphIndex": 4
   },
   {
-    "id": "ch11-act2-seg013",
+    "id": "ch11-act1-seg010",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The ribbon on Caelin's wrist gave that whisper-tug again. He didn't look at it.",
-    "act": 2,
+    "text": "Durgan walked rear guard, winter-pale and deliberate. He scanned the hedgerows and the ditch lines, not the road. When he stepped, his shadow stepped with him -- with an effort most people wouldn't have noticed, but Vex did. She pretended not to.",
+    "act": 1,
     "paragraphIndex": 5
   },
   {
-    "id": "ch11-act2-seg014",
+    "id": "ch11-act1-seg011",
     "type": "narration",
     "speaker": "narrator",
-    "text": "He touched the bronzed ward-disc Serana had pressed into his palm when she left -- the surface etched with a line of secular intention, protective not because a god blessed it, but because a stubborn woman had. The metal held a little warmth.",
-    "act": 2,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch11-act2-seg015",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "It steadied him more than he liked admitting.",
-    "act": 2,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch11-act2-seg016",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"Company,\"",
-    "act": 2,
+    "text": "Aldric walked between Durgan and the rest, which seemed to be where he'd decided he fit. He carried his medical bag slung across one shoulder and moved with the unhurried economy of a man who'd learned to conserve what he had a long time ago.",
+    "act": 1,
     "paragraphIndex": 6
   },
   {
-    "id": "ch11-act2-seg017",
+    "id": "ch11-act1-seg012",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan murmured.",
-    "act": 2,
+    "text": "He hadn't said anything since the mile-stone bend. He didn't appear to need to.",
+    "act": 1,
     "paragraphIndex": 6
   },
   {
-    "id": "ch11-act2-seg018",
+    "id": "ch11-act1-seg013",
     "type": "narration",
     "speaker": "narrator",
-    "text": "They saw the woman first -- a farmer, hair gone wild, dress torn at the hem, one arm around a boy not more than seven and the other around a bundle that might have been bread or a baby.",
-    "act": 2,
+    "text": "The first hour taught Caelin the new rhythm. It wasn't worse than the old one -- just different. Quieter. No Thornik clicking and whirring, filling the silence with observations about geology and family anecdotes.",
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch11-act2-seg019",
+    "id": "ch11-act1-seg014",
     "type": "narration",
     "speaker": "narrator",
-    "text": "She stood in the road's center, frozen like a doe, staring at the black smear moving along the ditch shadow -- a scout's shade, thin as spilled ink.",
-    "act": 2,
+    "text": "No Serana's armored tread, steady as a drum. No Nyxara's dry commentary, arriving at exactly the moment it was least expected and most needed. No Elowen's calm, the silence of someone who listened to the forest and let the forest listen back.",
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch11-act2-seg020",
+    "id": "ch11-act1-seg015",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The thing reached for the boy's feet.",
-    "act": 2,
+    "text": "Four was leaner. Four was faster. Four was also lonelier, and lonelier was its own kind of weight.",
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch11-act2-seg021",
+    "id": "ch11-act1-seg016",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan moved.",
-    "act": 2,
+    "text": "By the time the road bent past the last shepherd's croft, the smells had changed from dung smoke and malt to iron-rich streamwater and thawed loam. A farmer had nailed a square of parchment to a boundary post. Wind worried its corners.",
+    "act": 1,
     "paragraphIndex": 9
   },
   {
-    "id": "ch11-act2-seg022",
+    "id": "ch11-act1-seg017",
     "type": "narration",
     "speaker": "narrator",
-    "text": "He didn't think. He went.",
-    "act": 2,
+    "text": "Vex plucked it free, skimmed, snorted.",
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch11-act2-seg023",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "One clean sprint that ate the distance, one boot heel that slammed the shadow flat against bright clay, and then the soldier's rhythm took over -- draw, slash, step; blade in a short arc that cut where light and ground met, the place shadows anchor.",
-    "act": 2,
+    "id": "ch11-act1-seg018",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You're famous.\"",
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch11-act2-seg024",
+    "id": "ch11-act1-seg019",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The shade recoiled, hissing without a mouth, and shivered itself thin to slither away.",
-    "act": 2,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act2-seg025",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan planted a second cut that pinned it like a nail through silk.",
-    "act": 2,
+    "text": "Caelin didn't need the illustration to know. The crude sketch got the angles of his face wrong but captured the impossible: a black mark in a man's forearm.",
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch11-act2-seg026",
+    "id": "ch11-act1-seg020",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"Run,\"",
-    "act": 2,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch11-act2-seg027",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he told the woman without looking back.",
-    "act": 2,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch11-act2-seg028",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"Don't stop until you see a palisade.\"",
-    "act": 2,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch11-act2-seg029",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She didn't argue. The boy stared at Durgan's face like he'd never seen a man before; then he was swept down the road by his mother's panic.",
-    "act": 2,
+    "text": "\"Alive,\"",
+    "act": 1,
     "paragraphIndex": 12
   },
   {
-    "id": "ch11-act2-seg030",
-    "type": "dialogue",
-    "speaker": "aldric",
-    "text": "\"Check the boy for shock when you stop!\"",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg031",
+    "id": "ch11-act1-seg021",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Aldric called after them.",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg032",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"He'll be quiet -- that's the wrong kind of quiet!\"",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg033",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He watched them go, then looked at the smear on the road where the shade had been.",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg034",
-    "type": "dialogue",
-    "speaker": "aldric",
-    "text": "\"That's different from what came through the vault.\"",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg035",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He said it without emphasis, matter-of-fact.",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg036",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"The Veln's Post thing was bigger. Older. This is a forward scout.\"",
-    "act": 2,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act2-seg037",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex's eyes flicked to Durgan when it was done. Approval was not her currency, but it showed anyway, quick as light on a blade.",
-    "act": 2,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch11-act2-seg038",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin exhaled a breath he hadn't known he held. The scale in his forearm said nothing -- no sting, no warning. The world smelled of crushed grass and the metallic, coin-thin scent the shade had left behind.",
-    "act": 2,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch11-act2-seg039",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan's nose was dry when he wiped it with the back of his hand. He checked anyway. Habit. Waiting.",
-    "act": 2,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch11-act2-seg040",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Thanks,\"",
-    "act": 2,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch11-act2-seg041",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said.",
-    "act": 2,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch11-act2-seg042",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan sheathed his blade.",
-    "act": 2,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch11-act2-seg043",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"Keep moving.\"",
-    "act": 2,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch11-act2-seg044",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They did.",
-    "act": 2,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch11-act3-seg045",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They smelled tar before they saw the barricade.",
-    "act": 3,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch11-act3-seg046",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The road bent between two low knuckles of granite where ironwoods had failed to root; smoke lay in the turn like old breath. Four horses stood side by side, heads down, lather drying white on their necks.",
-    "act": 3,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act3-seg047",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A rope-drag of dead brush spanned the road, glistening with black pitch. Six men in leather and scale waited behind it, crossbows already braced on the rocks.",
-    "act": 3,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act3-seg048",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "One wore a red kerchief at his throat; one had the lazy stance of someone who'd killed often enough to be bored by it.",
-    "act": 3,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act3-seg049",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Afternoon,\"",
-    "act": 3,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch11-act3-seg050",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "the bored one said.",
-    "act": 3,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch11-act3-seg051",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"You match a description.\"",
-    "act": 3,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch11-act3-seg052",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex's mouth twitched.",
-    "act": 3,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch11-act3-seg053",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Let me guess. 'Tall, cursed, and bad at avoiding trouble.'\"",
-    "act": 3,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch11-act3-seg054",
-    "type": "dialogue",
-    "speaker": "durgan",
-    "text": "\"Something like that.\"",
-    "act": 3,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch11-act3-seg055",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The bored man's gaze never left Caelin's arm.",
-    "act": 3,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch11-act3-seg056",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Bounty says alive. Your friends may sulk off or not. Choice is a luxury but I'm magnanimous.\"",
-    "act": 3,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch11-act3-seg057",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Aldric, standing at the back of the group, set his medical bag down on the road with the quiet deliberateness of a man who has been in enough of these situations to know that the bag stays where it can be reached quickly. He folded his hands and said nothing. He was not going to sulk off.",
-    "act": 3,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch11-act3-seg058",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin's scale warmed. Not a flare; a gathering. He counted breaths, counted costs. The pitch-brush smelled like shipyards and siege ladders. Tar's flash point lived in his hands if he asked for it.",
-    "act": 3,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch11-act3-seg059",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Crossbow pivots,\"",
-    "act": 3,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch11-act3-seg060",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex murmured from the corner of her mouth.",
-    "act": 3,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch11-act3-seg061",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Two right, one left, leader center. Drop center, I delete right. You still standing?\"",
-    "act": 3,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch11-act3-seg062",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Standing,\"",
-    "act": 3,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act3-seg063",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said. He flexed his hand. The lattice tugged back, a warning twine, but his body had learned new shapes for pain.",
-    "act": 3,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act3-seg064",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan's voice stayed flat.",
-    "act": 3,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch11-act3-seg065",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Last chance. Walk away.\"",
-    "act": 3,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch11-act3-seg066",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The red-kerchief man smiled with his eyes.",
-    "act": 3,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act3-seg067",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"No.\"",
-    "act": 3,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act3-seg068",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Time folded.",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch11-act3-seg069",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex moved first. A silver line crossed sunlight -- her throwing knife -- and the central bowman jerked as if a wasp stung his eye, then folded to the dust.",
-    "act": 3,
+    "text": "Vex read.",
+    "act": 1,
     "paragraphIndex": 12
   },
   {
-    "id": "ch11-act3-seg070",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin breathed in. Heat gathered behind his ribs the way a forge gathers rightness; he pictured not fire but temperature, a widow's kiss that rushed through air without flame. His palm lifted.",
-    "act": 3,
+    "id": "ch11-act1-seg022",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"One thousand gold. More for the mark intact.\"",
+    "act": 1,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act1-seg023",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Price is climbing,\"",
+    "act": 1,
     "paragraphIndex": 13
   },
   {
-    "id": "ch11-act3-seg071",
+    "id": "ch11-act1-seg024",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The pitch line sighed, then whoomph -- tar flared in a low, fast curtain. Black smoke stamped the sky. The barricade twisted and fell.",
-    "act": 3,
+    "text": "Durgan said, voice flat.",
+    "act": 1,
     "paragraphIndex": 13
   },
   {
-    "id": "ch11-act3-seg072",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Bolts sang toward them anyway -- two, three. One hissed past Caelin's ear. One struck stone and cracked like a promise. One took Durgan's sleeve and left a slice of red without slowing him.",
-    "act": 3,
+    "id": "ch11-act1-seg025",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Means we're interesting,\"",
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch11-act3-seg073",
+    "id": "ch11-act1-seg026",
     "type": "narration",
     "speaker": "narrator",
-    "text": "He was already in their faces, blades walking the short economy of a soldier trained for close work. Two men went down with groans that would fade or not; he left them breathing on purpose.",
-    "act": 3,
+    "text": "Vex replied.",
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch11-act3-seg074",
+    "id": "ch11-act1-seg027",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Hate that.\"",
+    "act": 1,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act1-seg028",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Pain pealed through Caelin's arm -- more bell than blade. He took it. Let it ring his bones. He dropped to one knee and pulled air through his teeth, felt the lattice complain, then settle into the old, ugly baseline.",
-    "act": 3,
+    "text": "Aldric leaned over and read the poster without taking it from Vex.",
+    "act": 1,
     "paragraphIndex": 15
   },
   {
-    "id": "ch11-act3-seg075",
+    "id": "ch11-act1-seg029",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The illustration's generous. You've got better cheekbones than that.\"",
+    "act": 1,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act1-seg030",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex hit the right-hand pair like consequence. First man's wrist -- snapped; second's kneecap -- cut; she drove her pommel into a temple and let him sleep out his poor choices.",
-    "act": 3,
+    "text": "He walked on.",
+    "act": 1,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act1-seg031",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Also a thousand gold is insultingly low for whatever that thing in your arm actually is. Someone's being stingy.\"",
+    "act": 1,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act1-seg032",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They left the sign flapping on its nail. Crows watched from a hedge, heads cocked, the way crows watch everything -- with the patient assessment of creatures that know death is coming and are simply interested in the schedule.",
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch11-act3-seg076",
+    "id": "ch11-act1-seg033",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The last bounty hunter -- the bored one -- dropped his crossbow, raised his hands, and smiled again with nothing to smile about.",
-    "act": 3,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch11-act3-seg077",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Mercy?\"",
-    "act": 3,
+    "text": "Two miles on, at a wayside shrine toppled by frost heave, Caelin dropped to a knee to tighten his boot. When he cinched the lace and reached for his pack, his fingers brushed paper that hadn't been there when they left town.",
+    "act": 1,
     "paragraphIndex": 17
   },
   {
-    "id": "ch11-act3-seg078",
+    "id": "ch11-act1-seg034",
     "type": "narration",
     "speaker": "narrator",
-    "text": "he said.",
-    "act": 3,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch11-act3-seg079",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan's knife was at his throat.",
-    "act": 3,
+    "text": "He froze. Then palmed it out.",
+    "act": 1,
     "paragraphIndex": 18
   },
   {
-    "id": "ch11-act3-seg080",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You'll leave a message.\"",
-    "act": 3,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch11-act3-seg081",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Ah. To whom?\"",
-    "act": 3,
+    "id": "ch11-act1-seg035",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Cream stock. No seal. Three words in an elegant hand that shifted colors in the light like oil on water:",
+    "act": 1,
     "paragraphIndex": 19
   },
   {
-    "id": "ch11-act3-seg082",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Whoever pays you. Tell them you saw the fire and lived. Tell them next time you won't.\"",
-    "act": 3,
+    "id": "ch11-act1-seg036",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "North by iron. Two days' grace. -- L",
+    "act": 1,
     "paragraphIndex": 20
   },
   {
-    "id": "ch11-act3-seg083",
+    "id": "ch11-act1-seg037",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The man swallowed, his Adam's apple pushing the blade.",
-    "act": 3,
+    "text": "A prismatic dusting ran across the letters and vanished.",
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch11-act3-seg084",
+    "id": "ch11-act1-seg038",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex caught the flick of paper.",
+    "act": 1,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act1-seg039",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"I can do polite.\"",
-    "act": 3,
-    "paragraphIndex": 21
+    "text": "\"Problem?\"",
+    "act": 1,
+    "paragraphIndex": 22
   },
   {
-    "id": "ch11-act3-seg085",
+    "id": "ch11-act1-seg040",
     "type": "dialogue",
     "speaker": "caelin",
-    "text": "\"Do it farther away.\"",
-    "act": 3,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch11-act3-seg086",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan stepped back. The shadow under his boots stayed ordinary in the full hammer of noon.",
-    "act": 3,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch11-act3-seg087",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They dragged the pitch brush off the road with their boots. The world was tar reek and burned horsehair and the sour tang of someone's fear-sweat.",
-    "act": 3,
+    "text": "\"Map note,\"",
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch11-act3-seg088",
+    "id": "ch11-act1-seg041",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Aldric went straight to Durgan.",
-    "act": 3,
+    "text": "Caelin said, folding it into his sleeve. Not a lie. Not the truth.",
+    "act": 1,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act1-seg042",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She eyed him a beat longer than was comfortable, then nodded once.",
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch11-act3-seg089",
+    "id": "ch11-act1-seg043",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"Sleeve up.\"",
-    "act": 3,
+    "text": "\"Good. We could use a map.\"",
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch11-act3-seg090",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"It's a scratch.\"",
-    "act": 3,
+    "id": "ch11-act1-seg044",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They rose and walked.",
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch11-act3-seg091",
+    "id": "ch11-act2-seg045",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The road narrowed to a wheel-track pressed between thorn and alder, and the countryside began to tell its story.",
+    "act": 2,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch11-act2-seg046",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A farmstead stood empty beside the track -- door ajar, chickens still pecking the yard, a kettle on an iron hook over a fire that had gone cold two days ago. The table inside was set for four. Someone had been halfway through a meal when they'd decided that eating was less important than running.",
+    "act": 2,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch11-act2-seg047",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"Sleeve up.\"",
+    "text": "\"Yesterday,\"",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act2-seg048",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, reading the tracks.",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act2-seg049",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Family of four, two children. South toward the river crossing.\"",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act2-seg050",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She crouched at the doorframe, ran a finger along a mark in the wood -- a deep gouge, fresh, the width of a shadow-thrall's reach.",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act2-seg051",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"They got out. Barely.\"",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act2-seg052",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"It's spreading,\"",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act2-seg053",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric said, standing in the farmyard with the particular attention of a man cataloguing symptoms. He looked at the scorched ground where the thrall had touched the earth -- a palm-print of wrong, the grass blackened in a shape that was almost a hand and almost not.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act2-seg054",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The siege wasn't the end. It was an announcement.\"",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act2-seg055",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin knelt beside the scorched print. The scale warmed -- not the black-violet of immediate corruption, but a dull, steady heat that said: you're getting closer to the source. Every step northeast was a step toward whatever was pushing these things up from below.",
+    "act": 2,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch11-act2-seg056",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"How far from Veln's Post to here?\"",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act2-seg057",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he asked Aldric.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act2-seg058",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Eighty miles, maybe ninety. Two years ago, the thralls were only in the lower vaults. They didn't surface for six months after the seals cracked.\"",
+    "act": 2,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act2-seg059",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric looked north, where the sky was too clear and too pale.",
+    "act": 2,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act2-seg060",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"Now they're in farmyards. That's not expansion. That's acceleration.\"",
+    "act": 2,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act2-seg061",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They passed two more empty homesteads before noon. A broken cart on the roadside, its axle split, contents scattered in the mud -- blankets, a child's cloth doll, a sack of grain burst and already sprouting in the damp.",
+    "act": 2,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act2-seg062",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Evidence of people running, leaving behind the things that mattered because the things that mattered couldn't run fast enough.",
+    "act": 2,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act2-seg063",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan walked through it all without expression. But at the second empty farmstead, where a dog sat chained to a post and whined at their approach, he stopped. Knelt. Drew a knife -- and cut the chain.",
+    "act": 2,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act2-seg064",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The dog bolted toward the treeline, running south, running away from whatever it could smell on the northern wind.",
+    "act": 2,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act2-seg065",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan wiped the knife and sheathed it without comment.",
+    "act": 2,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch11-act2-seg066",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex watched from five paces back.",
+    "act": 2,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act2-seg067",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"That was decent of you.\"",
+    "act": 2,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act2-seg068",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"It was practical. A chained dog draws attention.\"",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch11-act2-seg069",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Sure,\"",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act2-seg070",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, in the voice she used when she was letting someone keep their excuse because the truth was too kind to be comfortable.",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act2-seg071",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric fell into step beside Caelin as the road climbed toward the afternoon.",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act2-seg072",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"The arm,\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act2-seg073",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said, not quite a question.",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act2-seg074",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Still holding.\"",
+    "act": 2,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act2-seg075",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"I'd like to check the wrap before nightfall. Not the scale -- I know better than to touch what I don't understand. Just the tissue. The human parts.\"",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act2-seg076",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He glanced sideways.",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act2-seg077",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You're compensating with your left shoulder, which means the right is carrying more pain than you're admitting. I've seen soldiers do that for weeks before the compensating joint fails. It's a bad habit. I'd like to catch it before it becomes a disability.\"",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act2-seg078",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"You're very direct.\"",
+    "act": 2,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act2-seg079",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I'm very old. Subtlety takes time I'd rather spend being useful.\"",
+    "act": 2,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act2-seg080",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin almost smiled.",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act2-seg081",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"Aldric.\"",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act2-seg082",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Mmm?\"",
+    "act": 2,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act2-seg083",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"Thank you. For last night. For Vex.\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act2-seg084",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric's expression didn't change.",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act2-seg085",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"She was injured. I treat injuries. That's what I do. You don't thank a river for running downhill.\"",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act2-seg086",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"Still.\"",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act2-seg087",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Still nothing. She'll need the wrap changed again tonight, and she'll argue about it, and I'll do it anyway, and we'll both pretend the argument was the point. That's how it works with people who don't like being helped.\"",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act2-seg088",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He adjusted his bag.",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act2-seg089",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"I've been doing this for forty years. Trust the process.\"",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act3-seg090",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They cut off the road at noon to skirt a flooded bend and followed a sheep path along a hedgerow prickled with last year's hawthorn. Water ran high in the ditch -- brown and cold, tea-bitter with tannin. The air smelled of wet wool, iron, and green things just remembering how to live.",
     "act": 3,
-    "paragraphIndex": 26
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch11-act3-seg091",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex stopped so abruptly Caelin nearly walked into her. One gloved hand angled down: halt.",
+    "act": 3,
+    "paragraphIndex": 1
   },
   {
     "id": "ch11-act3-seg092",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan pushed up the sleeve. The bolt had opened a four-inch line across the forearm -- clean, not deep. Aldric cleaned it with something from a small flask that smelled medicinal and unpleasant, bound it with three quick turns of linen, and tied it off without ceremony.",
+    "text": "She'd seen it: a drag across the ditch slime where something heavy had been pulled, reeds crushed in a neat human pattern. On the hedge's far side, the faintest glint of brass where no brass should be.",
     "act": 3,
-    "paragraphIndex": 27
+    "paragraphIndex": 2
   },
   {
     "id": "ch11-act3-seg093",
     "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Keep it dry. It won't.\"",
+    "speaker": "vex",
+    "text": "\"Trip-line,\"",
     "act": 3,
-    "paragraphIndex": 27
+    "paragraphIndex": 3
   },
   {
     "id": "ch11-act3-seg094",
     "type": "narration",
     "speaker": "narrator",
-    "text": "He looked at Caelin on one knee.",
+    "text": "she breathed.",
     "act": 3,
-    "paragraphIndex": 27
+    "paragraphIndex": 3
   },
   {
     "id": "ch11-act3-seg095",
     "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"How's the arm?\"",
+    "speaker": "aldric",
+    "text": "\"Caltrops behind it.\"",
     "act": 3,
-    "paragraphIndex": 27
+    "paragraphIndex": 3
   },
   {
     "id": "ch11-act3-seg096",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The same.\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "From the hedge ahead, a voice with too much bravado and not enough patience:",
     "act": 3,
-    "paragraphIndex": 28
+    "paragraphIndex": 4
   },
   {
     "id": "ch11-act3-seg097",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"That's not an answer.\"",
+    "text": "\"Easy now. Hands up, no tricks.\"",
     "act": 3,
-    "paragraphIndex": 29
+    "paragraphIndex": 4
   },
   {
     "id": "ch11-act3-seg098",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"It's the answer I have.\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Three men broke the hedge at once -- two with crossbows, one with a short fowling spear. They wore leather jacks with mismatched studs and the expressions of people who hadn't been paid yet.",
     "act": 3,
-    "paragraphIndex": 30
+    "paragraphIndex": 5
   },
   {
     "id": "ch11-act3-seg099",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Aldric looked at him for a moment with the expression of a man who'd heard that particular response in that particular tone before, from men who were about to find out it wasn't enough. He let it go. For now.",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Don't,\"",
     "act": 3,
-    "paragraphIndex": 31
+    "paragraphIndex": 6
   },
   {
     "id": "ch11-act3-seg100",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex wiped her knife on a patch of clean grass and cocked a brow at Caelin.",
+    "text": "Vex said to Caelin without looking.",
     "act": 3,
-    "paragraphIndex": 32
+    "paragraphIndex": 6
   },
   {
     "id": "ch11-act3-seg101",
     "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"How many of those,\"",
+    "speaker": "aldric",
+    "text": "\"You'll break yourself on farmers.\"",
     "act": 3,
-    "paragraphIndex": 32
+    "paragraphIndex": 6
   },
   {
     "id": "ch11-act3-seg102",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she said, nodding at the blackened barricade,",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Bounty's for alive,\"",
     "act": 3,
-    "paragraphIndex": 32
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act3-seg103",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"before you fall down and I have to carry you?\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "the spear carrier said, eyes on Caelin.",
     "act": 3,
-    "paragraphIndex": 32
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act3-seg104",
     "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I'm not sure,\"",
+    "speaker": "aldric",
+    "text": "\"We're not monsters.\"",
     "act": 3,
-    "paragraphIndex": 33
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act3-seg105",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Caelin admitted.",
+    "text": "Behind Caelin, something thinned in the light. Vex didn't turn, but she felt it: Durgan's shadow flattening like a hound belly-crawling before a pounce.",
     "act": 3,
-    "paragraphIndex": 33
+    "paragraphIndex": 8
   },
   {
     "id": "ch11-act3-seg106",
     "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Fewer than we'd like. More than yesterday.\"",
+    "speaker": "caelin",
+    "text": "\"Crossbows down,\"",
     "act": 3,
-    "paragraphIndex": 33
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act3-seg107",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Progress,\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, keeping his voice level.",
     "act": 3,
-    "paragraphIndex": 34
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act3-seg108",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she said, and almost smiled.",
+    "type": "dialogue",
+    "speaker": "aldric",
+    "text": "\"And we'll talk.\"",
     "act": 3,
-    "paragraphIndex": 34
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act3-seg109",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan wiped his sleeve. No blood on his hand this time. He exhaled once, like a man setting a weight down where no one would notice.",
+    "text": "One of the men smiled. It was not a good smile.",
     "act": 3,
-    "paragraphIndex": 35
+    "paragraphIndex": 10
   },
   {
     "id": "ch11-act3-seg110",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They took the horses nobody wanted to keep and rode until the light went copper.",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Talking's extra.\"",
     "act": 3,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch11-act4-seg111",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Evening found them on the lip of an old wound -- an earthquake's mouth split months ago or centuries, who could say. A basalt bridge arched the gap in a single impossible span, black as a raven's back, edges beveled to a craftsman's vanity.",
-    "act": 4,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch11-act4-seg112",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Wind lived down there. It smelled of cold stone and something old and salty, though the sea lay weeks away.",
-    "act": 4,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch11-act4-seg113",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "At the near end of the bridge, someone had carved a sigil into a waist-high stone: a circle doubled back on itself, nine spokes, the tenth line severed. Thornik would have told them the lineage of the chisel marks.",
-    "act": 4,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act4-seg114",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "In his absence, Caelin only felt seen. The scale warmed, shyly. Vex touched the symbol with two fingers and let the gesture be a greeting.",
-    "act": 4,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch11-act4-seg115",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Halfway across, the light changed.",
-    "act": 4,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch11-act4-seg116",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Not dimmer -- stranger. The sun still bled out across the world, but the space over the span held a second dusk of its own, a hush laid over air. Caelin tasted metal on his tongue. The ribbon at his wrist gave a single bright pluck, like a harpstring in a room with no hands.",
-    "act": 4,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch11-act4-seg117",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Words raised from the stone, not carved but standing -- letters the eye only loved if it looked from the side.",
-    "act": 4,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch11-act4-seg118",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Speak true or speak not at all.",
-    "act": 4,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch11-act4-seg119",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex stopped dead.",
-    "act": 4,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch11-act4-seg120",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"I hate bridges that talk.\"",
-    "act": 4,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch11-act4-seg121",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"It's a ward,\"",
-    "act": 4,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch11-act4-seg122",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said. He took out Serana's disc. The secular line etched into bronze caught the odd light and answered in a soft, stubborn glow. The sense of it wasn't holy, not anymore. It was made strong by work. By intention. I will keep what I can.",
-    "act": 4,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch11-act4-seg123",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He cleared his throat.",
-    "act": 4,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act4-seg124",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"We are crossing to the plateau. We intend to harm no one who does not try to harm us. We seek a prison that isn't a prison.\"",
-    "act": 4,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act4-seg125",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He paused. Laughed once at himself.",
-    "act": 4,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act4-seg126",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"We're in over our heads.\"",
-    "act": 4,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch11-act4-seg127",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The bridge listened. Said nothing. But the pressure eased enough to breathe.",
-    "act": 4,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch11-act4-seg128",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Fine,\"",
-    "act": 4,
     "paragraphIndex": 10
   },
   {
-    "id": "ch11-act4-seg129",
+    "id": "ch11-act3-seg111",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex said, and stepped into the ward's hush. She could have lied to it with panache. She chose not to.",
-    "act": 4,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act4-seg130",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I am very tired,\"",
-    "act": 4,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act4-seg131",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she informed the air.",
-    "act": 4,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act4-seg132",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"I am very hungry. I do not want to die before I stab whoever designed this road.\"",
-    "act": 4,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch11-act4-seg133",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The hush let her pass.",
-    "act": 4,
+    "text": "Vex moved. Not the dramatic leap of a stage knife but a hunter's step -- heel-to-ball, weight forward.",
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch11-act4-seg134",
+    "id": "ch11-act3-seg112",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan hesitated a fraction. His shadow bled one inch toward the parapet, stopped as if it had hit glass, and recoiled like a burned animal. The smell of singed wool flicked the air then died, leaving the clean ache of wind.",
-    "act": 4,
+    "text": "A flick of wrist and the spearman's weapon wasn't in his hand anymore; it was in the ditch with a splash, and he was bleeding from the web of skin between thumb and forefinger in a way that made him as angry as it did clumsy.",
+    "act": 3,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch11-act3-seg113",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Both crossbows thunked.",
+    "act": 3,
     "paragraphIndex": 12
   },
   {
-    "id": "ch11-act4-seg135",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I will not hurt them,\"",
-    "act": 4,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act4-seg136",
+    "id": "ch11-act3-seg114",
     "type": "narration",
     "speaker": "narrator",
-    "text": "he said to no one and everyone.",
-    "act": 4,
+    "text": "Caelin didn't dodge.",
+    "act": 3,
     "paragraphIndex": 13
   },
   {
-    "id": "ch11-act4-seg137",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Not while I am me.\"",
-    "act": 4,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch11-act4-seg138",
+    "id": "ch11-act3-seg115",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The ward accepted that as truth.",
-    "act": 4,
+    "text": "Heat spiked up the lattice in his arm -- fast, focused, controlled. He punched his palm at the ground between them, not at the men. Air went hard in a fan and the ditchwater hissed -- stone to glass in a strip three feet wide.",
+    "act": 3,
     "paragraphIndex": 14
   },
   {
-    "id": "ch11-act4-seg139",
+    "id": "ch11-act3-seg116",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Aldric stepped up to the ward's edge and stood there a moment with his hands at his sides. He didn't look like a man performing sincerity. He looked like a man who'd decided what was true and was simply reporting it.",
-    "act": 4,
+    "text": "The bolts hit the newborn slick and skated sideways into the hedge, thunk-thunk, harmless.",
+    "act": 3,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act3-seg117",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The pain arrived half a beat later. Not rupturing. Not yet. A white wire drawn through the filaments, singing in his teeth. Nyxara's lesson -- heat on one side, cold on the other, the border doing the work -- had turned a blast into a deflection.",
+    "act": 3,
     "paragraphIndex": 15
   },
   {
-    "id": "ch11-act4-seg140",
+    "id": "ch11-act3-seg118",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Three out of ten, she'd said. Maybe three and a half today.",
+    "act": 3,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act3-seg119",
     "type": "dialogue",
     "speaker": "caelin",
-    "text": "\"I came to find out what killed thirty-seven men,\"",
-    "act": 4,
+    "text": "\"Last chance,\"",
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch11-act4-seg141",
+    "id": "ch11-act3-seg120",
     "type": "narration",
     "speaker": "narrator",
-    "text": "he said.",
-    "act": 4,
+    "text": "Caelin said, breath thin.",
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch11-act4-seg142",
+    "id": "ch11-act3-seg121",
     "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"And if there's anything left to do about it.\"",
-    "act": 4,
+    "speaker": "aldric",
+    "text": "\"Go home.\"",
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch11-act4-seg143",
+    "id": "ch11-act3-seg122",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The hush considered this and let him through.",
-    "act": 4,
+    "text": "They didn't. The second crossbowman yelped something about",
+    "act": 3,
     "paragraphIndex": 17
   },
   {
-    "id": "ch11-act4-seg144",
+    "id": "ch11-act3-seg123",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"hazard pay\"",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act3-seg124",
     "type": "narration",
     "speaker": "narrator",
-    "text": "They stood at the bridge's crown and looked north. The world beyond rolled away in bruised gold: scrub, broken stone, low thorn.",
-    "act": 4,
+    "text": "and crabbed sideways to get a shot. Durgan's blade touched his throat from behind before he finished the motion.",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act3-seg125",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Drop it,\"",
+    "act": 3,
     "paragraphIndex": 18
   },
   {
-    "id": "ch11-act4-seg145",
+    "id": "ch11-act3-seg126",
     "type": "narration",
     "speaker": "narrator",
-    "text": "And there, like a nail driven into the horizon, lay a black plateau shouldering out of the world -- the Depthspire rise, not yet the thing itself, but the country of it.",
-    "act": 4,
+    "text": "Durgan said. Calm. Too calm. The calm of a man holding something back with both hands and only one of them visible.",
+    "act": 3,
     "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act3-seg127",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The man dropped it. The bowstring twanged and sang a sad little note as it hit the glass strip and spun.",
+    "act": 3,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act3-seg128",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The spear carrier dove for his weapon in the ditch, came up with cold mud and a broken glove. Vex met him halfway -- rib to elbow, knee to thigh, heel to instep -- a conversation he lost quickly and with regret.",
+    "act": 3,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act3-seg129",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The last one bolted.",
+    "act": 3,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act3-seg130",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex let him run.",
+    "act": 3,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act3-seg131",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Tell your employer,\"",
+    "act": 3,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act3-seg132",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she called,",
+    "act": 3,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act3-seg133",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"to upgrade the talent.\"",
+    "act": 3,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act3-seg134",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She retrieved the dropped spear and snapped it over her knee just because it felt good. The rib reminded her immediately that it had opinions about that. She absorbed the flash of pain without showing it, mostly.",
+    "act": 3,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act3-seg135",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan released the man he'd collared -- gently, considering -- and stepped back like he'd touched a stove. His nose was bleeding. He wiped it onto black cloth that wouldn't show it.",
+    "act": 3,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch11-act3-seg136",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin exhaled, shakier than he wanted to be. The filaments along his forearm thrummed angrily then settled to their baseline ache -- manageable. For now.",
+    "act": 3,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch11-act3-seg137",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"What was that with the ground?\"",
+    "act": 3,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch11-act3-seg138",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex asked.",
+    "act": 3,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch11-act3-seg139",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Glass,\"",
+    "act": 3,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch11-act3-seg140",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, flexing his hand.",
+    "act": 3,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch11-act3-seg141",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Easier to slide on than stand on.\"",
+    "act": 3,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch11-act3-seg142",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Going to assume you can only do that a handful of times before you chew your arm off.\"",
+    "act": 3,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch11-act3-seg143",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Something like that.\"",
+    "act": 3,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch11-act3-seg144",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She nodded, cataloguing his limits the way she catalogued everything.",
+    "act": 3,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch11-act3-seg145",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Noted.\"",
+    "act": 3,
+    "paragraphIndex": 30
   },
   {
     "id": "ch11-act4-seg146",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Above, a pale aurora wrote thin curtains across the sky where no such lights should run.",
+    "text": "They crossed the ditch at a dry spot Vex found upstream and cut through a copse of alder that smelled of cat-pee and river iron. The day leaned toward afternoon; clouds stacked to the west in slate wedges.",
     "act": 4,
-    "paragraphIndex": 18
+    "paragraphIndex": 0
   },
   {
     "id": "ch11-act4-seg147",
     "type": "narration",
     "speaker": "narrator",
-    "text": "A square of folded paper fell out of Caelin's pack and landed against his boot.",
+    "text": "They found an abandoned charcoal clamp on the lee side of a low hill -- a stone circle still black with old burns, sheltered from the wind by a crumbled wall that had been somebody's idea of useful forty years ago. Good sightlines south and west.",
     "act": 4,
-    "paragraphIndex": 19
+    "paragraphIndex": 1
   },
   {
     "id": "ch11-act4-seg148",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex's hand hit a dagger before he'd bent to pick it up. Durgan's blades whispered half-free and went still when nothing moved to justify it.",
+    "text": "Cover north. The kind of place people stop at when they know they need to stop and won't admit it.",
     "act": 4,
-    "paragraphIndex": 20
+    "paragraphIndex": 1
   },
   {
     "id": "ch11-act4-seg149",
     "type": "narration",
     "speaker": "narrator",
-    "text": "The note was ordinary to the point of insolence -- cheap stock, black ink, a smell of old lavender as if it had slept too long in an honest drawer.",
+    "text": "Caelin's arm had cooled to a sulk. Durgan watched his own shadow not move. Vex used a shard of Caelin's glass -- she'd pocketed it from the ditch, because Vex pocketed everything -- to trim a hanging thread from her sleeve with a surgeon's care.",
     "act": 4,
-    "paragraphIndex": 21
+    "paragraphIndex": 2
   },
   {
     "id": "ch11-act4-seg150",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Caelin opened it.",
+    "text": "Aldric set down his bag and looked at Vex.",
     "act": 4,
-    "paragraphIndex": 22
+    "paragraphIndex": 3
   },
   {
     "id": "ch11-act4-seg151",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Your pace is sufficient. Keep the road's left edge when the basalt goes to clay; the right is mined by men who will not remember why they laid the charges. I will not wait long at the first watch-tower. -- L",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Rib.\"",
     "act": 4,
-    "paragraphIndex": 23
+    "paragraphIndex": 3
   },
   {
     "id": "ch11-act4-seg152",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex made a face that belonged to someone who'd bitten a green apple.",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"It's fine.\"",
     "act": 4,
-    "paragraphIndex": 24
+    "paragraphIndex": 4
   },
   {
     "id": "ch11-act4-seg153",
     "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Divination and manners,\"",
+    "speaker": "vex",
+    "text": "\"You winced when you broke that spear. Sit down.\"",
     "act": 4,
-    "paragraphIndex": 24
+    "paragraphIndex": 5
   },
   {
     "id": "ch11-act4-seg154",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she said.",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I said -- \"",
     "act": 4,
-    "paragraphIndex": 24
+    "paragraphIndex": 6
   },
   {
     "id": "ch11-act4-seg155",
     "type": "dialogue",
     "speaker": "vex",
-    "text": "\"Pick one.\"",
+    "text": "\"I know what you said.\"",
     "act": 4,
-    "paragraphIndex": 24
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act4-seg156",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Caelin folded the note, slid it away.",
+    "text": "He was already opening the bag.",
     "act": 4,
-    "paragraphIndex": 25
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act4-seg157",
     "type": "dialogue",
     "speaker": "caelin",
-    "text": "\"He's ahead of us.\"",
+    "text": "\"Sit down.\"",
     "act": 4,
-    "paragraphIndex": 25
+    "paragraphIndex": 7
   },
   {
     "id": "ch11-act4-seg158",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Or behind and being clever about it.\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She sat. He ran two fingers along the rib line with clinical detachment, found the break by her sharp intake of breath, and pronounced it the same as before -- cracked, not displaced, nothing to do but strap it and stop doing stupid things with it.",
     "act": 4,
-    "paragraphIndex": 26
+    "paragraphIndex": 8
   },
   {
     "id": "ch11-act4-seg159",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Vex shaded her eyes against a wind that didn't need shading.",
+    "text": "She didn't comment on the last part. He didn't expect her to.",
     "act": 4,
-    "paragraphIndex": 26
+    "paragraphIndex": 8
   },
   {
     "id": "ch11-act4-seg160",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Either way, I vote we don't sleep on the bridge.\"",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "While he worked, Caelin sat against the clamp's stone wall and let the lattice quiet.",
     "act": 4,
-    "paragraphIndex": 26
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act4-seg161",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Aldric looked at the note Caelin had pocketed, then at the plateau on the horizon, then said nothing. He'd stopped asking who L was. The answer was somewhere north of them and he'd find out when they got there.",
+    "text": "The glass trick had cost less than the scream-cast -- far less -- but the cost was still measured in pain and precision and the knowledge that every expenditure drew from a balance he couldn't check. He flexed his fingers.",
     "act": 4,
-    "paragraphIndex": 27
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act4-seg162",
     "type": "narration",
     "speaker": "narrator",
-    "text": "They finished the span, and the hush let them go. On the far side, someone had piled three stones into a cairn you'd miss if you blinked.",
+    "text": "The coin trick: heat left, cold right, hold the border. He managed five seconds before the spiral collapsed. Progress. Incremental, painful, insufficient progress.",
     "act": 4,
-    "paragraphIndex": 28
+    "paragraphIndex": 9
   },
   {
     "id": "ch11-act4-seg163",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Caelin set Serana's disc on the top for a breath, warmed it with the heat the scale made when it was patient, and took it back. The night smelled of sage crushed under boots and basalt cooling after day.",
+    "text": "Aldric checked Caelin's arm wrap next -- didn't touch the scale, just the bandaging. His fingers were impersonal and thorough, the way a mechanic checks an engine: looking for wear, for heat, for the signs that something internal was failing before the external showed it.",
     "act": 4,
-    "paragraphIndex": 28
+    "paragraphIndex": 10
   },
   {
     "id": "ch11-act4-seg164",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They made camp in the lee of a boulder where the wind could sing without tearing the blankets loose. The ribbon at Caelin's wrist lay quiet. The ward-disc held its stubborn warmth.",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You're holding tension in the shoulder,\"",
     "act": 4,
-    "paragraphIndex": 29
+    "paragraphIndex": 11
   },
   {
     "id": "ch11-act4-seg165",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Durgan set himself where he could see both the bridge and their fire; when his nose bled, he turned his head and let the dark drink it.",
+    "text": "he said.",
     "act": 4,
-    "paragraphIndex": 29
+    "paragraphIndex": 11
   },
   {
     "id": "ch11-act4-seg166",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Aldric sat with his back to the boulder and his bag between his feet and looked north, doing whatever arithmetic he'd been doing since Veln's Post and not sharing the result.",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Favoring the arm means the trapezius compensates. Another week of this and the shoulder freezes. I've seen it in soldiers who take a lance wound and won't let anyone set the arm properly.\"",
     "act": 4,
-    "paragraphIndex": 29
+    "paragraphIndex": 11
   },
   {
     "id": "ch11-act4-seg167",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Holding,\"",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act4-seg168",
     "type": "narration",
     "speaker": "narrator",
-    "text": "Sleep came as a courtesy, not a gift.",
+    "text": "Caelin said, in the tone of a man noting a weather gauge.",
     "act": 4,
-    "paragraphIndex": 30
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act4-seg169",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"That's not an answer.\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act4-seg170",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The words landed heavier than Aldric probably intended -- or maybe exactly as heavy as he intended, because the look he gave Caelin was the look of a man who'd heard soldiers say holding right up until the moment they fell down and didn't get up.",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act4-seg171",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Veln's Post,\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act4-seg172",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act4-seg173",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The thing that came through the vault. What was it?\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act4-seg174",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric packed his bag with the precision of routine.",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act4-seg175",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I don't know what it was. I know what it did. It moved through sealed stone as if the seals weren't there. It didn't kill the men -- it unmade them. No blood. No wounds. They just... stopped. Like someone had found the thread that held them together and pulled it.\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act4-seg176",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He fastened the clasp.",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act4-seg177",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I was in the east tower. I heard the silence when the screaming stopped. That's the part I remember most clearly -- the silence. Thirty-seven men, and then quiet, and then the sound of something large settling back down, like a cat that's caught what it wanted and gone back to sleep.\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act4-seg178",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"And you've been walking toward it ever since.\"",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act4-seg179",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Toward the answer. Which might be the same thing.\"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg180",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He stood, bag over his shoulder, and looked north.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg181",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Two years of walking. Lot of roads. Lot of patients. Lot of villages where the people were scared of something they couldn't name and the dogs wouldn't go outside after dark.\"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg182",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He met Caelin's eyes.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg183",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Whatever's in that plateau is waking up incrementally. The thralls at Millbrook are the edge. The thing at Veln's Post was closer to the center. And whatever's at the actual center -- \"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg184",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He paused.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg185",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Well. That's what we're going to find out.\"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act4-seg186",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You don't have to come,\"",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act4-seg187",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act4-seg188",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You could stay. There are villages that need a surgeon.\"",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act4-seg189",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"There are always villages that need a surgeon. There will always be villages that need a surgeon.\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act4-seg190",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric's voice was even, unhurried, the voice of a man who'd thought about this every day for two years and had stopped being surprised by his own answer.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act4-seg191",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"But there's only one Depthspire. And only one chance to be in the room when the door opens. I wasn't in the room at Veln's Post. I've spent two years carrying that absence. I'd like to stop.\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act4-seg192",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex, who'd been lying on her good side pretending to rest, opened one eye.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act4-seg193",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"He'll do,\"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act4-seg194",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said to Caelin.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act4-seg195",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric raised an eyebrow.",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act4-seg196",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"That's high praise from her,\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act4-seg197",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act4-seg198",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Accept it and move on before she changes her mind.\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act4-seg199",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They rested another twenty minutes, then packed and moved northeast through the thinning countryside, the ironwood treeline a dark smear on the approaching horizon.",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch11-act5-seg200",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They reached the Ironwood fringe at dusk, where the trees grew straight and dark and the bark smelled faintly of cold iron even when you knew it couldn't. A forgotten road -- older than any of them had a right to name -- cut through in a shallow camber, the stones slick with moss and time.",
+    "act": 5,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch11-act5-seg201",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "At a crossroads of ruts and intention, a waystone stood hip-high -- granite freckled with lichen, nine faint sigils carved around its crown. Most folks would see old scratches. Caelin's scale saw a circuit.",
+    "act": 5,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch11-act5-seg202",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Ember warmed. Not hot. Not warning. Recognition -- the pulse of something greeting something it remembered. The filaments along his forearm brightened a fraction, and the ember-motes in the obsidian plate swirled faster, as if excited by proximity to old, familiar magic.",
+    "act": 5,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act5-seg203",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex crouched and brushed dirt from the base, revealing a dwarf-stamp so worn it was almost a rumor.",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act5-seg204",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Thornik would've loved this,\"",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act5-seg205",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said, softer than she meant to.",
+    "act": 5,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act5-seg206",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Yeah,\"",
+    "act": 5,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch11-act5-seg207",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 5,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch11-act5-seg208",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He dug into his pocket and found Serana's ward-disc -- the little bronze coin stamped with a sunburst she'd pressed into his hand without a prayer. He set it on the waystone's flat top.",
+    "act": 5,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act5-seg209",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "For a heartbeat, the disc's lines flared dull gold, as if something in the stone remembered what warding felt like -- a ghost of purpose answering a ghost of faith. A faint smell of struck flint lifted and was gone.",
+    "act": 5,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act5-seg210",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Still works,\"",
+    "act": 5,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act5-seg211",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said.",
+    "act": 5,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act5-seg212",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"A little.\"",
+    "act": 5,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act5-seg213",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Enough,\"",
+    "act": 5,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act5-seg214",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 5,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act5-seg215",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They set camp in the lee of the waystone, the ironwoods closing around them like a nave.",
+    "act": 5,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch11-act5-seg216",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The trees creaked with the particular patience of old wood -- not the noise of strain but the conversation of things that had been standing for centuries and had opinions about everything that happened beneath them.",
+    "act": 5,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch11-act5-seg217",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin tapped the tone-ring against the waystone's edge -- three-one-two -- and felt the faintest answering vibration through the iron, so subtle he might have imagined it. He didn't imagine it.",
+    "act": 5,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act5-seg218",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Somewhere north, under a mountain, a dwarf with a matching ring was doing the same thing, and the stone between them carried the signal like a whispered promise.",
+    "act": 5,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act5-seg219",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They ate cold trail-bread and harder cheese. Durgan drifted the perimeter like a boundary rider, never far, never comfortably close, the way a man walks when he doesn't trust the ground he's standing on.",
+    "act": 5,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch11-act5-seg220",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A moth the size of a thumb fluttered into the ward's slight radius and settled on the waystone. It fanned powdery wings, paused as if listening, then lifted into the dark. Somewhere far away, a fox barked twice.",
+    "act": 5,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act5-seg221",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric took first watch without being asked. He sat with his back against the waystone's east face, bag across his knees, eyes on the treeline. He watched the way old soldiers watch -- not looking for anything specific, just watching.",
+    "act": 5,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act5-seg222",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Letting the forest teach him its rhythms so he'd know when something broke them.",
+    "act": 5,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act5-seg223",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin unrolled his bedroll beneath a blackthorn and only then checked his pack again. The cream note was gone.",
+    "act": 5,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act5-seg224",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "In its place, a strip of vellum narrower than a finger, rolled tight and tied with a thread that wasn't a color he could name -- not gold, not silver, not any shade the eye could hold.",
+    "act": 5,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act5-seg225",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "It shifted when he turned it, like light through a soap bubble that had forgotten how to pop.",
+    "act": 5,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act5-seg226",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He didn't open it.",
+    "act": 5,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act5-seg227",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The ribbon at his wrist lay quiet and cool. The thread wasn't darker. Nyxara was still out there, somewhere within the hundred-mile radius. He touched the iron ring. Thornik was out there too. And Serana, on her eastern road, carrying a gear-coin and a silence where prayer used to be.",
+    "act": 5,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act5-seg228",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex, settling into her bedroll with the careful movements of someone negotiating with cracked ribs, caught his expression.",
+    "act": 5,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act5-seg229",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You're doing the math,\"",
+    "act": 5,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act5-seg230",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said.",
+    "act": 5,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act5-seg231",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"What math?\"",
+    "act": 5,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act5-seg232",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"The math of who's missing. You do it every night. Your face changes and you think nobody notices.\"",
+    "act": 5,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act5-seg233",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Does it help to notice?\"",
+    "act": 5,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act5-seg234",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"No. But I notice things for a living. Occupational hazard.\"",
+    "act": 5,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act5-seg235",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She pulled her cloak over her shoulder.",
+    "act": 5,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act5-seg236",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Stop counting what's gone. Count what's here. Four people. One very sharp thief. One extremely stubborn surgeon. One shadow-cursed soldier who's fighting harder than any of us know. And one idiot with a dragon's scale in his arm who keeps walking toward the thing that wants to eat him.\"",
+    "act": 5,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act5-seg237",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Inspiring speech.\"",
+    "act": 5,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act5-seg238",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'm not trying to inspire you. I'm trying to make you sleep. You can't save the world if you pass out before we get there.\"",
+    "act": 5,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act5-seg239",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She closed her eyes. Within minutes her breathing steadied -- not sleep, but the practiced stillness of someone who'd learned to rest in hostile territory, one ear open, one hand on a blade.",
+    "act": 5,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch11-act6-seg240",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Later -- much later, when the ironwoods had stilled to their midnight sounds of sap-whisper and the tiny crackle of frost forming on bark -- Caelin woke to a light on the northern horizon that wasn't the moon.",
+    "act": 6,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch11-act6-seg241",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A curtain of green-white shimmered and folded on itself like silk lit from within, then tore and sealed without sound. The hairs on his forearms rose; the scale's lattice hummed to a pitch he could feel in his teeth.",
+    "act": 6,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch11-act6-seg242",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Wake,\"",
+    "act": 6,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act6-seg243",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said, already on one knee.",
+    "act": 6,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch11-act6-seg244",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex sat up instantly, dagger half-drawn, the transition from rest to ready so fast it looked like a magic trick. Durgan turned his face north and didn't blink.",
+    "act": 6,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act6-seg245",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His shadow -- Caelin noticed -- strained toward the light, a thin tendril reaching like a vine toward sun, before Durgan crushed it flat with a jaw-clenched effort that made his nose bleed.",
+    "act": 6,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch11-act6-seg246",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"What is that?\"",
+    "act": 6,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch11-act6-seg247",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex whispered.",
+    "act": 6,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch11-act6-seg248",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Depthspire,\"",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act6-seg249",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, certain without knowing how. The scale told him -- not in words, not in images, but in the bone-deep certainty of a compass finding north.",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act6-seg250",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Something opened. Or closed.\"",
+    "act": 6,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch11-act6-seg251",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Doors,\"",
+    "act": 6,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act6-seg252",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said, his voice rougher than usual. He wiped the blood from his upper lip without looking at it.",
+    "act": 6,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act6-seg253",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You can hear them even when you can't.\"",
+    "act": 6,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch11-act6-seg254",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "From the far side of the waystone, Aldric sat up from his bedroll and looked north. He said nothing for a long moment.",
+    "act": 6,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act6-seg255",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The aurora folded and refolded, silent and wrong -- not the natural shimmer of magnetism playing in the upper atmosphere, but something deliberate, something that was using the sky the way a person uses a mirror.",
+    "act": 6,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch11-act6-seg256",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"I've seen that light once before,\"",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act6-seg257",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said finally.",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act6-seg258",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Two years ago, three weeks before Veln's Post.\"",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act6-seg259",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His voice was even -- not steady the way a calm man is steady, but steady the way a man is steady who has decided what he thinks about something and is done renegotiating.",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act6-seg260",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"It wasn't a warning. It was a door opening. And thirty-seven men died to whatever came through.\"",
+    "act": 6,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch11-act6-seg261",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The words settled into the space between the ironwoods and stayed there. No one answered. The answer wasn't the point.",
+    "act": 6,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch11-act6-seg262",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The point was that a man who'd spent two years walking toward this moment was sitting under the same sky that had preceded the worst day of his life, and his voice was steady, and he wasn't turning around.",
+    "act": 6,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch11-act6-seg263",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The aurora brightened, and for one impossible moment the waystone's sigils answered -- nine faint symbols flaring in sympathy, the dwarf-craft reading the sky the way a tuning fork reads a struck bell.",
+    "act": 6,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act6-seg264",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Ember blazed in Caelin's arm, not pain but recognition, a surge of warmth that said: this is what you've been walking toward. This is what the chain was forged to hold. This is what happens when the holding fails.",
+    "act": 6,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch11-act6-seg265",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Then the light faded, by degrees, as if whatever had opened the door had decided to close it again -- not because it was finished, but because it wanted them to know it could. The sky returned to ordinary darkness. The sigils dimmed. The Ember cooled.",
+    "act": 6,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch11-act6-seg266",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The ironwoods went on pretending to be ordinary trees.",
+    "act": 6,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch11-act6-seg267",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Two days' grace,\"",
+    "act": 6,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act6-seg268",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said under his breath, thinking of prismatic dust and steady hands and a name that was only a letter. He didn't explain it.",
+    "act": 6,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch11-act6-seg269",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex didn't ask.",
+    "act": 6,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch11-act6-seg270",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Forest track or Merchant Road?\"",
+    "act": 6,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act6-seg271",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she asked instead, because Vex always knew when to let a mystery stay a mystery and when to focus on the thing that mattered, which was moving.",
+    "act": 6,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch11-act6-seg272",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Forest,\"",
+    "act": 6,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act6-seg273",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 6,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act6-seg274",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Humans on the road. Scouts hate ironwood.\"",
+    "act": 6,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch11-act6-seg275",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"Scouts hate wards,\"",
+    "act": 6,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act6-seg276",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan added, nodding at the disc still warm with a memory of light.",
+    "act": 6,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch11-act6-seg277",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Then forest,\"",
+    "act": 6,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act6-seg278",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex decided.",
+    "act": 6,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act6-seg279",
+    "type": "dialogue",
+    "speaker": "durgan",
+    "text": "\"We thread the old way.\"",
+    "act": 6,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch11-act6-seg280",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They settled again to the kind of rest you take in pieces -- not sleep but a negotiation with consciousness, the body agreeing to stop moving in exchange for the mind agreeing to stop planning.",
+    "act": 6,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act6-seg281",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex lay on her good shoulder and counted breaths until numbers stopped mattering. Durgan sat with his back to a trunk and watched his shadow not move, holding the leash, or wearing it, or both.",
+    "act": 6,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act6-seg282",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin held the unopened vellum between his fingers and felt the not-color thread pulse against his skin -- once, twice, like a heartbeat that wasn't his.",
+    "act": 6,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch11-act6-seg283",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Aldric sat with his back against the waystone, eyes open, and did arithmetic. Not the kind with numbers -- the kind with consequences. He'd seen this light before. He knew what came after it. The question wasn't whether the door would open.",
+    "act": 6,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act6-seg284",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The question was whether four people, one of them carrying a relic he didn't understand, could walk through it and come back.",
+    "act": 6,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch11-act6-seg285",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "After a while he lay down, not because he thought he'd sleep, but because horizontal was better than the alternative and he'd learned, over forty years, not to waste energy on posture when he could spend it on preparedness.",
+    "act": 6,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch11-act6-seg286",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The ironwoods creaked softly, like doors deciding when to be doors.",
+    "act": 6,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch11-act6-seg287",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "At some point, far to the north and far below the ground, something knocked once. Not loud. Not near. The sound of something patient, something vast, something that had been counting for a very long time and was almost finished.",
+    "act": 6,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch11-act6-seg288",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thud.",
+    "act": 6,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch11-act6-seg289",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A patient sound.",
+    "act": 6,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch11-act6-seg290",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Counting.",
+    "act": 6,
+    "paragraphIndex": 26
   }
 ]

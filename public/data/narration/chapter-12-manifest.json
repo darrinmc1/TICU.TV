@@ -1,0 +1,31 @@
+{
+  "chapter": 12,
+  "title": "Epilogue",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "After",
+      "audioFile": "/audio/chapters/chapter-12-act-1.mp3",
+      "timingFile": "/data/narration/chapter-12-act-1-timing.json",
+      "totalDuration": 174.175,
+      "segmentCount": 23
+    },
+    {
+      "act": 2,
+      "actTitle": "The World Changed",
+      "audioFile": "/audio/chapters/chapter-12-act-2.mp3",
+      "timingFile": "/data/narration/chapter-12-act-2-timing.json",
+      "totalDuration": 228.775,
+      "segmentCount": 27
+    },
+    {
+      "act": 3,
+      "actTitle": "Farewell",
+      "audioFile": "/audio/chapters/chapter-12-act-3.mp3",
+      "timingFile": "/data/narration/chapter-12-act-3-timing.json",
+      "totalDuration": 99.675,
+      "segmentCount": 12
+    }
+  ],
+  "totalDuration": 502.625
+}

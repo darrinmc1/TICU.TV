@@ -1,0 +1,193 @@
+{
+  "chapter": 9,
+  "act": 5,
+  "actTitle": "Turn & Break",
+  "audioFile": "/audio/chapters/chapter-9-act-5.mp3",
+  "totalDuration": 207.3,
+  "segments": [
+    {
+      "id": "ch9-act5-seg151",
+      "start": 0.0,
+      "end": 1.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana saw it."
+    },
+    {
+      "id": "ch9-act5-seg152",
+      "start": 2.25,
+      "end": 10.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thralls had committed too far -- pushed too hard at the well-head, drawn too many of their shadows toward Vale's position. The left flank had thinned."
+    },
+    {
+      "id": "ch9-act5-seg153",
+      "start": 11.075,
+      "end": 24.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ward-line there still held, its geometry intact, and the thralls pressing against it were strung out, uncoordinated, their stolen learning working against them because they'd learned to target strength and forgotten to guard their own weakness."
+    },
+    {
+      "id": "ch9-act5-seg154",
+      "start": 24.75,
+      "end": 25.75,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Now!\""
+    },
+    {
+      "id": "ch9-act5-seg155",
+      "start": 26.05,
+      "end": 36.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana shouted, and her voice carried the particular authority of someone who'd been taking orders from a god and had recently decided to take them from geometry instead."
+    },
+    {
+      "id": "ch9-act5-seg156",
+      "start": 36.725,
+      "end": 49.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her shield slammed into a leader's chest -- not the divine strike she'd once wielded, but muscle and mathematics, the physics of a heavy piece of metal moving very fast -- and the line stepped. The reserve flowed. The square held."
+    },
+    {
+      "id": "ch9-act5-seg157",
+      "start": 49.9,
+      "end": 58.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her left hand came up instinctively, reaching for the wardlight that used to answer -- and for one blazing, impossible moment, it was there."
+    },
+    {
+      "id": "ch9-act5-seg158",
+      "start": 58.55,
+      "end": 69.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Silver-gold, bright as morning, pouring from her palm like something that had been held back and had finally, furiously, broken through. Not divine. Not the warm certainty of a god's answering hand."
+    },
+    {
+      "id": "ch9-act5-seg159",
+      "start": 70.125,
+      "end": 77.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Something rawer -- will made visible, fifteen years of discipline igniting on its own terms, answering its own prayer."
+    },
+    {
+      "id": "ch9-act5-seg160",
+      "start": 77.675,
+      "end": 88.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It lasted three seconds. The thralls nearest her buckled and writhed as if the light was acid. Two soldiers beside her gasped and fought harder. The ward-lines flared in sympathy."
+    },
+    {
+      "id": "ch9-act5-seg161",
+      "start": 88.6,
+      "end": 95.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then it was gone, and Serana stood with her hand still raised and her breath ragged and no idea what had just happened."
+    },
+    {
+      "id": "ch9-act5-seg162",
+      "start": 95.975,
+      "end": 99.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "And then -- like a thread cut -- the thralls began to break."
+    },
+    {
+      "id": "ch9-act5-seg163",
+      "start": 100.1,
+      "end": 106.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They did not run so much as fold and vanish, remnants sinking back into cracks they had no right to fit."
+    },
+    {
+      "id": "ch9-act5-seg164",
+      "start": 106.95,
+      "end": 120.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The shadows peeled off the cobblestones and seeped into mortar joints, into the spaces between roof-tiles, into the dark beneath the well's stone lip -- withdrawing with the obscene fluidity of things that had never been solid to begin with."
+    },
+    {
+      "id": "ch9-act5-seg165",
+      "start": 120.75,
+      "end": 129.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Silence arrived the way it always does after a fight that large: not as absence but as presence, a new thing settling over the square with weight."
+    },
+    {
+      "id": "ch9-act5-seg166",
+      "start": 129.8,
+      "end": 139.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The moaning and dripping and the meaningless roll of a loose bucket across cobblestones -- all of it still there, all of it somehow part of the silence rather than breaking it."
+    },
+    {
+      "id": "ch9-act5-seg167",
+      "start": 139.675,
+      "end": 145.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The kind of quiet that means there is nothing left to kill and your body hasn't learned that yet."
+    },
+    {
+      "id": "ch9-act5-seg168",
+      "start": 145.7,
+      "end": 159.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's arm was a column of white heat from shoulder to wrist. He became aware, slowly, that he was still holding a fighting stance and made himself lower it. The lattice ticked and began to cool by degrees. He looked down at his hand. Still there."
+    },
+    {
+      "id": "ch9-act5-seg169",
+      "start": 159.7,
+      "end": 163.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Still attached. That felt like more than he deserved."
+    },
+    {
+      "id": "ch9-act5-seg170",
+      "start": 163.6,
+      "end": 179.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik stood with an axe in each fist and his belt empty and blood on his beard that wasn't all his own. He ran his eyes across the square the way a man counts coin -- methodical, not hopeful. When he reached zero on the charge loops, he exhaled once through his nose. Then he put the axes away."
+    },
+    {
+      "id": "ch9-act5-seg171",
+      "start": 179.85,
+      "end": 194.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan went very still at the square's edge. His shadow lay flat and honest at his boots in the torchlight. He pressed the back of his wrist to his nose. Dry. He checked again. Habit. He exhaled once, slow, like a man easing a door closed so it didn't wake anyone."
+    },
+    {
+      "id": "ch9-act5-seg172",
+      "start": 194.325,
+      "end": 199.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex hadn't moved. She was breathing. Caelin could see it from here. That was what mattered."
+    },
+    {
+      "id": "ch9-act5-seg173",
+      "start": 200.025,
+      "end": 207.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The third bell rang once, useless, telling a town that already knew to stop fighting because there was nothing left to kill."
+    }
+  ]
+}

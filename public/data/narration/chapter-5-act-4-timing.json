@@ -1,0 +1,849 @@
+{
+  "chapter": 5,
+  "act": 4,
+  "actTitle": "The Vault",
+  "audioFile": "/audio/chapters/chapter-5-act-4.mp3",
+  "totalDuration": 509.325,
+  "segments": [
+    {
+      "id": "ch5-act4-seg304",
+      "start": 0.0,
+      "end": 7.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Deep Hall opened not gradually, but all at once -- as if a cathedral of stone had been hiding an arm's length beyond the dark."
+    },
+    {
+      "id": "ch5-act4-seg305",
+      "start": 7.775,
+      "end": 12.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Pillars like old oaks rose from an obsidian floor polished to mirror."
+    },
+    {
+      "id": "ch5-act4-seg306",
+      "start": 12.725,
+      "end": 24.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Bas-reliefs coiled up each: dwarves and dragons working side by side; forges burning in colors metal shouldn't make; the nine pedestals carved and blessed, each one distinct in its geometry."
+    },
+    {
+      "id": "ch5-act4-seg307",
+      "start": 24.775,
+      "end": 32.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At the crown of every pillar, chains looped around a shape no artist would define -- something that might have been a lock, or a heart, or both."
+    },
+    {
+      "id": "ch5-act4-seg308",
+      "start": 32.975,
+      "end": 37.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Along the walls, nine alcoves expressed their schools in stone:"
+    },
+    {
+      "id": "ch5-act4-seg309",
+      "start": 37.6,
+      "end": 43.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Evocation: facets that multiplied light until it looked like heat, angular and aggressive."
+    },
+    {
+      "id": "ch5-act4-seg310",
+      "start": 44.1,
+      "end": 49.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Abjuration: nested bevels, each guarding the next in concentric protection."
+    },
+    {
+      "id": "ch5-act4-seg311",
+      "start": 49.725,
+      "end": 55.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Conjuration: empty arches promising somewhere else, frames without destinations."
+    },
+    {
+      "id": "ch5-act4-seg312",
+      "start": 55.675,
+      "end": 61.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Divination: spirals your eyes couldn't follow without falling, probability made geometry."
+    },
+    {
+      "id": "ch5-act4-seg313",
+      "start": 61.75,
+      "end": 66.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Enchantment: curves that made attention lean, seductive and subtle."
+    },
+    {
+      "id": "ch5-act4-seg314",
+      "start": 66.6,
+      "end": 72.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Illusion: surfaces that adjusted when you didn't look, never quite the same twice."
+    },
+    {
+      "id": "ch5-act4-seg315",
+      "start": 72.4,
+      "end": 77.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Necromancy: a hollow; an absence; a worn edge where something used to be."
+    },
+    {
+      "id": "ch5-act4-seg316",
+      "start": 78.0,
+      "end": 83.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Transmutation: rough stone flowing to glass mid-surface, frozen mid-change."
+    },
+    {
+      "id": "ch5-act4-seg317",
+      "start": 83.875,
+      "end": 89.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "- Destruction: edges broken on purpose to prove a point, jagged and defiant."
+    },
+    {
+      "id": "ch5-act4-seg318",
+      "start": 89.4,
+      "end": 96.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "In the center, a round granite table big enough for a parliament. Dust softened the shine. No footprints but theirs."
+    },
+    {
+      "id": "ch5-act4-seg319",
+      "start": 96.625,
+      "end": 98.475,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"The wards held,\""
+    },
+    {
+      "id": "ch5-act4-seg320",
+      "start": 98.775,
+      "end": 103.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik breathed, watching his scanner's needles settle to a calm green."
+    },
+    {
+      "id": "ch5-act4-seg321",
+      "start": 103.4,
+      "end": 107.375,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Active peace. Saints and stone -- this place is safe.\""
+    },
+    {
+      "id": "ch5-act4-seg322",
+      "start": 107.675,
+      "end": 123.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana still paced the perimeter -- old habits dying hard. Her light swept high vaults and alcoves; nothing moved but breath and dust motes dancing in the ward-glow. Vex tested for pressure plates out of reflex, found none. Elowen's voice came out as reverent as prayer."
+    },
+    {
+      "id": "ch5-act4-seg323",
+      "start": 123.3,
+      "end": 125.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Stone remembers bargains.\""
+    },
+    {
+      "id": "ch5-act4-seg324",
+      "start": 126.175,
+      "end": 131.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan paused at the threshold. The carved runes flickered -- curious, then tolerant."
+    },
+    {
+      "id": "ch5-act4-seg325",
+      "start": 131.7,
+      "end": 133.725,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Uncomfortable,\""
+    },
+    {
+      "id": "ch5-act4-seg326",
+      "start": 134.025,
+      "end": 144.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said honestly, and crossed. His shadow tried to widen past his boots; the ward-light nudged it back like a shepherd dog redirecting wayward sheep. He set his jaw. It obeyed."
+    },
+    {
+      "id": "ch5-act4-seg327",
+      "start": 144.8,
+      "end": 146.225,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We rest,\""
+    },
+    {
+      "id": "ch5-act4-seg328",
+      "start": 146.525,
+      "end": 148.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana decided."
+    },
+    {
+      "id": "ch5-act4-seg329",
+      "start": 148.875,
+      "end": 152.1,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Pairs on watch. No solos.\""
+    },
+    {
+      "id": "ch5-act4-seg330",
+      "start": 152.4,
+      "end": 159.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They burned a small, clean fire in a shallow stone cradle with invisible vents -- Thornik tapped the pillar and grinned:"
+    },
+    {
+      "id": "ch5-act4-seg331",
+      "start": 159.6,
+      "end": 167.05,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We make smoke go where we want. Grandfather's diagrams called this 'breathstone.' Channels run through the walls.\""
+    },
+    {
+      "id": "ch5-act4-seg332",
+      "start": 167.35,
+      "end": 176.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The air tasted faintly of oil and old ash; fresher scents -- leather, metal polish, juniper from a scrap of kindling -- cut through the mineral cold."
+    },
+    {
+      "id": "ch5-act4-seg333",
+      "start": 176.65,
+      "end": 183.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They ate dried meat and hard cheese. They checked steel, adjusted straps, cleaned blades. They didn't talk much at first."
+    },
+    {
+      "id": "ch5-act4-seg334",
+      "start": 184.15,
+      "end": 193.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin sat with his back to a pillar beneath Evocation, watching the facets multiply the firelight into something that looked almost like the flames he carried."
+    },
+    {
+      "id": "ch5-act4-seg335",
+      "start": 193.775,
+      "end": 204.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale had cooled to its steady coal-glow; the constant ache was back -- the kind Elowen could ease when it wasn't fresh-burn. He flexed his hand. The lattice answered, not offended, not appeased."
+    },
+    {
+      "id": "ch5-act4-seg336",
+      "start": 205.175,
+      "end": 208.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "You'll know when you can pay again, it seemed to say."
+    },
+    {
+      "id": "ch5-act4-seg337",
+      "start": 208.7,
+      "end": 212.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He hoped his body would warn him before his bone-marrow did."
+    },
+    {
+      "id": "ch5-act4-seg338",
+      "start": 213.1,
+      "end": 215.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "First Watch: Caelin & Vex"
+    },
+    {
+      "id": "ch5-act4-seg339",
+      "start": 215.925,
+      "end": 226.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They kept it simple: steel on knees, backs to stone, ears tuned to the empty halls. The scale pulsed with his heart, ember drifting like slow fish under dark glass."
+    },
+    {
+      "id": "ch5-act4-seg340",
+      "start": 226.15,
+      "end": 227.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That thing is you now,\""
+    },
+    {
+      "id": "ch5-act4-seg341",
+      "start": 228.05,
+      "end": 232.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, not unkind, studying the plate where it lay flush in his skin."
+    },
+    {
+      "id": "ch5-act4-seg342",
+      "start": 232.975,
+      "end": 236.475,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Optional to like it. Not optional to learn it.\""
+    },
+    {
+      "id": "ch5-act4-seg343",
+      "start": 236.775,
+      "end": 238.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He huffed a laugh."
+    },
+    {
+      "id": "ch5-act4-seg344",
+      "start": 238.825,
+      "end": 241.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It calls me out when I lie. When anyone does.\""
+    },
+    {
+      "id": "ch5-act4-seg345",
+      "start": 241.975,
+      "end": 244.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He nodded at his arm."
+    },
+    {
+      "id": "ch5-act4-seg346",
+      "start": 244.4,
+      "end": 247.675,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"White spark. Like thorns under the skin.\""
+    },
+    {
+      "id": "ch5-act4-seg347",
+      "start": 247.825,
+      "end": 249.95,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Handy and infuriating.\""
+    },
+    {
+      "id": "ch5-act4-seg348",
+      "start": 250.25,
+      "end": 253.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She studied him with those mismatched eyes."
+    },
+    {
+      "id": "ch5-act4-seg349",
+      "start": 253.675,
+      "end": 258.975,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"For what it's worth -- you didn't hesitate when it acted. Courage or stupidity.\""
+    },
+    {
+      "id": "ch5-act4-seg350",
+      "start": 259.125,
+      "end": 260.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Which do you vote?\""
+    },
+    {
+      "id": "ch5-act4-seg351",
+      "start": 260.75,
+      "end": 262.05,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Yes.\""
+    },
+    {
+      "id": "ch5-act4-seg352",
+      "start": 262.35,
+      "end": 266.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She eased a breath around her ribs, wincing slightly."
+    },
+    {
+      "id": "ch5-act4-seg353",
+      "start": 266.25,
+      "end": 269.55,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Brave people do stupid things with better reasons.\""
+    },
+    {
+      "id": "ch5-act4-seg354",
+      "start": 269.7,
+      "end": 272.525,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"And you joke so you don't scream.\""
+    },
+    {
+      "id": "ch5-act4-seg355",
+      "start": 272.675,
+      "end": 276.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Don't get romantic. Joking also annoys monsters.\""
+    },
+    {
+      "id": "ch5-act4-seg356",
+      "start": 276.35,
+      "end": 279.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale stayed quiet. Truth accepted."
+    },
+    {
+      "id": "ch5-act4-seg357",
+      "start": 279.8,
+      "end": 285.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They sat in companionable silence after that, listening to the fire pop and the mountain breathe."
+    },
+    {
+      "id": "ch5-act4-seg358",
+      "start": 286.25,
+      "end": 289.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Second Watch: Serana & Thornik"
+    },
+    {
+      "id": "ch5-act4-seg359",
+      "start": 289.325,
+      "end": 300.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's hands rested in prayer form, fingers laced. No words came. Her lips moved occasionally but made no sound. Thornik pretended to tune his scanner while watching her not-pray."
+    },
+    {
+      "id": "ch5-act4-seg360",
+      "start": 300.55,
+      "end": 302.275,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Still split?\""
+    },
+    {
+      "id": "ch5-act4-seg361",
+      "start": 302.575,
+      "end": 305.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he asked gently after a long silence."
+    },
+    {
+      "id": "ch5-act4-seg362",
+      "start": 305.825,
+      "end": 308.525,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Protect yesterday. Sacrifice today.\""
+    },
+    {
+      "id": "ch5-act4-seg363",
+      "start": 308.825,
+      "end": 311.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her mouth crooked, humorless."
+    },
+    {
+      "id": "ch5-act4-seg364",
+      "start": 311.25,
+      "end": 315.425,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I can follow orders. I cannot follow contradictions.\""
+    },
+    {
+      "id": "ch5-act4-seg365",
+      "start": 315.575,
+      "end": 319.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"In a good system, contradictions signal a changed input.\""
+    },
+    {
+      "id": "ch5-act4-seg366",
+      "start": 319.35,
+      "end": 322.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He tapped his grandfather's journal."
+    },
+    {
+      "id": "ch5-act4-seg367",
+      "start": 322.2,
+      "end": 328.15,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"He wrote: Balance isn't the absence of cost. It's paying without bankrupting the world.\""
+    },
+    {
+      "id": "ch5-act4-seg368",
+      "start": 328.3,
+      "end": 330.125,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Doesn't make it easier.\""
+    },
+    {
+      "id": "ch5-act4-seg369",
+      "start": 330.275,
+      "end": 331.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"No,\""
+    },
+    {
+      "id": "ch5-act4-seg370",
+      "start": 331.8,
+      "end": 333.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said softly."
+    },
+    {
+      "id": "ch5-act4-seg371",
+      "start": 334.1,
+      "end": 336.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"But it makes it necessary.\""
+    },
+    {
+      "id": "ch5-act4-seg372",
+      "start": 336.525,
+      "end": 344.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her light flickered gold?silver?gold again; she steadied it with a breath and nodded, accepting the truth if not the comfort of it."
+    },
+    {
+      "id": "ch5-act4-seg373",
+      "start": 344.425,
+      "end": 350.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They sat watching the shadows dance on ancient carvings, and neither spoke of the weight they carried."
+    },
+    {
+      "id": "ch5-act4-seg374",
+      "start": 350.775,
+      "end": 353.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Third Watch: Nyxara & Elowen"
+    },
+    {
+      "id": "ch5-act4-seg375",
+      "start": 353.825,
+      "end": 357.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Silence sat between them like a cat that owned the room."
+    },
+    {
+      "id": "ch5-act4-seg376",
+      "start": 357.675,
+      "end": 360.3,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Your magic is... angled,\""
+    },
+    {
+      "id": "ch5-act4-seg377",
+      "start": 360.6,
+      "end": 363.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen said at last, breaking the quiet."
+    },
+    {
+      "id": "ch5-act4-seg378",
+      "start": 363.9,
+      "end": 365.55,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"So is yours,\""
+    },
+    {
+      "id": "ch5-act4-seg379",
+      "start": 365.85,
+      "end": 370.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara replied, head tilted with feline curiosity."
+    },
+    {
+      "id": "ch5-act4-seg380",
+      "start": 370.275,
+      "end": 376.05,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Yours bends toward growth and cycles. Mine bends toward... consent, of a kind.\""
+    },
+    {
+      "id": "ch5-act4-seg381",
+      "start": 376.2,
+      "end": 377.85,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Do you trust it?\""
+    },
+    {
+      "id": "ch5-act4-seg382",
+      "start": 378.0,
+      "end": 380.8,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Trust implies parity.\""
+    },
+    {
+      "id": "ch5-act4-seg383",
+      "start": 381.1,
+      "end": 383.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A small, tired smile."
+    },
+    {
+      "id": "ch5-act4-seg384",
+      "start": 383.625,
+      "end": 385.8,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"I honor the bargains I make.\""
+    },
+    {
+      "id": "ch5-act4-seg385",
+      "start": 385.95,
+      "end": 388.475,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"I'm losing ground,\""
+    },
+    {
+      "id": "ch5-act4-seg386",
+      "start": 388.775,
+      "end": 394.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen said softly, touching the edge of the blackened vine-mark with careful fingers."
+    },
+    {
+      "id": "ch5-act4-seg387",
+      "start": 394.4,
+      "end": 397.125,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"When he casts, I can't help. I burn.\""
+    },
+    {
+      "id": "ch5-act4-seg388",
+      "start": 397.275,
+      "end": 399.175,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Then plan for loss,\""
+    },
+    {
+      "id": "ch5-act4-seg389",
+      "start": 399.475,
+      "end": 402.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said. Not cruel. Precise."
+    },
+    {
+      "id": "ch5-act4-seg390",
+      "start": 402.6,
+      "end": 406.275,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Decide who you are when the Weave doesn't answer.\""
+    },
+    {
+      "id": "ch5-act4-seg391",
+      "start": 406.575,
+      "end": 413.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen looked at the Necromancy alcove without fear, studying the hollow where something had been carved away."
+    },
+    {
+      "id": "ch5-act4-seg392",
+      "start": 413.4,
+      "end": 414.9,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"I don't know.\""
+    },
+    {
+      "id": "ch5-act4-seg393",
+      "start": 415.05,
+      "end": 417.35,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Decide anyway.\""
+    },
+    {
+      "id": "ch5-act4-seg394",
+      "start": 417.65,
+      "end": 425.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A frost halo settled on Nyxara's lashes for a heartbeat and melted, leaving tiny droplets like tears that weren't."
+    },
+    {
+      "id": "ch5-act4-seg395",
+      "start": 425.325,
+      "end": 428.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen noticed. Said nothing."
+    },
+    {
+      "id": "ch5-act4-seg396",
+      "start": 428.3,
+      "end": 431.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Fourth Watch: Durgan (breaking the pair rule)"
+    },
+    {
+      "id": "ch5-act4-seg397",
+      "start": 431.725,
+      "end": 439.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He took the arch alone and didn't wake the person assigned to him. Not defiance -- necessity. When he slept, his shadow got ideas."
+    },
+    {
+      "id": "ch5-act4-seg398",
+      "start": 439.9,
+      "end": 453.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He kept it small, neat, obedient by force, the way you keep your breathing even under a predator's gaze. The scale's distant glow tugged at his periphery like a road that always slopes downward, whispering promises in a language he refused to learn."
+    },
+    {
+      "id": "ch5-act4-seg399",
+      "start": 454.075,
+      "end": 459.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Walk away, a voice inside offered. Lose yourself in the dark. Stop being a danger."
+    },
+    {
+      "id": "ch5-act4-seg400",
+      "start": 459.925,
+      "end": 470.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't. Instead he squeezed four half-moons into his thigh through wool and felt the pain anchor him. Added four more next to the earlier set, a constellation of control etched in bruises."
+    },
+    {
+      "id": "ch5-act4-seg401",
+      "start": 471.2,
+      "end": 473.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His shadow moved anyway."
+    },
+    {
+      "id": "ch5-act4-seg402",
+      "start": 473.975,
+      "end": 486.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not far -- an inch, maybe two, stretching toward the coal-glow at the edge of Caelin's bedroll. He caught it the moment he felt the resistance ease, snapped it back with a breath so sharp it hurt his chest, and held it there. It obeyed. Barely."
+    },
+    {
+      "id": "ch5-act4-seg403",
+      "start": 487.25,
+      "end": 492.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He made reaching boring. Made it cost. But it had moved on its own, and they both knew it."
+    },
+    {
+      "id": "ch5-act4-seg404",
+      "start": 492.475,
+      "end": 493.825,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"How long,\""
+    },
+    {
+      "id": "ch5-act4-seg405",
+      "start": 494.125,
+      "end": 496.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he thought, not asking anyone,"
+    },
+    {
+      "id": "ch5-act4-seg406",
+      "start": 496.825,
+      "end": 499.65,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"before I can't hold it still?\""
+    },
+    {
+      "id": "ch5-act4-seg407",
+      "start": 499.95,
+      "end": 507.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ward-lines along the threshold pulsed once -- assessing, not judging. They recognized restraint when they saw it."
+    },
+    {
+      "id": "ch5-act4-seg408",
+      "start": 507.5,
+      "end": 509.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't move."
+    }
+  ]
+}

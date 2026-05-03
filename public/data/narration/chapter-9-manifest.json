@@ -1,0 +1,55 @@
+{
+  "chapter": 9,
+  "title": "The Siege",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "First Bell",
+      "audioFile": "/audio/chapters/chapter-9-act-1.mp3",
+      "timingFile": "/data/narration/chapter-9-act-1-timing.json",
+      "totalDuration": 284.7,
+      "segmentCount": 35
+    },
+    {
+      "act": 2,
+      "actTitle": "First Clash",
+      "audioFile": "/audio/chapters/chapter-9-act-2.mp3",
+      "timingFile": "/data/narration/chapter-9-act-2-timing.json",
+      "totalDuration": 182.95,
+      "segmentCount": 26
+    },
+    {
+      "act": 3,
+      "actTitle": "Second Bell",
+      "audioFile": "/audio/chapters/chapter-9-act-3.mp3",
+      "timingFile": "/data/narration/chapter-9-act-3-timing.json",
+      "totalDuration": 316.95,
+      "segmentCount": 53
+    },
+    {
+      "act": 4,
+      "actTitle": "Vale's Stand",
+      "audioFile": "/audio/chapters/chapter-9-act-4.mp3",
+      "timingFile": "/data/narration/chapter-9-act-4-timing.json",
+      "totalDuration": 226.225,
+      "segmentCount": 36
+    },
+    {
+      "act": 5,
+      "actTitle": "Turn & Break",
+      "audioFile": "/audio/chapters/chapter-9-act-5.mp3",
+      "timingFile": "/data/narration/chapter-9-act-5-timing.json",
+      "totalDuration": 207.3,
+      "segmentCount": 23
+    },
+    {
+      "act": 6,
+      "actTitle": "Ashes",
+      "audioFile": "/audio/chapters/chapter-9-act-6.mp3",
+      "timingFile": "/data/narration/chapter-9-act-6-timing.json",
+      "totalDuration": 502.475,
+      "segmentCount": 92
+    }
+  ],
+  "totalDuration": 1720.6
+}

@@ -1,0 +1,457 @@
+{
+  "chapter": 11,
+  "act": 3,
+  "actTitle": "The Hedge and the Hounds",
+  "audioFile": "/audio/chapters/chapter-11-act-3.mp3",
+  "totalDuration": 258.6,
+  "segments": [
+    {
+      "id": "ch11-act3-seg090",
+      "start": 0.0,
+      "end": 1.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They cut off the road at noon to skirt a flooded bend and followed a sheep path along a hedgerow prickled with last year's hawthorn. Water ran high in the ditch -- brown and cold, tea-bitter with tannin. The air smelled of wet wool, iron, and green things just remembering how to live."
+    },
+    {
+      "id": "ch11-act3-seg091",
+      "start": 2.175,
+      "end": 3.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex stopped so abruptly Caelin nearly walked into her. One gloved hand angled down: halt."
+    },
+    {
+      "id": "ch11-act3-seg092",
+      "start": 4.1,
+      "end": 20.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She'd seen it: a drag across the ditch slime where something heavy had been pulled, reeds crushed in a neat human pattern. On the hedge's far side, the faintest glint of brass where no brass should be."
+    },
+    {
+      "id": "ch11-act3-seg093",
+      "start": 20.15,
+      "end": 21.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Trip-line,\""
+    },
+    {
+      "id": "ch11-act3-seg094",
+      "start": 22.2,
+      "end": 24.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she breathed."
+    },
+    {
+      "id": "ch11-act3-seg095",
+      "start": 25.0,
+      "end": 26.6,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Caltrops behind it.\""
+    },
+    {
+      "id": "ch11-act3-seg096",
+      "start": 26.9,
+      "end": 28.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "From the hedge ahead, a voice with too much bravado and not enough patience:"
+    },
+    {
+      "id": "ch11-act3-seg097",
+      "start": 28.55,
+      "end": 30.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Easy now. Hands up, no tricks.\""
+    },
+    {
+      "id": "ch11-act3-seg098",
+      "start": 30.6,
+      "end": 33.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three men broke the hedge at once -- two with crossbows, one with a short fowling spear. They wore leather jacks with mismatched studs and the expressions of people who hadn't been paid yet."
+    },
+    {
+      "id": "ch11-act3-seg099",
+      "start": 33.15,
+      "end": 43.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Don't,\""
+    },
+    {
+      "id": "ch11-act3-seg100",
+      "start": 43.35,
+      "end": 48.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said to Caelin without looking."
+    },
+    {
+      "id": "ch11-act3-seg101",
+      "start": 48.25,
+      "end": 50.075,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"You'll break yourself on farmers.\""
+    },
+    {
+      "id": "ch11-act3-seg102",
+      "start": 50.225,
+      "end": 52.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Bounty's for alive,\""
+    },
+    {
+      "id": "ch11-act3-seg103",
+      "start": 53.275,
+      "end": 56.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "the spear carrier said, eyes on Caelin."
+    },
+    {
+      "id": "ch11-act3-seg104",
+      "start": 56.65,
+      "end": 58.1,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"We're not monsters.\""
+    },
+    {
+      "id": "ch11-act3-seg105",
+      "start": 58.5,
+      "end": 60.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Behind Caelin, something thinned in the light. Vex didn't turn, but she felt it: Durgan's shadow flattening like a hound belly-crawling before a pounce."
+    },
+    {
+      "id": "ch11-act3-seg106",
+      "start": 60.575,
+      "end": 64.15,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Crossbows down,\""
+    },
+    {
+      "id": "ch11-act3-seg107",
+      "start": 64.45,
+      "end": 65.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, keeping his voice level."
+    },
+    {
+      "id": "ch11-act3-seg108",
+      "start": 66.35,
+      "end": 69.125,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"And we'll talk.\""
+    },
+    {
+      "id": "ch11-act3-seg109",
+      "start": 69.425,
+      "end": 76.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "One of the men smiled. It was not a good smile."
+    },
+    {
+      "id": "ch11-act3-seg110",
+      "start": 76.975,
+      "end": 82.775,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Talking's extra.\""
+    },
+    {
+      "id": "ch11-act3-seg111",
+      "start": 83.075,
+      "end": 89.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex moved. Not the dramatic leap of a stage knife but a hunter's step -- heel-to-ball, weight forward."
+    },
+    {
+      "id": "ch11-act3-seg112",
+      "start": 89.525,
+      "end": 102.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A flick of wrist and the spearman's weapon wasn't in his hand anymore; it was in the ditch with a splash, and he was bleeding from the web of skin between thumb and forefinger in a way that made him as angry as it did clumsy."
+    },
+    {
+      "id": "ch11-act3-seg113",
+      "start": 102.3,
+      "end": 104.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Both crossbows thunked."
+    },
+    {
+      "id": "ch11-act3-seg114",
+      "start": 104.875,
+      "end": 107.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin didn't dodge."
+    },
+    {
+      "id": "ch11-act3-seg115",
+      "start": 107.35,
+      "end": 119.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Heat spiked up the lattice in his arm -- fast, focused, controlled. He punched his palm at the ground between them, not at the men. Air went hard in a fan and the ditchwater hissed -- stone to glass in a strip three feet wide."
+    },
+    {
+      "id": "ch11-act3-seg116",
+      "start": 119.975,
+      "end": 125.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The bolts hit the newborn slick and skated sideways into the hedge, thunk-thunk, harmless."
+    },
+    {
+      "id": "ch11-act3-seg117",
+      "start": 126.0,
+      "end": 139.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The pain arrived half a beat later. Not rupturing. Not yet. A white wire drawn through the filaments, singing in his teeth. Nyxara's lesson -- heat on one side, cold on the other, the border doing the work -- had turned a blast into a deflection."
+    },
+    {
+      "id": "ch11-act3-seg118",
+      "start": 139.6,
+      "end": 143.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three out of ten, she'd said. Maybe three and a half today."
+    },
+    {
+      "id": "ch11-act3-seg119",
+      "start": 143.5,
+      "end": 145.325,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Last chance,\""
+    },
+    {
+      "id": "ch11-act3-seg120",
+      "start": 145.625,
+      "end": 147.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, breath thin."
+    },
+    {
+      "id": "ch11-act3-seg121",
+      "start": 148.125,
+      "end": 149.375,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"Go home.\""
+    },
+    {
+      "id": "ch11-act3-seg122",
+      "start": 149.675,
+      "end": 153.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They didn't. The second crossbowman yelped something about"
+    },
+    {
+      "id": "ch11-act3-seg123",
+      "start": 153.45,
+      "end": 155.2,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"hazard pay\""
+    },
+    {
+      "id": "ch11-act3-seg124",
+      "start": 155.5,
+      "end": 162.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "and crabbed sideways to get a shot. Durgan's blade touched his throat from behind before he finished the motion."
+    },
+    {
+      "id": "ch11-act3-seg125",
+      "start": 162.25,
+      "end": 163.675,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Drop it,\""
+    },
+    {
+      "id": "ch11-act3-seg126",
+      "start": 163.975,
+      "end": 170.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said. Calm. Too calm. The calm of a man holding something back with both hands and only one of them visible."
+    },
+    {
+      "id": "ch11-act3-seg127",
+      "start": 171.175,
+      "end": 177.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The man dropped it. The bowstring twanged and sang a sad little note as it hit the glass strip and spun."
+    },
+    {
+      "id": "ch11-act3-seg128",
+      "start": 177.6,
+      "end": 189.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The spear carrier dove for his weapon in the ditch, came up with cold mud and a broken glove. Vex met him halfway -- rib to elbow, knee to thigh, heel to instep -- a conversation he lost quickly and with regret."
+    },
+    {
+      "id": "ch11-act3-seg129",
+      "start": 190.125,
+      "end": 192.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The last one bolted."
+    },
+    {
+      "id": "ch11-act3-seg130",
+      "start": 192.725,
+      "end": 194.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex let him run."
+    },
+    {
+      "id": "ch11-act3-seg131",
+      "start": 194.85,
+      "end": 196.825,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Tell your employer,\""
+    },
+    {
+      "id": "ch11-act3-seg132",
+      "start": 197.125,
+      "end": 198.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she called,"
+    },
+    {
+      "id": "ch11-act3-seg133",
+      "start": 198.8,
+      "end": 200.775,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"to upgrade the talent.\""
+    },
+    {
+      "id": "ch11-act3-seg134",
+      "start": 201.075,
+      "end": 212.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She retrieved the dropped spear and snapped it over her knee just because it felt good. The rib reminded her immediately that it had opinions about that. She absorbed the flash of pain without showing it, mostly."
+    },
+    {
+      "id": "ch11-act3-seg135",
+      "start": 213.1,
+      "end": 223.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan released the man he'd collared -- gently, considering -- and stepped back like he'd touched a stove. His nose was bleeding. He wiped it onto black cloth that wouldn't show it."
+    },
+    {
+      "id": "ch11-act3-seg136",
+      "start": 223.475,
+      "end": 232.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin exhaled, shakier than he wanted to be. The filaments along his forearm thrummed angrily then settled to their baseline ache -- manageable. For now."
+    },
+    {
+      "id": "ch11-act3-seg137",
+      "start": 232.725,
+      "end": 234.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"What was that with the ground?\""
+    },
+    {
+      "id": "ch11-act3-seg138",
+      "start": 235.05,
+      "end": 236.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked."
+    },
+    {
+      "id": "ch11-act3-seg139",
+      "start": 236.9,
+      "end": 238.325,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Glass,\""
+    },
+    {
+      "id": "ch11-act3-seg140",
+      "start": 238.625,
+      "end": 241.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, flexing his hand."
+    },
+    {
+      "id": "ch11-act3-seg141",
+      "start": 241.5,
+      "end": 243.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Easier to slide on than stand on.\""
+    },
+    {
+      "id": "ch11-act3-seg142",
+      "start": 244.125,
+      "end": 250.225,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Going to assume you can only do that a handful of times before you chew your arm off.\""
+    },
+    {
+      "id": "ch11-act3-seg143",
+      "start": 250.375,
+      "end": 252.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Something like that.\""
+    },
+    {
+      "id": "ch11-act3-seg144",
+      "start": 252.35,
+      "end": 256.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She nodded, cataloguing his limits the way she catalogued everything."
+    },
+    {
+      "id": "ch11-act3-seg145",
+      "start": 257.125,
+      "end": 258.6,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Noted.\""
+    }
+  ]
+}

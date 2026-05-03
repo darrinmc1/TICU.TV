@@ -1,0 +1,529 @@
+{
+  "chapter": 6,
+  "act": 3,
+  "actTitle": "Plans & Friction",
+  "audioFile": "/audio/chapters/chapter-6-act-3.mp3",
+  "totalDuration": 346.125,
+  "segments": [
+    {
+      "id": "ch6-act3-seg140",
+      "start": 0.0,
+      "end": 13.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The second meal was eaten standing, because sitting felt like surrender and the Hall didn't encourage lingering. Serana set marching order with the brisk economy of someone who had commanded columns before and preferred not to make a production of it."
+    },
+    {
+      "id": "ch6-act3-seg141",
+      "start": 14.2,
+      "end": 21.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She drew seven names in chalk on the table's edge, considered them, crossed two out and redrew them before the marks had cooled."
+    },
+    {
+      "id": "ch6-act3-seg142",
+      "start": 21.775,
+      "end": 24.0,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Durgan goes center,\""
+    },
+    {
+      "id": "ch6-act3-seg143",
+      "start": 24.3,
+      "end": 26.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, not looking up."
+    },
+    {
+      "id": "ch6-act3-seg144",
+      "start": 26.825,
+      "end": 40.475,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Where the ward geometry is strongest. I'll take point with Thornik for navigation. Vex has rear eyes. Caelin behind me -- if we hit something, I want the scale close enough to read the trouble before we're in it.\""
+    },
+    {
+      "id": "ch6-act3-seg145",
+      "start": 40.625,
+      "end": 41.975,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"And me?\""
+    },
+    {
+      "id": "ch6-act3-seg146",
+      "start": 42.275,
+      "end": 46.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara asked, from a spot that was somehow equidistant from everyone."
+    },
+    {
+      "id": "ch6-act3-seg147",
+      "start": 47.125,
+      "end": 53.7,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Wherever you're most useful. Which I suspect you'll decide for yourself regardless of what I say.\""
+    },
+    {
+      "id": "ch6-act3-seg148",
+      "start": 53.85,
+      "end": 57.7,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Correct. But I appreciate the illusion of consultation.\""
+    },
+    {
+      "id": "ch6-act3-seg149",
+      "start": 58.0,
+      "end": 69.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen would walk between Caelin and Durgan -- close enough to ease the one if his arm screamed, close enough to feel the other if his shadow slipped. Nobody said this aloud. Nobody needed to."
+    },
+    {
+      "id": "ch6-act3-seg150",
+      "start": 69.3,
+      "end": 70.625,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Rules,\""
+    },
+    {
+      "id": "ch6-act3-seg151",
+      "start": 70.925,
+      "end": 73.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana continued."
+    },
+    {
+      "id": "ch6-act3-seg152",
+      "start": 73.225,
+      "end": 84.125,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"We stay within voice distance. No one explores alone -- pairs minimum. If anyone sees corruption bloom in the stone, we stop and assess before moving through it.\""
+    },
+    {
+      "id": "ch6-act3-seg153",
+      "start": 84.425,
+      "end": 86.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She paused."
+    },
+    {
+      "id": "ch6-act3-seg154",
+      "start": 86.2,
+      "end": 92.85,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And if anyone hears a voice that isn't one of us, you tell me immediately. Even if you think you imagined it.\""
+    },
+    {
+      "id": "ch6-act3-seg155",
+      "start": 93.15,
+      "end": 97.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She said it like someone who hadn't imagined it. Nobody asked."
+    },
+    {
+      "id": "ch6-act3-seg156",
+      "start": 97.375,
+      "end": 99.325,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"My cousin Brikkle,\""
+    },
+    {
+      "id": "ch6-act3-seg157",
+      "start": 99.625,
+      "end": 102.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said into the silence that followed,"
+    },
+    {
+      "id": "ch6-act3-seg158",
+      "start": 103.025,
+      "end": 112.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"once tried to set marching order for a family dinner. Twelve dwarves, assigned seating, name cards, and a rotation schedule for who got the gravy first.\""
+    },
+    {
+      "id": "ch6-act3-seg159",
+      "start": 113.25,
+      "end": 119.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He leaned on the table with the air of a man settling into a story he'd told before and would tell again."
+    },
+    {
+      "id": "ch6-act3-seg160",
+      "start": 119.85,
+      "end": 128.25,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Three fistfights before the bread course. One of the fights was with himself -- he'd seated himself across from the mirror and forgot.\""
+    },
+    {
+      "id": "ch6-act3-seg161",
+      "start": 128.55,
+      "end": 135.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nobody laughed, but the silence changed texture. Lighter. The kind that lets people breathe instead of brace."
+    },
+    {
+      "id": "ch6-act3-seg162",
+      "start": 135.35,
+      "end": 137.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"The eyebrows,\""
+    },
+    {
+      "id": "ch6-act3-seg163",
+      "start": 137.425,
+      "end": 143.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik added, warming to it because the warming was the point -- not the story but the warmth."
+    },
+    {
+      "id": "ch6-act3-seg164",
+      "start": 143.325,
+      "end": 165.8,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Brikkle's eyebrows were legendary. Not for their beauty -- for their independence. They moved in different directions when he was angry, which was always. Like two caterpillars having a territorial dispute on his face. The left one went up for outrage, the right one went down for disappointment. Together they formed an expression that could curdle milk at thirty paces and once made a goat apologize.\""
+    },
+    {
+      "id": "ch6-act3-seg165",
+      "start": 165.95,
+      "end": 166.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"A goat,\""
+    },
+    {
+      "id": "ch6-act3-seg166",
+      "start": 167.175,
+      "end": 169.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said flatly."
+    },
+    {
+      "id": "ch6-act3-seg167",
+      "start": 169.3,
+      "end": 175.775,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The goat had eaten his hat. Brikkle's eyebrows held a nine-minute stare. The goat backed down first.\""
+    },
+    {
+      "id": "ch6-act3-seg168",
+      "start": 175.925,
+      "end": 177.8,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"This is relevant how?\""
+    },
+    {
+      "id": "ch6-act3-seg169",
+      "start": 177.95,
+      "end": 183.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"It isn't. I just wanted you all to stop looking like you're rehearsing for your own funerals.\""
+    },
+    {
+      "id": "ch6-act3-seg170",
+      "start": 183.575,
+      "end": 185.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He picked up his pack."
+    },
+    {
+      "id": "ch6-act3-seg171",
+      "start": 185.7,
+      "end": 192.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We've survived shadow-thralls, a dragon's death, a possessed mountainside, and Vex's cooking. A tunnel won't kill us.\""
+    },
+    {
+      "id": "ch6-act3-seg172",
+      "start": 192.175,
+      "end": 193.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"My cooking was fine,\""
+    },
+    {
+      "id": "ch6-act3-seg173",
+      "start": 194.2,
+      "end": 197.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, but there was something almost warm in it."
+    },
+    {
+      "id": "ch6-act3-seg174",
+      "start": 197.725,
+      "end": 201.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The rabbit caught fire before it reached the spit.\""
+    },
+    {
+      "id": "ch6-act3-seg175",
+      "start": 201.25,
+      "end": 202.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It was efficient.\""
+    },
+    {
+      "id": "ch6-act3-seg176",
+      "start": 203.175,
+      "end": 211.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen moved to the Abjuration alcove -- the third from the left, marked with interlocking shields carved so precisely they seemed to breathe."
+    },
+    {
+      "id": "ch6-act3-seg177",
+      "start": 211.95,
+      "end": 223.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She knelt and pressed both palms flat, the way a person might press their hands to a warm wall after coming in from the cold. The silver threads in her vine-ink brightened, and she closed her eyes."
+    },
+    {
+      "id": "ch6-act3-seg178",
+      "start": 223.325,
+      "end": 224.9,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Storing it,\""
+    },
+    {
+      "id": "ch6-act3-seg179",
+      "start": 225.2,
+      "end": 228.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said softly, when Caelin came close."
+    },
+    {
+      "id": "ch6-act3-seg180",
+      "start": 228.6,
+      "end": 238.525,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The Hall's memory of what 'intact' feels like. The Weave is frayed everywhere else, but here it remembers being whole. If I carry that memory, I can remind damaged stone of its own strength. Briefly.\""
+    },
+    {
+      "id": "ch6-act3-seg181",
+      "start": 238.675,
+      "end": 240.675,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Does it cost you?\""
+    },
+    {
+      "id": "ch6-act3-seg182",
+      "start": 240.975,
+      "end": 248.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She opened her eyes. Two of the vine-marks on her left forearm had gone from emerald to a duller sage -- not blackened, but tired."
+    },
+    {
+      "id": "ch6-act3-seg183",
+      "start": 248.95,
+      "end": 250.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Everything costs,\""
+    },
+    {
+      "id": "ch6-act3-seg184",
+      "start": 250.975,
+      "end": 252.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch6-act3-seg185",
+      "start": 252.525,
+      "end": 256.175,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The question is whether you can afford it when it matters.\""
+    },
+    {
+      "id": "ch6-act3-seg186",
+      "start": 256.475,
+      "end": 261.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Across the Hall, Nyxara produced her black coin again and held it out to Caelin."
+    },
+    {
+      "id": "ch6-act3-seg187",
+      "start": 261.85,
+      "end": 263.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Lesson two.\""
+    },
+    {
+      "id": "ch6-act3-seg188",
+      "start": 263.325,
+      "end": 266.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She placed the coin flat on his open palm."
+    },
+    {
+      "id": "ch6-act3-seg189",
+      "start": 266.675,
+      "end": 270.675,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Heat the left half. Cool the right half. Simultaneously.\""
+    },
+    {
+      "id": "ch6-act3-seg190",
+      "start": 270.975,
+      "end": 273.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin stared at her."
+    },
+    {
+      "id": "ch6-act3-seg191",
+      "start": 273.25,
+      "end": 274.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That's contradictory.\""
+    },
+    {
+      "id": "ch6-act3-seg192",
+      "start": 275.125,
+      "end": 278.7,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Congratulations. You've identified the point.\""
+    },
+    {
+      "id": "ch6-act3-seg193",
+      "start": 279.0,
+      "end": 282.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She tapped the coin with a darkened fingertip."
+    },
+    {
+      "id": "ch6-act3-seg194",
+      "start": 282.325,
+      "end": 296.775,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Fire is a child's magic -- hot things get hotter, cold things stay cold, everyone's impressed, nobody learns anything. Air-shaping is adult magic -- you hold two states at once and let the border between them do the work. That's how you make wind from nothing. That's how you deflect without destroying.\""
+    },
+    {
+      "id": "ch6-act3-seg195",
+      "start": 297.075,
+      "end": 299.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her smile had teeth."
+    },
+    {
+      "id": "ch6-act3-seg196",
+      "start": 299.325,
+      "end": 303.6,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"That's how you stop burning yourself alive every time you cast.\""
+    },
+    {
+      "id": "ch6-act3-seg197",
+      "start": 303.9,
+      "end": 316.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He tried. The coin's left edge warmed; the right edge cooled; and for one stuttering heartbeat, a thread of air spiraled off the surface like smoke from a snuffed candle -- a tiny cyclone that spun twice and collapsed."
+    },
+    {
+      "id": "ch6-act3-seg198",
+      "start": 316.375,
+      "end": 317.7,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Clever,\""
+    },
+    {
+      "id": "ch6-act3-seg199",
+      "start": 318.0,
+      "end": 319.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said."
+    },
+    {
+      "id": "ch6-act3-seg200",
+      "start": 319.975,
+      "end": 321.55,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I barely -- \""
+    },
+    {
+      "id": "ch6-act3-seg201",
+      "start": 321.7,
+      "end": 330.375,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"I said clever, not good. Those are different things. Clever will keep you alive. Good will keep everyone else alive. We're working toward good.\""
+    },
+    {
+      "id": "ch6-act3-seg202",
+      "start": 330.675,
+      "end": 332.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She pocketed the coin."
+    },
+    {
+      "id": "ch6-act3-seg203",
+      "start": 333.1,
+      "end": 339.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Practice. When you can hold the spiral for ten seconds, you'll have something worth using in a fight.\""
+    },
+    {
+      "id": "ch6-act3-seg204",
+      "start": 339.4,
+      "end": 346.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Watches were assigned in pairs. Durgan nodded and didn't argue, which was how he agreed to things that cost him."
+    }
+  ]
+}

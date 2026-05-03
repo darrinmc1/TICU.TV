@@ -1,0 +1,55 @@
+{
+  "chapter": 10,
+  "title": "Partings",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "Nyxara",
+      "audioFile": "/audio/chapters/chapter-10-act-1.mp3",
+      "timingFile": "/data/narration/chapter-10-act-1-timing.json",
+      "totalDuration": 323.875,
+      "segmentCount": 51
+    },
+    {
+      "act": 2,
+      "actTitle": "The Group Hears",
+      "audioFile": "/audio/chapters/chapter-10-act-2.mp3",
+      "timingFile": "/data/narration/chapter-10-act-2-timing.json",
+      "totalDuration": 239.1,
+      "segmentCount": 28
+    },
+    {
+      "act": 3,
+      "actTitle": "Thornik's Choice",
+      "audioFile": "/audio/chapters/chapter-10-act-3.mp3",
+      "timingFile": "/data/narration/chapter-10-act-3-timing.json",
+      "totalDuration": 237.4,
+      "segmentCount": 54
+    },
+    {
+      "act": 4,
+      "actTitle": "Serana's Road",
+      "audioFile": "/audio/chapters/chapter-10-act-4.mp3",
+      "timingFile": "/data/narration/chapter-10-act-4-timing.json",
+      "totalDuration": 282.65,
+      "segmentCount": 56
+    },
+    {
+      "act": 5,
+      "actTitle": "The Mile-Stone",
+      "audioFile": "/audio/chapters/chapter-10-act-5.mp3",
+      "timingFile": "/data/narration/chapter-10-act-5-timing.json",
+      "totalDuration": 175.475,
+      "segmentCount": 27
+    },
+    {
+      "act": 6,
+      "actTitle": "The Smaller Party",
+      "audioFile": "/audio/chapters/chapter-10-act-6.mp3",
+      "timingFile": "/data/narration/chapter-10-act-6-timing.json",
+      "totalDuration": 266.1,
+      "segmentCount": 41
+    }
+  ],
+  "totalDuration": 1524.6
+}

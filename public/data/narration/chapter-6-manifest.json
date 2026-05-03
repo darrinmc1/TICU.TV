@@ -1,0 +1,55 @@
+{
+  "chapter": 6,
+  "title": "Stone That Breathes",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "Holding Pattern",
+      "audioFile": "/audio/chapters/chapter-6-act-1.mp3",
+      "timingFile": "/data/narration/chapter-6-act-1-timing.json",
+      "totalDuration": 431.475,
+      "segmentCount": 61
+    },
+    {
+      "act": 2,
+      "actTitle": "Testing the Edges",
+      "audioFile": "/audio/chapters/chapter-6-act-2.mp3",
+      "timingFile": "/data/narration/chapter-6-act-2-timing.json",
+      "totalDuration": 391.55,
+      "segmentCount": 78
+    },
+    {
+      "act": 3,
+      "actTitle": "Plans & Friction",
+      "audioFile": "/audio/chapters/chapter-6-act-3.mp3",
+      "timingFile": "/data/narration/chapter-6-act-3-timing.json",
+      "totalDuration": 346.125,
+      "segmentCount": 65
+    },
+    {
+      "act": 4,
+      "actTitle": "First Watch",
+      "audioFile": "/audio/chapters/chapter-6-act-4.mp3",
+      "timingFile": "/data/narration/chapter-6-act-4-timing.json",
+      "totalDuration": 367.425,
+      "segmentCount": 65
+    },
+    {
+      "act": 5,
+      "actTitle": "Second Watch",
+      "audioFile": "/audio/chapters/chapter-6-act-5.mp3",
+      "timingFile": "/data/narration/chapter-6-act-5-timing.json",
+      "totalDuration": 386.4,
+      "segmentCount": 62
+    },
+    {
+      "act": 6,
+      "actTitle": "Dawn",
+      "audioFile": "/audio/chapters/chapter-6-act-6.mp3",
+      "timingFile": "/data/narration/chapter-6-act-6-timing.json",
+      "totalDuration": 213.375,
+      "segmentCount": 30
+    }
+  ],
+  "totalDuration": 2136.35
+}

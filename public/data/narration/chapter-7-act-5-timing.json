@@ -1,0 +1,305 @@
+{
+  "chapter": 7,
+  "act": 5,
+  "actTitle": "Revelations",
+  "audioFile": "/audio/chapters/chapter-7-act-5.mp3",
+  "totalDuration": 203.35,
+  "segments": [
+    {
+      "id": "ch7-act5-seg515",
+      "start": 0.0,
+      "end": 7.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The vent shaft was a stone throat that refused to swallow."
+    },
+    {
+      "id": "ch7-act5-seg516",
+      "start": 7.45,
+      "end": 21.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik went first, shoulders scraping both walls, muttering cheerfully obscene things at geology. Vex slid after him sideways, breath clipped to keep her ribs from complaining out loud. Serana followed, armor ghosting sparks from old rock."
+    },
+    {
+      "id": "ch7-act5-seg517",
+      "start": 21.75,
+      "end": 26.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan brought up the rear, dragging nothing but a long, obedient shadow."
+    },
+    {
+      "id": "ch7-act5-seg518",
+      "start": 26.8,
+      "end": 42.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Grit rained in fits. Serana laced a paper-thin ward over their faces -- muscle memory, not miracle -- and it skinned the dust from their eyes when the shaft shed a handful of centuries. The light was hers -- steady gold from trained discipline, not divine gift -- and it held."
+    },
+    {
+      "id": "ch7-act5-seg519",
+      "start": 42.25,
+      "end": 43.925,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Remind me,\""
+    },
+    {
+      "id": "ch7-act5-seg520",
+      "start": 44.225,
+      "end": 47.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik grunted, wedging through a pinch,"
+    },
+    {
+      "id": "ch7-act5-seg521",
+      "start": 47.35,
+      "end": 51.25,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"why I volunteered the route most likely to make me a cork.\""
+    },
+    {
+      "id": "ch7-act5-seg522",
+      "start": 51.4,
+      "end": 55.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Because the alternative involved dying beautifully underground,\""
+    },
+    {
+      "id": "ch7-act5-seg523",
+      "start": 55.475,
+      "end": 61.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said. She tried a small breath; her ribs sparked protest. She hid the wince behind a scowl."
+    },
+    {
+      "id": "ch7-act5-seg524",
+      "start": 61.75,
+      "end": 67.275,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"You also said, and I quote, 'Left shaft has the coldest air -- surface that way.'\""
+    },
+    {
+      "id": "ch7-act5-seg525",
+      "start": 67.425,
+      "end": 71.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Present-Thornik applauds Past-Thornik's olfactory heroism,\""
+    },
+    {
+      "id": "ch7-act5-seg526",
+      "start": 71.325,
+      "end": 74.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, pleased despite himself."
+    },
+    {
+      "id": "ch7-act5-seg527",
+      "start": 74.5,
+      "end": 83.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They squeezed into a run of broader tunnel, air colder, cleaner. Frost rimed old soot on the stone. Above them: a ribbon of blue like a promise."
+    },
+    {
+      "id": "ch7-act5-seg528",
+      "start": 83.575,
+      "end": 97.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana climbed on discipline more than faith. Her goddess had been a static-laced channel for days; the old prayers returned as faint as wishful thinking. Fine. Duty would do. Duty and the ward under her skin, thin as paper and twice as stubborn."
+    },
+    {
+      "id": "ch7-act5-seg529",
+      "start": 97.7,
+      "end": 106.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Behind, Durgan stopped once, hand braced to the wall. He wiped his nose with the back of his hand -- checking, confirming -- but the skin came away clean."
+    },
+    {
+      "id": "ch7-act5-seg530",
+      "start": 106.925,
+      "end": 109.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not yet, he thought. But soon."
+    },
+    {
+      "id": "ch7-act5-seg531",
+      "start": 109.725,
+      "end": 120.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He could feel it building. The intervals between shadow-tests were shortening. What had been hours was now minutes. He dug his nails into his palm until pain returned his hands to him, then climbed on."
+    },
+    {
+      "id": "ch7-act5-seg532",
+      "start": 121.25,
+      "end": 128.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At a three-way split, Thornik sniffed the drafts, checked his grandfather's blood-spattered diagram, and pointed left."
+    },
+    {
+      "id": "ch7-act5-seg533",
+      "start": 128.35,
+      "end": 130.85,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Coldest. And it tastes like snow,\""
+    },
+    {
+      "id": "ch7-act5-seg534",
+      "start": 131.15,
+      "end": 133.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, delighted."
+    },
+    {
+      "id": "ch7-act5-seg535",
+      "start": 133.35,
+      "end": 135.325,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Your nose is a menace,\""
+    },
+    {
+      "id": "ch7-act5-seg536",
+      "start": 135.625,
+      "end": 140.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, grimacing as she tried to keep pace. The ribs pulled with every breath."
+    },
+    {
+      "id": "ch7-act5-seg537",
+      "start": 141.075,
+      "end": 143.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"It's also getting us out,\""
+    },
+    {
+      "id": "ch7-act5-seg538",
+      "start": 143.8,
+      "end": 147.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, gentler than the banter wanted to be."
+    },
+    {
+      "id": "ch7-act5-seg539",
+      "start": 147.725,
+      "end": 152.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They climbed another hour, then the shaft widened to a slot of white."
+    },
+    {
+      "id": "ch7-act5-seg540",
+      "start": 152.375,
+      "end": 159.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The foursome spilled onto a ledge scraped by old avalanches, the world dropping away in a dignified hurry."
+    },
+    {
+      "id": "ch7-act5-seg541",
+      "start": 159.425,
+      "end": 162.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Sky. Actual, indifferent sky."
+    },
+    {
+      "id": "ch7-act5-seg542",
+      "start": 162.5,
+      "end": 165.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik shaded his eyes, traced the east face."
+    },
+    {
+      "id": "ch7-act5-seg543",
+      "start": 166.075,
+      "end": 171.675,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"There -- half-hidden by scree. The primary Forge Road exit. If they made it through the forges, they'll come out there.\""
+    },
+    {
+      "id": "ch7-act5-seg544",
+      "start": 171.825,
+      "end": 173.3,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"How far?\""
+    },
+    {
+      "id": "ch7-act5-seg545",
+      "start": 173.6,
+      "end": 175.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana asked."
+    },
+    {
+      "id": "ch7-act5-seg546",
+      "start": 175.7,
+      "end": 179.45,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Two hours along the band. Maybe less if the goats have been generous.\""
+    },
+    {
+      "id": "ch7-act5-seg547",
+      "start": 179.6,
+      "end": 181.475,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Then we move,\""
+    },
+    {
+      "id": "ch7-act5-seg548",
+      "start": 181.775,
+      "end": 190.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. She looked once at the mountain, where the wind carved the ridges into saints and knives, and whispered the two words she hadn't let herself say aloud:"
+    },
+    {
+      "id": "ch7-act5-seg549",
+      "start": 191.125,
+      "end": 192.45,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"For Elowen.\""
+    },
+    {
+      "id": "ch7-act5-seg550",
+      "start": 192.75,
+      "end": 197.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex's hand found her dagger hilt, white-knuckled. She said nothing. Didn't need to."
+    },
+    {
+      "id": "ch7-act5-seg551",
+      "start": 198.25,
+      "end": 203.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They started the traverse, Durgan last, shadow flat and patient at his heels."
+    }
+  ]
+}

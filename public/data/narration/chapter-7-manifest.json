@@ -1,0 +1,55 @@
+{
+  "chapter": 7,
+  "title": "The Fractured Sanctum",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "The Approach",
+      "audioFile": "/audio/chapters/chapter-7-act-1.mp3",
+      "timingFile": "/data/narration/chapter-7-act-1-timing.json",
+      "totalDuration": 300.825,
+      "segmentCount": 57
+    },
+    {
+      "act": 2,
+      "actTitle": "The Sanctum",
+      "audioFile": "/audio/chapters/chapter-7-act-2.mp3",
+      "timingFile": "/data/narration/chapter-7-act-2-timing.json",
+      "totalDuration": 1183.225,
+      "segmentCount": 289
+    },
+    {
+      "act": 3,
+      "actTitle": "Nyxara",
+      "audioFile": "/audio/chapters/chapter-7-act-3.mp3",
+      "timingFile": "/data/narration/chapter-7-act-3-timing.json",
+      "totalDuration": 567.175,
+      "segmentCount": 90
+    },
+    {
+      "act": 4,
+      "actTitle": "Fractured Ground",
+      "audioFile": "/audio/chapters/chapter-7-act-4.mp3",
+      "timingFile": "/data/narration/chapter-7-act-4-timing.json",
+      "totalDuration": 368.95,
+      "segmentCount": 78
+    },
+    {
+      "act": 5,
+      "actTitle": "Revelations",
+      "audioFile": "/audio/chapters/chapter-7-act-5.mp3",
+      "timingFile": "/data/narration/chapter-7-act-5-timing.json",
+      "totalDuration": 203.35,
+      "segmentCount": 37
+    },
+    {
+      "act": 6,
+      "actTitle": "Escape",
+      "audioFile": "/audio/chapters/chapter-7-act-6.mp3",
+      "timingFile": "/data/narration/chapter-7-act-6-timing.json",
+      "totalDuration": 299.825,
+      "segmentCount": 78
+    }
+  ],
+  "totalDuration": 2923.35
+}

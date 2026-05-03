@@ -1,3810 +1,3810 @@
 [
   {
-    "id": "ch1-act2-seg001",
+    "id": "ch1-act1-seg001",
     "type": "narration",
     "speaker": "narrator",
     "text": "He'd been three days out of Ashford when he smelled the smoke -- the wrong kind, not hearth-fire or forge-smoke but the flat, mineral bite of stone that had changed its mind about being stone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act2-seg002",
+    "id": "ch1-act1-seg002",
     "type": "narration",
     "speaker": "narrator",
     "text": "He'd been heading nowhere in particular, the way a man does when the war is over and the shape of peacetime hasn't settled yet. A hedge-knight's work: a missing horse here, a disputed boundary there. Small things. Useful things.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act2-seg003",
+    "id": "ch1-act1-seg003",
     "type": "narration",
     "speaker": "narrator",
     "text": "Things that didn't ask him to be more than he was.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act2-seg004",
+    "id": "ch1-act1-seg004",
     "type": "narration",
     "speaker": "narrator",
     "text": "Then the smoke.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 1
   },
   {
-    "id": "ch1-act2-seg005",
+    "id": "ch1-act1-seg005",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornwick still smoked when Caelin rode in at first light.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 2
   },
   {
-    "id": "ch1-act2-seg006",
+    "id": "ch1-act1-seg006",
     "type": "narration",
     "speaker": "narrator",
     "text": "Ash muffled the cobbles, the horse's hooves swallowed by the soft texture and depth of the soot-packed street. Melted stone and hot glass mingling with the acrid bite of charred timber.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 3
   },
   {
-    "id": "ch1-act2-seg007",
+    "id": "ch1-act1-seg007",
     "type": "narration",
     "speaker": "narrator",
     "text": "Houses hadn't burned so much as slumped: wooden beams turned translucent, doorframes sagging into glossy curves, window mullions weeping clear droplets that froze mid-fall.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 3
   },
   {
-    "id": "ch1-act2-seg008",
+    "id": "ch1-act1-seg008",
     "type": "narration",
     "speaker": "narrator",
     "text": "Even the lane stones had softened and set again, their surfaces ridged like cooled lava.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 3
   },
   {
-    "id": "ch1-act2-seg009",
+    "id": "ch1-act1-seg009",
     "type": "narration",
     "speaker": "narrator",
     "text": "He'd seen dragonfire before -- in the war, villages reduced to char and ash in minutes. But this was different. This fire hadn't consumed. It had transformed.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 4
   },
   {
-    "id": "ch1-act2-seg010",
+    "id": "ch1-act1-seg010",
     "type": "narration",
     "speaker": "narrator",
     "text": "A cry -- thin, desperate, trapped -- cut through the silence.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 5
   },
   {
-    "id": "ch1-act2-seg011",
+    "id": "ch1-act1-seg011",
     "type": "narration",
     "speaker": "narrator",
     "text": "He ran.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act2-seg012",
+    "id": "ch1-act1-seg012",
     "type": "narration",
     "speaker": "narrator",
     "text": "At the end of the south lane, a cottage had folded in on itself like a paper lantern crushed by an invisible fist.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act2-seg013",
+    "id": "ch1-act1-seg013",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Hold on!\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act2-seg014",
+    "id": "ch1-act1-seg014",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin called, dropping to his knees in the debris.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act2-seg015",
+    "id": "ch1-act1-seg015",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Where are you?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act2-seg016",
+    "id": "ch1-act1-seg016",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Here,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act2-seg017",
+    "id": "ch1-act1-seg017",
     "type": "narration",
     "speaker": "narrator",
     "text": "a small voice gasped, barely audible through the rubble.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act2-seg018",
+    "id": "ch1-act1-seg018",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"It's hot -- please -- \"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act2-seg019",
+    "id": "ch1-act1-seg019",
     "type": "narration",
     "speaker": "narrator",
     "text": "He found her beneath a collapsed roof beam: maybe eight years old, freckled face streaked with soot, pinned by timber that still shimmered with residual heat. Her eyes were wide with terror, tracking the glow in the wood above her.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 9
   },
   {
-    "id": "ch1-act2-seg020",
+    "id": "ch1-act1-seg020",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"You're going to be all right,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch1-act2-seg021",
+    "id": "ch1-act1-seg021",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said, setting his palm against the scorching beam.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch1-act2-seg022",
+    "id": "ch1-act1-seg022",
     "type": "narration",
     "speaker": "narrator",
     "text": "He called the flame the way he always had -- shaping heat to eat along the grain, to reduce wood to ash and set her free. But the magic answered differently this time. The beam didn't char or crumble. It softened.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act2-seg023",
+    "id": "ch1-act1-seg023",
     "type": "narration",
     "speaker": "narrator",
     "text": "Fibers gave way beneath his touch, going glassy and viscous, sloughing under his hand in a slow, honey-thick peel. He drew the beam aside in a translucent sheet; the instant it left contact with his skin, it hardened with a sharp crack and shattered.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act2-seg024",
+    "id": "ch1-act1-seg024",
     "type": "narration",
     "speaker": "narrator",
     "text": "The girl stared up at him with wonder and fear in equal measure.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 12
   },
   {
-    "id": "ch1-act2-seg025",
+    "id": "ch1-act1-seg025",
     "type": "narration",
     "speaker": "narrator",
     "text": "He stared at his own hand.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 13
   },
   {
-    "id": "ch1-act2-seg026",
+    "id": "ch1-act1-seg026",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Fire shouldn't do this,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch1-act2-seg027",
+    "id": "ch1-act1-seg027",
     "type": "narration",
     "speaker": "narrator",
     "text": "he murmured, more to himself than to her.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch1-act2-seg028",
+    "id": "ch1-act1-seg028",
     "type": "narration",
     "speaker": "narrator",
     "text": "He gathered the child up in his arms, feeling how she trembled against him.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 15
   },
   {
-    "id": "ch1-act2-seg029",
+    "id": "ch1-act1-seg029",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"What's your name?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 15
   },
   {
-    "id": "ch1-act2-seg030",
+    "id": "ch1-act1-seg030",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Mira.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch1-act2-seg031",
+    "id": "ch1-act1-seg031",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I'm Caelin. Close your eyes now. The air's bad out here.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 17
   },
   {
-    "id": "ch1-act2-seg032",
+    "id": "ch1-act1-seg032",
     "type": "narration",
     "speaker": "narrator",
     "text": "Outside, where the square's wind provided some relief from the smoke, she curled into his travel cloak like it was the only safe thing left in the world. Her lips trembled as she tried to form words.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 18
   },
   {
-    "id": "ch1-act2-seg033",
+    "id": "ch1-act1-seg033",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Mama said to hide,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act2-seg034",
+    "id": "ch1-act1-seg034",
     "type": "narration",
     "speaker": "narrator",
     "text": "she whispered finally.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act2-seg035",
+    "id": "ch1-act1-seg035",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"But the red lady saw me anyway. She spoke to me.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act2-seg036",
+    "id": "ch1-act1-seg036",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"The dragon?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 20
   },
   {
-    "id": "ch1-act2-seg037",
+    "id": "ch1-act1-seg037",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin asked, though something in his chest already knew the answer.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 20
   },
   {
-    "id": "ch1-act2-seg038",
+    "id": "ch1-act1-seg038",
     "type": "narration",
     "speaker": "narrator",
     "text": "Mira nodded, her small fingers clutching his cloak tighter.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch1-act2-seg039",
+    "id": "ch1-act1-seg039",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"She said she was looking for the ember-born. She said she was sorry but she had to know.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch1-act2-seg040",
+    "id": "ch1-act1-seg040",
     "type": "narration",
     "speaker": "narrator",
     "text": "The child's voice dropped to barely audible.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch1-act2-seg041",
+    "id": "ch1-act1-seg041",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Then she sang something. A rhyme. Over and over while the fire came. I... I remember it.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch1-act2-seg042",
+    "id": "ch1-act1-seg042",
     "type": "narration",
     "speaker": "narrator",
     "text": "Before he could respond, Elder Gareth emerged from the smoke -- one cheek blistered raw, his beard singed away on that side, but his eyes still steady with the kind of strength that comes from bearing witness to catastrophe.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 22
   },
   {
-    "id": "ch1-act2-seg043",
+    "id": "ch1-act1-seg043",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"You saved one,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch1-act2-seg044",
+    "id": "ch1-act1-seg044",
     "type": "narration",
     "speaker": "narrator",
     "text": "the old man rasped, his voice thick with smoke and grief.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch1-act2-seg045",
+    "id": "ch1-act1-seg045",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"The gods bless you for it.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch1-act2-seg046",
+    "id": "ch1-act1-seg046",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"She wasn't hunting,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act2-seg047",
+    "id": "ch1-act1-seg047",
     "type": "narration",
     "speaker": "narrator",
     "text": "Mira whispered against Caelin's shoulder.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act2-seg048",
+    "id": "ch1-act1-seg048",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"She kept saying she was sorry. That she had to find someone.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act2-seg049",
+    "id": "ch1-act1-seg049",
     "type": "narration",
     "speaker": "narrator",
     "text": "Gareth nodded grimly.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch1-act2-seg050",
+    "id": "ch1-act1-seg050",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Dragons kill clean when they feed -- quick, then gone. This was deliberate. Methodical. She melted the shrine down to its foundation stones but left the granary untouched. Destroyed the inn but spared the healer's cottage.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch1-act2-seg051",
+    "id": "ch1-act1-seg051",
     "type": "narration",
     "speaker": "narrator",
     "text": "His eyes met Caelin's.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch1-act2-seg052",
+    "id": "ch1-act1-seg052",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"She was testing. Calling out in the old tongue, waiting for something to answer.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch1-act2-seg053",
+    "id": "ch1-act1-seg053",
     "type": "narration",
     "speaker": "narrator",
     "text": "Something prickled along Caelin's forearms, a readiness sharpening his awareness. He'd spent years studying fragments of Draconic in dusty libraries, and his dreams had carried sounds and syllables that weren't his own.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 26
   },
   {
-    "id": "ch1-act2-seg054",
+    "id": "ch1-act1-seg054",
     "type": "narration",
     "speaker": "narrator",
     "text": "Now the anticipation felt physical, like standing on the edge of a precipice, waiting for the moment gravity takes hold.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 26
   },
   {
-    "id": "ch1-act2-seg055",
+    "id": "ch1-act1-seg055",
     "type": "narration",
     "speaker": "narrator",
     "text": "Mira tugged at his sleeve with surprising insistence.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 27
   },
   {
-    "id": "ch1-act2-seg056",
+    "id": "ch1-act1-seg056",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"The rhyme. Do you want to hear it?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 27
   },
   {
-    "id": "ch1-act2-seg057",
+    "id": "ch1-act1-seg057",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Please,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 28
   },
   {
-    "id": "ch1-act2-seg058",
+    "id": "ch1-act1-seg058",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said, though the answer was already pressing against his ribs like a held breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 28
   },
   {
-    "id": "ch1-act2-seg059",
+    "id": "ch1-act1-seg059",
     "type": "narration",
     "speaker": "narrator",
     "text": "The child swallowed hard and recited in a thin, earnest voice:",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 29
   },
   {
-    "id": "ch1-act2-seg060",
+    "id": "ch1-act1-seg060",
     "type": "verse",
     "speaker": "narrator",
     "text": "Nine the arts and nine the lights,",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 30
   },
   {
-    "id": "ch1-act2-seg061",
+    "id": "ch1-act1-seg061",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nine the souls to set them right;",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 31
   },
   {
-    "id": "ch1-act2-seg062",
+    "id": "ch1-act1-seg062",
     "type": "narration",
     "speaker": "narrator",
     "text": "Keep the chain and guard the frame --",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 32
   },
   {
-    "id": "ch1-act2-seg063",
+    "id": "ch1-act1-seg063",
     "type": "narration",
     "speaker": "narrator",
     "text": "Wake not the Tenth that has no name.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 33
   },
   {
-    "id": "ch1-act2-seg064",
+    "id": "ch1-act1-seg064",
     "type": "narration",
     "speaker": "narrator",
     "text": "The words settled into him like keys finding locks, fitting into spaces he hadn't known were waiting to be filled.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 34
   },
   {
-    "id": "ch1-act2-seg065",
+    "id": "ch1-act1-seg065",
     "type": "narration",
     "speaker": "narrator",
     "text": "Gareth pointed beyond the mill with a hand that trembled slightly.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg066",
+    "id": "ch1-act1-seg066",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Her trail ends past the hedgerow. The ground there is...\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg067",
+    "id": "ch1-act1-seg067",
     "type": "narration",
     "speaker": "narrator",
     "text": "He struggled for words.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg068",
+    "id": "ch1-act1-seg068",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"The earth has turned to glass. Black glass, like obsidian. There's a crater, and at the center...\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg069",
+    "id": "ch1-act1-seg069",
     "type": "narration",
     "speaker": "narrator",
     "text": "He shook his head.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg070",
+    "id": "ch1-act1-seg070",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"You should see it yourself.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act2-seg071",
+    "id": "ch1-act1-seg071",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I'll go,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 36
   },
   {
-    "id": "ch1-act2-seg072",
+    "id": "ch1-act1-seg072",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said, because any other response felt like turning away from something that had been calling him for years.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 36
   },
   {
-    "id": "ch1-act2-seg073",
+    "id": "ch1-act1-seg073",
     "type": "narration",
     "speaker": "narrator",
     "text": "He didn't look back at Mira. He was afraid if he did he would stay, and staying felt like the wrong kind of cowardice.",
+    "act": 1,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch1-act2-seg074",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin left Mira in the elder's care and followed the path of scorched hedge and melted stone. The destruction formed a clear line -- deliberate, purposeful -- leading away from the village center toward the fields beyond.",
+    "act": 2,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch1-act2-seg075",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Mira's rhyme clung to him like smoke. Each word seemed to settle behind his ribs, waiting for something that hadn't yet awoken.",
+    "act": 2,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch1-act2-seg076",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Where the hedgerow ended, the earth had transformed entirely.",
+    "act": 2,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch1-act2-seg077",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A shallow crater yawned before him, perhaps fifty feet across. Its floor and walls were black glass -- pure obsidian that caught the morning light and threw it back in dark rainbows.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch1-act2-seg078",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Crystalline spires jutted up from the rim like the fingers of a buried giant reaching for sky. Steam rose in lazy spirals, carrying the sharp mineral scent of transformed stone.",
+    "act": 2,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch1-act2-seg079",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "At the center lay the dragon.",
+    "act": 2,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch1-act2-seg080",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She was vast beyond mortal scale, easily the size of Gareth's barn. Her hide had dulled from coal-red to ash-crimson, fissured along her flanks where internal heat still glowed like forge embers struggling against the dark.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act2-seg081",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Each breath came as a failing rasp, wet and rattling. Her wings lay crumpled and torn, one bent at an angle that made Caelin wince. But her eyes -- old gold, ancient as mountains -- still held purpose.",
+    "act": 2,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act2-seg082",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin slid down the crater's inner slope. The glass sang beneath his boots, a low crystalline hum that resonated in his chest.",
+    "act": 2,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch1-act2-seg083",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The dragon's eye tracked his descent and fixed on him.",
+    "act": 2,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch1-act2-seg084",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her voice arrived not as sound but as meaning pressing directly into his mind -- old Draconic rendered crystalline and clear, as if a fog he hadn't known was there had suddenly lifted.",
+    "act": 2,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch1-act2-seg085",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"At last,\"",
+    "act": 2,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act2-seg086",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said, and relief colored the words.",
+    "act": 2,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act2-seg087",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"The bloodline answers.\"",
+    "act": 2,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act2-seg088",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He went to one knee, instinct deeper than thought.",
+    "act": 2,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch1-act2-seg089",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"Why did you do this? All those people -- \"",
+    "act": 2,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch1-act2-seg090",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I had no choice.\"",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act2-seg091",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "came the answer, heavy with genuine regret.",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act2-seg092",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"I am dying. I felt it three days ago -- the rot in my heart, the fire going cold. And I carry something that cannot die with me. Something that must pass to one who can bear it.\"",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act2-seg093",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her eye closed briefly.",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act2-seg094",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I searched the nearby villages. Called out in the old tongue. Used fire to test who might answer, who might have the gift to work flame differently than others.\"",
+    "act": 2,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act2-seg095",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"You killed them to test them?\"",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch1-act2-seg096",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Horror and anger warred in his chest.",
+    "act": 2,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch1-act2-seg097",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I tested the fire,\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act2-seg098",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she corrected, and there was no defensiveness in it -- only weary fact.",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act2-seg099",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"Most would have burned. Only one with dragon-blood could have shaped what I wrought. Only the ember-born could have turned transformation back to wood, glass back to timber.\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act2-seg100",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her eye opened and fixed on him again.",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act2-seg101",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You saved the child. You proved what you are.\"",
+    "act": 2,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act2-seg102",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The truth of it settled cold in his stomach. She'd been searching for him. And people had died in that search.",
+    "act": 2,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch1-act2-seg103",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"What are you?\"",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act2-seg104",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he asked, voice rough.",
+    "act": 2,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act2-seg105",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Vharisax, last guardian of the First Concord. And my time ends.\"",
+    "act": 2,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch1-act2-seg106",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She shifted slightly, and the movement cost her.",
+    "act": 2,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch1-act2-seg107",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"But the compact must continue. The Nine must be found. The Seal must remain closed.\"",
+    "act": 2,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch1-act2-seg108",
+    "type": "verse",
+    "speaker": "narrator",
+    "text": "\"The rhyme,\" Caelin said. \"The child remembered it. Nine the arts -- \"",
+    "act": 2,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch1-act2-seg109",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"Nine that weave the world,\"",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch1-act2-seg110",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vharisax said. Images flooded his mind -- dragons and dwarves forging side by side, a name carved above a gate in a script older than any living tongue, nine pedestals blazing with power, and beneath them something vast and chained, pressing against its bonds. The weight of it left Caelin gasping.",
+    "act": 2,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch1-act2-seg111",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin's breath had gone shallow. He didn't know when that had happened.",
+    "act": 2,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch1-act2-seg112",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"The Nine maintain balance,\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act2-seg113",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vharisax continued.",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act2-seg114",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"Each school of magic bound into physical form, each requiring a bearer to claim it, to become it. When all nine are claimed and the bearers stand together, the Seal remains closed. But if the Nine are scattered, lost, or broken...\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act2-seg115",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her breathing hitched.",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act2-seg116",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"The Tenth stirs. And if it wakes fully, the world drowns in entropy made conscious.\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act2-seg117",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"Why me?\"",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act2-seg118",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The question came out smaller than he intended.",
+    "act": 2,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act2-seg119",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"You carry the old blood. Faint, yes -- diluted through generations -- but present. You can bond with what I give you. You can survive it.\"",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch1-act2-seg120",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her foreclaw trembled as she lifted it.",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch1-act2-seg121",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"And you have no choice. I am dying now. If I do not pass this on, it dies with me. The compact breaks. The chain weakens.\"",
+    "act": 2,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch1-act2-seg122",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nestled against talon and scale lay a plate of obsidian-red, roughly the length of his thumb, hexagonal edges still carrying forge-heat. It pulsed with inner light -- ember-motes drifting in its translucent depths.",
+    "act": 2,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch1-act2-seg123",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Not a shed scale. An offering.",
+    "act": 2,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch1-act2-seg124",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"This is the key,\"",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act2-seg125",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vharisax said.",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act2-seg126",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"Take it. Bind yourself. Follow the path I will leave you. Find the First Sanctum and claim what waits there -- the Dragon's Ember, first of the Nine, forged for Evocation itself.\"",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act2-seg127",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her eye held his.",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act2-seg128",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"And then find the others who must bear the rest. You cannot do this alone.\"",
+    "act": 2,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act2-seg129",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His hand hovered above the scale, every instinct screaming that this was a threshold he couldn't uncross.",
+    "act": 2,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch1-act2-seg130",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"What will it do to me?\"",
+    "act": 2,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch1-act2-seg131",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"It will mark you. Visibly. Permanently.\"",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act2-seg132",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "No false comfort.",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act2-seg133",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"It will guide you toward what must be found. It will punish deception and reward truth. It will hurt, especially at first.\"",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act2-seg134",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her tone softened slightly.",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act2-seg135",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"And it will make you exactly what you already are -- only more so. The magic you've always carried will awaken fully. You will understand the old tongue. You will see the paths others cannot.\"",
+    "act": 2,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act2-seg136",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"And if I refuse?\"",
+    "act": 2,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch1-act2-seg137",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"Then I die carrying this burden. The compact weakens. The Seal cracks a little more. And in a generation, perhaps two, something that should never breathe air will taste sky.\"",
+    "act": 2,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch1-act2-seg138",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She held his gaze.",
+    "act": 2,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch1-act2-seg139",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"I do not offer you glory, ember-born. I offer you necessity.\"",
+    "act": 2,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch1-act2-seg140",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The weight of her certainty pressed against him. The crater, the transformed village, the child's terrified eyes -- all of it leading to this moment.",
+    "act": 2,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch1-act2-seg141",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin closed his fingers around the scale.",
+    "act": 2,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch1-act2-seg142",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Heat surged up his arm -- hot glass seeking its shape, reality rewriting itself cell by cell. For a moment the world went white, then cleared, he looked down at his right forearm.",
+    "act": 2,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch1-act2-seg143",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A thumb-length, hexagonal plate lay flush with his skin just below the elbow -- dark as translucent obsidian, smooth as glass, with ember-motes drifting lazily in its depths like captured stars.",
+    "act": 2,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch1-act2-seg144",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The edges were perfect, geometric, inlaid so seamlessly with his flesh that he couldn't tell where the scale ended and his skin began.",
+    "act": 2,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch1-act2-seg145",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "From its six edges, hair-fine black filaments spread like delicate root systems, threading beneath his skin in branching patterns. They ran toward his elbow, toward his wrist, mapping themselves along nerve pathways with dark precision.",
+    "act": 2,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch1-act2-seg146",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He could feel them settling, finding their places, becoming part of his body's geography.",
+    "act": 2,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch1-act2-seg147",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He flexed his fingers. The embedded plate flexed with him, the filaments shifting beneath his skin like living tattoo.",
+    "act": 2,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act2-seg148",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"There,\"",
+    "act": 2,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch1-act2-seg149",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vharisax said, and satisfaction colored her fading voice.",
+    "act": 2,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch1-act2-seg150",
+    "type": "dialogue",
+    "speaker": "mira",
+    "text": "\"The bond is struck. You are marked. You are chosen.\"",
+    "act": 2,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch1-act2-seg151",
+    "type": "dialogue",
+    "speaker": "vharisax",
+    "text": "\"It will answer you,\"",
     "act": 2,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act3-seg074",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin left Mira in the elder's care and followed the path of scorched hedge and melted stone. The destruction formed a clear line -- deliberate, purposeful -- leading away from the village center toward the fields beyond.",
-    "act": 3,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch1-act3-seg075",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Mira's rhyme clung to him like smoke. Each word seemed to settle behind his ribs, waiting for something that hadn't yet awoken.",
-    "act": 3,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch1-act3-seg076",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Where the hedgerow ended, the earth had transformed entirely.",
-    "act": 3,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch1-act3-seg077",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A shallow crater yawned before him, perhaps fifty feet across. Its floor and walls were black glass -- pure obsidian that caught the morning light and threw it back in dark rainbows.",
-    "act": 3,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch1-act3-seg078",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Crystalline spires jutted up from the rim like the fingers of a buried giant reaching for sky. Steam rose in lazy spirals, carrying the sharp mineral scent of transformed stone.",
-    "act": 3,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch1-act3-seg079",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "At the center lay the dragon.",
-    "act": 3,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch1-act3-seg080",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She was vast beyond mortal scale, easily the size of Gareth's barn. Her hide had dulled from coal-red to ash-crimson, fissured along her flanks where internal heat still glowed like forge embers struggling against the dark.",
-    "act": 3,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act3-seg081",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Each breath came as a failing rasp, wet and rattling. Her wings lay crumpled and torn, one bent at an angle that made Caelin wince. But her eyes -- old gold, ancient as mountains -- still held purpose.",
-    "act": 3,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act3-seg082",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin slid down the crater's inner slope. The glass sang beneath his boots, a low crystalline hum that resonated in his chest.",
-    "act": 3,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch1-act3-seg083",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The dragon's eye tracked his descent and fixed on him.",
-    "act": 3,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch1-act3-seg084",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her voice arrived not as sound but as meaning pressing directly into his mind -- old Draconic rendered crystalline and clear, as if a fog he hadn't known was there had suddenly lifted.",
-    "act": 3,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch1-act3-seg085",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"At last,\"",
-    "act": 3,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act3-seg086",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she said, and relief colored the words.",
-    "act": 3,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act3-seg087",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The bloodline answers.\"",
-    "act": 3,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act3-seg088",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He went to one knee, instinct deeper than thought.",
-    "act": 3,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch1-act3-seg089",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"Why did you do this? All those people -- \"",
-    "act": 3,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch1-act3-seg090",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I had no choice.\"",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act3-seg091",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "came the answer, heavy with genuine regret.",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act3-seg092",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"I am dying. I felt it three days ago -- the rot in my heart, the fire going cold. And I carry something that cannot die with me. Something that must pass to one who can bear it.\"",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act3-seg093",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her eye closed briefly.",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act3-seg094",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I searched the nearby villages. Called out in the old tongue. Used fire to test who might answer, who might have the gift to work flame differently than others.\"",
-    "act": 3,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act3-seg095",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"You killed them to test them?\"",
-    "act": 3,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch1-act3-seg096",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Horror and anger warred in his chest.",
-    "act": 3,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch1-act3-seg097",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I tested the fire,\"",
-    "act": 3,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act3-seg098",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she corrected, and there was no defensiveness in it -- only weary fact.",
-    "act": 3,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act3-seg099",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"Most would have burned. Only one with dragon-blood could have shaped what I wrought. Only the ember-born could have turned transformation back to wood, glass back to timber.\"",
-    "act": 3,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act3-seg100",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her eye opened and fixed on him again.",
-    "act": 3,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act3-seg101",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You saved the child. You proved what you are.\"",
-    "act": 3,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act3-seg102",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The truth of it settled cold in his stomach. She'd been searching for him. And people had died in that search.",
-    "act": 3,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch1-act3-seg103",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"What are you?\"",
-    "act": 3,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act3-seg104",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he asked, voice rough.",
-    "act": 3,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act3-seg105",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Vharisax, last guardian of the First Concord. And my time ends.\"",
-    "act": 3,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch1-act3-seg106",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She shifted slightly, and the movement cost her.",
-    "act": 3,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch1-act3-seg107",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"But the compact must continue. The Nine must be found. The Seal must remain closed.\"",
-    "act": 3,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch1-act3-seg108",
-    "type": "verse",
-    "speaker": "narrator",
-    "text": "\"The rhyme,\" Caelin said. \"The child remembered it. Nine the arts -- \"",
-    "act": 3,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch1-act3-seg109",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"Nine that weave the world,\"",
-    "act": 3,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch1-act3-seg110",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vharisax said. Images flooded his mind -- dragons and dwarves forging side by side, a name carved above a gate in a script older than any living tongue, nine pedestals blazing with power, and beneath them something vast and chained, pressing against its bonds. The weight of it left Caelin gasping.",
-    "act": 3,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch1-act3-seg111",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin's breath had gone shallow. He didn't know when that had happened.",
-    "act": 3,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch1-act3-seg112",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"The Nine maintain balance,\"",
-    "act": 3,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act3-seg113",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vharisax continued.",
-    "act": 3,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act3-seg114",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"Each school of magic bound into physical form, each requiring a bearer to claim it, to become it. When all nine are claimed and the bearers stand together, the Seal remains closed. But if the Nine are scattered, lost, or broken...\"",
-    "act": 3,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act3-seg115",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her breathing hitched.",
-    "act": 3,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act3-seg116",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"The Tenth stirs. And if it wakes fully, the world drowns in entropy made conscious.\"",
-    "act": 3,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act3-seg117",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"Why me?\"",
-    "act": 3,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act3-seg118",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The question came out smaller than he intended.",
-    "act": 3,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act3-seg119",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"You carry the old blood. Faint, yes -- diluted through generations -- but present. You can bond with what I give you. You can survive it.\"",
-    "act": 3,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch1-act3-seg120",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her foreclaw trembled as she lifted it.",
-    "act": 3,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch1-act3-seg121",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"And you have no choice. I am dying now. If I do not pass this on, it dies with me. The compact breaks. The chain weakens.\"",
-    "act": 3,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch1-act3-seg122",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Nestled against talon and scale lay a plate of obsidian-red, roughly the length of his thumb, hexagonal edges still carrying forge-heat. It pulsed with inner light -- ember-motes drifting in its translucent depths.",
-    "act": 3,
-    "paragraphIndex": 23
-  },
-  {
-    "id": "ch1-act3-seg123",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Not a shed scale. An offering.",
-    "act": 3,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch1-act3-seg124",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"This is the key,\"",
-    "act": 3,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act3-seg125",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vharisax said.",
-    "act": 3,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act3-seg126",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"Take it. Bind yourself. Follow the path I will leave you. Find the First Sanctum and claim what waits there -- the Dragon's Ember, first of the Nine, forged for Evocation itself.\"",
-    "act": 3,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act3-seg127",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her eye held his.",
-    "act": 3,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act3-seg128",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"And then find the others who must bear the rest. You cannot do this alone.\"",
-    "act": 3,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act3-seg129",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "His hand hovered above the scale, every instinct screaming that this was a threshold he couldn't uncross.",
-    "act": 3,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch1-act3-seg130",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"What will it do to me?\"",
-    "act": 3,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch1-act3-seg131",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"It will mark you. Visibly. Permanently.\"",
-    "act": 3,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act3-seg132",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "No false comfort.",
-    "act": 3,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act3-seg133",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"It will guide you toward what must be found. It will punish deception and reward truth. It will hurt, especially at first.\"",
-    "act": 3,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act3-seg134",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her tone softened slightly.",
-    "act": 3,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act3-seg135",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"And it will make you exactly what you already are -- only more so. The magic you've always carried will awaken fully. You will understand the old tongue. You will see the paths others cannot.\"",
-    "act": 3,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act3-seg136",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"And if I refuse?\"",
-    "act": 3,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch1-act3-seg137",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"Then I die carrying this burden. The compact weakens. The Seal cracks a little more. And in a generation, perhaps two, something that should never breathe air will taste sky.\"",
-    "act": 3,
-    "paragraphIndex": 29
-  },
-  {
-    "id": "ch1-act3-seg138",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She held his gaze.",
-    "act": 3,
-    "paragraphIndex": 29
-  },
-  {
-    "id": "ch1-act3-seg139",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"I do not offer you glory, ember-born. I offer you necessity.\"",
-    "act": 3,
-    "paragraphIndex": 29
-  },
-  {
-    "id": "ch1-act3-seg140",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The weight of her certainty pressed against him. The crater, the transformed village, the child's terrified eyes -- all of it leading to this moment.",
-    "act": 3,
-    "paragraphIndex": 30
-  },
-  {
-    "id": "ch1-act3-seg141",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin closed his fingers around the scale.",
-    "act": 3,
-    "paragraphIndex": 31
-  },
-  {
-    "id": "ch1-act3-seg142",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Heat surged up his arm -- hot glass seeking its shape, reality rewriting itself cell by cell. For a moment the world went white, then cleared, he looked down at his right forearm.",
-    "act": 3,
-    "paragraphIndex": 32
-  },
-  {
-    "id": "ch1-act3-seg143",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A thumb-length, hexagonal plate lay flush with his skin just below the elbow -- dark as translucent obsidian, smooth as glass, with ember-motes drifting lazily in its depths like captured stars.",
-    "act": 3,
-    "paragraphIndex": 33
-  },
-  {
-    "id": "ch1-act3-seg144",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The edges were perfect, geometric, inlaid so seamlessly with his flesh that he couldn't tell where the scale ended and his skin began.",
-    "act": 3,
-    "paragraphIndex": 33
-  },
-  {
-    "id": "ch1-act3-seg145",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "From its six edges, hair-fine black filaments spread like delicate root systems, threading beneath his skin in branching patterns. They ran toward his elbow, toward his wrist, mapping themselves along nerve pathways with dark precision.",
-    "act": 3,
-    "paragraphIndex": 34
-  },
-  {
-    "id": "ch1-act3-seg146",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He could feel them settling, finding their places, becoming part of his body's geography.",
-    "act": 3,
-    "paragraphIndex": 34
-  },
-  {
-    "id": "ch1-act3-seg147",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He flexed his fingers. The embedded plate flexed with him, the filaments shifting beneath his skin like living tattoo.",
-    "act": 3,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act3-seg148",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"There,\"",
-    "act": 3,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch1-act3-seg149",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vharisax said, and satisfaction colored her fading voice.",
-    "act": 3,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch1-act3-seg150",
-    "type": "dialogue",
-    "speaker": "mira",
-    "text": "\"The bond is struck. You are marked. You are chosen.\"",
-    "act": 3,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch1-act3-seg151",
-    "type": "dialogue",
-    "speaker": "vharisax",
-    "text": "\"It will answer you,\"",
-    "act": 3,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch1-act3-seg152",
+    "id": "ch1-act2-seg152",
     "type": "narration",
     "speaker": "narrator",
     "text": "she continued, each word coming slower.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act3-seg153",
+    "id": "ch1-act2-seg153",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"And it will correct you. When you speak falsehood, it will sting. When you hesitate before necessity, it will push. When you attempt to flee your purpose...\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act3-seg154",
+    "id": "ch1-act2-seg154",
     "type": "narration",
     "speaker": "narrator",
     "text": "A thread of dark humor.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act3-seg155",
+    "id": "ch1-act2-seg155",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"It will drag you back to the path.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act3-seg156",
+    "id": "ch1-act2-seg156",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"I understand,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 38
   },
   {
-    "id": "ch1-act3-seg157",
+    "id": "ch1-act2-seg157",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 38
   },
   {
-    "id": "ch1-act3-seg158",
+    "id": "ch1-act2-seg158",
     "type": "narration",
     "speaker": "narrator",
     "text": "The embedded plate snapped white-hot -- a needle of searing light that lanced through every nerve in his arm. He gasped, biting back a cry, and the glow subsided to steady ember.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act3-seg159",
+    "id": "ch1-act2-seg159",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"Truth,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 40
   },
   {
-    "id": "ch1-act3-seg160",
+    "id": "ch1-act2-seg160",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vharisax said, approval warming the word.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 40
   },
   {
-    "id": "ch1-act3-seg161",
+    "id": "ch1-act2-seg161",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Already you learn. Never lie to the scale, ember-born. It knows you better than you know yourself.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 40
   },
   {
-    "id": "ch1-act3-seg162",
+    "id": "ch1-act2-seg162",
     "type": "narration",
     "speaker": "narrator",
     "text": "He cradled his arm, feeling the residual heat pulse beneath his skin.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 41
   },
   {
-    "id": "ch1-act3-seg163",
+    "id": "ch1-act2-seg163",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"What do I do now?\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 41
   },
   {
-    "id": "ch1-act3-seg164",
+    "id": "ch1-act2-seg164",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Follow the flame-path I will leave. It leads to the Emberpeaks, to the First Sanctum. There you will find the Dragon's Ember -- the first of the Nine Relics, the anchor of Evocation itself. Claim it. Bond with it fully.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act3-seg165",
+    "id": "ch1-act2-seg165",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her breathing grew more labored.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act3-seg166",
+    "id": "ch1-act2-seg166",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"Then seek the others. The bearers are out there, scattered, most unaware of what they're meant to become. You must find them. Gather them. Before the Seal breaks entirely.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act3-seg167",
+    "id": "ch1-act2-seg167",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"And the Tenth?\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 43
   },
   {
-    "id": "ch1-act3-seg168",
+    "id": "ch1-act2-seg168",
     "type": "narration",
     "speaker": "narrator",
     "text": "he asked.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 43
   },
   {
-    "id": "ch1-act3-seg169",
+    "id": "ch1-act2-seg169",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"What's truly buried there?\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 43
   },
   {
-    "id": "ch1-act3-seg170",
+    "id": "ch1-act2-seg170",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Old,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act3-seg171",
+    "id": "ch1-act2-seg171",
     "type": "narration",
     "speaker": "narrator",
     "text": "she whispered.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act3-seg172",
+    "id": "ch1-act2-seg172",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"A bargain made in the world's first age. Power that should never have been. The Nine were forged to keep it sleeping.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act3-seg173",
+    "id": "ch1-act2-seg173",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her voice dropped to bare thread.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act3-seg174",
+    "id": "ch1-act2-seg174",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"If you hear it calling -- and you will, if you draw too close -- do not answer. Do not try to wake it. Not yet. Perhaps not ever.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act3-seg175",
+    "id": "ch1-act2-seg175",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her chest rose once more, held, and fell for the final time. The glow along her fissured flanks dimmed -- and then, instead of darkness, it brightened.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 45
   },
   {
-    "id": "ch1-act3-seg176",
+    "id": "ch1-act2-seg176",
     "type": "narration",
     "speaker": "narrator",
     "text": "Not the orange of living fire. Something older. Deeper.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 46
   },
   {
-    "id": "ch1-act3-seg177",
+    "id": "ch1-act2-seg177",
     "type": "narration",
     "speaker": "narrator",
     "text": "The light moved through her scales the way flame moves through paper held to a candle -- catching at the edges first, the great plates along her spine curling inward as they ignited, translucent and amber before dissolving to nothing.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 46
   },
   {
-    "id": "ch1-act3-seg178",
+    "id": "ch1-act2-seg178",
     "type": "narration",
     "speaker": "narrator",
     "text": "The transformation swept forward from her tail to her throat in a slow, inevitable tide.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 46
   },
   {
-    "id": "ch1-act3-seg179",
+    "id": "ch1-act2-seg179",
     "type": "narration",
     "speaker": "narrator",
     "text": "Scale by scale, ridge by ridge, the body that had carried a thousand years of memory began to come apart -- not violently, not with heat or sound, but with the quiet authority of something that had decided it was finished.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 46
   },
   {
-    "id": "ch1-act3-seg180",
+    "id": "ch1-act2-seg180",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin couldn't move. Couldn't look away.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 47
   },
   {
-    "id": "ch1-act3-seg181",
+    "id": "ch1-act2-seg181",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vharisax burned like a letter burning -- edges first, then the body of the thing, each piece glowing brilliant before it released. Her wings went last, the great membranes thinning to lace, to light, to nothing. Where she had lain, the crater floor held only the ghost of her outline in glass.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 48
   },
   {
-    "id": "ch1-act3-seg182",
+    "id": "ch1-act2-seg182",
     "type": "narration",
     "speaker": "narrator",
     "text": "And then the embers came for him.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 49
   },
   {
-    "id": "ch1-act3-seg183",
+    "id": "ch1-act2-seg183",
     "type": "narration",
     "speaker": "narrator",
     "text": "They rose in a slow column -- ten thousand motes of ash and amber light, drifting upward as if gravity had briefly lost interest in them. They turned in the air above the crater, unhurried, and Caelin understood with bone-deep certainty that they were not random. They were choosing.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 50
   },
   {
-    "id": "ch1-act3-seg184",
+    "id": "ch1-act2-seg184",
     "type": "narration",
     "speaker": "narrator",
     "text": "The column tilted. Descended.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 51
   },
   {
-    "id": "ch1-act3-seg185",
+    "id": "ch1-act2-seg185",
     "type": "narration",
     "speaker": "narrator",
     "text": "They settled on the scale.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act3-seg186",
+    "id": "ch1-act2-seg186",
     "type": "narration",
     "speaker": "narrator",
     "text": "One by one, and then in streams, and then all at once -- every mote of what had been Vharisax finding its way to the obsidian plate in his forearm, sinking into the translucent surface and becoming part of the ember-motes already drifting there.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 53
   },
   {
-    "id": "ch1-act3-seg187",
+    "id": "ch1-act2-seg187",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale flared so bright he had to turn his face away. Heat moved through the filaments like a second bonding -- not painful this time, but immense. The weight of it. The age of it.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 53
   },
   {
-    "id": "ch1-act3-seg188",
+    "id": "ch1-act2-seg188",
     "type": "narration",
     "speaker": "narrator",
     "text": "A thousand years of flight and memory and purpose flowing into six inches of hexagonal obsidian set in a man's arm.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 53
   },
   {
-    "id": "ch1-act3-seg189",
+    "id": "ch1-act2-seg189",
     "type": "narration",
     "speaker": "narrator",
     "text": "When the last ember settled, the crater was empty.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 54
   },
   {
-    "id": "ch1-act3-seg190",
+    "id": "ch1-act2-seg190",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale dimmed to its steady coal-glow. The filaments cooled. Caelin stood in the glass-smooth hollow where a dragon had died, and breathed, and tried to understand what he was carrying now.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 55
   },
   {
-    "id": "ch1-act3-seg191",
+    "id": "ch1-act2-seg191",
     "type": "narration",
     "speaker": "narrator",
     "text": "From the crater's rim, the flame-path stretched away toward distant mountains -- fine as a thread of silk, bright as a road paved with light. It hadn't been there a moment ago. Or perhaps it had always been there, and something in him had finally learned to see it.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 56
   },
   {
-    "id": "ch1-act3-seg192",
+    "id": "ch1-act2-seg192",
     "type": "narration",
     "speaker": "narrator",
     "text": "Footsteps crunched on glass behind him.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 57
   },
   {
-    "id": "ch1-act4-seg193",
+    "id": "ch1-act3-seg193",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"Well,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act4-seg194",
+    "id": "ch1-act3-seg194",
     "type": "narration",
     "speaker": "narrator",
     "text": "a voice observed, dry as desert wind.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act4-seg195",
+    "id": "ch1-act3-seg195",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"That looks profoundly uncomfortable.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 0
   },
   {
-    "id": "ch1-act4-seg196",
+    "id": "ch1-act3-seg196",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin spun, hand instinctively moving to the sword at his hip.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 1
   },
   {
-    "id": "ch1-act4-seg197",
+    "id": "ch1-act3-seg197",
     "type": "narration",
     "speaker": "narrator",
     "text": "A woman leaned against the glass ridge, arms crossed, assessing him with the calm focus of a predator deciding if he was a threat or opportunity. Twin daggers rested at her hips, their hilts worn smooth with use.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 2
   },
   {
-    "id": "ch1-act4-seg198",
+    "id": "ch1-act3-seg198",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her travel cloak was torn and stained with ash, and one eye was green while the other shone gold, catching the light like a cat's.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 2
   },
   {
-    "id": "ch1-act4-seg199",
+    "id": "ch1-act3-seg199",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her expression suggested she found the entire situation darkly amusing.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 3
   },
   {
-    "id": "ch1-act4-seg200",
+    "id": "ch1-act3-seg200",
     "type": "dialogue",
     "speaker": "vharisax",
     "text": "\"Virella Sunshadow,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 4
   },
   {
-    "id": "ch1-act4-seg201",
+    "id": "ch1-act3-seg201",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, not moving from her perch.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 4
   },
   {
-    "id": "ch1-act4-seg202",
+    "id": "ch1-act3-seg202",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Though people who haven't tried to murder me yet generally call me Vex.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 4
   },
   {
-    "id": "ch1-act4-seg203",
+    "id": "ch1-act3-seg203",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"How long have you been there?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 5
   },
   {
-    "id": "ch1-act4-seg204",
+    "id": "ch1-act3-seg204",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin asked, still catching his breath from the bonding.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 5
   },
   {
-    "id": "ch1-act4-seg205",
+    "id": "ch1-act3-seg205",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Long enough.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act4-seg206",
+    "id": "ch1-act3-seg206",
     "type": "narration",
     "speaker": "narrator",
     "text": "She pushed off from the stone and slid down the glass slope with practiced ease, boots finding purchase where he would have slipped.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act4-seg207",
+    "id": "ch1-act3-seg207",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Long enough to watch a dragon die passing something to a stranger. Long enough to see that very permanent addition to your arm.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act4-seg208",
+    "id": "ch1-act3-seg208",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her mismatched gaze dropped to the embedded scale, studying it with professional interest.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act4-seg209",
+    "id": "ch1-act3-seg209",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Interesting accessory. Not exactly subtle.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 6
   },
   {
-    "id": "ch1-act4-seg210",
+    "id": "ch1-act3-seg210",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin instinctively tried to cover it with his other hand, then stopped. What was the point? The scale was flush with his skin, inlaid like jewelry he could never remove.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act4-seg211",
+    "id": "ch1-act3-seg211",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"You shouldn't be here. This is -- \"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 7
   },
   {
-    "id": "ch1-act4-seg212",
+    "id": "ch1-act3-seg212",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Dangerous? Obviously.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act4-seg213",
+    "id": "ch1-act3-seg213",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex stopped a few feet away, close enough to talk comfortably, far enough to react if he proved hostile.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act4-seg214",
+    "id": "ch1-act3-seg214",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"But I've been tracking something dangerous for months now, so the ambiance feels appropriate.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 8
   },
   {
-    "id": "ch1-act4-seg215",
+    "id": "ch1-act3-seg215",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Tracking what?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 9
   },
   {
-    "id": "ch1-act4-seg216",
+    "id": "ch1-act3-seg216",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Answers.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 10
   },
   {
-    "id": "ch1-act4-seg217",
+    "id": "ch1-act3-seg217",
     "type": "narration",
     "speaker": "narrator",
     "text": "She pulled a water-stained journal from inside her cloak and held it up briefly before tucking it away again.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 10
   },
   {
-    "id": "ch1-act4-seg218",
+    "id": "ch1-act3-seg218",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"My mother was a scholar. Obsessed with old alliances, ancient pacts, something she called 'fire-kept covenants.' She died six months ago in the Emberpeaks, and all I have left are her research notes and more questions than sense.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 10
   },
   {
-    "id": "ch1-act4-seg219",
+    "id": "ch1-act3-seg219",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex gestured at the dragon's crystalline corpse.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act4-seg220",
+    "id": "ch1-act3-seg220",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Her last journal entry mentioned rumors of a dragon searching for something. That was three weeks before she disappeared. So when I heard about a dragon burning villages in a very specific pattern -- not raiding, not feeding, but searching -- I followed the trail.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act4-seg221",
+    "id": "ch1-act3-seg221",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her eyes met his.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act4-seg222",
+    "id": "ch1-act3-seg222",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"And here I find not treasure, but you. With that.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act4-seg223",
+    "id": "ch1-act3-seg223",
     "type": "narration",
     "speaker": "narrator",
     "text": "A nod at his arm.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 11
   },
   {
-    "id": "ch1-act4-seg224",
+    "id": "ch1-act3-seg224",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale pulsed warm against his skin, but didn't sting. Whatever else Vex might be hiding, she was being honest about her motivations.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 12
   },
   {
-    "id": "ch1-act4-seg225",
+    "id": "ch1-act3-seg225",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Your mother was looking for the same thing the dragon gave me,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 13
   },
   {
-    "id": "ch1-act4-seg226",
+    "id": "ch1-act3-seg226",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said slowly.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 13
   },
   {
-    "id": "ch1-act4-seg227",
+    "id": "ch1-act3-seg227",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Was she?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 14
   },
   {
-    "id": "ch1-act4-seg228",
+    "id": "ch1-act3-seg228",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's tone sharpened with interest.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 14
   },
   {
-    "id": "ch1-act4-seg229",
+    "id": "ch1-act3-seg229",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"And what exactly did that dying dragon give you, besides permanent body modification?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 14
   },
   {
-    "id": "ch1-act4-seg230",
+    "id": "ch1-act3-seg230",
     "type": "narration",
     "speaker": "narrator",
     "text": "He hesitated. The scale warmed in warning -- truth or pain, choose.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 15
   },
   {
-    "id": "ch1-act4-seg231",
+    "id": "ch1-act3-seg231",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"A burden. A purpose. A path to follow.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 15
   },
   {
-    "id": "ch1-act4-seg232",
+    "id": "ch1-act3-seg232",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"How poetically vague.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch1-act4-seg233",
+    "id": "ch1-act3-seg233",
     "type": "narration",
     "speaker": "narrator",
     "text": "But her eyes tracked to something behind him, and her expression shifted.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch1-act4-seg234",
+    "id": "ch1-act3-seg234",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"What are you staring at?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 16
   },
   {
-    "id": "ch1-act4-seg235",
+    "id": "ch1-act3-seg235",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin glanced back at the flame-thread stretching toward the mountains, then returned his attention to her.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 17
   },
   {
-    "id": "ch1-act4-seg236",
+    "id": "ch1-act3-seg236",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"You can't see it?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 17
   },
   {
-    "id": "ch1-act4-seg237",
+    "id": "ch1-act3-seg237",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"See what?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 18
   },
   {
-    "id": "ch1-act4-seg238",
+    "id": "ch1-act3-seg238",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex followed his gaze, squinting at empty air above the crater's rim.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 18
   },
   {
-    "id": "ch1-act4-seg239",
+    "id": "ch1-act3-seg239",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"All I'm getting is heat shimmer and the worst headache I've had in months. Which, given my lifestyle, is saying something.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 18
   },
   {
-    "id": "ch1-act4-seg240",
+    "id": "ch1-act3-seg240",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"There's a path. Fire, but not fire. Leading into the Emberpeaks.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act4-seg241",
+    "id": "ch1-act3-seg241",
     "type": "narration",
     "speaker": "narrator",
     "text": "He flexed his marked arm, feeling the scale pulse in time with the distant thread.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act4-seg242",
+    "id": "ch1-act3-seg242",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"The dragon said only those marked could see it.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 19
   },
   {
-    "id": "ch1-act4-seg243",
+    "id": "ch1-act3-seg243",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Of course she did.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 20
   },
   {
-    "id": "ch1-act4-seg244",
+    "id": "ch1-act3-seg244",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex rubbed her temples.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 20
   },
   {
-    "id": "ch1-act4-seg245",
+    "id": "ch1-act3-seg245",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Let me guess -- this invisible magic road leads straight into the mountains where my mother vanished. Where the last three caravans disappeared without a trace. Where absolutely nothing good has been heard from in half a year.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 20
   },
   {
-    "id": "ch1-act4-seg246",
+    "id": "ch1-act3-seg246",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"Probably.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 21
   },
   {
-    "id": "ch1-act4-seg247",
+    "id": "ch1-act3-seg247",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Perfect.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 22
   },
   {
-    "id": "ch1-act4-seg248",
+    "id": "ch1-act3-seg248",
     "type": "narration",
     "speaker": "narrator",
     "text": "She let her hands drop and fixed him with an evaluating look.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 22
   },
   {
-    "id": "ch1-act4-seg249",
+    "id": "ch1-act3-seg249",
     "type": "dialogue",
     "speaker": "mira",
     "text": "\"New arrangement, then. You need someone watching your back while you follow your glowing destiny path. I need someone who can actually see where we're going and potentially lead me to what my mother died seeking.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 22
   },
   {
-    "id": "ch1-act4-seg250",
+    "id": "ch1-act3-seg250",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"We?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 23
   },
   {
-    "id": "ch1-act4-seg251",
+    "id": "ch1-act3-seg251",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin raised an eyebrow.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 23
   },
   {
-    "id": "ch1-act4-seg252",
+    "id": "ch1-act3-seg252",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"You walk in front,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act4-seg253",
+    "id": "ch1-act3-seg253",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said with the practicality of someone who'd survived on the margins,",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act4-seg254",
+    "id": "ch1-act3-seg254",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"drawing every monster's attention with that beacon in your arm. I follow behind, keeping us both alive with my actually useful skills like not getting eaten. Meanwhile, we both get closer to our answers.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 24
   },
   {
-    "id": "ch1-act4-seg255",
+    "id": "ch1-act3-seg255",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"That's your pitch? I'm bait?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 25
   },
   {
-    "id": "ch1-act4-seg256",
+    "id": "ch1-act3-seg256",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Mutually beneficial bait.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 26
   },
   {
-    "id": "ch1-act4-seg257",
+    "id": "ch1-act3-seg257",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her mouth quirked.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 26
   },
   {
-    "id": "ch1-act4-seg258",
+    "id": "ch1-act3-seg258",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Look, you're going into those mountains whether I come or not -- I can see it in your face. That scale's already made the choice for you. And I'm going regardless of whether you want company, because my mother's last camp was somewhere in those peaks and I'm not leaving until I know what happened to her.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 26
   },
   {
-    "id": "ch1-act4-seg259",
+    "id": "ch1-act3-seg259",
     "type": "narration",
     "speaker": "narrator",
     "text": "She crossed her arms.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 27
   },
   {
-    "id": "ch1-act4-seg260",
+    "id": "ch1-act3-seg260",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"So we can stumble into whatever's waiting separately and probably both die, or we can watch each other's backs and maybe one of us survives long enough to accomplish something. Your choice, ember-boy.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 27
   },
   {
-    "id": "ch1-act4-seg261",
+    "id": "ch1-act3-seg261",
     "type": "narration",
     "speaker": "narrator",
     "text": "The nickname irritated him, but the logic was sound. And the scale wasn't stinging -- she meant what she said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 28
   },
   {
-    "id": "ch1-act4-seg262",
+    "id": "ch1-act3-seg262",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"You said your mother called them 'fire-kept covenants,'\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch1-act4-seg263",
+    "id": "ch1-act3-seg263",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch1-act4-seg264",
+    "id": "ch1-act3-seg264",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Did her notes mention anything about Nine? Or about something sealed?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch1-act4-seg265",
+    "id": "ch1-act3-seg265",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's expression sharpened.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch1-act4-seg266",
+    "id": "ch1-act3-seg266",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"The Ninefold Concord. She had that phrase written everywhere in her later journals -- underlined, circled, with question marks. She thought it was some kind of alliance between dragons and... someone else. Dwarves, maybe. From before the kingdoms.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch1-act4-seg267",
+    "id": "ch1-act3-seg267",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her mismatched eyes narrowed.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch1-act4-seg268",
+    "id": "ch1-act3-seg268",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Why?\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch1-act4-seg269",
+    "id": "ch1-act3-seg269",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Because the dragon spoke of Nine relics. Nine bearers. And something called the Tenth that has to stay sleeping.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 31
   },
   {
-    "id": "ch1-act4-seg270",
+    "id": "ch1-act3-seg270",
     "type": "narration",
     "speaker": "narrator",
     "text": "The words felt too big, too important for the smoking crater and morning light.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 31
   },
   {
-    "id": "ch1-act4-seg271",
+    "id": "ch1-act3-seg271",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Your mother was looking for the same thing I've just been bound to find.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 31
   },
   {
-    "id": "ch1-act4-seg272",
+    "id": "ch1-act3-seg272",
     "type": "narration",
     "speaker": "narrator",
     "text": "For a long moment, Vex was silent, her expression cycling through several emotions before settling on grim determination.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 32
   },
   {
-    "id": "ch1-act4-seg273",
+    "id": "ch1-act3-seg273",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Then I'm definitely coming with you. If the thing that killed my mother is connected to whatever's in your arm, I want to be there when we find it.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 32
   },
   {
-    "id": "ch1-act4-seg274",
+    "id": "ch1-act3-seg274",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"It might not have been a thing that killed her,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 33
   },
   {
-    "id": "ch1-act4-seg275",
+    "id": "ch1-act3-seg275",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said quietly.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 33
   },
   {
-    "id": "ch1-act4-seg276",
+    "id": "ch1-act3-seg276",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"The mountains are dangerous even without ancient conspiracies.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 33
   },
   {
-    "id": "ch1-act4-seg277",
+    "id": "ch1-act3-seg277",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Maybe.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 34
   },
   {
-    "id": "ch1-act4-seg278",
+    "id": "ch1-act3-seg278",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's hand drifted to one of her daggers, a habitual gesture that spoke of comfort rather than threat.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 34
   },
   {
-    "id": "ch1-act4-seg279",
+    "id": "ch1-act3-seg279",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"But she was too good to die to something ordinary. Too careful. If something in those peaks took her, I need to know what. And I need to know if it's still there.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 34
   },
   {
-    "id": "ch1-act4-seg280",
+    "id": "ch1-act3-seg280",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale pulsed steady and warm. No sting. Truth spoken plainly.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 35
   },
   {
-    "id": "ch1-act4-seg281",
+    "id": "ch1-act3-seg281",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"We leave as soon as I can gather supplies from what's left of the village,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 36
   },
   {
-    "id": "ch1-act4-seg282",
+    "id": "ch1-act3-seg282",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 36
   },
   {
-    "id": "ch1-act4-seg283",
+    "id": "ch1-act3-seg283",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"The path leads east toward the Emberpeaks. The dragon said there's a sanctum there -- the First Sanctum, she called it. That's where we're going.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 36
   },
   {
-    "id": "ch1-act4-seg284",
+    "id": "ch1-act3-seg284",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"We.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act4-seg285",
+    "id": "ch1-act3-seg285",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's mouth twitched into something almost like a smile.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act4-seg286",
+    "id": "ch1-act3-seg286",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Look at that. Partnership established through mutual desperation and probable doom. My favorite kind.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 37
   },
   {
-    "id": "ch1-act4-seg287",
+    "id": "ch1-act3-seg287",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I should warn you,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 38
   },
   {
-    "id": "ch1-act4-seg288",
+    "id": "ch1-act3-seg288",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin added, looking down at the scale embedded in his arm, watching the ember-motes drift in its translucent depths.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 38
   },
   {
-    "id": "ch1-act4-seg289",
+    "id": "ch1-act3-seg289",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"This thing has rules. It punishes lies. Forces truth. I'm not entirely in control of what I might say anymore.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 38
   },
   {
-    "id": "ch1-act4-seg290",
+    "id": "ch1-act3-seg290",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Good,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act4-seg291",
+    "id": "ch1-act3-seg291",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said, surprising him.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act4-seg292",
+    "id": "ch1-act3-seg292",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Lies get people killed. I'd rather travel with someone who can't lie than someone I have to constantly second-guess.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act4-seg293",
+    "id": "ch1-act3-seg293",
     "type": "narration",
     "speaker": "narrator",
     "text": "She glanced at the dragon's body, her expression softening slightly.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act4-seg294",
+    "id": "ch1-act3-seg294",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Besides, after watching what just happened -- whatever that was -- I think we're past the point where normal rules apply.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch1-act4-seg295",
+    "id": "ch1-act3-seg295",
     "type": "narration",
     "speaker": "narrator",
     "text": "They stood in the crater's heart, the morning sun climbing higher, burning away the last of the smoke. The flame-path stretched toward distant peaks, visible only to Caelin's marked sight. The scale pulsed its steady rhythm against his skin.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 40
   },
   {
-    "id": "ch1-act4-seg296",
+    "id": "ch1-act3-seg296",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"We should go,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 41
   },
   {
-    "id": "ch1-act4-seg297",
+    "id": "ch1-act3-seg297",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 41
   },
   {
-    "id": "ch1-act4-seg298",
+    "id": "ch1-act3-seg298",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Whatever was drawn by the dragon's fire might still be nearby. And I'd rather not explain to the villagers why I was watching from the shadows while their savior got magically branded.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 41
   },
   {
-    "id": "ch1-act4-seg299",
+    "id": "ch1-act3-seg299",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Fair point.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act4-seg300",
+    "id": "ch1-act3-seg300",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin took one last look at Vharisax -- already transforming into monument, into legend, into the glass-frozen history of this place.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act4-seg301",
+    "id": "ch1-act3-seg301",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Thank you,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act4-seg302",
+    "id": "ch1-act3-seg302",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said quietly, not entirely sure if he meant it for the burden or the purpose or simply for answering the question his entire life had been circling.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 42
   },
   {
-    "id": "ch1-act4-seg303",
+    "id": "ch1-act3-seg303",
     "type": "narration",
     "speaker": "narrator",
     "text": "The dragon didn't answer. She'd said everything she needed to.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 43
   },
   {
-    "id": "ch1-act4-seg304",
+    "id": "ch1-act3-seg304",
     "type": "narration",
     "speaker": "narrator",
     "text": "They climbed the crater's slope together, glass singing its low crystalline note beneath their boots. At the rim, Caelin paused, looking toward Thornwick's smoke and then toward the Emberpeaks' distant blue silhouette.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 44
   },
   {
-    "id": "ch1-act4-seg305",
+    "id": "ch1-act3-seg305",
     "type": "narration",
     "speaker": "narrator",
     "text": "Behind them, the dragon lay in her crater of transformed earth.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 45
   },
   {
-    "id": "ch1-act4-seg306",
+    "id": "ch1-act3-seg306",
     "type": "narration",
     "speaker": "narrator",
     "text": "Ahead, the flame-path beckoned with patient, inexorable pull.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 46
   },
   {
-    "id": "ch1-act4-seg307",
+    "id": "ch1-act3-seg307",
     "type": "narration",
     "speaker": "narrator",
     "text": "And on his arm, the scale kept its steady count of heartbeats, marking time until destiny could no longer be delayed.",
+    "act": 3,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch1-act4-seg308",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They returned to Thornwick as the sun climbed toward noon, walking through streets that would never be the same.",
+    "act": 4,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch1-act4-seg309",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The transformation was everywhere -- glass-smooth walls that had been wood, crystalline puddles where water had boiled and frozen in the same instant, cobblestones fused into organic curves that caught light like gems.",
+    "act": 4,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch1-act4-seg310",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "People stared as they passed. Not at Vex -- she drew glances, certainly, with her mismatched eyes and road-worn bearing -- but at Caelin. At his arm.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch1-act4-seg311",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He'd rolled up his sleeve without thinking, too hot from the climb out of the crater.",
+    "act": 4,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch1-act4-seg312",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Now the embedded scale was visible to anyone who looked: that thumb-length hex of dark obsidian inlaid flush with his skin, the hair-fine filaments threading away from its edges like black veins beneath the surface.",
+    "act": 4,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch1-act4-seg313",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The ember-motes drifted lazily in the scale's depths, visible even in daylight.",
+    "act": 4,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch1-act4-seg314",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"They're afraid,\"",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch1-act4-seg315",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex murmured beside him.",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch1-act4-seg316",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I saved a child,\"",
+    "act": 4,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch1-act4-seg317",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, but even to his own ears it sounded hollow.",
+    "act": 4,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch1-act4-seg318",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"You did. And then you went to meet a dragon and came back changed.\"",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act4-seg319",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She kept her voice low, conversational.",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act4-seg320",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"People fear what they don't understand. And that -- \"",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act4-seg321",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "a subtle gesture at his arm",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act4-seg322",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\" -- they definitely don't understand.\"",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch1-act4-seg323",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale pulsed warm. No sting. She was right, as usual.",
+    "act": 4,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch1-act4-seg324",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They found Elder Gareth in the village square, directing a handful of survivors as they loaded a wagon with salvaged supplies. He looked up as they approached, his gaze going immediately to Caelin's exposed forearm.",
+    "act": 4,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch1-act4-seg325",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The old man's eyes widened, then narrowed with something that might have been recognition.",
+    "act": 4,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch1-act4-seg326",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"So,\"",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act4-seg327",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth said quietly, straightening with effort.",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act4-seg328",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"She marked you.\"",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch1-act4-seg329",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You know what this is?\"",
+    "act": 4,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch1-act4-seg330",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin asked, surprise and relief mixing in equal measure.",
+    "act": 4,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch1-act4-seg331",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I'm old enough to remember stories my grandmother told. Stories her grandmother told her.\"",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act4-seg332",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth stepped closer, studying the scale without touching.",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act4-seg333",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"The dragon-marked. The ember-born. The old songs spoke of them -- those who carried fire in their blood and could be chosen as bearers for something greater.\"",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act4-seg334",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His voice dropped.",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act4-seg335",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"I didn't think I'd live to see it proven true.\"",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch1-act4-seg336",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"The dragon -- Vharisax -- she said I have to find something. Nine somethings. Relics, she called them. And gather others who can bear them.\"",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch1-act4-seg337",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The words tumbled out faster than intended.",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch1-act4-seg338",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"She said if I don't, something sealed beneath the mountains will wake. Something that shouldn't.\"",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch1-act4-seg339",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth was quiet for a long moment, his weathered face unreadable. Then he nodded slowly.",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act4-seg340",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Then you'll go. You don't have a choice, do you?\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch1-act4-seg341",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin looked down at the scale.",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch1-act4-seg342",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"No. I really don't.\"",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch1-act4-seg343",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"The mark won't let you,\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act4-seg344",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth said with certainty.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act4-seg345",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"It'll pull you toward what needs doing. Push you when you hesitate. Drag you if you try to run.\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act4-seg346",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He met Caelin's eyes.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act4-seg347",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"My grandmother said the dragon-marked were blessed and cursed in equal measure. The blessing: purpose absolute. The curse: no peace until that purpose is fulfilled.\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch1-act4-seg348",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"That's about right,\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch1-act4-seg349",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex muttered.",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch1-act4-seg350",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth turned his attention to her, assessing.",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch1-act4-seg351",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"And you are?\"",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch1-act4-seg352",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Someone following him because he's following something I need to find.\"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch1-act4-seg353",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex's honesty was almost aggressive.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch1-act4-seg354",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"My mother died in those mountains looking for whatever he's bound to seek. I'm going to find out why.\"",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch1-act4-seg355",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The elder nodded as if this made perfect sense.",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch1-act4-seg356",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Then you'll watch his back while he watches the path. Good. He'll need someone practical.\"",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch1-act4-seg357",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He turned back to Caelin.",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch1-act4-seg358",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"When do you leave?\"",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch1-act4-seg359",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Today,\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act4-seg360",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, though he hadn't consciously decided. The scale warmed in agreement.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act4-seg361",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"The path leads to the Emberpeaks. The sooner we follow it, the sooner...\"",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act4-seg362",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He trailed off, unsure how to finish.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch1-act4-seg363",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"The sooner you can rest,\"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg364",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth finished for him.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg365",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"If you ever can.\"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg366",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He clasped Caelin's shoulder with surprising strength.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg367",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"You saved my granddaughter. That's a debt Thornwick won't forget. If you need supplies, take them. If you need silver, we have a little. If you need a blessing -- \"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg368",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "his voice roughened",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg369",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\" -- you have mine. Go with purpose. Return with answers.\"",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch1-act4-seg370",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'll try,\"",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch1-act4-seg371",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin managed.",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch1-act4-seg372",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Don't try. Do.\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch1-act4-seg373",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth's grip tightened.",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch1-act4-seg374",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"The dragon chose you for a reason. Trust that, when everything else fails.\"",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch1-act4-seg375",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A small voice called out:",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch1-act4-seg376",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Caelin!\"",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch1-act4-seg377",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Mira broke away from a group of children and ran toward them, her soot-stained dress flapping. She skidded to a stop in front of him, eyes wide and bright.",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch1-act4-seg378",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You're leaving,\"",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch1-act4-seg379",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she said. Not a question.",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch1-act4-seg380",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"I have to.\"",
+    "act": 4,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch1-act4-seg381",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Because of what the red lady gave you.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch1-act4-seg382",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her gaze dropped to his arm, to the scale embedded there. She reached out one small hand, hesitated, then gently touched the obsidian surface with one fingertip.",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch1-act4-seg383",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale pulsed beneath her touch -- a single bright flare of light that made the ember-motes swirl faster. Mira gasped but didn't pull away.",
+    "act": 4,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch1-act4-seg384",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"It's warm,\"",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch1-act4-seg385",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she whispered.",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch1-act4-seg386",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Like a heartbeat.\"",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch1-act4-seg387",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"It is, in a way,\"",
+    "act": 4,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch1-act4-seg388",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said, his throat tight.",
+    "act": 4,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch1-act4-seg389",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Mira pulled her hand back and looked up at him with an intensity that seemed too old for her age.",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch1-act4-seg390",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"The rhyme. The one the dragon sang. You're going to find what it talks about, aren't you? The Nine?\"",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch1-act4-seg391",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Yes.\"",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch1-act4-seg392",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Will you come back?\"",
+    "act": 4,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch1-act4-seg393",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The question hit harder than expected. The scale stayed steady -- it would let him answer honestly either way.",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg394",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I don't know,\"",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg395",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said.",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg396",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"The path is long. What I'm looking for is dangerous. But if I can...\"",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg397",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He stopped, tried again.",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg398",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'll try.\"",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch1-act4-seg399",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale stung -- sharp and bright. He winced.",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch1-act4-seg400",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Mira's eyes widened.",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch1-act4-seg401",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"It hurt you. Why did it hurt you?\"",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch1-act4-seg402",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"Because I wasn't being truthful enough.\"",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch1-act4-seg403",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He knelt so they were eye-level.",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch1-act4-seg404",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Let me try again. I don't know if I'll come back. What I'm doing might take years. It might take me to places I can't return from. But -- \"",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch1-act4-seg405",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "and this he knew was true, felt it bone-deep",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch1-act4-seg406",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\" -- if I succeed, if I find what I'm meant to find, then places like Thornwick will be safer. Dragons won't come searching. Villages won't burn. Children won't lose their mothers.\"",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch1-act4-seg407",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale stayed warm. No sting. Truth accepted.",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch1-act4-seg408",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Mira nodded solemnly, then surprised him by wrapping her arms around his neck in a fierce hug.",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch1-act4-seg409",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Then you have to succeed,\"",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch1-act4-seg410",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "she whispered against his shoulder.",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch1-act4-seg411",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You have to.\"",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch1-act4-seg412",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"I will,\"",
+    "act": 4,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch1-act4-seg413",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said, and hoped it wasn't a lie.",
+    "act": 4,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch1-act4-seg414",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "When she pulled back, she was crying, but her chin was set with determination.",
+    "act": 4,
+    "paragraphIndex": 42
+  },
+  {
+    "id": "ch1-act4-seg415",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'll remember the rhyme. Every word. And when you come back, I'll say it to you again so you know I kept it safe.\"",
+    "act": 4,
+    "paragraphIndex": 42
+  },
+  {
+    "id": "ch1-act4-seg416",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"I'd like that.\"",
+    "act": 4,
+    "paragraphIndex": 43
+  },
+  {
+    "id": "ch1-act4-seg417",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth gently called Mira back, and she went reluctantly, looking over her shoulder until she disappeared into the group of children being loaded onto the wagon.",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch1-act4-seg418",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"They're evacuating to Millbrook,\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch1-act4-seg419",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Gareth said.",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch1-act4-seg420",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"The village council there owes us a debt from the grain shortages five years back. We'll rebuild. Someday.\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch1-act4-seg421",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He looked around at the glass-transformed ruins.",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch1-act4-seg422",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"Or we'll build something new. Either way, we'll survive.\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch1-act4-seg423",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"I'm sorry,\"",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch1-act4-seg424",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin said.",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch1-act4-seg425",
+    "type": "dialogue",
+    "speaker": "gareth",
+    "text": "\"If I'd come sooner -- \"",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch1-act4-seg426",
+    "type": "dialogue",
+    "speaker": "caelin",
+    "text": "\"You came when you could. You saved who you could.\"",
     "act": 4,
     "paragraphIndex": 47
   },
   {
-    "id": "ch1-act5-seg308",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They returned to Thornwick as the sun climbed toward noon, walking through streets that would never be the same.",
-    "act": 5,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch1-act5-seg309",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The transformation was everywhere -- glass-smooth walls that had been wood, crystalline puddles where water had boiled and frozen in the same instant, cobblestones fused into organic curves that caught light like gems.",
-    "act": 5,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch1-act5-seg310",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "People stared as they passed. Not at Vex -- she drew glances, certainly, with her mismatched eyes and road-worn bearing -- but at Caelin. At his arm.",
-    "act": 5,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch1-act5-seg311",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He'd rolled up his sleeve without thinking, too hot from the climb out of the crater.",
-    "act": 5,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch1-act5-seg312",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Now the embedded scale was visible to anyone who looked: that thumb-length hex of dark obsidian inlaid flush with his skin, the hair-fine filaments threading away from its edges like black veins beneath the surface.",
-    "act": 5,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch1-act5-seg313",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The ember-motes drifted lazily in the scale's depths, visible even in daylight.",
-    "act": 5,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch1-act5-seg314",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"They're afraid,\"",
-    "act": 5,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch1-act5-seg315",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex murmured beside him.",
-    "act": 5,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch1-act5-seg316",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I saved a child,\"",
-    "act": 5,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch1-act5-seg317",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said, but even to his own ears it sounded hollow.",
-    "act": 5,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch1-act5-seg318",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"You did. And then you went to meet a dragon and came back changed.\"",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act5-seg319",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She kept her voice low, conversational.",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act5-seg320",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"People fear what they don't understand. And that -- \"",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act5-seg321",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "a subtle gesture at his arm",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act5-seg322",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\" -- they definitely don't understand.\"",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch1-act5-seg323",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale pulsed warm. No sting. She was right, as usual.",
-    "act": 5,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch1-act5-seg324",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They found Elder Gareth in the village square, directing a handful of survivors as they loaded a wagon with salvaged supplies. He looked up as they approached, his gaze going immediately to Caelin's exposed forearm.",
-    "act": 5,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch1-act5-seg325",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The old man's eyes widened, then narrowed with something that might have been recognition.",
-    "act": 5,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch1-act5-seg326",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"So,\"",
-    "act": 5,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act5-seg327",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth said quietly, straightening with effort.",
-    "act": 5,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act5-seg328",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"She marked you.\"",
-    "act": 5,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch1-act5-seg329",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You know what this is?\"",
-    "act": 5,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch1-act5-seg330",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin asked, surprise and relief mixing in equal measure.",
-    "act": 5,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch1-act5-seg331",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"I'm old enough to remember stories my grandmother told. Stories her grandmother told her.\"",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act5-seg332",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth stepped closer, studying the scale without touching.",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act5-seg333",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The dragon-marked. The ember-born. The old songs spoke of them -- those who carried fire in their blood and could be chosen as bearers for something greater.\"",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act5-seg334",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "His voice dropped.",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act5-seg335",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"I didn't think I'd live to see it proven true.\"",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch1-act5-seg336",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The dragon -- Vharisax -- she said I have to find something. Nine somethings. Relics, she called them. And gather others who can bear them.\"",
-    "act": 5,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch1-act5-seg337",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The words tumbled out faster than intended.",
-    "act": 5,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch1-act5-seg338",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"She said if I don't, something sealed beneath the mountains will wake. Something that shouldn't.\"",
-    "act": 5,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch1-act5-seg339",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth was quiet for a long moment, his weathered face unreadable. Then he nodded slowly.",
-    "act": 5,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act5-seg340",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Then you'll go. You don't have a choice, do you?\"",
-    "act": 5,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch1-act5-seg341",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin looked down at the scale.",
-    "act": 5,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch1-act5-seg342",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"No. I really don't.\"",
-    "act": 5,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch1-act5-seg343",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"The mark won't let you,\"",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act5-seg344",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth said with certainty.",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act5-seg345",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"It'll pull you toward what needs doing. Push you when you hesitate. Drag you if you try to run.\"",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act5-seg346",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He met Caelin's eyes.",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act5-seg347",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"My grandmother said the dragon-marked were blessed and cursed in equal measure. The blessing: purpose absolute. The curse: no peace until that purpose is fulfilled.\"",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch1-act5-seg348",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"That's about right,\"",
-    "act": 5,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch1-act5-seg349",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex muttered.",
-    "act": 5,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch1-act5-seg350",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth turned his attention to her, assessing.",
-    "act": 5,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch1-act5-seg351",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"And you are?\"",
-    "act": 5,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch1-act5-seg352",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Someone following him because he's following something I need to find.\"",
-    "act": 5,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch1-act5-seg353",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex's honesty was almost aggressive.",
-    "act": 5,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch1-act5-seg354",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"My mother died in those mountains looking for whatever he's bound to seek. I'm going to find out why.\"",
-    "act": 5,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch1-act5-seg355",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The elder nodded as if this made perfect sense.",
-    "act": 5,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch1-act5-seg356",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Then you'll watch his back while he watches the path. Good. He'll need someone practical.\"",
-    "act": 5,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch1-act5-seg357",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He turned back to Caelin.",
-    "act": 5,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch1-act5-seg358",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"When do you leave?\"",
-    "act": 5,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch1-act5-seg359",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Today,\"",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act5-seg360",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said, though he hadn't consciously decided. The scale warmed in agreement.",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act5-seg361",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"The path leads to the Emberpeaks. The sooner we follow it, the sooner...\"",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act5-seg362",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He trailed off, unsure how to finish.",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch1-act5-seg363",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"The sooner you can rest,\"",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg364",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth finished for him.",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg365",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"If you ever can.\"",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg366",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He clasped Caelin's shoulder with surprising strength.",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg367",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"You saved my granddaughter. That's a debt Thornwick won't forget. If you need supplies, take them. If you need silver, we have a little. If you need a blessing -- \"",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg368",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "his voice roughened",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg369",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\" -- you have mine. Go with purpose. Return with answers.\"",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch1-act5-seg370",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I'll try,\"",
-    "act": 5,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch1-act5-seg371",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin managed.",
-    "act": 5,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch1-act5-seg372",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Don't try. Do.\"",
-    "act": 5,
-    "paragraphIndex": 23
-  },
-  {
-    "id": "ch1-act5-seg373",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth's grip tightened.",
-    "act": 5,
-    "paragraphIndex": 23
-  },
-  {
-    "id": "ch1-act5-seg374",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The dragon chose you for a reason. Trust that, when everything else fails.\"",
-    "act": 5,
-    "paragraphIndex": 23
-  },
-  {
-    "id": "ch1-act5-seg375",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A small voice called out:",
-    "act": 5,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch1-act5-seg376",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Caelin!\"",
-    "act": 5,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch1-act5-seg377",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Mira broke away from a group of children and ran toward them, her soot-stained dress flapping. She skidded to a stop in front of him, eyes wide and bright.",
-    "act": 5,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch1-act5-seg378",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You're leaving,\"",
-    "act": 5,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch1-act5-seg379",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she said. Not a question.",
-    "act": 5,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch1-act5-seg380",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"I have to.\"",
-    "act": 5,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch1-act5-seg381",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Because of what the red lady gave you.\"",
-    "act": 5,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch1-act5-seg382",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her gaze dropped to his arm, to the scale embedded there. She reached out one small hand, hesitated, then gently touched the obsidian surface with one fingertip.",
-    "act": 5,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch1-act5-seg383",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale pulsed beneath her touch -- a single bright flare of light that made the ember-motes swirl faster. Mira gasped but didn't pull away.",
-    "act": 5,
-    "paragraphIndex": 29
-  },
-  {
-    "id": "ch1-act5-seg384",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"It's warm,\"",
-    "act": 5,
-    "paragraphIndex": 30
-  },
-  {
-    "id": "ch1-act5-seg385",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she whispered.",
-    "act": 5,
-    "paragraphIndex": 30
-  },
-  {
-    "id": "ch1-act5-seg386",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Like a heartbeat.\"",
-    "act": 5,
-    "paragraphIndex": 30
-  },
-  {
-    "id": "ch1-act5-seg387",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"It is, in a way,\"",
-    "act": 5,
-    "paragraphIndex": 31
-  },
-  {
-    "id": "ch1-act5-seg388",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said, his throat tight.",
-    "act": 5,
-    "paragraphIndex": 31
-  },
-  {
-    "id": "ch1-act5-seg389",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Mira pulled her hand back and looked up at him with an intensity that seemed too old for her age.",
-    "act": 5,
-    "paragraphIndex": 32
-  },
-  {
-    "id": "ch1-act5-seg390",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"The rhyme. The one the dragon sang. You're going to find what it talks about, aren't you? The Nine?\"",
-    "act": 5,
-    "paragraphIndex": 32
-  },
-  {
-    "id": "ch1-act5-seg391",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Yes.\"",
-    "act": 5,
-    "paragraphIndex": 33
-  },
-  {
-    "id": "ch1-act5-seg392",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Will you come back?\"",
-    "act": 5,
-    "paragraphIndex": 34
-  },
-  {
-    "id": "ch1-act5-seg393",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The question hit harder than expected. The scale stayed steady -- it would let him answer honestly either way.",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg394",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I don't know,\"",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg395",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he said.",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg396",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"The path is long. What I'm looking for is dangerous. But if I can...\"",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg397",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He stopped, tried again.",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg398",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I'll try.\"",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch1-act5-seg399",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale stung -- sharp and bright. He winced.",
-    "act": 5,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch1-act5-seg400",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Mira's eyes widened.",
-    "act": 5,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch1-act5-seg401",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"It hurt you. Why did it hurt you?\"",
-    "act": 5,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch1-act5-seg402",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"Because I wasn't being truthful enough.\"",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch1-act5-seg403",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He knelt so they were eye-level.",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch1-act5-seg404",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Let me try again. I don't know if I'll come back. What I'm doing might take years. It might take me to places I can't return from. But -- \"",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch1-act5-seg405",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "and this he knew was true, felt it bone-deep",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch1-act5-seg406",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\" -- if I succeed, if I find what I'm meant to find, then places like Thornwick will be safer. Dragons won't come searching. Villages won't burn. Children won't lose their mothers.\"",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch1-act5-seg407",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale stayed warm. No sting. Truth accepted.",
-    "act": 5,
-    "paragraphIndex": 39
-  },
-  {
-    "id": "ch1-act5-seg408",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Mira nodded solemnly, then surprised him by wrapping her arms around his neck in a fierce hug.",
-    "act": 5,
-    "paragraphIndex": 40
-  },
-  {
-    "id": "ch1-act5-seg409",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Then you have to succeed,\"",
-    "act": 5,
-    "paragraphIndex": 40
-  },
-  {
-    "id": "ch1-act5-seg410",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "she whispered against his shoulder.",
-    "act": 5,
-    "paragraphIndex": 40
-  },
-  {
-    "id": "ch1-act5-seg411",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You have to.\"",
-    "act": 5,
-    "paragraphIndex": 40
-  },
-  {
-    "id": "ch1-act5-seg412",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"I will,\"",
-    "act": 5,
-    "paragraphIndex": 41
-  },
-  {
-    "id": "ch1-act5-seg413",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he said, and hoped it wasn't a lie.",
-    "act": 5,
-    "paragraphIndex": 41
-  },
-  {
-    "id": "ch1-act5-seg414",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "When she pulled back, she was crying, but her chin was set with determination.",
-    "act": 5,
-    "paragraphIndex": 42
-  },
-  {
-    "id": "ch1-act5-seg415",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I'll remember the rhyme. Every word. And when you come back, I'll say it to you again so you know I kept it safe.\"",
-    "act": 5,
-    "paragraphIndex": 42
-  },
-  {
-    "id": "ch1-act5-seg416",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"I'd like that.\"",
-    "act": 5,
-    "paragraphIndex": 43
-  },
-  {
-    "id": "ch1-act5-seg417",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth gently called Mira back, and she went reluctantly, looking over her shoulder until she disappeared into the group of children being loaded onto the wagon.",
-    "act": 5,
-    "paragraphIndex": 44
-  },
-  {
-    "id": "ch1-act5-seg418",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"They're evacuating to Millbrook,\"",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch1-act5-seg419",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Gareth said.",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch1-act5-seg420",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"The village council there owes us a debt from the grain shortages five years back. We'll rebuild. Someday.\"",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch1-act5-seg421",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He looked around at the glass-transformed ruins.",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch1-act5-seg422",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"Or we'll build something new. Either way, we'll survive.\"",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch1-act5-seg423",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"I'm sorry,\"",
-    "act": 5,
-    "paragraphIndex": 46
-  },
-  {
-    "id": "ch1-act5-seg424",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin said.",
-    "act": 5,
-    "paragraphIndex": 46
-  },
-  {
-    "id": "ch1-act5-seg425",
-    "type": "dialogue",
-    "speaker": "gareth",
-    "text": "\"If I'd come sooner -- \"",
-    "act": 5,
-    "paragraphIndex": 46
-  },
-  {
-    "id": "ch1-act5-seg426",
-    "type": "dialogue",
-    "speaker": "caelin",
-    "text": "\"You came when you could. You saved who you could.\"",
-    "act": 5,
-    "paragraphIndex": 47
-  },
-  {
-    "id": "ch1-act5-seg427",
+    "id": "ch1-act4-seg427",
     "type": "narration",
     "speaker": "narrator",
     "text": "The elder's voice was firm.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 47
   },
   {
-    "id": "ch1-act5-seg428",
+    "id": "ch1-act4-seg428",
     "type": "dialogue",
     "speaker": "gareth",
     "text": "\"That's all anyone can ask. The rest is on the dragon, and she's answered for it.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 47
   },
   {
-    "id": "ch1-act5-seg429",
+    "id": "ch1-act4-seg429",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex touched Caelin's arm -- the unmarked one.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 48
   },
   {
-    "id": "ch1-act5-seg430",
+    "id": "ch1-act4-seg430",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"We should go. Afternoon's burning, and I'd rather be in the foothills before dark. Less chance of running into whatever might be drawn by the dragon's death.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 48
   },
   {
-    "id": "ch1-act5-seg431",
+    "id": "ch1-act4-seg431",
     "type": "narration",
     "speaker": "narrator",
     "text": "She was right. The scale pulsed agreement.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 49
   },
   {
-    "id": "ch1-act5-seg432",
+    "id": "ch1-act4-seg432",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin looked around at Thornwick one last time -- at the survivors, the transformed buildings, the smoke still rising from deeper ruins. He'd arrived at dawn to find catastrophe. He was leaving at midday carrying a burden he barely understood.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 50
   },
   {
-    "id": "ch1-act5-seg433",
+    "id": "ch1-act4-seg433",
     "type": "narration",
     "speaker": "narrator",
     "text": "But the flame-path stretched before him, bright and insistent and impossible to ignore.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 51
   },
   {
-    "id": "ch1-act5-seg434",
+    "id": "ch1-act4-seg434",
     "type": "dialogue",
     "speaker": "gareth",
     "text": "\"Take this,\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act5-seg435",
+    "id": "ch1-act4-seg435",
     "type": "narration",
     "speaker": "narrator",
     "text": "Gareth said, pressing a small pouch into Caelin's hand. It clinked with coin.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act5-seg436",
+    "id": "ch1-act4-seg436",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Not much, but enough to get you through the next few towns. And this -- \"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act5-seg437",
+    "id": "ch1-act4-seg437",
     "type": "narration",
     "speaker": "narrator",
     "text": "He pulled a folded piece of cloth from his pocket, opened it to reveal a simple silver pendant on a leather cord.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act5-seg438",
+    "id": "ch1-act4-seg438",
     "type": "dialogue",
     "speaker": "gareth",
     "text": "\"My wife's. She'd want you to have it. For luck.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 52
   },
   {
-    "id": "ch1-act5-seg439",
+    "id": "ch1-act4-seg439",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I can't -- \"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 53
   },
   {
-    "id": "ch1-act5-seg440",
+    "id": "ch1-act4-seg440",
     "type": "dialogue",
     "speaker": "gareth",
     "text": "\"You can, and you will.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 54
   },
   {
-    "id": "ch1-act5-seg441",
+    "id": "ch1-act4-seg441",
     "type": "narration",
     "speaker": "narrator",
     "text": "Gareth closed Caelin's fingers around it.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 54
   },
   {
-    "id": "ch1-act5-seg442",
+    "id": "ch1-act4-seg442",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Honor her memory by surviving whatever's ahead.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 54
   },
   {
-    "id": "ch1-act5-seg443",
+    "id": "ch1-act4-seg443",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin nodded, unable to speak past the tightness in his throat.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 55
   },
   {
-    "id": "ch1-act5-seg444",
+    "id": "ch1-act4-seg444",
     "type": "narration",
     "speaker": "narrator",
     "text": "They gathered what little they needed -- dried meat, water skins, a spare cloak for Vex -- and walked to the eastern edge of the village where the flame-path led. The thread of fire stretched across the fields toward where the land began its climb into the foothills.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 56
   },
   {
-    "id": "ch1-act5-seg445",
+    "id": "ch1-act4-seg445",
     "type": "narration",
     "speaker": "narrator",
     "text": "Only Caelin could see it, but he felt its pull like a physical thing now, stronger with each passing moment. The scale pulsed in rhythm with it, urging him forward.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 57
   },
   {
-    "id": "ch1-act5-seg446",
+    "id": "ch1-act4-seg446",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"So we just... walk toward the mountains?\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 58
   },
   {
-    "id": "ch1-act5-seg447",
+    "id": "ch1-act4-seg447",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex asked.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 58
   },
   {
-    "id": "ch1-act5-seg448",
+    "id": "ch1-act4-seg448",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Following something only you can see?\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 58
   },
   {
-    "id": "ch1-act5-seg449",
+    "id": "ch1-act4-seg449",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"That's the plan.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 59
   },
   {
-    "id": "ch1-act5-seg450",
+    "id": "ch1-act4-seg450",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Terrible plan.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 60
   },
   {
-    "id": "ch1-act5-seg451",
+    "id": "ch1-act4-seg451",
     "type": "narration",
     "speaker": "narrator",
     "text": "But she adjusted her pack and checked her daggers.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 60
   },
   {
-    "id": "ch1-act5-seg452",
+    "id": "ch1-act4-seg452",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I've followed worse.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 60
   },
   {
-    "id": "ch1-act5-seg453",
+    "id": "ch1-act4-seg453",
     "type": "narration",
     "speaker": "narrator",
     "text": "They set out together, leaving Thornwick's smoke behind. The flame-path stretched before them like a thread connecting present to uncertain future.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 61
   },
   {
-    "id": "ch1-act5-seg454",
+    "id": "ch1-act4-seg454",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin kept his marked arm exposed -- there was no point hiding it, and the scale seemed to pulse brighter when covered, as if objecting to concealment.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 61
   },
   {
-    "id": "ch1-act5-seg455",
+    "id": "ch1-act4-seg455",
     "type": "narration",
     "speaker": "narrator",
     "text": "As they walked, the embedded scale kept time with his heartbeat, a steady rhythm that was both foreign and intimate. The filaments beneath his skin had settled into their patterns, no longer feeling like invasion but like something that had always been there, waiting.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 62
   },
   {
-    "id": "ch1-act5-seg456",
+    "id": "ch1-act4-seg456",
     "type": "narration",
     "speaker": "narrator",
     "text": "The Emberpeaks grew larger on the horizon, their slopes darkening from blue to grey as afternoon light shifted. Somewhere in those mountains waited the First Sanctum. Somewhere ahead lay the Dragon's Ember, first of the Nine Relics.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 63
   },
   {
-    "id": "ch1-act5-seg457",
+    "id": "ch1-act4-seg457",
     "type": "narration",
     "speaker": "narrator",
     "text": "And somewhere beyond that -- beyond the paths and purposes and ancient pacts -- waited the thing that must never wake.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 64
   },
   {
-    "id": "ch1-act5-seg458",
+    "id": "ch1-act4-seg458",
     "type": "narration",
     "speaker": "narrator",
     "text": "But that was future's problem. Present's problem was putting one foot in front of the other, following a path of fire only he could see, trusting a scale embedded in his flesh to guide him true.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 65
   },
   {
-    "id": "ch1-act5-seg459",
+    "id": "ch1-act4-seg459",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"So,\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 66
   },
   {
-    "id": "ch1-act5-seg460",
+    "id": "ch1-act4-seg460",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said after they'd walked in silence for a while,",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 66
   },
   {
-    "id": "ch1-act5-seg461",
+    "id": "ch1-act4-seg461",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"what happens when we actually reach this sanctum? Do you have a plan?\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 66
   },
   {
-    "id": "ch1-act5-seg462",
+    "id": "ch1-act4-seg462",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Find the relic. Don't die. Probably in that order.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 67
   },
   {
-    "id": "ch1-act5-seg463",
+    "id": "ch1-act4-seg463",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"That's not a plan. That's barely even hope.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 68
   },
   {
-    "id": "ch1-act5-seg464",
+    "id": "ch1-act4-seg464",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale pulsed warm. No sting. It was the truth.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 69
   },
   {
-    "id": "ch1-act5-seg465",
+    "id": "ch1-act4-seg465",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"It's what I have,\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 70
   },
   {
-    "id": "ch1-act5-seg466",
+    "id": "ch1-act4-seg466",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 70
   },
   {
-    "id": "ch1-act5-seg467",
+    "id": "ch1-act4-seg467",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Then I guess it'll have to be enough.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 71
   },
   {
-    "id": "ch1-act5-seg468",
+    "id": "ch1-act4-seg468",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex squinted toward the mountains.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 71
   },
   {
-    "id": "ch1-act5-seg469",
+    "id": "ch1-act4-seg469",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Though for the record, I still can't see anything except regular mountains and impending doom.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 71
   },
   {
-    "id": "ch1-act5-seg470",
+    "id": "ch1-act4-seg470",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"The doom's definitely there.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 72
   },
   {
-    "id": "ch1-act5-seg471",
+    "id": "ch1-act4-seg471",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Fantastic.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 73
   },
   {
-    "id": "ch1-act5-seg472",
+    "id": "ch1-act4-seg472",
     "type": "narration",
     "speaker": "narrator",
     "text": "But there was something almost like humor in her voice.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 73
   },
   {
-    "id": "ch1-act5-seg473",
+    "id": "ch1-act4-seg473",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"At least we're doomed together. That's practically a friendship.\"",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 73
   },
   {
-    "id": "ch1-act5-seg474",
+    "id": "ch1-act4-seg474",
     "type": "narration",
     "speaker": "narrator",
     "text": "Despite everything -- the weight of the mark, the magnitude of the task, the uncertainty of what lay ahead -- Caelin found himself almost smiling.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 74
   },
   {
-    "id": "ch1-act5-seg475",
+    "id": "ch1-act4-seg475",
     "type": "narration",
     "speaker": "narrator",
     "text": "The flame-path stretched onward. The scale pulsed steady. The mountains waited.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 75
   },
   {
-    "id": "ch1-act5-seg476",
+    "id": "ch1-act4-seg476",
     "type": "narration",
     "speaker": "narrator",
     "text": "And somewhere in the distance, something ancient stirred in its sleep, feeling the first link of the chain being forged anew.",
-    "act": 5,
+    "act": 4,
     "paragraphIndex": 76
   }
 ]

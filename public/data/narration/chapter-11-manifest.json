@@ -1,0 +1,55 @@
+{
+  "chapter": 11,
+  "title": "Road to the Plateau",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "Leaving Walls",
+      "audioFile": "/audio/chapters/chapter-11-act-1.mp3",
+      "timingFile": "/data/narration/chapter-11-act-1-timing.json",
+      "totalDuration": 257.625,
+      "segmentCount": 44
+    },
+    {
+      "act": 2,
+      "actTitle": "Post-Siege Country",
+      "audioFile": "/audio/chapters/chapter-11-act-2.mp3",
+      "timingFile": "/data/narration/chapter-11-act-2-timing.json",
+      "totalDuration": 235.025,
+      "segmentCount": 45
+    },
+    {
+      "act": 3,
+      "actTitle": "The Hedge and the Hounds",
+      "audioFile": "/audio/chapters/chapter-11-act-3.mp3",
+      "timingFile": "/data/narration/chapter-11-act-3-timing.json",
+      "totalDuration": 258.6,
+      "segmentCount": 56
+    },
+    {
+      "act": 4,
+      "actTitle": "The Charcoal Clamp",
+      "audioFile": "/audio/chapters/chapter-11-act-4.mp3",
+      "timingFile": "/data/narration/chapter-11-act-4-timing.json",
+      "totalDuration": 299.2,
+      "segmentCount": 54
+    },
+    {
+      "act": 5,
+      "actTitle": "The Waystone",
+      "audioFile": "/audio/chapters/chapter-11-act-5.mp3",
+      "timingFile": "/data/narration/chapter-11-act-5-timing.json",
+      "totalDuration": 282.0,
+      "segmentCount": 40
+    },
+    {
+      "act": 6,
+      "actTitle": "The Aurora",
+      "audioFile": "/audio/chapters/chapter-11-act-6.mp3",
+      "timingFile": "/data/narration/chapter-11-act-6-timing.json",
+      "totalDuration": 315.975,
+      "segmentCount": 51
+    }
+  ],
+  "totalDuration": 1648.425
+}

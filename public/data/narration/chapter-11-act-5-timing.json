@@ -1,0 +1,329 @@
+{
+  "chapter": 11,
+  "act": 5,
+  "actTitle": "The Waystone",
+  "audioFile": "/audio/chapters/chapter-11-act-5.mp3",
+  "totalDuration": 282.0,
+  "segments": [
+    {
+      "id": "ch11-act5-seg200",
+      "start": 0.0,
+      "end": 15.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They reached the Ironwood fringe at dusk, where the trees grew straight and dark and the bark smelled faintly of cold iron even when you knew it couldn't. A forgotten road -- older than any of them had a right to name -- cut through in a shallow camber, the stones slick with moss and time."
+    },
+    {
+      "id": "ch11-act5-seg201",
+      "start": 15.525,
+      "end": 27.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At a crossroads of ruts and intention, a waystone stood hip-high -- granite freckled with lichen, nine faint sigils carved around its crown. Most folks would see old scratches. Caelin's scale saw a circuit."
+    },
+    {
+      "id": "ch11-act5-seg202",
+      "start": 28.225,
+      "end": 43.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Ember warmed. Not hot. Not warning. Recognition -- the pulse of something greeting something it remembered. The filaments along his forearm brightened a fraction, and the ember-motes in the obsidian plate swirled faster, as if excited by proximity to old, familiar magic."
+    },
+    {
+      "id": "ch11-act5-seg203",
+      "start": 44.05,
+      "end": 50.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex crouched and brushed dirt from the base, revealing a dwarf-stamp so worn it was almost a rumor."
+    },
+    {
+      "id": "ch11-act5-seg204",
+      "start": 50.225,
+      "end": 52.625,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Thornik would've loved this,\""
+    },
+    {
+      "id": "ch11-act5-seg205",
+      "start": 52.925,
+      "end": 55.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, softer than she meant to."
+    },
+    {
+      "id": "ch11-act5-seg206",
+      "start": 55.75,
+      "end": 57.125,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Yeah,\""
+    },
+    {
+      "id": "ch11-act5-seg207",
+      "start": 57.425,
+      "end": 59.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch11-act5-seg208",
+      "start": 59.375,
+      "end": 70.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He dug into his pocket and found Serana's ward-disc -- the little bronze coin stamped with a sunburst she'd pressed into his hand without a prayer. He set it on the waystone's flat top."
+    },
+    {
+      "id": "ch11-act5-seg209",
+      "start": 70.3,
+      "end": 82.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "For a heartbeat, the disc's lines flared dull gold, as if something in the stone remembered what warding felt like -- a ghost of purpose answering a ghost of faith. A faint smell of struck flint lifted and was gone."
+    },
+    {
+      "id": "ch11-act5-seg210",
+      "start": 82.75,
+      "end": 83.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Still works,\""
+    },
+    {
+      "id": "ch11-act5-seg211",
+      "start": 84.175,
+      "end": 85.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said."
+    },
+    {
+      "id": "ch11-act5-seg212",
+      "start": 85.775,
+      "end": 87.25,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"A little.\""
+    },
+    {
+      "id": "ch11-act5-seg213",
+      "start": 87.4,
+      "end": 88.775,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Enough,\""
+    },
+    {
+      "id": "ch11-act5-seg214",
+      "start": 89.075,
+      "end": 90.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch11-act5-seg215",
+      "start": 91.025,
+      "end": 96.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They set camp in the lee of the waystone, the ironwoods closing around them like a nave."
+    },
+    {
+      "id": "ch11-act5-seg216",
+      "start": 96.675,
+      "end": 108.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The trees creaked with the particular patience of old wood -- not the noise of strain but the conversation of things that had been standing for centuries and had opinions about everything that happened beneath them."
+    },
+    {
+      "id": "ch11-act5-seg217",
+      "start": 109.1,
+      "end": 120.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin tapped the tone-ring against the waystone's edge -- three-one-two -- and felt the faintest answering vibration through the iron, so subtle he might have imagined it. He didn't imagine it."
+    },
+    {
+      "id": "ch11-act5-seg218",
+      "start": 120.3,
+      "end": 129.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Somewhere north, under a mountain, a dwarf with a matching ring was doing the same thing, and the stone between them carried the signal like a whispered promise."
+    },
+    {
+      "id": "ch11-act5-seg219",
+      "start": 129.625,
+      "end": 141.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They ate cold trail-bread and harder cheese. Durgan drifted the perimeter like a boundary rider, never far, never comfortably close, the way a man walks when he doesn't trust the ground he's standing on."
+    },
+    {
+      "id": "ch11-act5-seg220",
+      "start": 141.625,
+      "end": 154.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A moth the size of a thumb fluttered into the ward's slight radius and settled on the waystone. It fanned powdery wings, paused as if listening, then lifted into the dark. Somewhere far away, a fox barked twice."
+    },
+    {
+      "id": "ch11-act5-seg221",
+      "start": 154.3,
+      "end": 167.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric took first watch without being asked. He sat with his back against the waystone's east face, bag across his knees, eyes on the treeline. He watched the way old soldiers watch -- not looking for anything specific, just watching."
+    },
+    {
+      "id": "ch11-act5-seg222",
+      "start": 167.675,
+      "end": 172.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Letting the forest teach him its rhythms so he'd know when something broke them."
+    },
+    {
+      "id": "ch11-act5-seg223",
+      "start": 172.85,
+      "end": 179.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin unrolled his bedroll beneath a blackthorn and only then checked his pack again. The cream note was gone."
+    },
+    {
+      "id": "ch11-act5-seg224",
+      "start": 180.025,
+      "end": 190.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "In its place, a strip of vellum narrower than a finger, rolled tight and tied with a thread that wasn't a color he could name -- not gold, not silver, not any shade the eye could hold."
+    },
+    {
+      "id": "ch11-act5-seg225",
+      "start": 190.975,
+      "end": 196.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It shifted when he turned it, like light through a soap bubble that had forgotten how to pop."
+    },
+    {
+      "id": "ch11-act5-seg226",
+      "start": 196.625,
+      "end": 198.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't open it."
+    },
+    {
+      "id": "ch11-act5-seg227",
+      "start": 198.975,
+      "end": 214.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ribbon at his wrist lay quiet and cool. The thread wasn't darker. Nyxara was still out there, somewhere within the hundred-mile radius. He touched the iron ring. Thornik was out there too. And Serana, on her eastern road, carrying a gear-coin and a silence where prayer used to be."
+    },
+    {
+      "id": "ch11-act5-seg228",
+      "start": 214.7,
+      "end": 222.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex, settling into her bedroll with the careful movements of someone negotiating with cracked ribs, caught his expression."
+    },
+    {
+      "id": "ch11-act5-seg229",
+      "start": 222.2,
+      "end": 223.65,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You're doing the math,\""
+    },
+    {
+      "id": "ch11-act5-seg230",
+      "start": 223.95,
+      "end": 225.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch11-act5-seg231",
+      "start": 225.5,
+      "end": 227.075,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"What math?\""
+    },
+    {
+      "id": "ch11-act5-seg232",
+      "start": 227.225,
+      "end": 232.325,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The math of who's missing. You do it every night. Your face changes and you think nobody notices.\""
+    },
+    {
+      "id": "ch11-act5-seg233",
+      "start": 232.475,
+      "end": 234.6,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Does it help to notice?\""
+    },
+    {
+      "id": "ch11-act5-seg234",
+      "start": 234.75,
+      "end": 238.325,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"No. But I notice things for a living. Occupational hazard.\""
+    },
+    {
+      "id": "ch11-act5-seg235",
+      "start": 238.625,
+      "end": 241.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She pulled her cloak over her shoulder."
+    },
+    {
+      "id": "ch11-act5-seg236",
+      "start": 241.575,
+      "end": 260.825,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Stop counting what's gone. Count what's here. Four people. One very sharp thief. One extremely stubborn surgeon. One shadow-cursed soldier who's fighting harder than any of us know. And one idiot with a dragon's scale in his arm who keeps walking toward the thing that wants to eat him.\""
+    },
+    {
+      "id": "ch11-act5-seg237",
+      "start": 260.975,
+      "end": 262.775,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Inspiring speech.\""
+    },
+    {
+      "id": "ch11-act5-seg238",
+      "start": 262.925,
+      "end": 270.9,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I'm not trying to inspire you. I'm trying to make you sleep. You can't save the world if you pass out before we get there.\""
+    },
+    {
+      "id": "ch11-act5-seg239",
+      "start": 271.2,
+      "end": 282.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She closed her eyes. Within minutes her breathing steadied -- not sleep, but the practiced stillness of someone who'd learned to rest in hostile territory, one ear open, one hand on a blade."
+    }
+  ]
+}

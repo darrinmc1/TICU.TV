@@ -1,0 +1,449 @@
+{
+  "chapter": 4,
+  "act": 1,
+  "actTitle": "Morning Camp",
+  "audioFile": "/audio/chapters/chapter-4-act-1.mp3",
+  "totalDuration": 316.9,
+  "segments": [
+    {
+      "id": "ch4-act1-seg001",
+      "start": 0.0,
+      "end": 11.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They left what passed for the last trees just after dawn, where brush gave up pretending it could live and stone took over. The air thinned and sharpened; the wind came clean off snow. Packs shifted on shoulders."
+    },
+    {
+      "id": "ch4-act1-seg002",
+      "start": 11.95,
+      "end": 13.675,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Distribution,\""
+    },
+    {
+      "id": "ch4-act1-seg003",
+      "start": 13.975,
+      "end": 18.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik announced, already elbow-deep in everyone's straps."
+    },
+    {
+      "id": "ch4-act1-seg004",
+      "start": 18.225,
+      "end": 21.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We die evenly, or not at all.\""
+    },
+    {
+      "id": "ch4-act1-seg005",
+      "start": 21.425,
+      "end": 26.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He shifted rope to Serana, water to Caelin, tools to himself."
+    },
+    {
+      "id": "ch4-act1-seg006",
+      "start": 26.15,
+      "end": 30.625,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Climbers carry line, churners carry weight, thinkers carry hope.\""
+    },
+    {
+      "id": "ch4-act1-seg007",
+      "start": 30.775,
+      "end": 32.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Which am I?\""
+    },
+    {
+      "id": "ch4-act1-seg008",
+      "start": 32.3,
+      "end": 35.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked, palming a wire coil into her cloak."
+    },
+    {
+      "id": "ch4-act1-seg009",
+      "start": 36.05,
+      "end": 37.8,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"An outlier,\""
+    },
+    {
+      "id": "ch4-act1-seg010",
+      "start": 38.1,
+      "end": 40.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said cheerfully."
+    },
+    {
+      "id": "ch4-act1-seg011",
+      "start": 40.2,
+      "end": 42.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"And therefore essential.\""
+    },
+    {
+      "id": "ch4-act1-seg012",
+      "start": 42.475,
+      "end": 53.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana took her share without complaint, leather creaking as she settled buckles. Durgan shouldered nothing obvious and still moved like a man who'd learned the weight of steel the hard way."
+    },
+    {
+      "id": "ch4-act1-seg013",
+      "start": 53.4,
+      "end": 57.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex's eyes tracked the motion, a cat gauging another predator."
+    },
+    {
+      "id": "ch4-act1-seg014",
+      "start": 58.025,
+      "end": 60.525,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You sure he's pulling his weight?\""
+    },
+    {
+      "id": "ch4-act1-seg015",
+      "start": 60.675,
+      "end": 62.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Leave him be,\""
+    },
+    {
+      "id": "ch4-act1-seg016",
+      "start": 62.725,
+      "end": 65.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, not looking back."
+    },
+    {
+      "id": "ch4-act1-seg017",
+      "start": 65.625,
+      "end": 68.625,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We'll see what he carries when it matters.\""
+    },
+    {
+      "id": "ch4-act1-seg018",
+      "start": 68.925,
+      "end": 81.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin bent to swing his pack and a nerve of fire pulled taut from his palm to his shoulder. The filaments under his skin went rigid; heat bled into the muscle. His breath caught, jaw tightening against the gasp trying to escape."
+    },
+    {
+      "id": "ch4-act1-seg019",
+      "start": 81.5,
+      "end": 82.8,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Here,\""
+    },
+    {
+      "id": "ch4-act1-seg020",
+      "start": 83.1,
+      "end": 95.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen said, already there, fingers gentle on shoulder strap and sternal buckle. She re-threaded, anchored weight away from the right forearm, breathed once, close enough that the scent of crushed pine needles rode the cold."
+    },
+    {
+      "id": "ch4-act1-seg021",
+      "start": 95.825,
+      "end": 102.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin flinched just a fraction, instinctive before forcing himself still. The ache loosened by a fraction."
+    },
+    {
+      "id": "ch4-act1-seg022",
+      "start": 102.825,
+      "end": 105.1,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Rest isn't surrender,\""
+    },
+    {
+      "id": "ch4-act1-seg023",
+      "start": 105.4,
+      "end": 108.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she added, barely above wind."
+    },
+    {
+      "id": "ch4-act1-seg024",
+      "start": 108.375,
+      "end": 114.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He nodded, embarrassed by the relief, embarrassed by the flinch, embarrassed by needing help at all."
+    },
+    {
+      "id": "ch4-act1-seg025",
+      "start": 114.65,
+      "end": 129.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below them, the valley lay shrunken and ghost-pale, a scatter of glass bones where Thornwick had burned. Clouds pressed low, turning the horizon into slate. For a moment, Caelin almost wished the climb could end there suspended between ruin and whatever waited above."
+    },
+    {
+      "id": "ch4-act1-seg026",
+      "start": 129.7,
+      "end": 140.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They took the slope in diagonals. By midmorning the sun was a thin coin, bright but without warmth. The mountain's breath came steady and cold, smelling of old iron and thawed bone."
+    },
+    {
+      "id": "ch4-act1-seg027",
+      "start": 140.525,
+      "end": 147.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "On the third switchback the trail slipped into scree that hissed downhill. Thornik yelped; Serana hauled him back by the collar."
+    },
+    {
+      "id": "ch4-act1-seg028",
+      "start": 148.15,
+      "end": 160.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin dropped to a knee as the hum he'd felt since Thornwick climbed a note; for two breaths the slab under them held roots of a scrub pine clenched stone as if remembering how then let go gently, enough to recover footing."
+    },
+    {
+      "id": "ch4-act1-seg029",
+      "start": 161.15,
+      "end": 171.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Behind him, Durgan hadn t stumbled at all. He stood motionless on the sliding scree, balanced with the ease of someone who knew exactly how much weight to trust each stone with."
+    },
+    {
+      "id": "ch4-act1-seg030",
+      "start": 171.625,
+      "end": 180.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His shadow pooled at his feet and then just for a moment, just at the edge of Caelin s vision stretched a half-step sideways from where the light said it should be."
+    },
+    {
+      "id": "ch4-act1-seg031",
+      "start": 180.85,
+      "end": 186.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then the stone shifted again and the moment passed, and Durgan was simply a man standing on a mountain."
+    },
+    {
+      "id": "ch4-act1-seg032",
+      "start": 187.2,
+      "end": 194.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's plate tightened faster pulses, not brighter light and when it eased the ache came back deeper, settling into bone."
+    },
+    {
+      "id": "ch4-act1-seg033",
+      "start": 194.6,
+      "end": 196.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Key of D,\""
+    },
+    {
+      "id": "ch4-act1-seg034",
+      "start": 196.425,
+      "end": 202.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, as if the near-fall were a footnote. He held a tuning fork near Caelin's arm; it thrummed."
+    },
+    {
+      "id": "ch4-act1-seg035",
+      "start": 202.9,
+      "end": 207.6,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Closer to E-flat by the teeth. Oh hello, modulation.\""
+    },
+    {
+      "id": "ch4-act1-seg036",
+      "start": 207.9,
+      "end": 210.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex rolled her eyes."
+    },
+    {
+      "id": "ch4-act1-seg037",
+      "start": 210.3,
+      "end": 214.275,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"If the mountain starts singing harmony, I'm going home.\""
+    },
+    {
+      "id": "ch4-act1-seg038",
+      "start": 214.575,
+      "end": 216.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one believed her."
+    },
+    {
+      "id": "ch4-act1-seg039",
+      "start": 216.975,
+      "end": 223.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana lingered a moment longer, gaze drifting down the slope where their footprints already blurred in loose grit."
+    },
+    {
+      "id": "ch4-act1-seg040",
+      "start": 223.775,
+      "end": 228.225,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"The higher we climb, the more the air forgets we belong to it,\""
+    },
+    {
+      "id": "ch4-act1-seg041",
+      "start": 228.525,
+      "end": 231.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she murmured. It wasn't addressed to anyone."
+    },
+    {
+      "id": "ch4-act1-seg042",
+      "start": 231.775,
+      "end": 236.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"If the gods meant us for this, they'd have given us thicker lungs.\""
+    },
+    {
+      "id": "ch4-act1-seg043",
+      "start": 236.325,
+      "end": 239.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik chuckled, misreading her tone."
+    },
+    {
+      "id": "ch4-act1-seg044",
+      "start": 239.525,
+      "end": 243.1,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"That's why we have rope. Rope's a kind of faith.\""
+    },
+    {
+      "id": "ch4-act1-seg045",
+      "start": 243.4,
+      "end": 247.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana gave him a thin smile that didn't reach her eyes."
+    },
+    {
+      "id": "ch4-act1-seg046",
+      "start": 247.5,
+      "end": 249.225,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Faith frays.\""
+    },
+    {
+      "id": "ch4-act1-seg047",
+      "start": 249.525,
+      "end": 252.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then she turned and started climbing again."
+    },
+    {
+      "id": "ch4-act1-seg048",
+      "start": 253.0,
+      "end": 264.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The flame-path in Caelin's vision had gone from fine hair to taut filament, tugging north and up like a hand on a hook. The others heard it as a hum under wind the way a kettle sings before it boils."
+    },
+    {
+      "id": "ch4-act1-seg049",
+      "start": 264.925,
+      "end": 274.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He stopped trying to drag his sleeve down. The last linen had singed his skin where it crossed the inlay. The mark would be seen or it would burn him for the privilege of pretending."
+    },
+    {
+      "id": "ch4-act1-seg050",
+      "start": 275.05,
+      "end": 278.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan moved behind him, silent as falling ash."
+    },
+    {
+      "id": "ch4-act1-seg051",
+      "start": 278.975,
+      "end": 281.325,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"The pull's stronger,\""
+    },
+    {
+      "id": "ch4-act1-seg052",
+      "start": 281.625,
+      "end": 286.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said. Caelin glanced back. Durgan's eyes stayed on the ridge ahead, unreadable."
+    },
+    {
+      "id": "ch4-act1-seg053",
+      "start": 287.15,
+      "end": 294.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It wasn't shame that made him hide it now, just the wish to look ordinary for one more heartbeat before the next mountain took it away."
+    },
+    {
+      "id": "ch4-act1-seg054",
+      "start": 295.025,
+      "end": 304.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They climbed, and the hum followed steady, rising, like breath drawn before a word. The flame-path kinked sharply ahead at the ridge, insisting on a particular route."
+    },
+    {
+      "id": "ch4-act1-seg055",
+      "start": 304.975,
+      "end": 316.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin squinted through thin air and made out where the path narrowed between two wind-carved pillars. Something was already there. He could see the outline of it someone standing where there had been no one a moment before."
+    }
+  ]
+}

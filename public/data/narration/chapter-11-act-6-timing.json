@@ -1,0 +1,417 @@
+{
+  "chapter": 11,
+  "act": 6,
+  "actTitle": "The Aurora",
+  "audioFile": "/audio/chapters/chapter-11-act-6.mp3",
+  "totalDuration": 315.975,
+  "segments": [
+    {
+      "id": "ch11-act6-seg240",
+      "start": 0.0,
+      "end": 11.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Later -- much later, when the ironwoods had stilled to their midnight sounds of sap-whisper and the tiny crackle of frost forming on bark -- Caelin woke to a light on the northern horizon that wasn't the moon."
+    },
+    {
+      "id": "ch11-act6-seg241",
+      "start": 11.825,
+      "end": 23.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A curtain of green-white shimmered and folded on itself like silk lit from within, then tore and sealed without sound. The hairs on his forearms rose; the scale's lattice hummed to a pitch he could feel in his teeth."
+    },
+    {
+      "id": "ch11-act6-seg242",
+      "start": 23.975,
+      "end": 24.65,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Wake,\""
+    },
+    {
+      "id": "ch11-act6-seg243",
+      "start": 24.95,
+      "end": 27.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, already on one knee."
+    },
+    {
+      "id": "ch11-act6-seg244",
+      "start": 27.975,
+      "end": 37.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex sat up instantly, dagger half-drawn, the transition from rest to ready so fast it looked like a magic trick. Durgan turned his face north and didn't blink."
+    },
+    {
+      "id": "ch11-act6-seg245",
+      "start": 37.925,
+      "end": 48.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His shadow -- Caelin noticed -- strained toward the light, a thin tendril reaching like a vine toward sun, before Durgan crushed it flat with a jaw-clenched effort that made his nose bleed."
+    },
+    {
+      "id": "ch11-act6-seg246",
+      "start": 48.6,
+      "end": 49.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"What is that?\""
+    },
+    {
+      "id": "ch11-act6-seg247",
+      "start": 50.175,
+      "end": 52.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex whispered."
+    },
+    {
+      "id": "ch11-act6-seg248",
+      "start": 52.175,
+      "end": 53.95,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Depthspire,\""
+    },
+    {
+      "id": "ch11-act6-seg249",
+      "start": 54.25,
+      "end": 62.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, certain without knowing how. The scale told him -- not in words, not in images, but in the bone-deep certainty of a compass finding north."
+    },
+    {
+      "id": "ch11-act6-seg250",
+      "start": 62.925,
+      "end": 65.15,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Something opened. Or closed.\""
+    },
+    {
+      "id": "ch11-act6-seg251",
+      "start": 65.3,
+      "end": 66.7,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Doors,\""
+    },
+    {
+      "id": "ch11-act6-seg252",
+      "start": 67.0,
+      "end": 73.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said, his voice rougher than usual. He wiped the blood from his upper lip without looking at it."
+    },
+    {
+      "id": "ch11-act6-seg253",
+      "start": 73.175,
+      "end": 75.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You can hear them even when you can't.\""
+    },
+    {
+      "id": "ch11-act6-seg254",
+      "start": 75.875,
+      "end": 82.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "From the far side of the waystone, Aldric sat up from his bedroll and looked north. He said nothing for a long moment."
+    },
+    {
+      "id": "ch11-act6-seg255",
+      "start": 83.15,
+      "end": 95.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The aurora folded and refolded, silent and wrong -- not the natural shimmer of magnetism playing in the upper atmosphere, but something deliberate, something that was using the sky the way a person uses a mirror."
+    },
+    {
+      "id": "ch11-act6-seg256",
+      "start": 95.925,
+      "end": 98.325,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"I've seen that light once before,\""
+    },
+    {
+      "id": "ch11-act6-seg257",
+      "start": 98.625,
+      "end": 100.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said finally."
+    },
+    {
+      "id": "ch11-act6-seg258",
+      "start": 100.825,
+      "end": 103.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Two years ago, three weeks before Veln's Post.\""
+    },
+    {
+      "id": "ch11-act6-seg259",
+      "start": 104.175,
+      "end": 114.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His voice was even -- not steady the way a calm man is steady, but steady the way a man is steady who has decided what he thinks about something and is done renegotiating."
+    },
+    {
+      "id": "ch11-act6-seg260",
+      "start": 114.35,
+      "end": 121.05,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"It wasn't a warning. It was a door opening. And thirty-seven men died to whatever came through.\""
+    },
+    {
+      "id": "ch11-act6-seg261",
+      "start": 121.35,
+      "end": 128.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The words settled into the space between the ironwoods and stayed there. No one answered. The answer wasn't the point."
+    },
+    {
+      "id": "ch11-act6-seg262",
+      "start": 128.625,
+      "end": 139.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The point was that a man who'd spent two years walking toward this moment was sitting under the same sky that had preceded the worst day of his life, and his voice was steady, and he wasn't turning around."
+    },
+    {
+      "id": "ch11-act6-seg263",
+      "start": 140.1,
+      "end": 151.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The aurora brightened, and for one impossible moment the waystone's sigils answered -- nine faint symbols flaring in sympathy, the dwarf-craft reading the sky the way a tuning fork reads a struck bell."
+    },
+    {
+      "id": "ch11-act6-seg264",
+      "start": 151.925,
+      "end": 164.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Ember blazed in Caelin's arm, not pain but recognition, a surge of warmth that said: this is what you've been walking toward. This is what the chain was forged to hold. This is what happens when the holding fails."
+    },
+    {
+      "id": "ch11-act6-seg265",
+      "start": 164.8,
+      "end": 178.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then the light faded, by degrees, as if whatever had opened the door had decided to close it again -- not because it was finished, but because it wanted them to know it could. The sky returned to ordinary darkness. The sigils dimmed. The Ember cooled."
+    },
+    {
+      "id": "ch11-act6-seg266",
+      "start": 179.15,
+      "end": 183.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ironwoods went on pretending to be ordinary trees."
+    },
+    {
+      "id": "ch11-act6-seg267",
+      "start": 183.3,
+      "end": 185.275,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Two days' grace,\""
+    },
+    {
+      "id": "ch11-act6-seg268",
+      "start": 185.575,
+      "end": 193.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said under his breath, thinking of prismatic dust and steady hands and a name that was only a letter. He didn't explain it."
+    },
+    {
+      "id": "ch11-act6-seg269",
+      "start": 193.6,
+      "end": 195.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex didn't ask."
+    },
+    {
+      "id": "ch11-act6-seg270",
+      "start": 195.675,
+      "end": 198.05,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Forest track or Merchant Road?\""
+    },
+    {
+      "id": "ch11-act6-seg271",
+      "start": 198.35,
+      "end": 206.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she asked instead, because Vex always knew when to let a mystery stay a mystery and when to focus on the thing that mattered, which was moving."
+    },
+    {
+      "id": "ch11-act6-seg272",
+      "start": 206.9,
+      "end": 208.35,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Forest,\""
+    },
+    {
+      "id": "ch11-act6-seg273",
+      "start": 208.65,
+      "end": 210.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch11-act6-seg274",
+      "start": 210.45,
+      "end": 213.775,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Humans on the road. Scouts hate ironwood.\""
+    },
+    {
+      "id": "ch11-act6-seg275",
+      "start": 213.925,
+      "end": 215.8,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Scouts hate wards,\""
+    },
+    {
+      "id": "ch11-act6-seg276",
+      "start": 216.1,
+      "end": 220.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan added, nodding at the disc still warm with a memory of light."
+    },
+    {
+      "id": "ch11-act6-seg277",
+      "start": 220.8,
+      "end": 222.55,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Then forest,\""
+    },
+    {
+      "id": "ch11-act6-seg278",
+      "start": 222.85,
+      "end": 224.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex decided."
+    },
+    {
+      "id": "ch11-act6-seg279",
+      "start": 224.875,
+      "end": 226.9,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"We thread the old way.\""
+    },
+    {
+      "id": "ch11-act6-seg280",
+      "start": 227.2,
+      "end": 238.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They settled again to the kind of rest you take in pieces -- not sleep but a negotiation with consciousness, the body agreeing to stop moving in exchange for the mind agreeing to stop planning."
+    },
+    {
+      "id": "ch11-act6-seg281",
+      "start": 238.65,
+      "end": 249.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex lay on her good shoulder and counted breaths until numbers stopped mattering. Durgan sat with his back to a trunk and watched his shadow not move, holding the leash, or wearing it, or both."
+    },
+    {
+      "id": "ch11-act6-seg282",
+      "start": 249.775,
+      "end": 259.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin held the unopened vellum between his fingers and felt the not-color thread pulse against his skin -- once, twice, like a heartbeat that wasn't his."
+    },
+    {
+      "id": "ch11-act6-seg283",
+      "start": 259.35,
+      "end": 272.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric sat with his back against the waystone, eyes open, and did arithmetic. Not the kind with numbers -- the kind with consequences. He'd seen this light before. He knew what came after it. The question wasn't whether the door would open."
+    },
+    {
+      "id": "ch11-act6-seg284",
+      "start": 272.975,
+      "end": 279.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The question was whether four people, one of them carrying a relic he didn't understand, could walk through it and come back."
+    },
+    {
+      "id": "ch11-act6-seg285",
+      "start": 280.275,
+      "end": 292.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "After a while he lay down, not because he thought he'd sleep, but because horizontal was better than the alternative and he'd learned, over forty years, not to waste energy on posture when he could spend it on preparedness."
+    },
+    {
+      "id": "ch11-act6-seg286",
+      "start": 293.15,
+      "end": 297.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ironwoods creaked softly, like doors deciding when to be doors."
+    },
+    {
+      "id": "ch11-act6-seg287",
+      "start": 298.1,
+      "end": 310.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At some point, far to the north and far below the ground, something knocked once. Not loud. Not near. The sound of something patient, something vast, something that had been counting for a very long time and was almost finished."
+    },
+    {
+      "id": "ch11-act6-seg288",
+      "start": 310.8,
+      "end": 312.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch11-act6-seg289",
+      "start": 312.3,
+      "end": 314.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A patient sound."
+    },
+    {
+      "id": "ch11-act6-seg290",
+      "start": 314.575,
+      "end": 315.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Counting."
+    }
+  ]
+}

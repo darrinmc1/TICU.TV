@@ -1,0 +1,457 @@
+{
+  "chapter": 10,
+  "act": 4,
+  "actTitle": "Serana's Road",
+  "audioFile": "/audio/chapters/chapter-10-act-4.mp3",
+  "totalDuration": 282.65,
+  "segments": [
+    {
+      "id": "ch10-act4-seg134",
+      "start": 0.0,
+      "end": 1.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They found her by the half-fallen chapel arch, alone. The chapel had taken smoke damage on the south wall; one window was gone, and the pale morning light came through the gap in a way that made the remaining stone look older than it was."
+    },
+    {
+      "id": "ch10-act4-seg135",
+      "start": 1.9,
+      "end": 14.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She stood with her fingers resting on the arch, not in prayer -- she'd have been the first to say so -- but in the way of someone reading a language they used to be fluent in and were not sure they still spoke."
+    },
+    {
+      "id": "ch10-act4-seg136",
+      "start": 14.875,
+      "end": 28.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The stone was cool under her fingertips."
+    },
+    {
+      "id": "ch10-act4-seg137",
+      "start": 28.775,
+      "end": 43.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She could feel the mason's work -- the precision of the cuts, the way each block had been fitted to its neighbor with the care of someone who believed that straight lines and right angles were their own form of worship."
+    },
+    {
+      "id": "ch10-act4-seg138",
+      "start": 43.675,
+      "end": 45.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Once, she'd felt the divine in stones like these. Now she felt the geometry and the intent, and neither of those were gods. They were craft. They were beautiful. But they weren't the voice she'd spent fifteen years following."
+    },
+    {
+      "id": "ch10-act4-seg139",
+      "start": 46.125,
+      "end": 51.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She heard them approach and didn't turn."
+    },
+    {
+      "id": "ch10-act4-seg140",
+      "start": 51.15,
+      "end": 60.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I've been trying to find a way to say this that isn't a failure,\""
+    },
+    {
+      "id": "ch10-act4-seg141",
+      "start": 60.6,
+      "end": 73.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch10-act4-seg142",
+      "start": 73.75,
+      "end": 74.85,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I haven't found one. So I'll just say it.\""
+    },
+    {
+      "id": "ch10-act4-seg143",
+      "start": 75.25,
+      "end": 77.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She turned then. Her face was composed -- the particular composure of someone who'd made a decision and was standing behind it, not because it was easy but because it was the only honest thing left."
+    },
+    {
+      "id": "ch10-act4-seg144",
+      "start": 78.125,
+      "end": 83.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"My light failed,\""
+    },
+    {
+      "id": "ch10-act4-seg145",
+      "start": 83.35,
+      "end": 84.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch10-act4-seg146",
+      "start": 85.35,
+      "end": 86.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You've seen it. It may return -- I don't know -- but right now I can't pray with any certainty that someone is listening. And I can't lead you while I don't know whose voice I'm following, if any.\""
+    },
+    {
+      "id": "ch10-act4-seg147",
+      "start": 87.175,
+      "end": 88.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She let that sit. It deserved the space."
+    },
+    {
+      "id": "ch10-act4-seg148",
+      "start": 89.225,
+      "end": 91.725,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That would be dishonest. And dishonest faith is worse than no faith at all -- it gets people killed on promises you can't keep.\""
+    },
+    {
+      "id": "ch10-act4-seg149",
+      "start": 92.025,
+      "end": 94.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The silence after that was the kind that asks not to be filled quickly."
+    },
+    {
+      "id": "ch10-act4-seg150",
+      "start": 94.95,
+      "end": 96.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin remembered the forked whisper -- Shield the bearer. Offer the bearer."
+    },
+    {
+      "id": "ch10-act4-seg151",
+      "start": 96.725,
+      "end": 98.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He'd never heard it himself, but he'd seen its effect on Serana's face: the particular horror of someone who'd discovered that the voice they trusted most might be two things wearing one name. He didn't ask about it now."
+    },
+    {
+      "id": "ch10-act4-seg152",
+      "start": 98.5,
+      "end": 101.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She'd tell them when she was ready, or she wouldn't, and either way it was hers."
+    },
+    {
+      "id": "ch10-act4-seg153",
+      "start": 101.4,
+      "end": 112.45,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Where will you go?\""
+    },
+    {
+      "id": "ch10-act4-seg154",
+      "start": 112.75,
+      "end": 115.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he asked."
+    },
+    {
+      "id": "ch10-act4-seg155",
+      "start": 115.725,
+      "end": 117.25,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"East. There's a place -- an old house of retreat, not affiliated with any order -- where they take people who are having difficulty with questions like mine.\""
+    },
+    {
+      "id": "ch10-act4-seg156",
+      "start": 117.55,
+      "end": 121.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A pause."
+    },
+    {
+      "id": "ch10-act4-seg157",
+      "start": 121.175,
+      "end": 133.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"People who have lost the signal and are trying to find it again. Or learning to live without it.\""
+    },
+    {
+      "id": "ch10-act4-seg158",
+      "start": 133.325,
+      "end": 139.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She looked at the gap in the chapel wall, where the morning light poured through the absence like a answer to a question nobody had asked."
+    },
+    {
+      "id": "ch10-act4-seg159",
+      "start": 139.45,
+      "end": 142.15,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I don't know which of those I'm doing yet.\""
+    },
+    {
+      "id": "ch10-act4-seg160",
+      "start": 142.3,
+      "end": 151.175,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"How long?\""
+    },
+    {
+      "id": "ch10-act4-seg161",
+      "start": 151.325,
+      "end": 152.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I don't know that either.\""
+    },
+    {
+      "id": "ch10-act4-seg162",
+      "start": 153.225,
+      "end": 159.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She almost smiled."
+    },
+    {
+      "id": "ch10-act4-seg163",
+      "start": 159.425,
+      "end": 161.35,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Which is, in itself, a kind of answer.\""
+    },
+    {
+      "id": "ch10-act4-seg164",
+      "start": 161.65,
+      "end": 164.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She unrolled a strip of plain linen inked with a knotwork sigil -- old work, careful, the lines laid down with a steady hand that had not trembled."
+    },
+    {
+      "id": "ch10-act4-seg165",
+      "start": 164.525,
+      "end": 166.125,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"A vigil-knot. No goddess required -- just breath and intention. Tie it round a wrist, speak the count of nine slowly, and it holds a line against panic for about an hour. Not much.\""
+    },
+    {
+      "id": "ch10-act4-seg166",
+      "start": 166.425,
+      "end": 167.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She almost smiled."
+    },
+    {
+      "id": "ch10-act4-seg167",
+      "start": 168.2,
+      "end": 169.65,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Enough, sometimes.\""
+    },
+    {
+      "id": "ch10-act4-seg168",
+      "start": 169.95,
+      "end": 173.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She pressed one into Caelin's hand, then set three more on the stone ledge of the arch."
+    },
+    {
+      "id": "ch10-act4-seg169",
+      "start": 173.5,
+      "end": 175.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"For whoever needs them. They'll keep.\""
+    },
+    {
+      "id": "ch10-act4-seg170",
+      "start": 175.525,
+      "end": 180.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik took one without being asked, wrapping it around his thick wrist like a bracelet."
+    },
+    {
+      "id": "ch10-act4-seg171",
+      "start": 180.725,
+      "end": 182.4,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Panic and I are old friends,\""
+    },
+    {
+      "id": "ch10-act4-seg172",
+      "start": 182.8,
+      "end": 184.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch10-act4-seg173",
+      "start": 184.7,
+      "end": 186.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We have an arrangement. But backup never hurts.\""
+    },
+    {
+      "id": "ch10-act4-seg174",
+      "start": 186.725,
+      "end": 203.55,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"If I'm meant to come back, I will,\""
+    },
+    {
+      "id": "ch10-act4-seg175",
+      "start": 203.85,
+      "end": 214.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said."
+    },
+    {
+      "id": "ch10-act4-seg176",
+      "start": 214.5,
+      "end": 220.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"And if not -- \""
+    },
+    {
+      "id": "ch10-act4-seg177",
+      "start": 220.925,
+      "end": 225.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "her eyes moved to each of them in turn, settling last on Caelin"
+    },
+    {
+      "id": "ch10-act4-seg178",
+      "start": 226.1,
+      "end": 231.4,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\" -- you already know how to stand. You've been doing it since the mountain. You just didn't notice because I was nearby.\""
+    },
+    {
+      "id": "ch10-act4-seg179",
+      "start": 231.7,
+      "end": 233.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex had been quiet the whole time, which was unusual enough to notice. She unfolded her arms -- carefully, because of the rib -- and said:"
+    },
+    {
+      "id": "ch10-act4-seg180",
+      "start": 234.075,
+      "end": 234.95,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"If your god is taking interviews, tell Her the customer service is abysmal.\""
+    },
+    {
+      "id": "ch10-act4-seg181",
+      "start": 235.25,
+      "end": 245.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ghost of a smile crossed Serana's face -- real, not performed. The kind that comes when someone gives you exactly the thing you need, and the thing you need turns out to be a joke."
+    },
+    {
+      "id": "ch10-act4-seg182",
+      "start": 245.75,
+      "end": 247.875,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I'll pass it along.\""
+    },
+    {
+      "id": "ch10-act4-seg183",
+      "start": 248.025,
+      "end": 249.425,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Also tell Her,\""
+    },
+    {
+      "id": "ch10-act4-seg184",
+      "start": 249.725,
+      "end": 251.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex continued,"
+    },
+    {
+      "id": "ch10-act4-seg185",
+      "start": 251.8,
+      "end": 260.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"that you were the best paladin I've met, and I've met four, and three of them were idiots. You were the one who wasn't. So if She's got any sense, She'll pick up the damn prayer and answer it.\""
+    },
+    {
+      "id": "ch10-act4-seg186",
+      "start": 260.7,
+      "end": 269.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's composure cracked, just once, just briefly -- the flash of emotion underneath the armor, the person beneath the title. She blinked once, steadied."
+    },
+    {
+      "id": "ch10-act4-seg187",
+      "start": 269.775,
+      "end": 271.125,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Thank you.\""
+    },
+    {
+      "id": "ch10-act4-seg188",
+      "start": 271.275,
+      "end": 273.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Don't thank me. I'll deny saying it.\""
+    },
+    {
+      "id": "ch10-act4-seg189",
+      "start": 273.925,
+      "end": 282.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana picked up her pack. It was lighter than it had been. She'd left the heavy things behind -- and the light things, too. She'd left everything that wasn't her."
+    }
+  ]
+}

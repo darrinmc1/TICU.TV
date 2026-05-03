@@ -1,0 +1,297 @@
+{
+  "chapter": 9,
+  "act": 4,
+  "actTitle": "Vale's Stand",
+  "audioFile": "/audio/chapters/chapter-9-act-4.mp3",
+  "totalDuration": 226.225,
+  "segments": [
+    {
+      "id": "ch9-act4-seg115",
+      "start": 0.0,
+      "end": 12.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thralls found the thin place at the well-head -- a junction where two ward-lines met at an awkward angle and the chalk had been scuffed by boot-traffic. Vale saw it before anyone else because Vale always saw it first."
+    },
+    {
+      "id": "ch9-act4-seg116",
+      "start": 12.575,
+      "end": 18.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He was already moving, three soldiers falling in behind him out of twelve years of habit."
+    },
+    {
+      "id": "ch9-act4-seg117",
+      "start": 18.4,
+      "end": 29.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They fought at the well-head with the compact efficiency of men defending a thing they knew they couldn't afford to lose. The water supply. The bucket chain's source. The difference between holding and burning."
+    },
+    {
+      "id": "ch9-act4-seg118",
+      "start": 29.975,
+      "end": 44.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale moved with no wasted motion, no glory -- the fighting of a man who had learned, over a career of border skirmishes and garrison work, that the loudest sword was usually the last one standing and the quietest one was usually the one that won."
+    },
+    {
+      "id": "ch9-act4-seg119",
+      "start": 44.375,
+      "end": 55.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He blocked a rake with his shield, pivoted his weight, and let the thrall's own momentum carry it onto his blade. His foot found the cobble-edge and used it for leverage. His breathing stayed steady."
+    },
+    {
+      "id": "ch9-act4-seg120",
+      "start": 55.825,
+      "end": 70.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The sixteen-year-old boy was on his left, spear braced the way Vale had squared it twenty minutes ago. The boy was scared -- his eyes too wide, his hands too white -- but the spear was level and his feet were set. He'd listened. That mattered more than bravery."
+    },
+    {
+      "id": "ch9-act4-seg121",
+      "start": 70.325,
+      "end": 84.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three thralls pressed the well-head from the east, and Vale gave ground -- one step, two -- creating the angle he needed. His blade caught the first across the arm. The second he knocked into the well's stone lip, where it tangled on its own wrongjointed limbs. The third --"
+    },
+    {
+      "id": "ch9-act4-seg122",
+      "start": 84.975,
+      "end": 87.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The third came from the side."
+    },
+    {
+      "id": "ch9-act4-seg123",
+      "start": 87.725,
+      "end": 97.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A spike of shadow-metal, grown from the thrall's own arm like a thorn pushing through bark -- came in low and fast at an angle the boy couldn't have seen from his position."
+    },
+    {
+      "id": "ch9-act4-seg124",
+      "start": 97.775,
+      "end": 105.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale could see it because he was already looking, because he'd spent forty years looking at angles and knowing which ones killed."
+    },
+    {
+      "id": "ch9-act4-seg125",
+      "start": 105.425,
+      "end": 114.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He shoved the boy. Hard -- harder than he should have, hard enough to throw the kid three feet sideways and into the arms of a sergeant who caught him on reflex."
+    },
+    {
+      "id": "ch9-act4-seg126",
+      "start": 114.65,
+      "end": 117.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The spike took Vale through the ribs."
+    },
+    {
+      "id": "ch9-act4-seg127",
+      "start": 117.775,
+      "end": 126.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He went down on one knee, hand still on his sword, and stayed there for three heartbeats while his body argued with his decision. Then he looked at the sergeant."
+    },
+    {
+      "id": "ch9-act4-seg128",
+      "start": 126.825,
+      "end": 129.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Bucket chain's exposed,\""
+    },
+    {
+      "id": "ch9-act4-seg129",
+      "start": 129.65,
+      "end": 131.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch9-act4-seg130",
+      "start": 131.175,
+      "end": 135.35,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Get two men on the south corner. Paladin takes command.\""
+    },
+    {
+      "id": "ch9-act4-seg131",
+      "start": 135.65,
+      "end": 138.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He coughed, and the sound had wet in it."
+    },
+    {
+      "id": "ch9-act4-seg132",
+      "start": 138.575,
+      "end": 141.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And someone tell that boy -- \""
+    },
+    {
+      "id": "ch9-act4-seg133",
+      "start": 141.4,
+      "end": 143.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Another cough."
+    },
+    {
+      "id": "ch9-act4-seg134",
+      "start": 143.225,
+      "end": 145.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Tell him he did fine.\""
+    },
+    {
+      "id": "ch9-act4-seg135",
+      "start": 145.8,
+      "end": 160.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The grey-bearded surgeon was there in under a minute, bag open, hands moving before his knees had settled. He assessed the wound with the rapid competence of a man who'd seen this injury a hundred times and known the outcome of each. His hands slowed. Then stopped."
+    },
+    {
+      "id": "ch9-act4-seg136",
+      "start": 160.7,
+      "end": 162.025,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Captain,\""
+    },
+    {
+      "id": "ch9-act4-seg137",
+      "start": 162.325,
+      "end": 164.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said quietly."
+    },
+    {
+      "id": "ch9-act4-seg138",
+      "start": 164.45,
+      "end": 165.825,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I know,\""
+    },
+    {
+      "id": "ch9-act4-seg139",
+      "start": 166.125,
+      "end": 167.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale said."
+    },
+    {
+      "id": "ch9-act4-seg140",
+      "start": 167.8,
+      "end": 169.85,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I'm not stupid.\""
+    },
+    {
+      "id": "ch9-act4-seg141",
+      "start": 170.15,
+      "end": 174.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His breathing had gone shallow. His hand was still on his sword."
+    },
+    {
+      "id": "ch9-act4-seg142",
+      "start": 174.425,
+      "end": 175.925,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"How long?\""
+    },
+    {
+      "id": "ch9-act4-seg143",
+      "start": 176.075,
+      "end": 177.475,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Minutes.\""
+    },
+    {
+      "id": "ch9-act4-seg144",
+      "start": 177.625,
+      "end": 179.65,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Then I've got minutes.\""
+    },
+    {
+      "id": "ch9-act4-seg145",
+      "start": 179.95,
+      "end": 186.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale looked at the boy, who was standing ten feet away with a face that didn't understand why he was still standing."
+    },
+    {
+      "id": "ch9-act4-seg146",
+      "start": 186.75,
+      "end": 189.8,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Tell him what I said. About showing up.\""
+    },
+    {
+      "id": "ch9-act4-seg147",
+      "start": 190.1,
+      "end": 194.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The surgeon -- Aldric, Caelin would learn later -- nodded once."
+    },
+    {
+      "id": "ch9-act4-seg148",
+      "start": 194.5,
+      "end": 196.125,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I'll tell him.\""
+    },
+    {
+      "id": "ch9-act4-seg149",
+      "start": 196.425,
+      "end": 210.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale's hand relaxed on the sword. His eyes found the sky above the square, where smoke and stars competed for attention, and whatever he saw there was his. He breathed once more, shallow and careful, the breath of a man trying to make the last one count."
+    },
+    {
+      "id": "ch9-act4-seg150",
+      "start": 210.975,
+      "end": 226.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then he was gone, and the square was quieter for it -- not because the fighting had stopped, but because something fundamental about the defense had changed. The man who'd been telling Millbrook what to do for twelve years had stopped, and the town would have to remember how to stand on its own."
+    }
+  ]
+}

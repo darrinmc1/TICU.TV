@@ -1,0 +1,31 @@
+{
+  "chapter": 3,
+  "title": "Nature's Messenger",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "The Green Way",
+      "audioFile": "/audio/chapters/chapter-3-act-1.mp3",
+      "timingFile": "/data/narration/chapter-3-act-1-timing.json",
+      "totalDuration": 1046.275,
+      "segmentCount": 164
+    },
+    {
+      "act": 2,
+      "actTitle": "Elowen's Grove",
+      "audioFile": "/audio/chapters/chapter-3-act-2.mp3",
+      "timingFile": "/data/narration/chapter-3-act-2-timing.json",
+      "totalDuration": 820.975,
+      "segmentCount": 150
+    },
+    {
+      "act": 3,
+      "actTitle": "Nature's Warning",
+      "audioFile": "/audio/chapters/chapter-3-act-3.mp3",
+      "timingFile": "/data/narration/chapter-3-act-3-timing.json",
+      "totalDuration": 766.925,
+      "segmentCount": 122
+    }
+  ],
+  "totalDuration": 2634.175
+}

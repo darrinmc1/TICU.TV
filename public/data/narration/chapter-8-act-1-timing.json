@@ -1,0 +1,505 @@
+{
+  "chapter": 8,
+  "act": 1,
+  "actTitle": "Aftermath",
+  "audioFile": "/audio/chapters/chapter-8-act-1.mp3",
+  "totalDuration": 358.025,
+  "segments": [
+    {
+      "id": "ch8-act1-seg001",
+      "start": 0.0,
+      "end": 12.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Dawn found them already moving, the mountain at their backs like a dark thought they refused to turn and entertain. The air changed first -- thin cold bleeding into crisp, pine-sweet breath with a mineral bite from distant streams."
+    },
+    {
+      "id": "ch8-act1-seg002",
+      "start": 13.275,
+      "end": 23.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Lichen-glow gave way to frost-silvered scrub; then the path stitched itself through scattered firs and the soil began to smell like earth again instead of old stone."
+    },
+    {
+      "id": "ch8-act1-seg003",
+      "start": 23.2,
+      "end": 26.85,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Millbrook's the closest roof that won't fall on us,\""
+    },
+    {
+      "id": "ch8-act1-seg004",
+      "start": 27.15,
+      "end": 30.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, voice low, practical."
+    },
+    {
+      "id": "ch8-act1-seg005",
+      "start": 30.15,
+      "end": 38.25,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Temple wards, a licensed healer, and a smith who won't insult my beard. We get clean water, mended kit, and news.\""
+    },
+    {
+      "id": "ch8-act1-seg006",
+      "start": 38.55,
+      "end": 41.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana nodded without looking back."
+    },
+    {
+      "id": "ch8-act1-seg007",
+      "start": 41.725,
+      "end": 45.775,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Temple first. Water second. Decisions after.\""
+    },
+    {
+      "id": "ch8-act1-seg008",
+      "start": 46.075,
+      "end": 49.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her tone made it an order and a prayer at once."
+    },
+    {
+      "id": "ch8-act1-seg009",
+      "start": 49.9,
+      "end": 57.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said nothing. The scale in his forearm had settled to a coal-glow -- steady, sullen heat that throbbed in time with his heartbeat."
+    },
+    {
+      "id": "ch8-act1-seg010",
+      "start": 58.275,
+      "end": 65.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The lattice of ember-filaments ached like overworked muscle, a constant message written under the skin: Still here. Still costing."
+    },
+    {
+      "id": "ch8-act1-seg011",
+      "start": 66.175,
+      "end": 74.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He walked with his right arm close to his side, conserving everything he could, counting steps when thoughts tried to circle the collapse."
+    },
+    {
+      "id": "ch8-act1-seg012",
+      "start": 74.375,
+      "end": 88.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara kept pace a little behind and to his left, favoring her ankle. She wore her gloves again, black leather cut close, immaculate despite the miles. She didn't explain. She never did. The gloves stayed, and no one in the world needed the sight hidden beneath them."
+    },
+    {
+      "id": "ch8-act1-seg013",
+      "start": 89.15,
+      "end": 93.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan took rearguard. The shadow at his boots behaved -- mostly."
+    },
+    {
+      "id": "ch8-act1-seg014",
+      "start": 93.825,
+      "end": 104.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Every so often it stretched a finger's width too far toward the path they'd just walked, as if reaching back for the mountain's darkness; each time his jaw tightened and it went flat again."
+    },
+    {
+      "id": "ch8-act1-seg015",
+      "start": 104.55,
+      "end": 114.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When a trickle of red touched his upper lip he wiped it away on a dark sleeve and kept moving. No one commented. Maybe they didn't see. Maybe they pretended not to."
+    },
+    {
+      "id": "ch8-act1-seg016",
+      "start": 114.35,
+      "end": 126.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex moved quiet at the flank, her shoulder bound high and tight under her cloak. She spared her right arm, used her left to balance on the scree. Her breath ghosted in the cold. She didn't complain. She never did either."
+    },
+    {
+      "id": "ch8-act1-seg017",
+      "start": 126.625,
+      "end": 138.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Somewhere far behind, the mountain gave a last, reluctant echo: thud... thud... The sound thinned with every switchback, not nearer or farther so much as fainter -- like a heartbeat heard through a wall you were walking away from."
+    },
+    {
+      "id": "ch8-act1-seg018",
+      "start": 139.275,
+      "end": 140.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Spring"
+    },
+    {
+      "id": "ch8-act1-seg019",
+      "start": 141.025,
+      "end": 153.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They found a spring where the path shouldered under a shelf of granite, water humming through old ironweed and moss. It smelled clean -- green-cold and metallic -- and the relief of it stole conversation from their mouths."
+    },
+    {
+      "id": "ch8-act1-seg020",
+      "start": 153.675,
+      "end": 161.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They drank. Washed dust from faces and hands. No one went for wounds until they'd filled skins; old habits, soldier's habits."
+    },
+    {
+      "id": "ch8-act1-seg021",
+      "start": 161.65,
+      "end": 167.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The healer's words from another life, another town, rose uninvited in Caelin's mind:"
+    },
+    {
+      "id": "ch8-act1-seg022",
+      "start": 167.575,
+      "end": 170.15,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Not the same as your druid.\""
+    },
+    {
+      "id": "ch8-act1-seg023",
+      "start": 170.45,
+      "end": 181.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He could almost hear Elowen laugh at that. He pressed his lips to the waterskin and swallowed the ache down with the cold. The scale warmed in answer, as if approving the discipline of silence over words."
+    },
+    {
+      "id": "ch8-act1-seg024",
+      "start": 181.975,
+      "end": 184.475,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Two hours to the treeline,\""
+    },
+    {
+      "id": "ch8-act1-seg025",
+      "start": 184.775,
+      "end": 189.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, consulting a sweat-curled page from his grandfather's journal."
+    },
+    {
+      "id": "ch8-act1-seg026",
+      "start": 189.875,
+      "end": 192.9,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Four to Millbrook if the track holds.\""
+    },
+    {
+      "id": "ch8-act1-seg027",
+      "start": 193.05,
+      "end": 194.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Make it three,\""
+    },
+    {
+      "id": "ch8-act1-seg028",
+      "start": 194.6,
+      "end": 197.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, squinting downhill."
+    },
+    {
+      "id": "ch8-act1-seg029",
+      "start": 197.35,
+      "end": 204.35,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Smoke over the flats. Small plumes. Breakfast fires or too many chimneys for a village that size.\""
+    },
+    {
+      "id": "ch8-act1-seg030",
+      "start": 204.5,
+      "end": 206.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Refugees,\""
+    },
+    {
+      "id": "ch8-act1-seg031",
+      "start": 206.725,
+      "end": 209.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. Not a question."
+    },
+    {
+      "id": "ch8-act1-seg032",
+      "start": 209.575,
+      "end": 211.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They moved on."
+    },
+    {
+      "id": "ch8-act1-seg033",
+      "start": 211.65,
+      "end": 213.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Approach: Treeline"
+    },
+    {
+      "id": "ch8-act1-seg034",
+      "start": 213.55,
+      "end": 224.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The path widened under trees, frost giving way to the sharp sweetness of crushed needles and the tannin breath of bark warmed by a weak sun. Birds stitched sound into the branches -- nervous, thin."
+    },
+    {
+      "id": "ch8-act1-seg035",
+      "start": 225.2,
+      "end": 235.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Civilization announced itself in small ways: a cut fencepost with fresh tool-marks; a snare hanging empty and forgotten; wheel ruts pressed pale into the hard ground."
+    },
+    {
+      "id": "ch8-act1-seg036",
+      "start": 235.775,
+      "end": 239.375,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Closest warded town means closest news,\""
+    },
+    {
+      "id": "ch8-act1-seg037",
+      "start": 239.675,
+      "end": 242.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik added, half to himself as he walked."
+    },
+    {
+      "id": "ch8-act1-seg038",
+      "start": 243.125,
+      "end": 247.925,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We need a read on the valleys. If the corruption's pushed this far south, Depth -- \""
+    },
+    {
+      "id": "ch8-act1-seg039",
+      "start": 248.225,
+      "end": 252.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He stopped himself, glancing at Caelin, then at Serana."
+    },
+    {
+      "id": "ch8-act1-seg040",
+      "start": 252.3,
+      "end": 254.6,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We'll have choices to make.\""
+    },
+    {
+      "id": "ch8-act1-seg041",
+      "start": 254.75,
+      "end": 256.15,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We will,\""
+    },
+    {
+      "id": "ch8-act1-seg042",
+      "start": 256.45,
+      "end": 260.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. She didn't say when I can hear Her again. She didn't say if."
+    },
+    {
+      "id": "ch8-act1-seg043",
+      "start": 261.05,
+      "end": 264.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara's gaze flicked to Caelin's hand."
+    },
+    {
+      "id": "ch8-act1-seg044",
+      "start": 264.475,
+      "end": 266.325,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"How's the fire?\""
+    },
+    {
+      "id": "ch8-act1-seg045",
+      "start": 266.475,
+      "end": 267.45,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Here.\""
+    },
+    {
+      "id": "ch8-act1-seg046",
+      "start": 267.75,
+      "end": 273.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He flexed his fingers. The lattice answered with a thread of heat and a bruise-deep throb."
+    },
+    {
+      "id": "ch8-act1-seg047",
+      "start": 273.3,
+      "end": 274.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Manageable.\""
+    },
+    {
+      "id": "ch8-act1-seg048",
+      "start": 275.025,
+      "end": 276.125,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Good.\""
+    },
+    {
+      "id": "ch8-act1-seg049",
+      "start": 276.425,
+      "end": 281.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She let the subject die, the way a person did when the answer didn't change the plan."
+    },
+    {
+      "id": "ch8-act1-seg050",
+      "start": 281.95,
+      "end": 290.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The last of the mountain's voice fell away behind them -- no more stone-deep thudding, only the hush of needles and the quiet complaint of boots."
+    },
+    {
+      "id": "ch8-act1-seg051",
+      "start": 290.35,
+      "end": 301.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When the trees broke at a low saddle, the land opened like a held breath: fields winter-bare, the river flashing dull pewter to the east, and on a rise beyond, a palisade and a scatter of roofs."
+    },
+    {
+      "id": "ch8-act1-seg052",
+      "start": 301.625,
+      "end": 303.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Millbrook."
+    },
+    {
+      "id": "ch8-act1-seg053",
+      "start": 303.325,
+      "end": 313.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Smoke ribbons lifted from within the walls, not frantic, not yet. A bell clanged once in the distance; not alarm. A call to market, or prayer, or inventory."
+    },
+    {
+      "id": "ch8-act1-seg054",
+      "start": 313.175,
+      "end": 315.9,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Temple. Water. Healer. Smith.\""
+    },
+    {
+      "id": "ch8-act1-seg055",
+      "start": 316.2,
+      "end": 318.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana looked down the slope."
+    },
+    {
+      "id": "ch8-act1-seg056",
+      "start": 318.8,
+      "end": 322.25,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And someone who can tell us what the valley knows.\""
+    },
+    {
+      "id": "ch8-act1-seg057",
+      "start": 322.4,
+      "end": 324.275,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Captain on the gate'll do,\""
+    },
+    {
+      "id": "ch8-act1-seg058",
+      "start": 324.575,
+      "end": 327.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, scanning the wall-walk."
+    },
+    {
+      "id": "ch8-act1-seg059",
+      "start": 327.275,
+      "end": 329.4,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"If he's half-awake.\""
+    },
+    {
+      "id": "ch8-act1-seg060",
+      "start": 329.7,
+      "end": 338.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan's shadow reached a hair's breadth past his heel like a dog testing a leash. He stepped forward and it obeyed, flat again, obedient for now."
+    },
+    {
+      "id": "ch8-act1-seg061",
+      "start": 338.7,
+      "end": 351.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin adjusted the strap on his pack with his left hand. The right stayed close, heat-shadows flickering under the skin where the scale lived. He told the pain the same thing he'd told it all morning: later. He told the grief: later."
+    },
+    {
+      "id": "ch8-act1-seg062",
+      "start": 351.8,
+      "end": 358.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They started down toward the east gate and the promise of a town that might -- just might -- hold a night's peace."
+    }
+  ]
+}

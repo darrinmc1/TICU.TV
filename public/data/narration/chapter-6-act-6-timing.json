@@ -1,0 +1,249 @@
+{
+  "chapter": 6,
+  "act": 6,
+  "actTitle": "Dawn",
+  "audioFile": "/audio/chapters/chapter-6-act-6.mp3",
+  "totalDuration": 213.375,
+  "segments": [
+    {
+      "id": "ch6-act6-seg332",
+      "start": 0.0,
+      "end": 9.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The breathing of the Hall changed around false dawn. Not louder -- quicker. Someone turned over in a bedroll and muttered a name. The lichen dimmed, then steadied."
+    },
+    {
+      "id": "ch6-act6-seg333",
+      "start": 9.4,
+      "end": 22.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin woke from a dream that was only a pressure: Thud. Not near. Not far. Not a heart but something that had decided the rhythm of a heart was a good lie. Once, twice, and then nothing, as if it had leaned close to listen and then, disappointed, moved on."
+    },
+    {
+      "id": "ch6-act6-seg334",
+      "start": 23.1,
+      "end": 30.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He sat up, coin in his palm, and didn't practice again. The lattice hurt the way fresh bruises hurt. Useable. Unwise."
+    },
+    {
+      "id": "ch6-act6-seg335",
+      "start": 30.925,
+      "end": 42.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They rose before the Hall would have called it day. The fire-pit stank of cold ash and juniper resin; the chalk sigils were still bright but scuffed at two thresholds as if something had pressed there and reconsidered."
+    },
+    {
+      "id": "ch6-act6-seg336",
+      "start": 43.15,
+      "end": 54.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "In the far curve of the vaulted ceiling, a hairline crack ran through one of the load ribs -- fine as a drawn thread of ink, barely there, the kind of thing that meant nothing until it meant everything."
+    },
+    {
+      "id": "ch6-act6-seg337",
+      "start": 54.425,
+      "end": 56.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one looked up."
+    },
+    {
+      "id": "ch6-act6-seg338",
+      "start": 56.675,
+      "end": 70.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin caught Elowen's eye across the Hall. She shook her head once -- not refusal, but honesty. She wouldn't ease his pain this morning. The cost was too high and the day too uncertain. He nodded back, and the conversation was finished without a word spoken."
+    },
+    {
+      "id": "ch6-act6-seg339",
+      "start": 71.05,
+      "end": 84.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They packed as quietly as seven people could. Straps pulled snug. Knots retied. The last of the water parceled and swallowed. Serana walked the perimeter and refreshed each ward with a careful ninth stroke. The chalk squeaked in the silence."
+    },
+    {
+      "id": "ch6-act6-seg340",
+      "start": 84.9,
+      "end": 93.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex checked her daggers with the same ritualistic precision she'd used since Thornwick -- each blade drawn, examined, returned. She caught Caelin watching."
+    },
+    {
+      "id": "ch6-act6-seg341",
+      "start": 94.075,
+      "end": 96.7,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"They're not going to sharpen themselves.\""
+    },
+    {
+      "id": "ch6-act6-seg342",
+      "start": 96.85,
+      "end": 98.75,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"I know. I just -- \""
+    },
+    {
+      "id": "ch6-act6-seg343",
+      "start": 98.9,
+      "end": 109.775,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"If you say something sentimental, I will use one of these very sharp daggers to perform surgery on your personality. Consider that my emotional range for the morning.\""
+    },
+    {
+      "id": "ch6-act6-seg344",
+      "start": 109.925,
+      "end": 111.625,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Understood.\""
+    },
+    {
+      "id": "ch6-act6-seg345",
+      "start": 111.925,
+      "end": 119.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik had his charcoal map rolled and stowed, the journal sealed in its oilcloth, every remaining tool accounted for."
+    },
+    {
+      "id": "ch6-act6-seg346",
+      "start": 119.75,
+      "end": 131.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He patted his tool-harness -- five charges, two lenses, one intact device -- and nodded to himself with the expression of a man who has counted what he has and decided to stop mourning what he hasn't."
+    },
+    {
+      "id": "ch6-act6-seg347",
+      "start": 131.575,
+      "end": 142.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan stood already packed at the edge of the Hall, precisely where he'd been all night, shadow flat and obedient at his boots. He looked tired in a way that had nothing to do with sleep."
+    },
+    {
+      "id": "ch6-act6-seg348",
+      "start": 142.325,
+      "end": 152.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When Serana passed him to check the last ward, she hesitated -- not at his shadow, but at his face. Whatever she saw there, she refreshed the chalk mark beside him with particular care."
+    },
+    {
+      "id": "ch6-act6-seg349",
+      "start": 153.15,
+      "end": 166.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "That was when the first sound came from the tunnels: a patient scrape like metal testing stone, answered a long moment later by a tapping from the sealed mining spur, and then the slow rhythm of water displaced where none should be moving."
+    },
+    {
+      "id": "ch6-act6-seg350",
+      "start": 166.35,
+      "end": 175.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Three sounds. Coordinated. Not random, not natural -- the cadence of something that had been listening to them rest and had decided the intermission was over."
+    },
+    {
+      "id": "ch6-act6-seg351",
+      "start": 176.1,
+      "end": 178.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex's head came up."
+    },
+    {
+      "id": "ch6-act6-seg352",
+      "start": 178.5,
+      "end": 179.9,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Company,\""
+    },
+    {
+      "id": "ch6-act6-seg353",
+      "start": 180.2,
+      "end": 182.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, voice flat."
+    },
+    {
+      "id": "ch6-act6-seg354",
+      "start": 182.625,
+      "end": 184.2,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Positions,\""
+    },
+    {
+      "id": "ch6-act6-seg355",
+      "start": 184.5,
+      "end": 187.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana returned, already in motion."
+    },
+    {
+      "id": "ch6-act6-seg356",
+      "start": 187.825,
+      "end": 190.0,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"We move on Thornik's mark.\""
+    },
+    {
+      "id": "ch6-act6-seg357",
+      "start": 190.3,
+      "end": 198.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He lifted the lantern, checked the charcoal lines on the table one last time, and pointed toward the passage that would feed to the Forge Road."
+    },
+    {
+      "id": "ch6-act6-seg358",
+      "start": 198.65,
+      "end": 199.95,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Here,\""
+    },
+    {
+      "id": "ch6-act6-seg359",
+      "start": 200.25,
+      "end": 201.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch6-act6-seg360",
+      "start": 201.775,
+      "end": 204.3,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Before the mountain decides for us.\""
+    },
+    {
+      "id": "ch6-act6-seg361",
+      "start": 204.6,
+      "end": 213.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They stepped into the breath of the Hall and felt it hold and release around them like a lung that knew their weight and had decided -- just this once -- to wait."
+    }
+  ]
+}

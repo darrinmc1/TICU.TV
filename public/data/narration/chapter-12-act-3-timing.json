@@ -1,0 +1,105 @@
+{
+  "chapter": 12,
+  "act": 3,
+  "actTitle": "Farewell",
+  "audioFile": "/audio/chapters/chapter-12-act-3.mp3",
+  "totalDuration": 99.675,
+  "segments": [
+    {
+      "id": "ch12-act3-seg051",
+      "start": 0.0,
+      "end": 1.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They walked north."
+    },
+    {
+      "id": "ch12-act3-seg052",
+      "start": 2.25,
+      "end": 15.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The plateau had been visible since morning -- a black shelf of rock pushing up out of the horizon like something that had always been there and had simply been waiting for the angle to be right. The Depthspire rise."
+    },
+    {
+      "id": "ch12-act3-seg053",
+      "start": 15.475,
+      "end": 24.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not the structure itself, not yet, but the approach to it, the country of it, the air that had been breathing the same cold breath as whatever was sealed in the deep below."
+    },
+    {
+      "id": "ch12-act3-seg054",
+      "start": 25.15,
+      "end": 37.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale in Caelin's arm had been warm since they crossed the Boundary Bridge. Not warning-warm, not the red-orange of effort or pain. Just warm. Present. The way a compass needle is present when you stop arguing with it and let it point."
+    },
+    {
+      "id": "ch12-act3-seg055",
+      "start": 38.1,
+      "end": 44.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric walked at the back and said nothing. He'd been doing the arithmetic for months. He was nearly at an answer."
+    },
+    {
+      "id": "ch12-act3-seg056",
+      "start": 45.075,
+      "end": 60.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan walked the right flank with his shadow flat and obedient at his boots and his eyes on the tree line and his jaw set in the way of a man who has decided to keep making the choice one day at a time and not ask himself how many days he has left."
+    },
+    {
+      "id": "ch12-act3-seg057",
+      "start": 60.7,
+      "end": 74.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex walked left, ribs strapped, shoulder working, her eyes already on the plateau with the professional attention of someone calculating entrances and sight lines and the distance between where they were and where the trouble would start."
+    },
+    {
+      "id": "ch12-act3-seg058",
+      "start": 75.05,
+      "end": 82.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one spoke. The road was basalt now, the clay having given way an hour back exactly where L's note had said it would."
+    },
+    {
+      "id": "ch12-act3-seg059",
+      "start": 82.35,
+      "end": 84.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulled north."
+    },
+    {
+      "id": "ch12-act3-seg060",
+      "start": 84.925,
+      "end": 87.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The plateau waited."
+    },
+    {
+      "id": "ch12-act3-seg061",
+      "start": 87.5,
+      "end": 96.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Somewhere below it, in the dark where the wards were fracturing and the old things were stirring and something older than all of it had made a sound -- the counting continued."
+    },
+    {
+      "id": "ch12-act3-seg062",
+      "start": 97.15,
+      "end": 99.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Book Two begins at the gate."
+    }
+  ]
+}

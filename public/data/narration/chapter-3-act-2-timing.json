@@ -1,0 +1,1209 @@
+{
+  "chapter": 3,
+  "act": 2,
+  "actTitle": "Elowen's Grove",
+  "audioFile": "/audio/chapters/chapter-3-act-2.mp3",
+  "totalDuration": 820.975,
+  "segments": [
+    {
+      "id": "ch3-act2-seg165",
+      "start": 0.0,
+      "end": 10.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex lay on her side with her back to the wall and one hand under her cheek, the other already resting on a dagger hilt with the casual certainty of someone who'd learned to sleep armed."
+    },
+    {
+      "id": "ch3-act2-seg166",
+      "start": 10.4,
+      "end": 14.85,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"If anyone snores, I smother first and ask forgiveness later,\""
+    },
+    {
+      "id": "ch3-act2-seg167",
+      "start": 15.15,
+      "end": 17.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she announced to the cave at large."
+    },
+    {
+      "id": "ch3-act2-seg168",
+      "start": 18.05,
+      "end": 19.9,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I don't snore,\""
+    },
+    {
+      "id": "ch3-act2-seg169",
+      "start": 20.2,
+      "end": 25.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik protested, settling his pack as a pillow with careful arrangement of the lumps."
+    },
+    {
+      "id": "ch3-act2-seg170",
+      "start": 25.9,
+      "end": 29.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I strategize audibly. There's a difference.\""
+    },
+    {
+      "id": "ch3-act2-seg171",
+      "start": 29.425,
+      "end": 30.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Worse,\""
+    },
+    {
+      "id": "ch3-act2-seg172",
+      "start": 30.525,
+      "end": 33.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, closing her eyes."
+    },
+    {
+      "id": "ch3-act2-seg173",
+      "start": 33.275,
+      "end": 35.7,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Murder in slow motion.\""
+    },
+    {
+      "id": "ch3-act2-seg174",
+      "start": 35.85,
+      "end": 38.25,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I'll take second watch,\""
+    },
+    {
+      "id": "ch3-act2-seg175",
+      "start": 38.55,
+      "end": 54.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana offered, setting her sword within easy reach and removing only her gauntlets before lying down. She kept her armor on -- Caelin noticed she always did, as if expecting attack even in sleep, or perhaps unable to feel safe without the weight of duty pressing on her shoulders."
+    },
+    {
+      "id": "ch3-act2-seg176",
+      "start": 55.05,
+      "end": 68.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik was already muttering to himself about pressure ratios and gear teeth, his voice dropping to a rhythmic mumble that would have been annoying if it weren't so clearly habitual. The sound of a mind that never quite stopped working, even at rest."
+    },
+    {
+      "id": "ch3-act2-seg177",
+      "start": 69.075,
+      "end": 83.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen remained near the entrance, humming her not-quite-song, a susurrus that seemed to blend with the wind outside rather than compete with it. Occasionally she would pause, tilt her head as if listening to something only she could hear, then resume the melody."
+    },
+    {
+      "id": "ch3-act2-seg178",
+      "start": 83.7,
+      "end": 89.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin banked the small fire and let his head tip back against stone still warm from the day's sun."
+    },
+    {
+      "id": "ch3-act2-seg179",
+      "start": 90.025,
+      "end": 101.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The embedded plate slipped into its sleep-glow -- soft light keeping time with his breath, the ember-motes inside drifting lazy and slow, almost peaceful. For a moment he could almost pretend this was normal."
+    },
+    {
+      "id": "ch3-act2-seg180",
+      "start": 102.05,
+      "end": 106.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Just travelers sharing a cave, resting before another day's climb."
+    },
+    {
+      "id": "ch3-act2-seg181",
+      "start": 107.1,
+      "end": 112.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Then the scale pulsed, reminding him of what he carried, and the illusion shattered."
+    },
+    {
+      "id": "ch3-act2-seg182",
+      "start": 112.4,
+      "end": 127.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He closed his eyes and tried to sleep, but his mind wouldn't quiet. Every sound outside became a threat. Every shift in the wind became footsteps. The shadow-thralls had found them in Thornwick -- what would stop them from finding the group here, trapped in a cave with only one exit?"
+    },
+    {
+      "id": "ch3-act2-seg183",
+      "start": 128.05,
+      "end": 134.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "I've led them into a trap, he thought. One entrance. Stone walls. If something blocks that opening, we're buried alive."
+    },
+    {
+      "id": "ch3-act2-seg184",
+      "start": 135.25,
+      "end": 142.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale warmed fractionally but didn't sting. Not quite a lie -- just fear circling truth without quite landing on it."
+    },
+    {
+      "id": "ch3-act2-seg185",
+      "start": 142.675,
+      "end": 163.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He listened to the others settling: Vex's breathing evening out into the careful rhythm of someone who slept light but slept nonetheless; Thornik's muttering finally fading to actual snores (though Vex mercifully didn't follow through on her threat); Serana's quiet prayers whispered to a god who might or might not be listening with a single voice anymore; Elowen's humming like a thread connecting them to the forest dying outside."
+    },
+    {
+      "id": "ch3-act2-seg186",
+      "start": 164.175,
+      "end": 176.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The mountain hummed through his bones -- a frequency just below hearing, felt rather than heard. He tried to convince himself it was tectonic shift, natural settling, the ordinary sound of stone being stone."
+    },
+    {
+      "id": "ch3-act2-seg187",
+      "start": 176.35,
+      "end": 177.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He failed."
+    },
+    {
+      "id": "ch3-act2-seg188",
+      "start": 178.25,
+      "end": 180.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Sleep came in fits."
+    },
+    {
+      "id": "ch3-act2-seg189",
+      "start": 180.625,
+      "end": 184.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When he woke, there was a man sitting where no man had been."
+    },
+    {
+      "id": "ch3-act2-seg190",
+      "start": 184.75,
+      "end": 195.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Long coat. Dark hair pulled back tight. The posture of someone who'd learned to make himself smaller than he was, to take up less space in a room and be forgotten. He wasn't looking at anyone."
+    },
+    {
+      "id": "ch3-act2-seg191",
+      "start": 195.75,
+      "end": 197.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He was looking at Caelin."
+    },
+    {
+      "id": "ch3-act2-seg192",
+      "start": 198.225,
+      "end": 201.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "More specifically, at the embedded scale."
+    },
+    {
+      "id": "ch3-act2-seg193",
+      "start": 201.725,
+      "end": 217.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "I'm dreaming, Caelin thought, because that was the only explanation that made sense. The fire's embers pulsed with his heartbeat. The man's face held the waxy quality of dream-logic, present but not quite real. I'm still asleep. This is fever. This is the scale showing me something."
+    },
+    {
+      "id": "ch3-act2-seg194",
+      "start": 217.85,
+      "end": 228.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The man's eyes found the plate and didn't move -- ice-blue, pale enough to catch the firelight like mirrors, empty in a way that suggested either perfect calm or perfect absence."
+    },
+    {
+      "id": "ch3-act2-seg195",
+      "start": 228.525,
+      "end": 239.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The fire guttered; shadows wavered strangely across the stone. For an instant Caelin thought the man's outline darkened where the light should have softened it, but the effect passed as soon as he blinked."
+    },
+    {
+      "id": "ch3-act2-seg196",
+      "start": 240.05,
+      "end": 247.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Heat bloomed under Caelin's sternum -- warning, maybe, or simply recognition of another presence that wasn't natural."
+    },
+    {
+      "id": "ch3-act2-seg197",
+      "start": 247.475,
+      "end": 261.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The man's hand rested on his knee. His fingers tapped once. Twice. Three times, deliberate as a countdown. Then curled into a fist so tight the knuckles showed white even in dim light. His jaw worked like he was biting down on words that wanted out."
+    },
+    {
+      "id": "ch3-act2-seg198",
+      "start": 262.15,
+      "end": 264.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The fire popped. Nothing moved."
+    },
+    {
+      "id": "ch3-act2-seg199",
+      "start": 265.075,
+      "end": 277.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's body refused to obey him, every nerve drawn tight beneath his skin. The scale's heat intensified -- not pain but urgent awareness, the same frequency it had hit during the shadow-thrall attack in Thornwick."
+    },
+    {
+      "id": "ch3-act2-seg200",
+      "start": 278.075,
+      "end": 292.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A breath caught somewhere to Caelin's left. Vex had woken without stirring, without even changing the rhythm of her breathing. He felt her awareness like a second set of eyes in the dark. Her dagger hand hadn't shifted position, but he knew it was ready."
+    },
+    {
+      "id": "ch3-act2-seg201",
+      "start": 292.3,
+      "end": 297.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen's humming had stopped; the silence pressed against the cave walls like held breath."
+    },
+    {
+      "id": "ch3-act2-seg202",
+      "start": 298.25,
+      "end": 306.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The stranger's fingers relaxed again, the motion careful, as if wrestling with a thought he chose not to follow. The air seemed to ease with him."
+    },
+    {
+      "id": "ch3-act2-seg203",
+      "start": 307.0,
+      "end": 320.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Time stretched like hot glass between one ember-pop and the next. The man didn't blink. Then -- without transition, without sound, without any sense of departure -- he simply wasn't there anymore. Not stood and walked away. Not faded like mist. Just ... gone."
+    },
+    {
+      "id": "ch3-act2-seg204",
+      "start": 321.25,
+      "end": 329.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin didn't know when he slept again. Only that when he startled awake to Serana's gentle touch for third watch, there was no man by the fire."
+    },
+    {
+      "id": "ch3-act2-seg205",
+      "start": 330.15,
+      "end": 339.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Just embers dying to ash and his companions sleeping and the cave mouth showing the colorless pre-dawn that comes before the world decides what color it wants to be."
+    },
+    {
+      "id": "ch3-act2-seg206",
+      "start": 340.275,
+      "end": 351.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He sat up, heart hammering hard enough to hurt. The plate jogged with his pulse, light keeping frantic pace. The cave mouth was a slice of grey, and the fire had burned to nothing but warm ash."
+    },
+    {
+      "id": "ch3-act2-seg207",
+      "start": 351.75,
+      "end": 353.2,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Before you ask,\""
+    },
+    {
+      "id": "ch3-act2-seg208",
+      "start": 353.5,
+      "end": 358.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said without opening her eyes, her voice cutting through the silence like a knife,"
+    },
+    {
+      "id": "ch3-act2-seg209",
+      "start": 359.075,
+      "end": 370.775,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"yes, I saw him. No, he didn't make a sound approaching or leaving. Yes, I had a dagger ready the entire time. No, I didn't throw it because he didn't move and I wanted to see what he'd do.\""
+    },
+    {
+      "id": "ch3-act2-seg210",
+      "start": 371.075,
+      "end": 372.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A pause."
+    },
+    {
+      "id": "ch3-act2-seg211",
+      "start": 372.675,
+      "end": 373.925,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You're welcome.\""
+    },
+    {
+      "id": "ch3-act2-seg212",
+      "start": 374.075,
+      "end": 375.375,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Tracks?\""
+    },
+    {
+      "id": "ch3-act2-seg213",
+      "start": 375.675,
+      "end": 382.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik asked, already halfway to his knees, goggles sliding down over his eyes with a mechanical click."
+    },
+    {
+      "id": "ch3-act2-seg214",
+      "start": 382.375,
+      "end": 384.775,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"None that I can find,\""
+    },
+    {
+      "id": "ch3-act2-seg215",
+      "start": 385.075,
+      "end": 389.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said quietly, brushing the cave floor with a pine branch."
+    },
+    {
+      "id": "ch3-act2-seg216",
+      "start": 389.6,
+      "end": 393.05,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"But there's a mark in the ash where someone sat.\""
+    },
+    {
+      "id": "ch3-act2-seg217",
+      "start": 393.35,
+      "end": 397.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She pointed at a neat oval pressed too deep into the dust."
+    },
+    {
+      "id": "ch3-act2-seg218",
+      "start": 397.45,
+      "end": 403.9,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Boot prints from the entrance to that spot -- then nothing. As if he arrived, sat, and simply ... stopped.\""
+    },
+    {
+      "id": "ch3-act2-seg219",
+      "start": 404.05,
+      "end": 405.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Or the light played tricks,\""
+    },
+    {
+      "id": "ch3-act2-seg220",
+      "start": 406.275,
+      "end": 413.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex murmured, finally opening her eyes to fix Caelin with a look that hovered between challenge and curiosity."
+    },
+    {
+      "id": "ch3-act2-seg221",
+      "start": 413.4,
+      "end": 416.1,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"The mountain stopped breathing,\""
+    },
+    {
+      "id": "ch3-act2-seg222",
+      "start": 416.4,
+      "end": 420.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen said, stepping in from the pale dawn with frost in her hair."
+    },
+    {
+      "id": "ch3-act2-seg223",
+      "start": 420.9,
+      "end": 427.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Just before sunrise everything went still -- the wind, the animals, even the corruption's spread. Then, slowly, it started again.\""
+    },
+    {
+      "id": "ch3-act2-seg224",
+      "start": 427.725,
+      "end": 429.6,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You felt it too,\""
+    },
+    {
+      "id": "ch3-act2-seg225",
+      "start": 429.9,
+      "end": 435.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, not a question. His device clicked softly as he measured the prints."
+    },
+    {
+      "id": "ch3-act2-seg226",
+      "start": 435.175,
+      "end": 438.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"All five of us aware something happened, none of us certain what.\""
+    },
+    {
+      "id": "ch3-act2-seg227",
+      "start": 438.925,
+      "end": 449.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin's hands shook as he accepted the water skin Thornik offered. The scale throbbed dull red now -- post-danger ache or punishment for his paralysis, he couldn't tell."
+    },
+    {
+      "id": "ch3-act2-seg228",
+      "start": 449.55,
+      "end": 455.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Real, he thought, mouth dry despite the water. It was real. But what was it? A vision? A warning?"
+    },
+    {
+      "id": "ch3-act2-seg229",
+      "start": 455.6,
+      "end": 458.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thought settled heavy in his gut."
+    },
+    {
+      "id": "ch3-act2-seg230",
+      "start": 458.525,
+      "end": 460.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We need rules,\""
+    },
+    {
+      "id": "ch3-act2-seg231",
+      "start": 460.825,
+      "end": 465.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, voice firm despite the uncertainty in her eyes."
+    },
+    {
+      "id": "ch3-act2-seg232",
+      "start": 465.325,
+      "end": 473.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"No one sleeps unwatched. Someone always on guard, always armed. If anything -- anything -- appears that shouldn't be there, we wake everyone. Immediately.\""
+    },
+    {
+      "id": "ch3-act2-seg233",
+      "start": 473.15,
+      "end": 474.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Agreed,\""
+    },
+    {
+      "id": "ch3-act2-seg234",
+      "start": 474.475,
+      "end": 477.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, sitting up to check her daggers."
+    },
+    {
+      "id": "ch3-act2-seg235",
+      "start": 477.675,
+      "end": 481.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And we need to talk about what we'll do if he comes back.\""
+    },
+    {
+      "id": "ch3-act2-seg236",
+      "start": 481.5,
+      "end": 483.275,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"If he comes back,\""
+    },
+    {
+      "id": "ch3-act2-seg237",
+      "start": 483.575,
+      "end": 488.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik corrected, though his tone suggested the same doubt they all felt."
+    },
+    {
+      "id": "ch3-act2-seg238",
+      "start": 488.5,
+      "end": 493.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"My instruments didn't register him. Couldn't. That shouldn't be possible.\""
+    },
+    {
+      "id": "ch3-act2-seg239",
+      "start": 493.575,
+      "end": 497.575,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Or it was something between real and not-real,\""
+    },
+    {
+      "id": "ch3-act2-seg240",
+      "start": 497.875,
+      "end": 500.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen said quietly."
+    },
+    {
+      "id": "ch3-act2-seg241",
+      "start": 500.325,
+      "end": 504.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Like the corruption's echo. A reflection finding shape.\""
+    },
+    {
+      "id": "ch3-act2-seg242",
+      "start": 504.725,
+      "end": 508.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulsed once, uneasy but quiet."
+    },
+    {
+      "id": "ch3-act2-seg243",
+      "start": 508.35,
+      "end": 520.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They were finishing a cold breakfast of dried meat and hard cheese -- no fire, by unspoken agreement -- when the man who might have been a dream walked out of the morning mist and into the cave without asking permission."
+    },
+    {
+      "id": "ch3-act2-seg244",
+      "start": 520.45,
+      "end": 530.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't posture or bow. He simply crossed the threshold as if invited, took three precise steps, and stopped in the same place he'd occupied by the fire -- if he'd been there at all."
+    },
+    {
+      "id": "ch3-act2-seg245",
+      "start": 531.175,
+      "end": 541.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Morning light showed hollow cheeks, dark hair pulled back tight, ice-blue eyes that held the emptiness of someone who'd made peace with terrible things -- or had them carved out of him."
+    },
+    {
+      "id": "ch3-act2-seg246",
+      "start": 541.525,
+      "end": 554.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He glanced at the sword near Serana's hand, the axes by Thornik's knee, Vex's ready dagger, the careful distance they all kept from the cave's center. Then he looked at Caelin and said, in a voice like the end of a long argument:"
+    },
+    {
+      "id": "ch3-act2-seg247",
+      "start": 554.4,
+      "end": 555.9,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Durgan.\""
+    },
+    {
+      "id": "ch3-act2-seg248",
+      "start": 556.05,
+      "end": 557.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That a name?\""
+    },
+    {
+      "id": "ch3-act2-seg249",
+      "start": 557.6,
+      "end": 560.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked, blade steady."
+    },
+    {
+      "id": "ch3-act2-seg250",
+      "start": 560.175,
+      "end": 563.725,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Or a noise you make before killing someone?\""
+    },
+    {
+      "id": "ch3-act2-seg251",
+      "start": 564.025,
+      "end": 572.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He didn't answer. He also didn't smile. His face held the blank neutrality of someone who'd learned that expressions invited questions."
+    },
+    {
+      "id": "ch3-act2-seg252",
+      "start": 572.6,
+      "end": 576.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "In the morning light, his outline looked perfectly ordinary."
+    },
+    {
+      "id": "ch3-act2-seg253",
+      "start": 576.725,
+      "end": 578.6,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"What do you want?\""
+    },
+    {
+      "id": "ch3-act2-seg254",
+      "start": 578.9,
+      "end": 583.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana asked, her voice not unkind but not lowering her guard either."
+    },
+    {
+      "id": "ch3-act2-seg255",
+      "start": 584.025,
+      "end": 595.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan's gaze slid past her to the scale in Caelin's arm again, and for a heartbeat something flickered there -- a thought with an edge -- acknowledged and set aside with visible effort. His jaw worked."
+    },
+    {
+      "id": "ch3-act2-seg256",
+      "start": 595.525,
+      "end": 597.95,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"To follow the path.\""
+    },
+    {
+      "id": "ch3-act2-seg257",
+      "start": 598.1,
+      "end": 599.775,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You can see it?\""
+    },
+    {
+      "id": "ch3-act2-seg258",
+      "start": 600.075,
+      "end": 604.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik asked, suspicious now, goggles whirring as they adjusted focus."
+    },
+    {
+      "id": "ch3-act2-seg259",
+      "start": 605.1,
+      "end": 606.45,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"No.\""
+    },
+    {
+      "id": "ch3-act2-seg260",
+      "start": 606.6,
+      "end": 609.25,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Then how do you know where to go?\""
+    },
+    {
+      "id": "ch3-act2-seg261",
+      "start": 609.55,
+      "end": 613.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex's dagger turned slightly, catching light."
+    },
+    {
+      "id": "ch3-act2-seg262",
+      "start": 613.175,
+      "end": 614.9,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"I'm pulled,\""
+    },
+    {
+      "id": "ch3-act2-seg263",
+      "start": 615.2,
+      "end": 617.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, voice flat."
+    },
+    {
+      "id": "ch3-act2-seg264",
+      "start": 617.55,
+      "end": 619.25,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Same as you.\""
+    },
+    {
+      "id": "ch3-act2-seg265",
+      "start": 619.55,
+      "end": 623.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He nodded once toward Caelin, once toward Elowen."
+    },
+    {
+      "id": "ch3-act2-seg266",
+      "start": 623.275,
+      "end": 625.85,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Different hooks. Same rope.\""
+    },
+    {
+      "id": "ch3-act2-seg267",
+      "start": 626.15,
+      "end": 635.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Liar, Caelin thought, but the scale stayed quiet. Either the man was telling truth, or it couldn't read whatever darkness lingered around him. Neither option comforted."
+    },
+    {
+      "id": "ch3-act2-seg268",
+      "start": 635.85,
+      "end": 637.475,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Absolutely not,\""
+    },
+    {
+      "id": "ch3-act2-seg269",
+      "start": 637.775,
+      "end": 640.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, stepping between them."
+    },
+    {
+      "id": "ch3-act2-seg270",
+      "start": 640.6,
+      "end": 646.5,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"He sat in our camp in the middle of the night and vanished, and you want to -- what? -- let him join us?\""
+    },
+    {
+      "id": "ch3-act2-seg271",
+      "start": 646.65,
+      "end": 649.25,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We don't know he's dangerous,\""
+    },
+    {
+      "id": "ch3-act2-seg272",
+      "start": 649.55,
+      "end": 653.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, though her hand stayed near her sword."
+    },
+    {
+      "id": "ch3-act2-seg273",
+      "start": 653.375,
+      "end": 655.25,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We don't know he's not,\""
+    },
+    {
+      "id": "ch3-act2-seg274",
+      "start": 655.55,
+      "end": 657.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex countered."
+    },
+    {
+      "id": "ch3-act2-seg275",
+      "start": 657.525,
+      "end": 660.75,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And I'm not keen on finding out the hard way.\""
+    },
+    {
+      "id": "ch3-act2-seg276",
+      "start": 660.9,
+      "end": 662.925,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"If I wanted to hurt you,\""
+    },
+    {
+      "id": "ch3-act2-seg277",
+      "start": 663.225,
+      "end": 665.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said quietly,"
+    },
+    {
+      "id": "ch3-act2-seg278",
+      "start": 665.55,
+      "end": 668.075,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I would have done it last night.\""
+    },
+    {
+      "id": "ch3-act2-seg279",
+      "start": 668.375,
+      "end": 674.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The admission hung like smoke. Confirmation that he'd been there. That whatever had happened had touched all of them."
+    },
+    {
+      "id": "ch3-act2-seg280",
+      "start": 675.075,
+      "end": 677.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Not reassuring,\""
+    },
+    {
+      "id": "ch3-act2-seg281",
+      "start": 677.325,
+      "end": 679.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik muttered."
+    },
+    {
+      "id": "ch3-act2-seg282",
+      "start": 679.25,
+      "end": 680.6,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"At all.\""
+    },
+    {
+      "id": "ch3-act2-seg283",
+      "start": 680.75,
+      "end": 682.075,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Rules,\""
+    },
+    {
+      "id": "ch3-act2-seg284",
+      "start": 682.375,
+      "end": 685.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, authority hardening her tone."
+    },
+    {
+      "id": "ch3-act2-seg285",
+      "start": 686.0,
+      "end": 695.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"If you travel with us, you follow rules. Watch rotation -- someone always awake beside you. You don't approach anyone while they sleep. Understood?\""
+    },
+    {
+      "id": "ch3-act2-seg286",
+      "start": 695.65,
+      "end": 697.8,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"No promises on sleep,\""
+    },
+    {
+      "id": "ch3-act2-seg287",
+      "start": 698.1,
+      "end": 700.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said, voice almost dry."
+    },
+    {
+      "id": "ch3-act2-seg288",
+      "start": 701.125,
+      "end": 702.925,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"But I can try.\""
+    },
+    {
+      "id": "ch3-act2-seg289",
+      "start": 703.075,
+      "end": 704.85,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Not good enough,\""
+    },
+    {
+      "id": "ch3-act2-seg290",
+      "start": 705.15,
+      "end": 709.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, finding his voice at last. The scale warmed in agreement."
+    },
+    {
+      "id": "ch3-act2-seg291",
+      "start": 710.05,
+      "end": 715.425,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You show up in our camp without sound and expect us to trust you at our backs?\""
+    },
+    {
+      "id": "ch3-act2-seg292",
+      "start": 715.725,
+      "end": 719.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan met his eyes, calm and unreadable."
+    },
+    {
+      "id": "ch3-act2-seg293",
+      "start": 719.225,
+      "end": 726.1,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"No. I expect you to watch me. Keep weapons ready. Assume the worst. But I'm coming either way.\""
+    },
+    {
+      "id": "ch3-act2-seg294",
+      "start": 726.4,
+      "end": 728.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His voice dropped."
+    },
+    {
+      "id": "ch3-act2-seg295",
+      "start": 728.45,
+      "end": 736.15,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"The pull's stronger than I am. Stronger than what's left of my choice. I can follow you, or walk ahead. Your call.\""
+    },
+    {
+      "id": "ch3-act2-seg296",
+      "start": 736.45,
+      "end": 742.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The blunt honesty of it cut through Caelin's objections. He isn't asking permission; he's warning us."
+    },
+    {
+      "id": "ch3-act2-seg297",
+      "start": 742.9,
+      "end": 746.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At least if he's with us, we can see him."
+    },
+    {
+      "id": "ch3-act2-seg298",
+      "start": 746.4,
+      "end": 754.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulsed warm -- not approval, but acknowledgment of logic. Sometimes the safest bad choice was the one you could watch."
+    },
+    {
+      "id": "ch3-act2-seg299",
+      "start": 754.425,
+      "end": 756.225,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Walk with us,\""
+    },
+    {
+      "id": "ch3-act2-seg300",
+      "start": 756.525,
+      "end": 758.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said at last."
+    },
+    {
+      "id": "ch3-act2-seg301",
+      "start": 758.775,
+      "end": 768.075,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Back of the line. Paired watches -- you're never alone with anyone. Keep your distance unless spoken to. You cross a line, we stop you. Understood?\""
+    },
+    {
+      "id": "ch3-act2-seg302",
+      "start": 768.225,
+      "end": 769.55,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Clear,\""
+    },
+    {
+      "id": "ch3-act2-seg303",
+      "start": 769.85,
+      "end": 774.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said, and something that might have been relief softened his features."
+    },
+    {
+      "id": "ch3-act2-seg304",
+      "start": 774.5,
+      "end": 775.925,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Thank you.\""
+    },
+    {
+      "id": "ch3-act2-seg305",
+      "start": 776.075,
+      "end": 777.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"For what?\""
+    },
+    {
+      "id": "ch3-act2-seg306",
+      "start": 777.475,
+      "end": 779.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex demanded."
+    },
+    {
+      "id": "ch3-act2-seg307",
+      "start": 779.45,
+      "end": 781.875,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"For treating me honestly.\""
+    },
+    {
+      "id": "ch3-act2-seg308",
+      "start": 782.025,
+      "end": 783.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Well,\""
+    },
+    {
+      "id": "ch3-act2-seg309",
+      "start": 783.5,
+      "end": 786.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said into the silence."
+    },
+    {
+      "id": "ch3-act2-seg310",
+      "start": 786.25,
+      "end": 793.5,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Splendid. Exactly what I hoped for when I left the safety of Deepstone Hold to chase my grandfather's ghost notes into cursed mountains.\""
+    },
+    {
+      "id": "ch3-act2-seg311",
+      "start": 793.8,
+      "end": 799.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Despite his words, he shouldered his pack. Despite her glare, Vex didn't argue further."
+    },
+    {
+      "id": "ch3-act2-seg312",
+      "start": 799.6,
+      "end": 804.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Because Durgan was right: he was coming whether they wanted him or not."
+    },
+    {
+      "id": "ch3-act2-seg313",
+      "start": 804.4,
+      "end": 814.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "And if the tension in his jaw meant he was fighting something -- fatigue, fate, or his own thoughts -- then maybe keeping him visible was wiser than wondering where he'd gone."
+    },
+    {
+      "id": "ch3-act2-seg314",
+      "start": 814.425,
+      "end": 820.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At least this way, Caelin thought, they'd see it coming if he broke.The scale warmed once, unreadable as ever."
+    }
+  ]
+}

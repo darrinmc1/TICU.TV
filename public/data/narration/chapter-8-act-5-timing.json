@@ -1,0 +1,249 @@
+{
+  "chapter": 8,
+  "act": 5,
+  "actTitle": "Reflections",
+  "audioFile": "/audio/chapters/chapter-8-act-5.mp3",
+  "totalDuration": 125.6,
+  "segments": [
+    {
+      "id": "ch8-act5-seg321",
+      "start": 0.0,
+      "end": 9.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan took first watch by the door. When the room thinned to a few drunks and quiet chairs, Caelin joined him with two cups of water that steamed in the inn's honest heat."
+    },
+    {
+      "id": "ch8-act5-seg322",
+      "start": 9.75,
+      "end": 12.0,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Quieter than the mountain,\""
+    },
+    {
+      "id": "ch8-act5-seg323",
+      "start": 12.3,
+      "end": 13.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch8-act5-seg324",
+      "start": 14.1,
+      "end": 16.25,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Quieter makes men loud,\""
+    },
+    {
+      "id": "ch8-act5-seg325",
+      "start": 16.55,
+      "end": 18.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said."
+    },
+    {
+      "id": "ch8-act5-seg326",
+      "start": 18.475,
+      "end": 30.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They sat in silence that had weight but not weapon. Outside, wind ran along the eaves. Somewhere a dog argued with a dream. The inn's stones breathed retained heat like a stored prayer no one believed in anymore."
+    },
+    {
+      "id": "ch8-act5-seg327",
+      "start": 31.125,
+      "end": 32.45,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"The mark,\""
+    },
+    {
+      "id": "ch8-act5-seg328",
+      "start": 32.75,
+      "end": 35.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said without looking,"
+    },
+    {
+      "id": "ch8-act5-seg329",
+      "start": 35.45,
+      "end": 37.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"does it ache or warn?\""
+    },
+    {
+      "id": "ch8-act5-seg330",
+      "start": 37.825,
+      "end": 40.075,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Tonight? Neither. It listens.\""
+    },
+    {
+      "id": "ch8-act5-seg331",
+      "start": 40.375,
+      "end": 42.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He flexed his fingers."
+    },
+    {
+      "id": "ch8-act5-seg332",
+      "start": 42.625,
+      "end": 45.2,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"It likes places with rules.\""
+    },
+    {
+      "id": "ch8-act5-seg333",
+      "start": 45.35,
+      "end": 46.725,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Walls,\""
+    },
+    {
+      "id": "ch8-act5-seg334",
+      "start": 47.025,
+      "end": 48.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said."
+    },
+    {
+      "id": "ch8-act5-seg335",
+      "start": 48.8,
+      "end": 50.925,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Rooms. Schedules.\""
+    },
+    {
+      "id": "ch8-act5-seg336",
+      "start": 51.225,
+      "end": 53.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin half-smiled."
+    },
+    {
+      "id": "ch8-act5-seg337",
+      "start": 53.575,
+      "end": 58.225,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Dinner at the same hour. The world pretending it can be persuaded.\""
+    },
+    {
+      "id": "ch8-act5-seg338",
+      "start": 58.525,
+      "end": 60.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan nodded."
+    },
+    {
+      "id": "ch8-act5-seg339",
+      "start": 60.55,
+      "end": 63.225,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Don't let it teach you to trust that.\""
+    },
+    {
+      "id": "ch8-act5-seg340",
+      "start": 63.375,
+      "end": 65.25,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"You trust anything?\""
+    },
+    {
+      "id": "ch8-act5-seg341",
+      "start": 65.4,
+      "end": 66.625,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Weight,\""
+    },
+    {
+      "id": "ch8-act5-seg342",
+      "start": 66.925,
+      "end": 68.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said."
+    },
+    {
+      "id": "ch8-act5-seg343",
+      "start": 68.7,
+      "end": 71.475,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"And whether a rope's been kept dry.\""
+    },
+    {
+      "id": "ch8-act5-seg344",
+      "start": 71.775,
+      "end": 87.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulsed once -- no color, just pressure -- when a gust slipped under the door, bringing a breath of cold that remembered stone. Caelin put his palm flat on the table and steadied his own hum until it fell back to a human rhythm. No one else noticed. He preferred it that way."
+    },
+    {
+      "id": "ch8-act5-seg345",
+      "start": 87.45,
+      "end": 91.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When he rose to wake Thornik for second watch, Durgan said,"
+    },
+    {
+      "id": "ch8-act5-seg346",
+      "start": 91.4,
+      "end": 95.875,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"You kept moving when the rock wanted you to stop. Keep doing that.\""
+    },
+    {
+      "id": "ch8-act5-seg347",
+      "start": 96.175,
+      "end": 100.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It was the closest the man came to comfort. It fit."
+    },
+    {
+      "id": "ch8-act5-seg348",
+      "start": 100.35,
+      "end": 113.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Upstairs, Vex snored very carefully -- quiet enough to deny it later. Thornik mumbled a formula in his sleep that resolved into the word stay. Serana lay on her back watching the ceiling as if it might answer, then turned and didn't ask."
+    },
+    {
+      "id": "ch8-act5-seg349",
+      "start": 114.15,
+      "end": 119.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin lay awake longer than he meant to, waiting for a hum that didn't come."
+    },
+    {
+      "id": "ch8-act5-seg350",
+      "start": 119.6,
+      "end": 125.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The town held through the night. The mountain did not call. Perhaps it was busy elsewhere. That was worse."
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "chapter": 4,
+  "act": 2,
+  "actTitle": "Old Stories",
+  "audioFile": "/audio/chapters/chapter-4-act-2.mp3",
+  "totalDuration": 259.6,
+  "segments": [
+    {
+      "id": "ch4-act2-seg056",
+      "start": 0.0,
+      "end": 3.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ledge narrowed between two wind-carved pillars."
+    },
+    {
+      "id": "ch4-act2-seg057",
+      "start": 3.825,
+      "end": 10.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was already there, leaning where the light fell best, as if the mountain had practiced with her beforehand."
+    },
+    {
+      "id": "ch4-act2-seg058",
+      "start": 10.575,
+      "end": 22.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Night-silk hair. Violets for eyes, not color so much as focus: not where you were, but where you looked from. Her clothes were court-sin applied to travel: layered, impractical, and somehow no worse for the walk."
+    },
+    {
+      "id": "ch4-act2-seg059",
+      "start": 22.65,
+      "end": 29.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She carried almost nothing and yet the air around her moved on a slightly different beat, like a ripple behind the rhythm."
+    },
+    {
+      "id": "ch4-act2-seg060",
+      "start": 29.925,
+      "end": 33.05,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I've been tracking something hot all morning,\""
+    },
+    {
+      "id": "ch4-act2-seg061",
+      "start": 33.35,
+      "end": 40.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, and let her gaze travel very deliberately from the obsidian plate pulsing in Caelin's forearm to his mouth."
+    },
+    {
+      "id": "ch4-act2-seg062",
+      "start": 41.0,
+      "end": 44.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik fumbled his striker. tink tink tink."
+    },
+    {
+      "id": "ch4-act2-seg063",
+      "start": 44.7,
+      "end": 47.3,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"That's a pressure fuse \""
+    },
+    {
+      "id": "ch4-act2-seg064",
+      "start": 47.6,
+      "end": 50.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he squeaked, and dove to catch it."
+    },
+    {
+      "id": "ch4-act2-seg065",
+      "start": 50.55,
+      "end": 53.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex slid her eyes past Caelin."
+    },
+    {
+      "id": "ch4-act2-seg066",
+      "start": 53.425,
+      "end": 57.6,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Let me guess another follower of the... whatever we're following.\""
+    },
+    {
+      "id": "ch4-act2-seg067",
+      "start": 57.75,
+      "end": 60.625,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Something like that, darling,\""
+    },
+    {
+      "id": "ch4-act2-seg068",
+      "start": 60.925,
+      "end": 62.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "the woman purred."
+    },
+    {
+      "id": "ch4-act2-seg069",
+      "start": 63.025,
+      "end": 64.775,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Don't call me darling,\""
+    },
+    {
+      "id": "ch4-act2-seg070",
+      "start": 65.075,
+      "end": 67.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, already bored."
+    },
+    {
+      "id": "ch4-act2-seg071",
+      "start": 67.7,
+      "end": 71.525,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Call me Nyx everyone does when they want something,\""
+    },
+    {
+      "id": "ch4-act2-seg072",
+      "start": 71.825,
+      "end": 74.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "the woman said, smiling."
+    },
+    {
+      "id": "ch4-act2-seg073",
+      "start": 74.25,
+      "end": 77.125,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Or Nyxara if you're feeling ceremonious.\""
+    },
+    {
+      "id": "ch4-act2-seg074",
+      "start": 77.275,
+      "end": 78.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I'll stick with Nix,\""
+    },
+    {
+      "id": "ch4-act2-seg075",
+      "start": 79.275,
+      "end": 80.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said."
+    },
+    {
+      "id": "ch4-act2-seg076",
+      "start": 80.875,
+      "end": 82.875,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Short for no.\""
+    },
+    {
+      "id": "ch4-act2-seg077",
+      "start": 83.025,
+      "end": 86.025,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Mmm. Most men beg to make it yes by the end.\""
+    },
+    {
+      "id": "ch4-act2-seg078",
+      "start": 86.175,
+      "end": 88.925,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Lucky I'm not most men.\""
+    },
+    {
+      "id": "ch4-act2-seg079",
+      "start": 89.225,
+      "end": 103.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's scowl could have salted meat. Her hand drifted to her hilt by reflex. Elowen passed without pausing, humming the tune she used to keep herself steady. Durgan didn't look at Nyxara at all; he looked past her as if measuring the ledge for exits."
+    },
+    {
+      "id": "ch4-act2-seg080",
+      "start": 103.475,
+      "end": 112.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The plate in Caelin's arm lifted a faint silver shimmer magic near magic, attention not threat. No black-violet bloom. Just the world noticing."
+    },
+    {
+      "id": "ch4-act2-seg081",
+      "start": 112.925,
+      "end": 128.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik s device clicked twice the particular pattern it made when registering magic it hadn t catalogued before. Warlock, he said quietly, more to himself than anyone. Bound talent. She s drawing from something old. Something that made a bargain before she was born."
+    },
+    {
+      "id": "ch4-act2-seg082",
+      "start": 128.375,
+      "end": 131.775,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Patrons grow restless when old covenants stir,\""
+    },
+    {
+      "id": "ch4-act2-seg083",
+      "start": 132.075,
+      "end": 134.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said lightly."
+    },
+    {
+      "id": "ch4-act2-seg084",
+      "start": 134.55,
+      "end": 138.875,
+      "speaker": "elowen",
+      "type": "dialogue",
+      "text": "\"Nine arts, nine lights such pretty math. I follow the sums.\""
+    },
+    {
+      "id": "ch4-act2-seg085",
+      "start": 139.025,
+      "end": 140.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We're not hiring,\""
+    },
+    {
+      "id": "ch4-act2-seg086",
+      "start": 140.9,
+      "end": 142.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex told her."
+    },
+    {
+      "id": "ch4-act2-seg087",
+      "start": 142.775,
+      "end": 143.95,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Good,\""
+    },
+    {
+      "id": "ch4-act2-seg088",
+      "start": 144.25,
+      "end": 146.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said."
+    },
+    {
+      "id": "ch4-act2-seg089",
+      "start": 146.225,
+      "end": 148.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I'm terribly expensive.\""
+    },
+    {
+      "id": "ch4-act2-seg090",
+      "start": 148.6,
+      "end": 151.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik had his striker back in its pouch."
+    },
+    {
+      "id": "ch4-act2-seg091",
+      "start": 151.85,
+      "end": 155.7,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Do patrons always rehearse entrances, or is that just \""
+    },
+    {
+      "id": "ch4-act2-seg092",
+      "start": 156.0,
+      "end": 159.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He stopped himself before saying something he'd regret."
+    },
+    {
+      "id": "ch4-act2-seg093",
+      "start": 159.875,
+      "end": 161.1,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Nyxara,\""
+    },
+    {
+      "id": "ch4-act2-seg094",
+      "start": 161.4,
+      "end": 163.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he corrected briskly."
+    },
+    {
+      "id": "ch4-act2-seg095",
+      "start": 163.825,
+      "end": 168.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara's smile didn't change, but the air cooled by a degree."
+    },
+    {
+      "id": "ch4-act2-seg096",
+      "start": 168.4,
+      "end": 170.725,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Entrances are for the audience.\""
+    },
+    {
+      "id": "ch4-act2-seg097",
+      "start": 171.025,
+      "end": 173.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She nodded at the arch."
+    },
+    {
+      "id": "ch4-act2-seg098",
+      "start": 173.45,
+      "end": 175.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The mountain has excellent taste.\""
+    },
+    {
+      "id": "ch4-act2-seg099",
+      "start": 176.15,
+      "end": 184.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin weighed the two options: a knife at their backs or one where he could see the blade. The scale kept a tightened pulse not warning, not ease."
+    },
+    {
+      "id": "ch4-act2-seg100",
+      "start": 184.975,
+      "end": 192.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He thought about Durgan's words from days ago: I can walk with you, or I can follow you. If I follow, you won't know where I am when you sleep."
+    },
+    {
+      "id": "ch4-act2-seg101",
+      "start": 193.175,
+      "end": 195.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The logic was the same here."
+    },
+    {
+      "id": "ch4-act2-seg102",
+      "start": 195.9,
+      "end": 197.425,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Walk with us,\""
+    },
+    {
+      "id": "ch4-act2-seg103",
+      "start": 197.725,
+      "end": 200.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, keeping his voice neutral."
+    },
+    {
+      "id": "ch4-act2-seg104",
+      "start": 200.7,
+      "end": 203.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It's a long way to fall alone.\""
+    },
+    {
+      "id": "ch4-act2-seg105",
+      "start": 203.35,
+      "end": 209.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The threat was there, unspoken but clear. Nyxara heard it and her smile widened not offended, amused."
+    },
+    {
+      "id": "ch4-act2-seg106",
+      "start": 209.975,
+      "end": 211.825,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Safer for everyone,\""
+    },
+    {
+      "id": "ch4-act2-seg107",
+      "start": 212.125,
+      "end": 213.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he added."
+    },
+    {
+      "id": "ch4-act2-seg108",
+      "start": 213.775,
+      "end": 214.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Wonderful,\""
+    },
+    {
+      "id": "ch4-act2-seg109",
+      "start": 215.2,
+      "end": 216.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex murmured."
+    },
+    {
+      "id": "ch4-act2-seg110",
+      "start": 217.1,
+      "end": 219.475,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"A complication with cheekbones.\""
+    },
+    {
+      "id": "ch4-act2-seg111",
+      "start": 219.775,
+      "end": 222.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana set the terms, flat and formal."
+    },
+    {
+      "id": "ch4-act2-seg112",
+      "start": 223.025,
+      "end": 225.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Distance at night. Truth by day.\""
+    },
+    {
+      "id": "ch4-act2-seg113",
+      "start": 225.55,
+      "end": 227.85,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Daylight forgives many sins,\""
+    },
+    {
+      "id": "ch4-act2-seg114",
+      "start": 228.15,
+      "end": 232.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said, stepping off the prettiest light to prove she could."
+    },
+    {
+      "id": "ch4-act2-seg115",
+      "start": 232.575,
+      "end": 233.875,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I accept.\""
+    },
+    {
+      "id": "ch4-act2-seg116",
+      "start": 234.175,
+      "end": 246.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They filed past along the narrow path. Nyxara fell in two places back from Caelin, exactly where her perfume could find him and his eyes could find her. Durgan drifted to the tail without being told."
+    },
+    {
+      "id": "ch4-act2-seg117",
+      "start": 246.4,
+      "end": 255.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He turned an empty palm up to the sun for a heartbeat, as if testing heat or habit, then closed it again. His shadow lay tidy at his feet."
+    },
+    {
+      "id": "ch4-act2-seg118",
+      "start": 255.325,
+      "end": 259.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin didn't relax. The plate stayed warm. The mountain waited."
+    }
+  ]
+}

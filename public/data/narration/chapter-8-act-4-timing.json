@@ -1,0 +1,137 @@
+{
+  "chapter": 8,
+  "act": 4,
+  "actTitle": "Rest",
+  "audioFile": "/audio/chapters/chapter-8-act-4.mp3",
+  "totalDuration": 124.025,
+  "segments": [
+    {
+      "id": "ch8-act4-seg305",
+      "start": 0.0,
+      "end": 14.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They didn't call it a council, but word spreads between inns the way heat moves through metal. Captain Vale returned with a sister from the chapel, two gray-haired locals who looked like wheat had opinions, and someone who tried and failed not to be a clerk."
+    },
+    {
+      "id": "ch8-act4-seg306",
+      "start": 14.4,
+      "end": 26.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They asked sane questions. What had they seen? How far had the glass spread? Were there other survivors? The sister's eyes darted to Serana's insignia, then away. The clerk wrote as if ink could keep anyone safe."
+    },
+    {
+      "id": "ch8-act4-seg307",
+      "start": 26.75,
+      "end": 40.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin told the truth that would fit in a room. Thornik explained what he could without calling it worship. Vex left out every detail that would make anyone braver than they had a right to be. Durgan did not speak. Nyxara smiled when it helped."
+    },
+    {
+      "id": "ch8-act4-seg308",
+      "start": 40.85,
+      "end": 45.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's jaw clenched on old oaths and found no purchase."
+    },
+    {
+      "id": "ch8-act4-seg309",
+      "start": 45.3,
+      "end": 52.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When it ended, Vale gave them the look of a man who knows there are wolves in the hills and has just learned they can climb fences."
+    },
+    {
+      "id": "ch8-act4-seg310",
+      "start": 52.95,
+      "end": 54.775,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"There'll be talk,\""
+    },
+    {
+      "id": "ch8-act4-seg311",
+      "start": 55.075,
+      "end": 56.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch8-act4-seg312",
+      "start": 56.6,
+      "end": 61.75,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"About Ember-born. About what you carry. It would be better if you didn't show it.\""
+    },
+    {
+      "id": "ch8-act4-seg313",
+      "start": 62.05,
+      "end": 64.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin tugged his sleeve down."
+    },
+    {
+      "id": "ch8-act4-seg314",
+      "start": 64.675,
+      "end": 66.225,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Agreed.\""
+    },
+    {
+      "id": "ch8-act4-seg315",
+      "start": 66.525,
+      "end": 76.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "After they left, the inn felt older. The fiddle found its tuning. Someone sang a work song about rivers taking what they wanted. The room joined in because it knew how."
+    },
+    {
+      "id": "ch8-act4-seg316",
+      "start": 76.65,
+      "end": 89.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At the edge of the hearth's circle, Serana bowed her head over a bowl of stew gone cold and shaped her hands for prayer without speaking. Nothing came. No warmth, no direction, no sense of a presence at the other end of the gesture."
+    },
+    {
+      "id": "ch8-act4-seg317",
+      "start": 89.925,
+      "end": 98.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "After a while, she un-shaped her hands and ate mechanically. Caelin pretended not to see and succeeded the way men do when kindness would break something."
+    },
+    {
+      "id": "ch8-act4-seg318",
+      "start": 99.25,
+      "end": 109.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen should have been here to complain about the taste of boiled fat. She would have catalogued it specifically: the grade of tallow, the wrong herbs, what the cook should have done differently."
+    },
+    {
+      "id": "ch8-act4-seg319",
+      "start": 109.8,
+      "end": 119.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She would have complained with enough precision that it became funny. Caelin lifted his spoon and the scale warmed once like memory finding a handhold and let go."
+    },
+    {
+      "id": "ch8-act4-seg320",
+      "start": 119.525,
+      "end": 124.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Night came down easy, which only meant it would be harder in the morning."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": 8,
+  "title": "Down from the Peaks",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "Aftermath",
+      "audioFile": "/audio/chapters/chapter-8-act-1.mp3",
+      "timingFile": "/data/narration/chapter-8-act-1-timing.json",
+      "totalDuration": 358.025,
+      "segmentCount": 62
+    },
+    {
+      "act": 2,
+      "actTitle": "Descent",
+      "audioFile": "/audio/chapters/chapter-8-act-2.mp3",
+      "timingFile": "/data/narration/chapter-8-act-2-timing.json",
+      "totalDuration": 428.05,
+      "segmentCount": 86
+    },
+    {
+      "act": 3,
+      "actTitle": "The Valley",
+      "audioFile": "/audio/chapters/chapter-8-act-3.mp3",
+      "timingFile": "/data/narration/chapter-8-act-3-timing.json",
+      "totalDuration": 806.125,
+      "segmentCount": 156
+    },
+    {
+      "act": 4,
+      "actTitle": "Rest",
+      "audioFile": "/audio/chapters/chapter-8-act-4.mp3",
+      "timingFile": "/data/narration/chapter-8-act-4-timing.json",
+      "totalDuration": 124.025,
+      "segmentCount": 16
+    },
+    {
+      "act": 5,
+      "actTitle": "Reflections",
+      "audioFile": "/audio/chapters/chapter-8-act-5.mp3",
+      "timingFile": "/data/narration/chapter-8-act-5-timing.json",
+      "totalDuration": 125.6,
+      "segmentCount": 30
+    },
+    {
+      "act": 6,
+      "actTitle": "Dawn",
+      "audioFile": "/audio/chapters/chapter-8-act-6.mp3",
+      "timingFile": "/data/narration/chapter-8-act-6-timing.json",
+      "totalDuration": 142.375,
+      "segmentCount": 30
+    }
+  ],
+  "totalDuration": 1984.2
+}

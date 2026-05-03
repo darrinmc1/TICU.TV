@@ -1,4970 +1,4970 @@
 [
   {
-    "id": "ch5-act2-seg001",
+    "id": "ch5-act1-seg001",
     "type": "narration",
     "speaker": "narrator",
     "text": "The mountain smelled of hot stone and a kiln that had just shut its mouth. Caelin woke to Vex's palm over his mouth, her other hand clamped to his shoulder.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 0
   },
   {
-    "id": "ch5-act2-seg002",
+    "id": "ch5-act1-seg002",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"Don't make a sound,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act2-seg003",
+    "id": "ch5-act1-seg003",
     "type": "narration",
     "speaker": "narrator",
     "text": "she breathed.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act2-seg004",
+    "id": "ch5-act1-seg004",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"Company.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act2-seg005",
+    "id": "ch5-act1-seg005",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale in his right forearm tightened its pulse, not warning, not ease -- just braced. Coal-glow slid toward ember-red; the fine obsidian filaments beneath his skin crawled up toward the elbow like roots searching stone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 2
   },
   {
-    "id": "ch5-act2-seg006",
+    "id": "ch5-act1-seg006",
     "type": "narration",
     "speaker": "narrator",
     "text": "From the lower passage -- the one they'd marked with chalk and left closed -- voices braided the air. Wrong, guttural, harmonized like things that had practiced speaking together inside the same throat.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 3
   },
   {
-    "id": "ch5-act2-seg007",
+    "id": "ch5-act1-seg007",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"Ember-born...\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 4
   },
   {
-    "id": "ch5-act2-seg008",
+    "id": "ch5-act1-seg008",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"...the chain calls...\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 5
   },
   {
-    "id": "ch5-act2-seg009",
+    "id": "ch5-act1-seg009",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"...submit or be consumed...\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act2-seg010",
+    "id": "ch5-act1-seg010",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's hand left his mouth.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act2-seg011",
+    "id": "ch5-act1-seg011",
     "type": "dialogue",
     "speaker": "unknown",
     "text": "\"Up,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act2-seg012",
+    "id": "ch5-act1-seg012",
     "type": "narration",
     "speaker": "narrator",
     "text": "she hissed, and the camp came alive in a soft clatter of straps and breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act2-seg013",
+    "id": "ch5-act1-seg013",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana rolled to her feet, sword in one hand, the other kindling silver-gold. The light stuttered gold?silver?gold -- a tremor she smoothed with breath. Thornik's pack went from hum to urgent whine as needles spun.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act2-seg014",
+    "id": "ch5-act1-seg014",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen's vine-marks dimmed to a determined green. Nyxara stood in a movement that wasn't one, purple aura guttering like a candle in wind. Durgan took the choke point, blades bare, shadow pooled neat at his boots -- too neat.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act2-seg015",
+    "id": "ch5-act1-seg015",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Signatures?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act2-seg016",
+    "id": "ch5-act1-seg016",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex murmured.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act2-seg017",
+    "id": "ch5-act1-seg017",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik checked a gauge that vibrated his teeth.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act2-seg018",
+    "id": "ch5-act1-seg018",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Multiple. Same resonance as Thornwick -- stronger. Focused.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act2-seg019",
+    "id": "ch5-act1-seg019",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"They'll smell the Ember,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act2-seg020",
+    "id": "ch5-act1-seg020",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara said, eyes on Caelin's arm.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act2-seg021",
+    "id": "ch5-act1-seg021",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"A bonfire in a dark valley.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act2-seg022",
+    "id": "ch5-act1-seg022",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Can you dim it?\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act2-seg023",
+    "id": "ch5-act1-seg023",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana asked, already moving to shield the center.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act2-seg024",
+    "id": "ch5-act1-seg024",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"No.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act2-seg025",
+    "id": "ch5-act1-seg025",
     "type": "narration",
     "speaker": "narrator",
     "text": "He'd tried. White sparks punished lies, and it punished denial just as fast.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act2-seg026",
+    "id": "ch5-act1-seg026",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Then we work with it,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act2-seg027",
+    "id": "ch5-act1-seg027",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act2-seg028",
+    "id": "ch5-act1-seg028",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Caelin center-back. I hold the line. Thornik on my flank, steel first, toys second. Vex wide right. Elowen disrupt their approach. Nyxara -- \"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act2-seg029",
+    "id": "ch5-act1-seg029",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"I'll... persuade,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 15
   },
   {
-    "id": "ch5-act2-seg030",
+    "id": "ch5-act1-seg030",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara murmured, voice a soft knife.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 15
   },
   {
-    "id": "ch5-act2-seg031",
+    "id": "ch5-act1-seg031",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan didn't wait for orders.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act2-seg032",
+    "id": "ch5-act1-seg032",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"They know exactly where we are,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act2-seg033",
+    "id": "ch5-act1-seg033",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said, jaw tight.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act2-seg034",
+    "id": "ch5-act1-seg034",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Kill fast, before the trap closes.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act2-seg035",
+    "id": "ch5-act1-seg035",
     "type": "narration",
     "speaker": "narrator",
     "text": "The voices fell silent. The air drew a breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act2-seg036",
+    "id": "ch5-act1-seg036",
     "type": "narration",
     "speaker": "narrator",
     "text": "By first light that never reached this deep, the tunnels had learned their names.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act2-seg037",
+    "id": "ch5-act1-seg037",
     "type": "narration",
     "speaker": "narrator",
     "text": "The hum settled to a floor-note you only noticed when it stopped.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act2-seg038",
+    "id": "ch5-act1-seg038",
     "type": "narration",
     "speaker": "narrator",
     "text": "It stopped.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act2-seg039",
+    "id": "ch5-act1-seg039",
     "type": "narration",
     "speaker": "narrator",
     "text": "Dust lifted off the stone in slow spirals, then hung as if waiting to be told where to fall.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 21
   },
   {
-    "id": "ch5-act2-seg040",
+    "id": "ch5-act1-seg040",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex's hand found the wall.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act2-seg041",
+    "id": "ch5-act1-seg041",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Metallic again,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act2-seg042",
+    "id": "ch5-act1-seg042",
     "type": "narration",
     "speaker": "narrator",
     "text": "she murmured.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act2-seg043",
+    "id": "ch5-act1-seg043",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Coin on the tongue.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act2-seg044",
+    "id": "ch5-act1-seg044",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"The pull's stronger,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act2-seg045",
+    "id": "ch5-act1-seg045",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan said. Three words. Nothing more.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act2-seg046",
+    "id": "ch5-act1-seg046",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana's wardline thinned to chalk-pale, then steadied.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 24
   },
   {
-    "id": "ch5-act2-seg047",
+    "id": "ch5-act1-seg047",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin felt the scale tighten -- warning without pain, the kind that comes just before it hurts.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act2-seg048",
+    "id": "ch5-act1-seg048",
     "type": "narration",
     "speaker": "narrator",
     "text": "The chamber ahead was the shape of a held breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 26
   },
   {
-    "id": "ch5-act2-seg049",
+    "id": "ch5-act1-seg049",
     "type": "narration",
     "speaker": "narrator",
     "text": "Shadow clung to the facets and then decided to stand.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 27
   },
   {
-    "id": "ch5-act2-seg050",
+    "id": "ch5-act1-seg050",
     "type": "narration",
     "speaker": "narrator",
     "text": "Five of them -- wrong-jointed, glass-slick, learning their limbs like newborns. They moved like puppets given too many strings. Joints bent a fraction wrong.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act2-seg051",
+    "id": "ch5-act1-seg051",
     "type": "narration",
     "speaker": "narrator",
     "text": "Skin was the color of cold parchment, stretched and shifting over bones that didn't respect anatomy. Eyes were black from lid to lid -- no iris, no white, just void that stared back.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act2-seg052",
+    "id": "ch5-act1-seg052",
     "type": "narration",
     "speaker": "narrator",
     "text": "Their shadows moved first, crawling toward Caelin's arm with hungry, fingered curiosity.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act2-seg053",
+    "id": "ch5-act1-seg053",
     "type": "narration",
     "speaker": "narrator",
     "text": "When they spoke, three voices braided through each throat: the people they had been, something ancient and patient, and beneath both the grind of stone on stone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act2-seg054",
+    "id": "ch5-act1-seg054",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Ember-born,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act2-seg055",
+    "id": "ch5-act1-seg055",
     "type": "narration",
     "speaker": "narrator",
     "text": "they said together.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act2-seg056",
+    "id": "ch5-act1-seg056",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"The Seal remembers. The Seal hungers.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act2-seg057",
+    "id": "ch5-act1-seg057",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Line,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act2-seg058",
+    "id": "ch5-act1-seg058",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said, sword low.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act2-seg059",
+    "id": "ch5-act1-seg059",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"Light, then edges. No heroes.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act2-seg060",
+    "id": "ch5-act1-seg060",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik palmed two charges.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 33
   },
   {
-    "id": "ch5-act2-seg061",
+    "id": "ch5-act1-seg061",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Edges I have. Heroes, sadly, I left at home.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 33
   },
   {
-    "id": "ch5-act2-seg062",
+    "id": "ch5-act1-seg062",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Left,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act2-seg063",
+    "id": "ch5-act1-seg063",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex snapped, already moving.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act2-seg064",
+    "id": "ch5-act1-seg064",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Right,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act2-seg065",
+    "id": "ch5-act1-seg065",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara echoed, voice silk over wire.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act2-seg066",
+    "id": "ch5-act1-seg066",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin took center because the path in his bones put him there.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 36
   },
   {
-    "id": "ch5-act2-seg067",
+    "id": "ch5-act1-seg067",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale's edge bloomed black-violet -- ink spreading through obsidian water -- and snapped back to red-gold. It hurt different this time: not the compressive burn of claiming, not the constant ache he could now ignore.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act2-seg068",
+    "id": "ch5-act1-seg068",
     "type": "narration",
     "speaker": "narrator",
     "text": "This was a hook, barbed and patient, tugging along the filament lattice as if it could pull the Ember out of him with steady, surgical malice.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act2-seg069",
+    "id": "ch5-act1-seg069",
     "type": "narration",
     "speaker": "narrator",
     "text": "He staggered. Elowen caught his shoulder.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act2-seg070",
+    "id": "ch5-act1-seg070",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I can sense it,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act2-seg071",
+    "id": "ch5-act1-seg071",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, voice tight.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act2-seg072",
+    "id": "ch5-act1-seg072",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"A severing. I can't ease this.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act2-seg073",
+    "id": "ch5-act1-seg073",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Then we break the hand holding the hook,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act2-seg074",
+    "id": "ch5-act1-seg074",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said, and ran.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act2-seg075",
+    "id": "ch5-act1-seg075",
     "type": "narration",
     "speaker": "narrator",
     "text": "He drew heat and starved it to a hard white seam across his palm, then cut the closest shadow at the ankle.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 40
   },
   {
-    "id": "ch5-act2-seg076",
+    "id": "ch5-act1-seg076",
     "type": "narration",
     "speaker": "narrator",
     "text": "It shrieked in three registers and folded -- but did not die.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 41
   },
   {
-    "id": "ch5-act2-seg077",
+    "id": "ch5-act1-seg077",
     "type": "narration",
     "speaker": "narrator",
     "text": "Pain lit the scale a murderous red. He kept his hand closed anyway.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 42
   },
   {
-    "id": "ch5-act2-seg078",
+    "id": "ch5-act1-seg078",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana hit them like a wall of weather. Shield-first, a ward-wave plowing the nearest thrall backward so hard its shadow recoiled, hissing. Her sword came down in a clean kill-line --",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 43
   },
   {
-    "id": "ch5-act2-seg079",
+    "id": "ch5-act1-seg079",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her lips moved -- automatic prayer, the kind learned in bone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act2-seg080",
+    "id": "ch5-act1-seg080",
     "type": "narration",
     "speaker": "narrator",
     "text": "The answer struck from two mouths at once.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 45
   },
   {
-    "id": "ch5-act2-seg081",
+    "id": "ch5-act1-seg081",
     "type": "narration",
     "speaker": "narrator",
     "text": "Protect the flame.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 46
   },
   {
-    "id": "ch5-act2-seg082",
+    "id": "ch5-act1-seg082",
     "type": "narration",
     "speaker": "narrator",
     "text": "Break the vessel to save the flame.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act2-seg083",
+    "id": "ch5-act1-seg083",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her wardlight guttered, flared, guttered. Blood salted her tongue.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act2-seg084",
+    "id": "ch5-act1-seg084",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Choose,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act2-seg085",
+    "id": "ch5-act1-seg085",
     "type": "narration",
     "speaker": "narrator",
     "text": "she hissed -- to the voices, to herself. The blade came up anyway.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act2-seg086",
+    "id": "ch5-act1-seg086",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Fine. I choose now.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act2-seg087",
+    "id": "ch5-act1-seg087",
     "type": "narration",
     "speaker": "narrator",
     "text": "She stepped in and set her sword through the thing's shoulder -- and met resistance like cutting water that didn't agree to be cut. Light seared black flesh; it didn't fall. It grinned too wide -- teeth blooming like fungus where a mouth should stop.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 50
   },
   {
-    "id": "ch5-act2-seg088",
+    "id": "ch5-act1-seg088",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Hard to kill!\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act2-seg089",
+    "id": "ch5-act1-seg089",
     "type": "narration",
     "speaker": "narrator",
     "text": "she called.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act2-seg090",
+    "id": "ch5-act1-seg090",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"News flash,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act2-seg091",
+    "id": "ch5-act1-seg091",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said, already gone from where she'd spoken.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act2-seg092",
+    "id": "ch5-act1-seg092",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Duck,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 53
   },
   {
-    "id": "ch5-act2-seg093",
+    "id": "ch5-act1-seg093",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, and rolled a thimble charge.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 53
   },
   {
-    "id": "ch5-act2-seg094",
+    "id": "ch5-act1-seg094",
     "type": "narration",
     "speaker": "narrator",
     "text": "It coughed instead of boomed; the echo slapped the chamber flat.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 54
   },
   {
-    "id": "ch5-act2-seg095",
+    "id": "ch5-act1-seg095",
     "type": "narration",
     "speaker": "narrator",
     "text": "The shadow's edge tore like wet paper where the sound hit it.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 55
   },
   {
-    "id": "ch5-act2-seg096",
+    "id": "ch5-act1-seg096",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Acoustic shear,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act2-seg097",
+    "id": "ch5-act1-seg097",
     "type": "narration",
     "speaker": "narrator",
     "text": "he breathed.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act2-seg098",
+    "id": "ch5-act1-seg098",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Repeatable.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act2-seg099",
+    "id": "ch5-act1-seg099",
     "type": "narration",
     "speaker": "narrator",
     "text": "She was a blur on the fringe: two quick stabs behind a knee and a tendon, twist and away. The thrall buckled correctly -- then its shadow lashed like a whip and caught her across the ribs.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 57
   },
   {
-    "id": "ch5-act2-seg100",
+    "id": "ch5-act1-seg100",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex hit stone, slid, swore without wasting air.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act2-seg101",
+    "id": "ch5-act1-seg101",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Shadows bite! Noted!\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act2-seg102",
+    "id": "ch5-act1-seg102",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex went low, a fast insult of steel at what passed for a heel.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act2-seg103",
+    "id": "ch5-act1-seg103",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Trip the legs, quiet the mouth.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act2-seg104",
+    "id": "ch5-act1-seg104",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara didn't draw. She spoke a word that bent the lantern-angle; light arrived from the wrong direction.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 60
   },
   {
-    "id": "ch5-act2-seg105",
+    "id": "ch5-act1-seg105",
     "type": "narration",
     "speaker": "narrator",
     "text": "The shadow flinched from illumination that shouldn't exist there.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 61
   },
   {
-    "id": "ch5-act2-seg106",
+    "id": "ch5-act1-seg106",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Transposition,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act2-seg107",
+    "id": "ch5-act1-seg107",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, almost kindly.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act2-seg108",
+    "id": "ch5-act1-seg108",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Stand in your proper place.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act2-seg109",
+    "id": "ch5-act1-seg109",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik roared -- a sound that came from under mountains -- and hit the hamstrung thrall with two axes like punctuation. Steel met neck. Head rolled. Its shadow screamed like glass breaking underwater and blew away.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 63
   },
   {
-    "id": "ch5-act2-seg110",
+    "id": "ch5-act1-seg110",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"One!\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 64
   },
   {
-    "id": "ch5-act2-seg111",
+    "id": "ch5-act1-seg111",
     "type": "narration",
     "speaker": "narrator",
     "text": "he bellowed, beard alight with reflected ember.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 64
   },
   {
-    "id": "ch5-act2-seg112",
+    "id": "ch5-act1-seg112",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara didn't shout. She breathed, and indecision bloomed in two corrupted minds. One raked at the wrong air where Caelin had stood; the other hesitated in a three-second loop of doubt.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 65
   },
   {
-    "id": "ch5-act2-seg113",
+    "id": "ch5-act1-seg113",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Now,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 66
   },
   {
-    "id": "ch5-act2-seg114",
+    "id": "ch5-act1-seg114",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, soft but absolute.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 66
   },
   {
-    "id": "ch5-act2-seg115",
+    "id": "ch5-act1-seg115",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana obliged. Silver-gold through the throat; the shadow boiled like ice in summer and was gone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 67
   },
   {
-    "id": "ch5-act2-seg116",
+    "id": "ch5-act1-seg116",
     "type": "narration",
     "speaker": "narrator",
     "text": "The fourth rose for Vex's throat.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 68
   },
   {
-    "id": "ch5-act2-seg117",
+    "id": "ch5-act1-seg117",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan was there. No shout, no flourish -- steel where it had to be. His forearm took the rake that would have opened her.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 69
   },
   {
-    "id": "ch5-act2-seg118",
+    "id": "ch5-act1-seg118",
     "type": "narration",
     "speaker": "narrator",
     "text": "He shoved it back two steps and did not pursue.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 70
   },
   {
-    "id": "ch5-act2-seg119",
+    "id": "ch5-act1-seg119",
     "type": "narration",
     "speaker": "narrator",
     "text": "The last turned from the fighters and stretched too many fingers toward Caelin.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 71
   },
   {
-    "id": "ch5-act2-seg120",
+    "id": "ch5-act1-seg120",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Ember-born,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 72
   },
   {
-    "id": "ch5-act2-seg121",
+    "id": "ch5-act1-seg121",
     "type": "narration",
     "speaker": "narrator",
     "text": "three voices purred.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 72
   },
   {
-    "id": "ch5-act2-seg122",
+    "id": "ch5-act1-seg122",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"The chain is mercy. Let us hold your fire. We will take the pain away.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 72
   },
   {
-    "id": "ch5-act2-seg123",
+    "id": "ch5-act1-seg123",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale chose.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 73
   },
   {
-    "id": "ch5-act2-seg124",
+    "id": "ch5-act1-seg124",
     "type": "narration",
     "speaker": "narrator",
     "text": "Heat flowered in his chest like a furnace door thrown wide. It wasn't temperature; it was pressure finding a path. His right arm lifted with a puppet's surety. Obsidian hex flared white. The lattice lit like molten wire from palm to collarbone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 74
   },
   {
-    "id": "ch5-act2-seg125",
+    "id": "ch5-act1-seg125",
     "type": "narration",
     "speaker": "narrator",
     "text": "He didn't aim. Didn't choose. The Ember chose him as an answer.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 75
   },
   {
-    "id": "ch5-act2-seg126",
+    "id": "ch5-act1-seg126",
     "type": "narration",
     "speaker": "narrator",
     "text": "Red-gold plasma ripped the air. Granite vitrified to glossy black where it touched. The smell hit hard -- hot glass, burnt ozone, iron filings on the tongue.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 76
   },
   {
-    "id": "ch5-act2-seg127",
+    "id": "ch5-act1-seg127",
     "type": "narration",
     "speaker": "narrator",
     "text": "The thrall didn't burn. It unmade. Flesh evaporated. Bone sifted to ash. The shadow screamed in three notes and was not.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 77
   },
   {
-    "id": "ch5-act2-seg128",
+    "id": "ch5-act1-seg128",
     "type": "narration",
     "speaker": "narrator",
     "text": "Three seconds. Then the door slammed shut.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 78
   },
   {
-    "id": "ch5-act2-seg129",
+    "id": "ch5-act1-seg129",
     "type": "narration",
     "speaker": "narrator",
     "text": "Pain took the room.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 79
   },
   {
-    "id": "ch5-act2-seg130",
+    "id": "ch5-act1-seg130",
     "type": "narration",
     "speaker": "narrator",
     "text": "The remaining shadows collapsed into behaving dark, dragging cold with them that wasn't temperature so much as absence.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 80
   },
   {
-    "id": "ch5-act2-seg131",
+    "id": "ch5-act1-seg131",
     "type": "narration",
     "speaker": "narrator",
     "text": "They said nothing more. They only learned the shape of the group and thinned into the walls.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 81
   },
   {
-    "id": "ch5-act2-seg132",
+    "id": "ch5-act1-seg132",
     "type": "narration",
     "speaker": "narrator",
     "text": "Sound returned in layers -- first to the floor, then to the air, then, last of all, to breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 82
   },
   {
-    "id": "ch5-act2-seg133",
+    "id": "ch5-act1-seg133",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin flexed scorched fingers. The scale tallied pain and settled to coal-glow.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 83
   },
   {
-    "id": "ch5-act2-seg134",
+    "id": "ch5-act1-seg134",
     "type": "narration",
     "speaker": "narrator",
     "text": "Sound wavered, distant and too loud. His heart rattled a panicked rhythm. The plate in his arm dropped from white-hot to furious red, the filaments pulsing like infected seams. His lungs forgot how. He went to a knee on a floor that looked like a mirror still cooling.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 84
   },
   {
-    "id": "ch5-act2-seg135",
+    "id": "ch5-act1-seg135",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen was there, palms hovering. Green light reached for him -- and guttered, the smell of scorched leaves sharp and wrong. A thin edge of one vine-mark blackened on her skin as she pulled back.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 85
   },
   {
-    "id": "ch5-act2-seg136",
+    "id": "ch5-act1-seg136",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I can't,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 86
   },
   {
-    "id": "ch5-act2-seg137",
+    "id": "ch5-act1-seg137",
     "type": "narration",
     "speaker": "narrator",
     "text": "she whispered, horrified.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 86
   },
   {
-    "id": "ch5-act2-seg138",
+    "id": "ch5-act1-seg138",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Post-cast residue burns my connection. I can ease your baseline, not this.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 86
   },
   {
-    "id": "ch5-act2-seg139",
+    "id": "ch5-act1-seg139",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"S'okay,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 87
   },
   {
-    "id": "ch5-act2-seg140",
+    "id": "ch5-act1-seg140",
     "type": "narration",
     "speaker": "narrator",
     "text": "he managed through his teeth.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 87
   },
   {
-    "id": "ch5-act2-seg141",
+    "id": "ch5-act1-seg141",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"You told me.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 87
   },
   {
-    "id": "ch5-act2-seg142",
+    "id": "ch5-act1-seg142",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex slid in hard, fingers at his pulse, pupils, breath.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg143",
+    "id": "ch5-act1-seg143",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Not dying,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg144",
+    "id": "ch5-act1-seg144",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said briskly.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg145",
+    "id": "ch5-act1-seg145",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Shouldn't cast again for hours -- maybe a day -- unless we want him to.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg146",
+    "id": "ch5-act1-seg146",
     "type": "narration",
     "speaker": "narrator",
     "text": "She made a leveling motion with her hand.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg147",
+    "id": "ch5-act1-seg147",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"You know.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 88
   },
   {
-    "id": "ch5-act2-seg148",
+    "id": "ch5-act1-seg148",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her joke was a little too thin to be a joke. He almost laughed anyway.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 89
   },
   {
-    "id": "ch5-act2-seg149",
+    "id": "ch5-act1-seg149",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana kept her hand on the ward until it stopped shaking. When she finally sheathed the blade, her mouth was set against words.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 90
   },
   {
-    "id": "ch5-act2-seg150",
+    "id": "ch5-act1-seg150",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex wiped her knife clean and didn't thank Durgan. She didn't not thank him, either.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 91
   },
   {
-    "id": "ch5-act2-seg151",
+    "id": "ch5-act1-seg151",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara smoothed her coat as if dirt were an opinion, then watched Serana a fraction too long.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 92
   },
   {
-    "id": "ch5-act2-seg152",
+    "id": "ch5-act1-seg152",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik counted fuses he hadn't used and grinned like a man who'd just learned his math could kill.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 93
   },
   {
-    "id": "ch5-act2-seg153",
+    "id": "ch5-act1-seg153",
     "type": "narration",
     "speaker": "narrator",
     "text": "He glanced at Caelin's arm -- coal-glow again, the ember-motes drifting slow.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg154",
+    "id": "ch5-act1-seg154",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Back to baseline,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg155",
+    "id": "ch5-act1-seg155",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said, as if noting a reading.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg156",
+    "id": "ch5-act1-seg156",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Coal means steady. Ember-red means spent. Black-violet means -- \"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg157",
+    "id": "ch5-act1-seg157",
     "type": "narration",
     "speaker": "narrator",
     "text": "He stopped himself.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg158",
+    "id": "ch5-act1-seg158",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Well. We know what black-violet means.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 94
   },
   {
-    "id": "ch5-act2-seg159",
+    "id": "ch5-act1-seg159",
     "type": "narration",
     "speaker": "narrator",
     "text": "At the mouth of the passage, Durgan hadn't moved an inch. He kept the retreat open, blades ready -- eyes trained not on the dark beyond, but on the lattice burning under Caelin's skin. His shadow flexed like a dog that had caught a scent.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 95
   },
   {
-    "id": "ch5-act2-seg160",
+    "id": "ch5-act1-seg160",
     "type": "narration",
     "speaker": "narrator",
     "text": "He flattened it with will and left crescent bruises through his trousers where his fingers anchored him.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 95
   },
   {
-    "id": "ch5-act2-seg161",
+    "id": "ch5-act1-seg161",
     "type": "narration",
     "speaker": "narrator",
     "text": "The hum returned, deeper, almost pleased.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 96
   },
   {
-    "id": "ch5-act2-seg162",
+    "id": "ch5-act1-seg162",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Not a voice,\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 97
   },
   {
-    "id": "ch5-act2-seg163",
+    "id": "ch5-act1-seg163",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said, listening to the stone.",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 97
   },
   {
-    "id": "ch5-act2-seg164",
+    "id": "ch5-act1-seg164",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Not yet.\"",
-    "act": 2,
+    "act": 1,
     "paragraphIndex": 97
   },
   {
-    "id": "ch5-act3-seg165",
+    "id": "ch5-act2-seg165",
     "type": "narration",
     "speaker": "narrator",
     "text": "They took stock fast because there was no slow left.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 0
   },
   {
-    "id": "ch5-act3-seg166",
+    "id": "ch5-act2-seg166",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex: moving, rib-shot, functioning at perhaps 70%.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act3-seg167",
+    "id": "ch5-act2-seg167",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik: winded, uncut, checking his instruments with shaking hands.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 2
   },
   {
-    "id": "ch5-act3-seg168",
+    "id": "ch5-act2-seg168",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen: whole in body, less in magic -- one vine-mark dim at the edge, blackened where she'd tried to touch the post-cast burn.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 3
   },
   {
-    "id": "ch5-act3-seg169",
+    "id": "ch5-act2-seg169",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara: unmarked, a faint frost halo gone when she blinked.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 4
   },
   {
-    "id": "ch5-act3-seg170",
+    "id": "ch5-act2-seg170",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan: coiled too tight, shadow obedient by force, four crescent marks pressed into his thigh through his trousers.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 5
   },
   {
-    "id": "ch5-act3-seg171",
+    "id": "ch5-act2-seg171",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana: connection steadied, a tiny flicker when she turned to speak, lips still tasting copper from the split counsel.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act3-seg172",
+    "id": "ch5-act2-seg172",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin: vertical by stubbornness, the scale back to coal-glow, pain settling to the constant ache Elowen could ease later -- if it wasn't fresh-burn.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act3-seg173",
+    "id": "ch5-act2-seg173",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"They'll follow the Ember,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act3-seg174",
+    "id": "ch5-act2-seg174",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara said, breaking the silence.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act3-seg175",
+    "id": "ch5-act2-seg175",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Distance won't matter.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act3-seg176",
+    "id": "ch5-act2-seg176",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Surface,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act3-seg177",
+    "id": "ch5-act2-seg177",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex started -- then glanced toward the south, toward Millbrook and the scattered hamlets tucked under these ridges. Her jaw tightened.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act3-seg178",
+    "id": "ch5-act2-seg178",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"No. Not with a beacon on two legs. I hate the idea, but... containment.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act3-seg179",
+    "id": "ch5-act2-seg179",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"The Undervault,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act3-seg180",
+    "id": "ch5-act2-seg180",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik offered, already pulling the battered journal from his coat. Pages crackled, stained with old blood and older ink.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act3-seg181",
+    "id": "ch5-act2-seg181",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Pre-Concord passages. Old dwarf-wards. My grandfather mapped entries and marked the Deep Hall. Wards there might confuse whatever is sniffing us.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act3-seg182",
+    "id": "ch5-act2-seg182",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Safer for civilians,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act3-seg183",
+    "id": "ch5-act2-seg183",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said, jaw set.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act3-seg184",
+    "id": "ch5-act2-seg184",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Not for us.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act3-seg185",
+    "id": "ch5-act2-seg185",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen's gaze went inward, the way it did when she listened to the Weave. The green of her tattoos pulsed faintly, then dimmed.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act3-seg186",
+    "id": "ch5-act2-seg186",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"The deep places are hurt. Wounded things can be generous. Or angry.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act3-seg187",
+    "id": "ch5-act2-seg187",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan's fingers twitched toward a blade, then away -- a motion so fast only Vex caught it.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act3-seg188",
+    "id": "ch5-act2-seg188",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Safer to be hunted in stone than among farms.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act3-seg189",
+    "id": "ch5-act2-seg189",
     "type": "narration",
     "speaker": "narrator",
     "text": "They looked to Caelin.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act3-seg190",
+    "id": "ch5-act2-seg190",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale warmed -- not push, not pull. Waiting.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 15
   },
   {
-    "id": "ch5-act3-seg191",
+    "id": "ch5-act2-seg191",
     "type": "narration",
     "speaker": "narrator",
     "text": "He thought of Thornwick. Of glass bones where houses had stood. Of Mira's small hand clutching his ruined cloak.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act3-seg192",
+    "id": "ch5-act2-seg192",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Undervault,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act3-seg193",
+    "id": "ch5-act2-seg193",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act3-seg194",
+    "id": "ch5-act2-seg194",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"We don't bring this down to doorsteps.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act3-seg195",
+    "id": "ch5-act2-seg195",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Excellent,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act3-seg196",
+    "id": "ch5-act2-seg196",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, already shouldering weight, adjusting straps with practiced efficiency.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act3-seg197",
+    "id": "ch5-act2-seg197",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I've always wanted to risk my life on decayed ventilation and ancestral pride.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act3-seg198",
+    "id": "ch5-act2-seg198",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Lead on,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act3-seg199",
+    "id": "ch5-act2-seg199",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said, checking her daggers with methodical precision.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act3-seg200",
+    "id": "ch5-act2-seg200",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"If a ward eats us, I'm haunting you.\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act3-seg201",
+    "id": "ch5-act2-seg201",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Queue forms to the left,\"",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act3-seg202",
+    "id": "ch5-act2-seg202",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, finding his cheer again despite everything.",
-    "act": 3,
+    "act": 2,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act3-seg203",
+    "id": "ch5-act2-seg203",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Ancestral disapproval is first-come, first-served.\"",
+    "act": 2,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch5-act3-seg204",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik found the seam in the wall by feel -- three high, two low, one center -- and an ancient hinge sighed cold air into their faces. The breath of the Undervault tasted of iron, dust, and old smoke that had forgotten its fire.",
+    "act": 3,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch5-act3-seg205",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A tight spiral took them down past shelves of fossilized lichen that glowed just enough to make shadows mean. The scale's coal-glow mixed with green-blue, turning everything a strange bruised purple.",
+    "act": 3,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch5-act3-seg206",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Their boots found perfect dwarf-cut treads, each one precisely placed, worn smooth by centuries of use. Breath plumed in the cold.",
+    "act": 3,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch5-act3-seg207",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They came to a three-way junction.",
+    "act": 3,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch5-act3-seg208",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik thumbed brittle pages, following his grandfather's diagrams with one finger while holding his lantern close.",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch5-act3-seg209",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Left is sealed. Collapse, bad air, and a page of do not in runes only grandmothers use.\"",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch5-act3-seg210",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He squinted at faded ink.",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch5-act3-seg211",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Right's toward the forges -- likely flooded. Straight is the Deep Hall. Strongest wards. Multiple exits.\"",
+    "act": 3,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch5-act3-seg212",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"'Should be' is the most dangerous phrase,\"",
+    "act": 3,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch5-act3-seg213",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex muttered, testing the air currents with a wetted finger.",
+    "act": 3,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch5-act3-seg214",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Aye,\"",
+    "act": 3,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch5-act3-seg215",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said cheerfully.",
+    "act": 3,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch5-act3-seg216",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Shall we?\"",
+    "act": 3,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch5-act3-seg217",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They walked until silence felt heavier than noise.",
+    "act": 3,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch5-act3-seg218",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The mountain had gone from predator to cathedral -- huge, patient, and indifferent.",
+    "act": 3,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch5-act3-seg219",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Every sound came back doubled, as if the tunnels were practicing conversation.",
+    "act": 3,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch5-act3-seg220",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "By the time they moved again, their footsteps felt borrowed.",
+    "act": 3,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch5-act3-seg221",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The bridge waited with the patience of stone made to sing.",
+    "act": 3,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch5-act3-seg222",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Below, the dark had depth -- thick enough to hold a choir.",
+    "act": 3,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch5-act3-seg223",
+    "type": "dialogue",
+    "speaker": "serana",
+    "text": "\"Single file,\"",
+    "act": 3,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch5-act3-seg224",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana said, testing the first plank with her boot.",
+    "act": 3,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch5-act3-seg225",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Slow. No idle noise.\"",
+    "act": 3,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch5-act3-seg226",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik swallowed a theory about resonant architecture. Vex swallowed a curse about trusting ancient engineering.",
+    "act": 3,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch5-act3-seg227",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan said nothing and stepped where he was told.",
+    "act": 3,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch5-act3-seg228",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The first footfall rang a low bell -- pure, round, unhurried.",
+    "act": 3,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch5-act3-seg229",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The second answered a third below, like harmony remembering itself.",
+    "act": 3,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch5-act3-seg230",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "By Caelin's fourth step the bells had learned his weight and offered a scale that climbed in perfect intervals.",
+    "act": 3,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch5-act3-seg231",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The plate in his arm kept time despite him, pulsing in rhythm with the bells -- coal-glow brightening fractionally with each step.",
+    "act": 3,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch5-act3-seg232",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Halfway across, Nyxara's heel grazed a loose shard.",
+    "act": 3,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch5-act3-seg233",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The note that answered came bent, then split into two, then four -- ugly, eager, dissonant.",
     "act": 3,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act4-seg204",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik found the seam in the wall by feel -- three high, two low, one center -- and an ancient hinge sighed cold air into their faces. The breath of the Undervault tasted of iron, dust, and old smoke that had forgotten its fire.",
-    "act": 4,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch5-act4-seg205",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A tight spiral took them down past shelves of fossilized lichen that glowed just enough to make shadows mean. The scale's coal-glow mixed with green-blue, turning everything a strange bruised purple.",
-    "act": 4,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch5-act4-seg206",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Their boots found perfect dwarf-cut treads, each one precisely placed, worn smooth by centuries of use. Breath plumed in the cold.",
-    "act": 4,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch5-act4-seg207",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They came to a three-way junction.",
-    "act": 4,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch5-act4-seg208",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik thumbed brittle pages, following his grandfather's diagrams with one finger while holding his lantern close.",
-    "act": 4,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch5-act4-seg209",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Left is sealed. Collapse, bad air, and a page of do not in runes only grandmothers use.\"",
-    "act": 4,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch5-act4-seg210",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He squinted at faded ink.",
-    "act": 4,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch5-act4-seg211",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Right's toward the forges -- likely flooded. Straight is the Deep Hall. Strongest wards. Multiple exits.\"",
-    "act": 4,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch5-act4-seg212",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"'Should be' is the most dangerous phrase,\"",
-    "act": 4,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch5-act4-seg213",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex muttered, testing the air currents with a wetted finger.",
-    "act": 4,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch5-act4-seg214",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Aye,\"",
-    "act": 4,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch5-act4-seg215",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik said cheerfully.",
-    "act": 4,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch5-act4-seg216",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Shall we?\"",
-    "act": 4,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch5-act4-seg217",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They walked until silence felt heavier than noise.",
-    "act": 4,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch5-act4-seg218",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The mountain had gone from predator to cathedral -- huge, patient, and indifferent.",
-    "act": 4,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch5-act4-seg219",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Every sound came back doubled, as if the tunnels were practicing conversation.",
-    "act": 4,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch5-act4-seg220",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "By the time they moved again, their footsteps felt borrowed.",
-    "act": 4,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch5-act4-seg221",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The bridge waited with the patience of stone made to sing.",
-    "act": 4,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch5-act4-seg222",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Below, the dark had depth -- thick enough to hold a choir.",
-    "act": 4,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch5-act4-seg223",
-    "type": "dialogue",
-    "speaker": "serana",
-    "text": "\"Single file,\"",
-    "act": 4,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch5-act4-seg224",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Serana said, testing the first plank with her boot.",
-    "act": 4,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch5-act4-seg225",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Slow. No idle noise.\"",
-    "act": 4,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch5-act4-seg226",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik swallowed a theory about resonant architecture. Vex swallowed a curse about trusting ancient engineering.",
-    "act": 4,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch5-act4-seg227",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan said nothing and stepped where he was told.",
-    "act": 4,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch5-act4-seg228",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The first footfall rang a low bell -- pure, round, unhurried.",
-    "act": 4,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch5-act4-seg229",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The second answered a third below, like harmony remembering itself.",
-    "act": 4,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch5-act4-seg230",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "By Caelin's fourth step the bells had learned his weight and offered a scale that climbed in perfect intervals.",
-    "act": 4,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch5-act4-seg231",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The plate in his arm kept time despite him, pulsing in rhythm with the bells -- coal-glow brightening fractionally with each step.",
-    "act": 4,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch5-act4-seg232",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Halfway across, Nyxara's heel grazed a loose shard.",
-    "act": 4,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch5-act4-seg233",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The note that answered came bent, then split into two, then four -- ugly, eager, dissonant.",
-    "act": 4,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch5-act4-seg234",
+    "id": "ch5-act3-seg234",
     "type": "narration",
     "speaker": "narrator",
     "text": "The span trembled. Cracks webbed outward from where her foot had landed, then held -- barely.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 21
   },
   {
-    "id": "ch5-act4-seg235",
+    "id": "ch5-act3-seg235",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Don't improvise,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act4-seg236",
+    "id": "ch5-act3-seg236",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex hissed without turning, knuckles white on the rope.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act4-seg237",
+    "id": "ch5-act3-seg237",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Tragic,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act4-seg238",
+    "id": "ch5-act3-seg238",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara said, adjusting her footing with careful precision.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act4-seg239",
+    "id": "ch5-act3-seg239",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I excel at it.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act4-seg240",
+    "id": "ch5-act3-seg240",
     "type": "narration",
     "speaker": "narrator",
     "text": "From the chasm rose an answering chord -- soft at first, then full enough to live in. Harmonics layered upon harmonics, building a cathedral of sound in the empty air.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 24
   },
   {
-    "id": "ch5-act4-seg241",
+    "id": "ch5-act3-seg241",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen's eyes went wide.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act4-seg242",
+    "id": "ch5-act3-seg242",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Roots sing under storms,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act4-seg243",
+    "id": "ch5-act3-seg243",
     "type": "narration",
     "speaker": "narrator",
     "text": "she whispered.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act4-seg244",
+    "id": "ch5-act3-seg244",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"This isn't that.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act4-seg245",
+    "id": "ch5-act3-seg245",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik's hand hovered over his tuning fork, then curled to a fist.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 26
   },
   {
-    "id": "ch5-act4-seg246",
+    "id": "ch5-act3-seg246",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"This is engineered. Intentional. The entire bridge is an instrument.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 26
   },
   {
-    "id": "ch5-act4-seg247",
+    "id": "ch5-act3-seg247",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin tasted metal and old ash. The scale warmed without pain, as if listening back, recognizing something in the music.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 27
   },
   {
-    "id": "ch5-act4-seg248",
+    "id": "ch5-act3-seg248",
     "type": "narration",
     "speaker": "narrator",
     "text": "They reached a split in the span: two narrow runs diverging for ten feet before rejoining, creating a gap where no single person could span both paths.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act4-seg249",
+    "id": "ch5-act3-seg249",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Pairs, or it drops us,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act4-seg250",
+    "id": "ch5-act3-seg250",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, staring at the bell spacing carved into each path.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act4-seg251",
+    "id": "ch5-act3-seg251",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"It wants balance, not mass. Weight distribution.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act4-seg252",
+    "id": "ch5-act3-seg252",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Vex with Nyxara,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act4-seg253",
+    "id": "ch5-act3-seg253",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana ordered, already assessing.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act4-seg254",
+    "id": "ch5-act3-seg254",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Thornik with me. Caelin in the center. Durgan anchors.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act4-seg255",
+    "id": "ch5-act3-seg255",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex clicked her tongue.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act4-seg256",
+    "id": "ch5-act3-seg256",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"You do love a trust exercise.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act4-seg257",
+    "id": "ch5-act3-seg257",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara smiled.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act4-seg258",
+    "id": "ch5-act3-seg258",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"I adore being trusted.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act4-seg259",
+    "id": "ch5-act3-seg259",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan took the rear without comment, his shadow pooling perfectly still despite the chasm wind.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 33
   },
   {
-    "id": "ch5-act4-seg260",
+    "id": "ch5-act3-seg260",
     "type": "narration",
     "speaker": "narrator",
     "text": "The twin paths learned their pairs fast -- two notes for each step, tuned just off a perfect fifth. When Serana's breath hitched mid-crossing, her note wavered. The bridge shuddered.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act4-seg261",
+    "id": "ch5-act3-seg261",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Hold,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act4-seg262",
+    "id": "ch5-act3-seg262",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said -- more plea than order.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act4-seg263",
+    "id": "ch5-act3-seg263",
     "type": "narration",
     "speaker": "narrator",
     "text": "She held. The bells forgave her, the dissonance resolving back to harmony.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 36
   },
   {
-    "id": "ch5-act4-seg264",
+    "id": "ch5-act3-seg264",
     "type": "narration",
     "speaker": "narrator",
     "text": "A hairline seam opened under Vex's foot without warning.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act4-seg265",
+    "id": "ch5-act3-seg265",
     "type": "narration",
     "speaker": "narrator",
     "text": "She didn't scream; she vanished down to the knee, fingers scrabbling for purchase. Her knife hand caught stone, blade sinking into a crack with desperate precision.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act4-seg266",
+    "id": "ch5-act3-seg266",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara didn't reach for her. She changed the angle of her shadow with a subtle gesture, fingers tracing sigils in the air.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act4-seg267",
+    "id": "ch5-act3-seg267",
     "type": "narration",
     "speaker": "narrator",
     "text": "For one breath, light came from the wrong direction; the stone remembered being whole. The seam closed just enough.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 40
   },
   {
-    "id": "ch5-act4-seg268",
+    "id": "ch5-act3-seg268",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex kicked free, hauled up with trembling arms, swore once -- the rare, sincere kind that meant actual fear.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 41
   },
   {
-    "id": "ch5-act4-seg269",
+    "id": "ch5-act3-seg269",
     "type": "narration",
     "speaker": "narrator",
     "text": "Behind them Durgan's note didn't change. He hadn't moved. Hadn't even shifted his weight.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 42
   },
   {
-    "id": "ch5-act4-seg270",
+    "id": "ch5-act3-seg270",
     "type": "narration",
     "speaker": "narrator",
     "text": "The last bell rang itself when Caelin stepped off the stone, a final perfect tone that lingered in the air long after it should have faded.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 43
   },
   {
-    "id": "ch5-act4-seg271",
+    "id": "ch5-act3-seg271",
     "type": "narration",
     "speaker": "narrator",
     "text": "Ahead, the corridor opened into a dome vast enough to hold weather.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act4-seg272",
+    "id": "ch5-act3-seg272",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nine pillars ringed the space, each cut with a different pattern of facets that caught light and swallowed it. They didn't glow. They absorbed.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 45
   },
   {
-    "id": "ch5-act4-seg273",
+    "id": "ch5-act3-seg273",
     "type": "narration",
     "speaker": "narrator",
     "text": "The quiet here was thicker than dark.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 46
   },
   {
-    "id": "ch5-act4-seg274",
+    "id": "ch5-act3-seg274",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Resonant sink,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act4-seg275",
+    "id": "ch5-act3-seg275",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik breathed, voice dropping to a whisper instinctively.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act4-seg276",
+    "id": "ch5-act3-seg276",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"It drinks sound.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act4-seg277",
+    "id": "ch5-act3-seg277",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Then whisper,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act4-seg278",
+    "id": "ch5-act3-seg278",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act4-seg279",
+    "id": "ch5-act3-seg279",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Or think louder than you speak.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act4-seg280",
+    "id": "ch5-act3-seg280",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana's wardlight dimmed to a candle's stubborn core.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act4-seg281",
+    "id": "ch5-act3-seg281",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"This place keeps oaths. Or breaks them.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act4-seg282",
+    "id": "ch5-act3-seg282",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara walked the nearest pillar, fingertip hovering, never touching.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 50
   },
   {
-    "id": "ch5-act4-seg283",
+    "id": "ch5-act3-seg283",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Nine doors that forgot they were doors.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 50
   },
   {
-    "id": "ch5-act4-seg284",
+    "id": "ch5-act3-seg284",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"The pull's stronger,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act4-seg285",
+    "id": "ch5-act3-seg285",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan said. Three words. Nothing more.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act4-seg286",
+    "id": "ch5-act3-seg286",
     "type": "narration",
     "speaker": "narrator",
     "text": "The plate brightened from coal to ember.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act4-seg287",
+    "id": "ch5-act3-seg287",
     "type": "narration",
     "speaker": "narrator",
     "text": "Not pain -- attendance.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 53
   },
   {
-    "id": "ch5-act4-seg288",
+    "id": "ch5-act3-seg288",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin laid two fingers against the nearest pillar. It did not warm. It did not sing.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 54
   },
   {
-    "id": "ch5-act4-seg289",
+    "id": "ch5-act3-seg289",
     "type": "narration",
     "speaker": "narrator",
     "text": "It remembered a heat so old the stone no longer called it heat.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 55
   },
   {
-    "id": "ch5-act4-seg290",
+    "id": "ch5-act3-seg290",
     "type": "narration",
     "speaker": "narrator",
     "text": "In that heartbeat he saw a hand not his own pressing this same facet; a voice not his own saying a name he didn't know how to repeat. The vision smelled of forge-fire and ozone, tasted of copper and purpose.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act4-seg291",
+    "id": "ch5-act3-seg291",
     "type": "narration",
     "speaker": "narrator",
     "text": "He pulled back. Taste of copper. Taste of thunder about to happen.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 57
   },
   {
-    "id": "ch5-act4-seg292",
+    "id": "ch5-act3-seg292",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I think it knows the order,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act4-seg293",
+    "id": "ch5-act3-seg293",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act4-seg294",
+    "id": "ch5-act3-seg294",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"I don't.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act4-seg295",
+    "id": "ch5-act3-seg295",
     "type": "narration",
     "speaker": "narrator",
     "text": "A note rose from somewhere beneath the dome -- lower than any bell on the span, the kind that rearranges ribs and makes bones remember they're temporary.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act4-seg296",
+    "id": "ch5-act3-seg296",
     "type": "narration",
     "speaker": "narrator",
     "text": "The nine pillars answered by not answering. Each drank the sound and gave back silence, creating a void where the note should have echoed.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 60
   },
   {
-    "id": "ch5-act4-seg297",
+    "id": "ch5-act3-seg297",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Echoes below,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 61
   },
   {
-    "id": "ch5-act4-seg298",
+    "id": "ch5-act3-seg298",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, instruments beginning to hum in sympathy.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 61
   },
   {
-    "id": "ch5-act4-seg299",
+    "id": "ch5-act3-seg299",
     "type": "dialogue",
     "speaker": "elowen",
     "text": "\"Not echoes,\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act4-seg300",
+    "id": "ch5-act3-seg300",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen murmured, one hand pressed to her sternum as if feeling the vibration there.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act4-seg301",
+    "id": "ch5-act3-seg301",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Something that expects us.\"",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act4-seg302",
+    "id": "ch5-act3-seg302",
     "type": "narration",
     "speaker": "narrator",
     "text": "They stood in the quiet a moment longer, counting breaths they hadn't meant to hold.",
-    "act": 4,
+    "act": 3,
     "paragraphIndex": 63
   },
   {
-    "id": "ch5-act4-seg303",
+    "id": "ch5-act3-seg303",
     "type": "narration",
     "speaker": "narrator",
     "text": "Then the pull in Caelin's arm tightened, and the path chose left.",
+    "act": 3,
+    "paragraphIndex": 64
+  },
+  {
+    "id": "ch5-act4-seg304",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The Deep Hall opened not gradually, but all at once -- as if a cathedral of stone had been hiding an arm's length beyond the dark.",
+    "act": 4,
+    "paragraphIndex": 0
+  },
+  {
+    "id": "ch5-act4-seg305",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Pillars like old oaks rose from an obsidian floor polished to mirror.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch5-act4-seg306",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Bas-reliefs coiled up each: dwarves and dragons working side by side; forges burning in colors metal shouldn't make; the nine pedestals carved and blessed, each one distinct in its geometry.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch5-act4-seg307",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "At the crown of every pillar, chains looped around a shape no artist would define -- something that might have been a lock, or a heart, or both.",
+    "act": 4,
+    "paragraphIndex": 1
+  },
+  {
+    "id": "ch5-act4-seg308",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Along the walls, nine alcoves expressed their schools in stone:",
+    "act": 4,
+    "paragraphIndex": 2
+  },
+  {
+    "id": "ch5-act4-seg309",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Evocation: facets that multiplied light until it looked like heat, angular and aggressive.",
+    "act": 4,
+    "paragraphIndex": 3
+  },
+  {
+    "id": "ch5-act4-seg310",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Abjuration: nested bevels, each guarding the next in concentric protection.",
+    "act": 4,
+    "paragraphIndex": 4
+  },
+  {
+    "id": "ch5-act4-seg311",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Conjuration: empty arches promising somewhere else, frames without destinations.",
+    "act": 4,
+    "paragraphIndex": 5
+  },
+  {
+    "id": "ch5-act4-seg312",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Divination: spirals your eyes couldn't follow without falling, probability made geometry.",
+    "act": 4,
+    "paragraphIndex": 6
+  },
+  {
+    "id": "ch5-act4-seg313",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Enchantment: curves that made attention lean, seductive and subtle.",
+    "act": 4,
+    "paragraphIndex": 7
+  },
+  {
+    "id": "ch5-act4-seg314",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Illusion: surfaces that adjusted when you didn't look, never quite the same twice.",
+    "act": 4,
+    "paragraphIndex": 8
+  },
+  {
+    "id": "ch5-act4-seg315",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Necromancy: a hollow; an absence; a worn edge where something used to be.",
+    "act": 4,
+    "paragraphIndex": 9
+  },
+  {
+    "id": "ch5-act4-seg316",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Transmutation: rough stone flowing to glass mid-surface, frozen mid-change.",
+    "act": 4,
+    "paragraphIndex": 10
+  },
+  {
+    "id": "ch5-act4-seg317",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "- Destruction: edges broken on purpose to prove a point, jagged and defiant.",
+    "act": 4,
+    "paragraphIndex": 11
+  },
+  {
+    "id": "ch5-act4-seg318",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "In the center, a round granite table big enough for a parliament. Dust softened the shine. No footprints but theirs.",
+    "act": 4,
+    "paragraphIndex": 12
+  },
+  {
+    "id": "ch5-act4-seg319",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"The wards held,\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch5-act4-seg320",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik breathed, watching his scanner's needles settle to a calm green.",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch5-act4-seg321",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Active peace. Saints and stone -- this place is safe.\"",
+    "act": 4,
+    "paragraphIndex": 13
+  },
+  {
+    "id": "ch5-act4-seg322",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana still paced the perimeter -- old habits dying hard. Her light swept high vaults and alcoves; nothing moved but breath and dust motes dancing in the ward-glow. Vex tested for pressure plates out of reflex, found none. Elowen's voice came out as reverent as prayer.",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch5-act4-seg323",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Stone remembers bargains.\"",
+    "act": 4,
+    "paragraphIndex": 14
+  },
+  {
+    "id": "ch5-act4-seg324",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Durgan paused at the threshold. The carved runes flickered -- curious, then tolerant.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch5-act4-seg325",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Uncomfortable,\"",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch5-act4-seg326",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he said honestly, and crossed. His shadow tried to widen past his boots; the ward-light nudged it back like a shepherd dog redirecting wayward sheep. He set his jaw. It obeyed.",
+    "act": 4,
+    "paragraphIndex": 15
+  },
+  {
+    "id": "ch5-act4-seg327",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"We rest,\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch5-act4-seg328",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana decided.",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch5-act4-seg329",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Pairs on watch. No solos.\"",
+    "act": 4,
+    "paragraphIndex": 16
+  },
+  {
+    "id": "ch5-act4-seg330",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They burned a small, clean fire in a shallow stone cradle with invisible vents -- Thornik tapped the pillar and grinned:",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch5-act4-seg331",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"We make smoke go where we want. Grandfather's diagrams called this 'breathstone.' Channels run through the walls.\"",
+    "act": 4,
+    "paragraphIndex": 17
+  },
+  {
+    "id": "ch5-act4-seg332",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The air tasted faintly of oil and old ash; fresher scents -- leather, metal polish, juniper from a scrap of kindling -- cut through the mineral cold.",
+    "act": 4,
+    "paragraphIndex": 18
+  },
+  {
+    "id": "ch5-act4-seg333",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They ate dried meat and hard cheese. They checked steel, adjusted straps, cleaned blades. They didn't talk much at first.",
+    "act": 4,
+    "paragraphIndex": 19
+  },
+  {
+    "id": "ch5-act4-seg334",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Caelin sat with his back to a pillar beneath Evocation, watching the facets multiply the firelight into something that looked almost like the flames he carried.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch5-act4-seg335",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale had cooled to its steady coal-glow; the constant ache was back -- the kind Elowen could ease when it wasn't fresh-burn. He flexed his hand. The lattice answered, not offended, not appeased.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch5-act4-seg336",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "You'll know when you can pay again, it seemed to say.",
+    "act": 4,
+    "paragraphIndex": 20
+  },
+  {
+    "id": "ch5-act4-seg337",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He hoped his body would warn him before his bone-marrow did.",
+    "act": 4,
+    "paragraphIndex": 21
+  },
+  {
+    "id": "ch5-act4-seg338",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "First Watch: Caelin & Vex",
+    "act": 4,
+    "paragraphIndex": 22
+  },
+  {
+    "id": "ch5-act4-seg339",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They kept it simple: steel on knees, backs to stone, ears tuned to the empty halls. The scale pulsed with his heart, ember drifting like slow fish under dark glass.",
+    "act": 4,
+    "paragraphIndex": 23
+  },
+  {
+    "id": "ch5-act4-seg340",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"That thing is you now,\"",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch5-act4-seg341",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Vex said, not unkind, studying the plate where it lay flush in his skin.",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch5-act4-seg342",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Optional to like it. Not optional to learn it.\"",
+    "act": 4,
+    "paragraphIndex": 24
+  },
+  {
+    "id": "ch5-act4-seg343",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He huffed a laugh.",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch5-act4-seg344",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"It calls me out when I lie. When anyone does.\"",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch5-act4-seg345",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He nodded at his arm.",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch5-act4-seg346",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"White spark. Like thorns under the skin.\"",
+    "act": 4,
+    "paragraphIndex": 25
+  },
+  {
+    "id": "ch5-act4-seg347",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Handy and infuriating.\"",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch5-act4-seg348",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She studied him with those mismatched eyes.",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch5-act4-seg349",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"For what it's worth -- you didn't hesitate when it acted. Courage or stupidity.\"",
+    "act": 4,
+    "paragraphIndex": 26
+  },
+  {
+    "id": "ch5-act4-seg350",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Which do you vote?\"",
+    "act": 4,
+    "paragraphIndex": 27
+  },
+  {
+    "id": "ch5-act4-seg351",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Yes.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch5-act4-seg352",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "She eased a breath around her ribs, wincing slightly.",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch5-act4-seg353",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Brave people do stupid things with better reasons.\"",
+    "act": 4,
+    "paragraphIndex": 28
+  },
+  {
+    "id": "ch5-act4-seg354",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"And you joke so you don't scream.\"",
+    "act": 4,
+    "paragraphIndex": 29
+  },
+  {
+    "id": "ch5-act4-seg355",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Don't get romantic. Joking also annoys monsters.\"",
+    "act": 4,
+    "paragraphIndex": 30
+  },
+  {
+    "id": "ch5-act4-seg356",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The scale stayed quiet. Truth accepted.",
+    "act": 4,
+    "paragraphIndex": 31
+  },
+  {
+    "id": "ch5-act4-seg357",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They sat in companionable silence after that, listening to the fire pop and the mountain breathe.",
+    "act": 4,
+    "paragraphIndex": 32
+  },
+  {
+    "id": "ch5-act4-seg358",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Second Watch: Serana & Thornik",
+    "act": 4,
+    "paragraphIndex": 33
+  },
+  {
+    "id": "ch5-act4-seg359",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Serana's hands rested in prayer form, fingers laced. No words came. Her lips moved occasionally but made no sound. Thornik pretended to tune his scanner while watching her not-pray.",
+    "act": 4,
+    "paragraphIndex": 34
+  },
+  {
+    "id": "ch5-act4-seg360",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"Still split?\"",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch5-act4-seg361",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he asked gently after a long silence.",
+    "act": 4,
+    "paragraphIndex": 35
+  },
+  {
+    "id": "ch5-act4-seg362",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Protect yesterday. Sacrifice today.\"",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch5-act4-seg363",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her mouth crooked, humorless.",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch5-act4-seg364",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"I can follow orders. I cannot follow contradictions.\"",
+    "act": 4,
+    "paragraphIndex": 36
+  },
+  {
+    "id": "ch5-act4-seg365",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"In a good system, contradictions signal a changed input.\"",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch5-act4-seg366",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He tapped his grandfather's journal.",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch5-act4-seg367",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"He wrote: Balance isn't the absence of cost. It's paying without bankrupting the world.\"",
+    "act": 4,
+    "paragraphIndex": 37
+  },
+  {
+    "id": "ch5-act4-seg368",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"Doesn't make it easier.\"",
+    "act": 4,
+    "paragraphIndex": 38
+  },
+  {
+    "id": "ch5-act4-seg369",
+    "type": "dialogue",
+    "speaker": "thornik",
+    "text": "\"No,\"",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch5-act4-seg370",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Thornik said softly.",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch5-act4-seg371",
+    "type": "dialogue",
+    "speaker": "vex",
+    "text": "\"But it makes it necessary.\"",
+    "act": 4,
+    "paragraphIndex": 39
+  },
+  {
+    "id": "ch5-act4-seg372",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Her light flickered gold?silver?gold again; she steadied it with a breath and nodded, accepting the truth if not the comfort of it.",
+    "act": 4,
+    "paragraphIndex": 40
+  },
+  {
+    "id": "ch5-act4-seg373",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "They sat watching the shadows dance on ancient carvings, and neither spoke of the weight they carried.",
+    "act": 4,
+    "paragraphIndex": 41
+  },
+  {
+    "id": "ch5-act4-seg374",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Third Watch: Nyxara & Elowen",
+    "act": 4,
+    "paragraphIndex": 42
+  },
+  {
+    "id": "ch5-act4-seg375",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Silence sat between them like a cat that owned the room.",
+    "act": 4,
+    "paragraphIndex": 43
+  },
+  {
+    "id": "ch5-act4-seg376",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Your magic is... angled,\"",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch5-act4-seg377",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Elowen said at last, breaking the quiet.",
+    "act": 4,
+    "paragraphIndex": 44
+  },
+  {
+    "id": "ch5-act4-seg378",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"So is yours,\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch5-act4-seg379",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara replied, head tilted with feline curiosity.",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch5-act4-seg380",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Yours bends toward growth and cycles. Mine bends toward... consent, of a kind.\"",
+    "act": 4,
+    "paragraphIndex": 45
+  },
+  {
+    "id": "ch5-act4-seg381",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"Do you trust it?\"",
+    "act": 4,
+    "paragraphIndex": 46
+  },
+  {
+    "id": "ch5-act4-seg382",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Trust implies parity.\"",
+    "act": 4,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch5-act4-seg383",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A small, tired smile.",
+    "act": 4,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch5-act4-seg384",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"I honor the bargains I make.\"",
+    "act": 4,
+    "paragraphIndex": 47
+  },
+  {
+    "id": "ch5-act4-seg385",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"I'm losing ground,\"",
+    "act": 4,
+    "paragraphIndex": 48
+  },
+  {
+    "id": "ch5-act4-seg386",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Elowen said softly, touching the edge of the blackened vine-mark with careful fingers.",
+    "act": 4,
+    "paragraphIndex": 48
+  },
+  {
+    "id": "ch5-act4-seg387",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"When he casts, I can't help. I burn.\"",
+    "act": 4,
+    "paragraphIndex": 48
+  },
+  {
+    "id": "ch5-act4-seg388",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"Then plan for loss,\"",
+    "act": 4,
+    "paragraphIndex": 49
+  },
+  {
+    "id": "ch5-act4-seg389",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Nyxara said. Not cruel. Precise.",
+    "act": 4,
+    "paragraphIndex": 49
+  },
+  {
+    "id": "ch5-act4-seg390",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Decide who you are when the Weave doesn't answer.\"",
+    "act": 4,
+    "paragraphIndex": 49
+  },
+  {
+    "id": "ch5-act4-seg391",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Elowen looked at the Necromancy alcove without fear, studying the hollow where something had been carved away.",
+    "act": 4,
+    "paragraphIndex": 50
+  },
+  {
+    "id": "ch5-act4-seg392",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"I don't know.\"",
+    "act": 4,
+    "paragraphIndex": 50
+  },
+  {
+    "id": "ch5-act4-seg393",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"Decide anyway.\"",
+    "act": 4,
+    "paragraphIndex": 51
+  },
+  {
+    "id": "ch5-act4-seg394",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "A frost halo settled on Nyxara's lashes for a heartbeat and melted, leaving tiny droplets like tears that weren't.",
+    "act": 4,
+    "paragraphIndex": 52
+  },
+  {
+    "id": "ch5-act4-seg395",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Elowen noticed. Said nothing.",
+    "act": 4,
+    "paragraphIndex": 53
+  },
+  {
+    "id": "ch5-act4-seg396",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Fourth Watch: Durgan (breaking the pair rule)",
+    "act": 4,
+    "paragraphIndex": 54
+  },
+  {
+    "id": "ch5-act4-seg397",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He took the arch alone and didn't wake the person assigned to him. Not defiance -- necessity. When he slept, his shadow got ideas.",
+    "act": 4,
+    "paragraphIndex": 55
+  },
+  {
+    "id": "ch5-act4-seg398",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He kept it small, neat, obedient by force, the way you keep your breathing even under a predator's gaze. The scale's distant glow tugged at his periphery like a road that always slopes downward, whispering promises in a language he refused to learn.",
+    "act": 4,
+    "paragraphIndex": 56
+  },
+  {
+    "id": "ch5-act4-seg399",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Walk away, a voice inside offered. Lose yourself in the dark. Stop being a danger.",
+    "act": 4,
+    "paragraphIndex": 57
+  },
+  {
+    "id": "ch5-act4-seg400",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He didn't. Instead he squeezed four half-moons into his thigh through wool and felt the pain anchor him. Added four more next to the earlier set, a constellation of control etched in bruises.",
+    "act": 4,
+    "paragraphIndex": 58
+  },
+  {
+    "id": "ch5-act4-seg401",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "His shadow moved anyway.",
+    "act": 4,
+    "paragraphIndex": 59
+  },
+  {
+    "id": "ch5-act4-seg402",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "Not far -- an inch, maybe two, stretching toward the coal-glow at the edge of Caelin's bedroll. He caught it the moment he felt the resistance ease, snapped it back with a breath so sharp it hurt his chest, and held it there. It obeyed. Barely.",
+    "act": 4,
+    "paragraphIndex": 60
+  },
+  {
+    "id": "ch5-act4-seg403",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He made reaching boring. Made it cost. But it had moved on its own, and they both knew it.",
+    "act": 4,
+    "paragraphIndex": 61
+  },
+  {
+    "id": "ch5-act4-seg404",
+    "type": "dialogue",
+    "speaker": "nyxara",
+    "text": "\"How long,\"",
+    "act": 4,
+    "paragraphIndex": 62
+  },
+  {
+    "id": "ch5-act4-seg405",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "he thought, not asking anyone,",
+    "act": 4,
+    "paragraphIndex": 62
+  },
+  {
+    "id": "ch5-act4-seg406",
+    "type": "dialogue",
+    "speaker": "elowen",
+    "text": "\"before I can't hold it still?\"",
+    "act": 4,
+    "paragraphIndex": 62
+  },
+  {
+    "id": "ch5-act4-seg407",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "The ward-lines along the threshold pulsed once -- assessing, not judging. They recognized restraint when they saw it.",
+    "act": 4,
+    "paragraphIndex": 63
+  },
+  {
+    "id": "ch5-act4-seg408",
+    "type": "narration",
+    "speaker": "narrator",
+    "text": "He didn't move.",
     "act": 4,
     "paragraphIndex": 64
   },
   {
-    "id": "ch5-act5-seg304",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The Deep Hall opened not gradually, but all at once -- as if a cathedral of stone had been hiding an arm's length beyond the dark.",
-    "act": 5,
-    "paragraphIndex": 0
-  },
-  {
-    "id": "ch5-act5-seg305",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Pillars like old oaks rose from an obsidian floor polished to mirror.",
-    "act": 5,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch5-act5-seg306",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Bas-reliefs coiled up each: dwarves and dragons working side by side; forges burning in colors metal shouldn't make; the nine pedestals carved and blessed, each one distinct in its geometry.",
-    "act": 5,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch5-act5-seg307",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "At the crown of every pillar, chains looped around a shape no artist would define -- something that might have been a lock, or a heart, or both.",
-    "act": 5,
-    "paragraphIndex": 1
-  },
-  {
-    "id": "ch5-act5-seg308",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Along the walls, nine alcoves expressed their schools in stone:",
-    "act": 5,
-    "paragraphIndex": 2
-  },
-  {
-    "id": "ch5-act5-seg309",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Evocation: facets that multiplied light until it looked like heat, angular and aggressive.",
-    "act": 5,
-    "paragraphIndex": 3
-  },
-  {
-    "id": "ch5-act5-seg310",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Abjuration: nested bevels, each guarding the next in concentric protection.",
-    "act": 5,
-    "paragraphIndex": 4
-  },
-  {
-    "id": "ch5-act5-seg311",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Conjuration: empty arches promising somewhere else, frames without destinations.",
-    "act": 5,
-    "paragraphIndex": 5
-  },
-  {
-    "id": "ch5-act5-seg312",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Divination: spirals your eyes couldn't follow without falling, probability made geometry.",
-    "act": 5,
-    "paragraphIndex": 6
-  },
-  {
-    "id": "ch5-act5-seg313",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Enchantment: curves that made attention lean, seductive and subtle.",
-    "act": 5,
-    "paragraphIndex": 7
-  },
-  {
-    "id": "ch5-act5-seg314",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Illusion: surfaces that adjusted when you didn't look, never quite the same twice.",
-    "act": 5,
-    "paragraphIndex": 8
-  },
-  {
-    "id": "ch5-act5-seg315",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Necromancy: a hollow; an absence; a worn edge where something used to be.",
-    "act": 5,
-    "paragraphIndex": 9
-  },
-  {
-    "id": "ch5-act5-seg316",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Transmutation: rough stone flowing to glass mid-surface, frozen mid-change.",
-    "act": 5,
-    "paragraphIndex": 10
-  },
-  {
-    "id": "ch5-act5-seg317",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "- Destruction: edges broken on purpose to prove a point, jagged and defiant.",
-    "act": 5,
-    "paragraphIndex": 11
-  },
-  {
-    "id": "ch5-act5-seg318",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "In the center, a round granite table big enough for a parliament. Dust softened the shine. No footprints but theirs.",
-    "act": 5,
-    "paragraphIndex": 12
-  },
-  {
-    "id": "ch5-act5-seg319",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"The wards held,\"",
-    "act": 5,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch5-act5-seg320",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik breathed, watching his scanner's needles settle to a calm green.",
-    "act": 5,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch5-act5-seg321",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Active peace. Saints and stone -- this place is safe.\"",
-    "act": 5,
-    "paragraphIndex": 13
-  },
-  {
-    "id": "ch5-act5-seg322",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Serana still paced the perimeter -- old habits dying hard. Her light swept high vaults and alcoves; nothing moved but breath and dust motes dancing in the ward-glow. Vex tested for pressure plates out of reflex, found none. Elowen's voice came out as reverent as prayer.",
-    "act": 5,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch5-act5-seg323",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Stone remembers bargains.\"",
-    "act": 5,
-    "paragraphIndex": 14
-  },
-  {
-    "id": "ch5-act5-seg324",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Durgan paused at the threshold. The carved runes flickered -- curious, then tolerant.",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch5-act5-seg325",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Uncomfortable,\"",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch5-act5-seg326",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he said honestly, and crossed. His shadow tried to widen past his boots; the ward-light nudged it back like a shepherd dog redirecting wayward sheep. He set his jaw. It obeyed.",
-    "act": 5,
-    "paragraphIndex": 15
-  },
-  {
-    "id": "ch5-act5-seg327",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"We rest,\"",
-    "act": 5,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch5-act5-seg328",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Serana decided.",
-    "act": 5,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch5-act5-seg329",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Pairs on watch. No solos.\"",
-    "act": 5,
-    "paragraphIndex": 16
-  },
-  {
-    "id": "ch5-act5-seg330",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They burned a small, clean fire in a shallow stone cradle with invisible vents -- Thornik tapped the pillar and grinned:",
-    "act": 5,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch5-act5-seg331",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"We make smoke go where we want. Grandfather's diagrams called this 'breathstone.' Channels run through the walls.\"",
-    "act": 5,
-    "paragraphIndex": 17
-  },
-  {
-    "id": "ch5-act5-seg332",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The air tasted faintly of oil and old ash; fresher scents -- leather, metal polish, juniper from a scrap of kindling -- cut through the mineral cold.",
-    "act": 5,
-    "paragraphIndex": 18
-  },
-  {
-    "id": "ch5-act5-seg333",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They ate dried meat and hard cheese. They checked steel, adjusted straps, cleaned blades. They didn't talk much at first.",
-    "act": 5,
-    "paragraphIndex": 19
-  },
-  {
-    "id": "ch5-act5-seg334",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Caelin sat with his back to a pillar beneath Evocation, watching the facets multiply the firelight into something that looked almost like the flames he carried.",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch5-act5-seg335",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale had cooled to its steady coal-glow; the constant ache was back -- the kind Elowen could ease when it wasn't fresh-burn. He flexed his hand. The lattice answered, not offended, not appeased.",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch5-act5-seg336",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "You'll know when you can pay again, it seemed to say.",
-    "act": 5,
-    "paragraphIndex": 20
-  },
-  {
-    "id": "ch5-act5-seg337",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He hoped his body would warn him before his bone-marrow did.",
-    "act": 5,
-    "paragraphIndex": 21
-  },
-  {
-    "id": "ch5-act5-seg338",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "First Watch: Caelin & Vex",
-    "act": 5,
-    "paragraphIndex": 22
-  },
-  {
-    "id": "ch5-act5-seg339",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They kept it simple: steel on knees, backs to stone, ears tuned to the empty halls. The scale pulsed with his heart, ember drifting like slow fish under dark glass.",
-    "act": 5,
-    "paragraphIndex": 23
-  },
-  {
-    "id": "ch5-act5-seg340",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"That thing is you now,\"",
-    "act": 5,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch5-act5-seg341",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Vex said, not unkind, studying the plate where it lay flush in his skin.",
-    "act": 5,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch5-act5-seg342",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Optional to like it. Not optional to learn it.\"",
-    "act": 5,
-    "paragraphIndex": 24
-  },
-  {
-    "id": "ch5-act5-seg343",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He huffed a laugh.",
-    "act": 5,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch5-act5-seg344",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"It calls me out when I lie. When anyone does.\"",
-    "act": 5,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch5-act5-seg345",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He nodded at his arm.",
-    "act": 5,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch5-act5-seg346",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"White spark. Like thorns under the skin.\"",
-    "act": 5,
-    "paragraphIndex": 25
-  },
-  {
-    "id": "ch5-act5-seg347",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Handy and infuriating.\"",
-    "act": 5,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch5-act5-seg348",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She studied him with those mismatched eyes.",
-    "act": 5,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch5-act5-seg349",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"For what it's worth -- you didn't hesitate when it acted. Courage or stupidity.\"",
-    "act": 5,
-    "paragraphIndex": 26
-  },
-  {
-    "id": "ch5-act5-seg350",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Which do you vote?\"",
-    "act": 5,
-    "paragraphIndex": 27
-  },
-  {
-    "id": "ch5-act5-seg351",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Yes.\"",
-    "act": 5,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch5-act5-seg352",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "She eased a breath around her ribs, wincing slightly.",
-    "act": 5,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch5-act5-seg353",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Brave people do stupid things with better reasons.\"",
-    "act": 5,
-    "paragraphIndex": 28
-  },
-  {
-    "id": "ch5-act5-seg354",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"And you joke so you don't scream.\"",
-    "act": 5,
-    "paragraphIndex": 29
-  },
-  {
-    "id": "ch5-act5-seg355",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Don't get romantic. Joking also annoys monsters.\"",
-    "act": 5,
-    "paragraphIndex": 30
-  },
-  {
-    "id": "ch5-act5-seg356",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The scale stayed quiet. Truth accepted.",
-    "act": 5,
-    "paragraphIndex": 31
-  },
-  {
-    "id": "ch5-act5-seg357",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They sat in companionable silence after that, listening to the fire pop and the mountain breathe.",
-    "act": 5,
-    "paragraphIndex": 32
-  },
-  {
-    "id": "ch5-act5-seg358",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Second Watch: Serana & Thornik",
-    "act": 5,
-    "paragraphIndex": 33
-  },
-  {
-    "id": "ch5-act5-seg359",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Serana's hands rested in prayer form, fingers laced. No words came. Her lips moved occasionally but made no sound. Thornik pretended to tune his scanner while watching her not-pray.",
-    "act": 5,
-    "paragraphIndex": 34
-  },
-  {
-    "id": "ch5-act5-seg360",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"Still split?\"",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch5-act5-seg361",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he asked gently after a long silence.",
-    "act": 5,
-    "paragraphIndex": 35
-  },
-  {
-    "id": "ch5-act5-seg362",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Protect yesterday. Sacrifice today.\"",
-    "act": 5,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch5-act5-seg363",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her mouth crooked, humorless.",
-    "act": 5,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch5-act5-seg364",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"I can follow orders. I cannot follow contradictions.\"",
-    "act": 5,
-    "paragraphIndex": 36
-  },
-  {
-    "id": "ch5-act5-seg365",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"In a good system, contradictions signal a changed input.\"",
-    "act": 5,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch5-act5-seg366",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He tapped his grandfather's journal.",
-    "act": 5,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch5-act5-seg367",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"He wrote: Balance isn't the absence of cost. It's paying without bankrupting the world.\"",
-    "act": 5,
-    "paragraphIndex": 37
-  },
-  {
-    "id": "ch5-act5-seg368",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"Doesn't make it easier.\"",
-    "act": 5,
-    "paragraphIndex": 38
-  },
-  {
-    "id": "ch5-act5-seg369",
-    "type": "dialogue",
-    "speaker": "thornik",
-    "text": "\"No,\"",
-    "act": 5,
-    "paragraphIndex": 39
-  },
-  {
-    "id": "ch5-act5-seg370",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Thornik said softly.",
-    "act": 5,
-    "paragraphIndex": 39
-  },
-  {
-    "id": "ch5-act5-seg371",
-    "type": "dialogue",
-    "speaker": "vex",
-    "text": "\"But it makes it necessary.\"",
-    "act": 5,
-    "paragraphIndex": 39
-  },
-  {
-    "id": "ch5-act5-seg372",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Her light flickered gold?silver?gold again; she steadied it with a breath and nodded, accepting the truth if not the comfort of it.",
-    "act": 5,
-    "paragraphIndex": 40
-  },
-  {
-    "id": "ch5-act5-seg373",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "They sat watching the shadows dance on ancient carvings, and neither spoke of the weight they carried.",
-    "act": 5,
-    "paragraphIndex": 41
-  },
-  {
-    "id": "ch5-act5-seg374",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Third Watch: Nyxara & Elowen",
-    "act": 5,
-    "paragraphIndex": 42
-  },
-  {
-    "id": "ch5-act5-seg375",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Silence sat between them like a cat that owned the room.",
-    "act": 5,
-    "paragraphIndex": 43
-  },
-  {
-    "id": "ch5-act5-seg376",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Your magic is... angled,\"",
-    "act": 5,
-    "paragraphIndex": 44
-  },
-  {
-    "id": "ch5-act5-seg377",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Elowen said at last, breaking the quiet.",
-    "act": 5,
-    "paragraphIndex": 44
-  },
-  {
-    "id": "ch5-act5-seg378",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"So is yours,\"",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch5-act5-seg379",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Nyxara replied, head tilted with feline curiosity.",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch5-act5-seg380",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Yours bends toward growth and cycles. Mine bends toward... consent, of a kind.\"",
-    "act": 5,
-    "paragraphIndex": 45
-  },
-  {
-    "id": "ch5-act5-seg381",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"Do you trust it?\"",
-    "act": 5,
-    "paragraphIndex": 46
-  },
-  {
-    "id": "ch5-act5-seg382",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Trust implies parity.\"",
-    "act": 5,
-    "paragraphIndex": 47
-  },
-  {
-    "id": "ch5-act5-seg383",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A small, tired smile.",
-    "act": 5,
-    "paragraphIndex": 47
-  },
-  {
-    "id": "ch5-act5-seg384",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"I honor the bargains I make.\"",
-    "act": 5,
-    "paragraphIndex": 47
-  },
-  {
-    "id": "ch5-act5-seg385",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"I'm losing ground,\"",
-    "act": 5,
-    "paragraphIndex": 48
-  },
-  {
-    "id": "ch5-act5-seg386",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Elowen said softly, touching the edge of the blackened vine-mark with careful fingers.",
-    "act": 5,
-    "paragraphIndex": 48
-  },
-  {
-    "id": "ch5-act5-seg387",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"When he casts, I can't help. I burn.\"",
-    "act": 5,
-    "paragraphIndex": 48
-  },
-  {
-    "id": "ch5-act5-seg388",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"Then plan for loss,\"",
-    "act": 5,
-    "paragraphIndex": 49
-  },
-  {
-    "id": "ch5-act5-seg389",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Nyxara said. Not cruel. Precise.",
-    "act": 5,
-    "paragraphIndex": 49
-  },
-  {
-    "id": "ch5-act5-seg390",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Decide who you are when the Weave doesn't answer.\"",
-    "act": 5,
-    "paragraphIndex": 49
-  },
-  {
-    "id": "ch5-act5-seg391",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Elowen looked at the Necromancy alcove without fear, studying the hollow where something had been carved away.",
-    "act": 5,
-    "paragraphIndex": 50
-  },
-  {
-    "id": "ch5-act5-seg392",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"I don't know.\"",
-    "act": 5,
-    "paragraphIndex": 50
-  },
-  {
-    "id": "ch5-act5-seg393",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"Decide anyway.\"",
-    "act": 5,
-    "paragraphIndex": 51
-  },
-  {
-    "id": "ch5-act5-seg394",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "A frost halo settled on Nyxara's lashes for a heartbeat and melted, leaving tiny droplets like tears that weren't.",
-    "act": 5,
-    "paragraphIndex": 52
-  },
-  {
-    "id": "ch5-act5-seg395",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Elowen noticed. Said nothing.",
-    "act": 5,
-    "paragraphIndex": 53
-  },
-  {
-    "id": "ch5-act5-seg396",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Fourth Watch: Durgan (breaking the pair rule)",
-    "act": 5,
-    "paragraphIndex": 54
-  },
-  {
-    "id": "ch5-act5-seg397",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He took the arch alone and didn't wake the person assigned to him. Not defiance -- necessity. When he slept, his shadow got ideas.",
-    "act": 5,
-    "paragraphIndex": 55
-  },
-  {
-    "id": "ch5-act5-seg398",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He kept it small, neat, obedient by force, the way you keep your breathing even under a predator's gaze. The scale's distant glow tugged at his periphery like a road that always slopes downward, whispering promises in a language he refused to learn.",
-    "act": 5,
-    "paragraphIndex": 56
-  },
-  {
-    "id": "ch5-act5-seg399",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Walk away, a voice inside offered. Lose yourself in the dark. Stop being a danger.",
-    "act": 5,
-    "paragraphIndex": 57
-  },
-  {
-    "id": "ch5-act5-seg400",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He didn't. Instead he squeezed four half-moons into his thigh through wool and felt the pain anchor him. Added four more next to the earlier set, a constellation of control etched in bruises.",
-    "act": 5,
-    "paragraphIndex": 58
-  },
-  {
-    "id": "ch5-act5-seg401",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "His shadow moved anyway.",
-    "act": 5,
-    "paragraphIndex": 59
-  },
-  {
-    "id": "ch5-act5-seg402",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "Not far -- an inch, maybe two, stretching toward the coal-glow at the edge of Caelin's bedroll. He caught it the moment he felt the resistance ease, snapped it back with a breath so sharp it hurt his chest, and held it there. It obeyed. Barely.",
-    "act": 5,
-    "paragraphIndex": 60
-  },
-  {
-    "id": "ch5-act5-seg403",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He made reaching boring. Made it cost. But it had moved on its own, and they both knew it.",
-    "act": 5,
-    "paragraphIndex": 61
-  },
-  {
-    "id": "ch5-act5-seg404",
-    "type": "dialogue",
-    "speaker": "nyxara",
-    "text": "\"How long,\"",
-    "act": 5,
-    "paragraphIndex": 62
-  },
-  {
-    "id": "ch5-act5-seg405",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "he thought, not asking anyone,",
-    "act": 5,
-    "paragraphIndex": 62
-  },
-  {
-    "id": "ch5-act5-seg406",
-    "type": "dialogue",
-    "speaker": "elowen",
-    "text": "\"before I can't hold it still?\"",
-    "act": 5,
-    "paragraphIndex": 62
-  },
-  {
-    "id": "ch5-act5-seg407",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "The ward-lines along the threshold pulsed once -- assessing, not judging. They recognized restraint when they saw it.",
-    "act": 5,
-    "paragraphIndex": 63
-  },
-  {
-    "id": "ch5-act5-seg408",
-    "type": "narration",
-    "speaker": "narrator",
-    "text": "He didn't move.",
-    "act": 5,
-    "paragraphIndex": 64
-  },
-  {
-    "id": "ch5-act6-seg409",
+    "id": "ch5-act5-seg409",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin woke to a sound his bones recognized before his mind did.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 0
   },
   {
-    "id": "ch5-act6-seg410",
+    "id": "ch5-act5-seg410",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thud.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act6-seg411",
+    "id": "ch5-act5-seg411",
     "type": "narration",
     "speaker": "narrator",
     "text": "Not weather. Not rockfall. The counting of something chained far below.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 2
   },
   {
-    "id": "ch5-act6-seg412",
+    "id": "ch5-act5-seg412",
     "type": "narration",
     "speaker": "narrator",
     "text": "The scale answered with a brighter coal-glow; ember drift quickened inside the obsidian. Around the circle, heads lifted one by one. The sound came again, nearer -- or just more focused, as if attention had turned their direction.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 3
   },
   {
-    "id": "ch5-act6-seg413",
+    "id": "ch5-act5-seg413",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thud-thud-thud-thud --",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 4
   },
   {
-    "id": "ch5-act6-seg414",
+    "id": "ch5-act5-seg414",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik's needles jittered from calm green to anxious yellow.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 5
   },
   {
-    "id": "ch5-act6-seg415",
+    "id": "ch5-act5-seg415",
     "type": "dialogue",
     "speaker": "nyxara",
     "text": "\"Movement. Multiple. Below us. Above us. Possibly... through us?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 5
   },
   {
-    "id": "ch5-act6-seg416",
+    "id": "ch5-act5-seg416",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Any other good news?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act6-seg417",
+    "id": "ch5-act5-seg417",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex asked, already on her feet, daggers appearing in her hands.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act6-seg418",
+    "id": "ch5-act5-seg418",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"The ventilation is superb,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act6-seg419",
+    "id": "ch5-act5-seg419",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, shouldering his pack with practiced speed.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act6-seg420",
+    "id": "ch5-act5-seg420",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"And I'm very attached to my head.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act6-seg421",
+    "id": "ch5-act5-seg421",
     "type": "narration",
     "speaker": "narrator",
     "text": "From the three corridors -- the sealed, the flooded, the safe -- stone began to move. Grinding. Opening. The air drew a breath that wasn't theirs.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act6-seg422",
+    "id": "ch5-act5-seg422",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana rose fully armored, sword in hand, voice calm to keep the pulse down in others.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act6-seg423",
+    "id": "ch5-act5-seg423",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"We move now. Thornik on point. Same formation. If a ward asks for courtesy, we give it. If something tries to herd us -- \"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act6-seg424",
+    "id": "ch5-act5-seg424",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"We bite the hand,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act6-seg425",
+    "id": "ch5-act5-seg425",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said, rolling a shoulder and wincing as her ribs protested.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act6-seg426",
+    "id": "ch5-act5-seg426",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Then run.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act6-seg427",
+    "id": "ch5-act5-seg427",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin stood. The ache was a live thing in his bones. Elowen's palm hovered near his arm -- she tested the air for fresh-burn and found none. Relief drifted in like cool rain; the pain stepped back a pace, manageable again.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act6-seg428",
+    "id": "ch5-act5-seg428",
     "type": "narration",
     "speaker": "narrator",
     "text": "He swallowed gratitude, because speaking it would make it real, and he didn't know how many more times he'd get it.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act6-seg429",
+    "id": "ch5-act5-seg429",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan slid to rear-guard. His shadow pooled obedi --",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act6-seg430",
+    "id": "ch5-act5-seg430",
     "type": "narration",
     "speaker": "narrator",
     "text": "No. It pressed at the edges like tide against a seawall. He smoothed it with breath and didn't look at Caelin, didn't acknowledge the way it wanted to reach toward the coal-glow in the dark.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act6-seg431",
+    "id": "ch5-act5-seg431",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara passed the Evocation alcove and paused for a heartbeat, head tilted. The scale gave a silver shimmer -- a brief halo that said another magic is looking back. She smiled to herself and moved on.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act6-seg432",
+    "id": "ch5-act5-seg432",
     "type": "narration",
     "speaker": "narrator",
     "text": "They stepped toward the straight corridor. Behind them, in the polished seal of the Deep Hall's floor, their reflections delayed by a single blink -- there, then gone, as if the stone was deciding whether to remember them.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 15
   },
   {
-    "id": "ch5-act6-seg433",
+    "id": "ch5-act5-seg433",
     "type": "narration",
     "speaker": "narrator",
     "text": "The heartbeat below picked up, counting them like beads on a string.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act6-seg434",
+    "id": "ch5-act5-seg434",
     "type": "narration",
     "speaker": "narrator",
     "text": "They went up.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act6-seg435",
+    "id": "ch5-act5-seg435",
     "type": "narration",
     "speaker": "narrator",
     "text": "They moved quickly after that, not running -- no one wanted to find out what would give chase -- but with the shared precision of people who'd heard a door close behind them and didn't know whose house they were in.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act6-seg436",
+    "id": "ch5-act5-seg436",
     "type": "narration",
     "speaker": "narrator",
     "text": "The tunnels felt steeper on the way out, as if the mountain had grown new muscles while they weren't watching. Gravity pulled harder, or perhaps exhaustion made it feel that way.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act6-seg437",
+    "id": "ch5-act5-seg437",
     "type": "narration",
     "speaker": "narrator",
     "text": "Walls that had been smooth now carried shallow grooves -- fresh, unfinished work, stone still warm under fingertips that brushed too close.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act6-seg438",
+    "id": "ch5-act5-seg438",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik muttered calculations under his breath, consulting his instruments.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 21
   },
   {
-    "id": "ch5-act6-seg439",
+    "id": "ch5-act5-seg439",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Stress fractures don't self-heal. Something's rewriting geology.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 21
   },
   {
-    "id": "ch5-act6-seg440",
+    "id": "ch5-act5-seg440",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex:",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act6-seg441",
+    "id": "ch5-act5-seg441",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Tell it to stop.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act6-seg442",
+    "id": "ch5-act5-seg442",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Would if I knew the syntax.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act6-seg443",
+    "id": "ch5-act5-seg443",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Try screaming louder.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 24
   },
   {
-    "id": "ch5-act6-seg444",
+    "id": "ch5-act5-seg444",
     "type": "narration",
     "speaker": "narrator",
     "text": "She smiled. No one else did.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act6-seg445",
+    "id": "ch5-act5-seg445",
     "type": "narration",
     "speaker": "narrator",
     "text": "At the first junction they hit a dead end that hadn't existed before. The floor sloped upward in a spiral of newly-cooled glass, the surface too perfect to be natural, too warm to be old.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 26
   },
   {
-    "id": "ch5-act6-seg446",
+    "id": "ch5-act5-seg446",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana touched the seam where new met old.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 27
   },
   {
-    "id": "ch5-act6-seg447",
+    "id": "ch5-act5-seg447",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"It's sealing itself behind us.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 27
   },
   {
-    "id": "ch5-act6-seg448",
+    "id": "ch5-act5-seg448",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara looked at the closing curve, studying it with professional interest.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act6-seg449",
+    "id": "ch5-act5-seg449",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Or ahead of us. Perspective is the first casualty of divine architecture.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act6-seg450",
+    "id": "ch5-act5-seg450",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin set his palm against the wall; the scale pulsed once -- recognition, not alarm.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act6-seg451",
+    "id": "ch5-act5-seg451",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"It's guiding, not trapping.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act6-seg452",
+    "id": "ch5-act5-seg452",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Comforting,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act6-seg453",
+    "id": "ch5-act5-seg453",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said, checking over her shoulder at the way they'd come.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act6-seg454",
+    "id": "ch5-act5-seg454",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Until it stops.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act6-seg455",
+    "id": "ch5-act5-seg455",
     "type": "narration",
     "speaker": "narrator",
     "text": "The second tunnel forked into shadow. A draft hissed through like breath through teeth, carrying the smell of deep earth and older dark.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act6-seg456",
+    "id": "ch5-act5-seg456",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana drew light. It came thin and trembling, barely enough to push back the shadows.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act6-seg457",
+    "id": "ch5-act5-seg457",
     "type": "narration",
     "speaker": "narrator",
     "text": "She tried again. The radiance stuttered, guttered, and went out like a candle in wind.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 33
   },
   {
-    "id": "ch5-act6-seg458",
+    "id": "ch5-act5-seg458",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I... can't feel the source.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act6-seg459",
+    "id": "ch5-act5-seg459",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her voice was calm because she'd trained it",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act6-seg460",
+    "id": "ch5-act5-seg460",
     "type": "narration",
     "speaker": "narrator",
     "text": "to be, but her hand shook slightly before she lowered it.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act6-seg461",
+    "id": "ch5-act5-seg461",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara's reply was all sugar.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 36
   },
   {
-    "id": "ch5-act6-seg462",
+    "id": "ch5-act5-seg462",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"You're running on faith, darling. Check your reserves.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 36
   },
   {
-    "id": "ch5-act6-seg463",
+    "id": "ch5-act5-seg463",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Enough.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act6-seg464",
+    "id": "ch5-act5-seg464",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin's tone cut sharper than intended. The warmth of the scale spilled into his voice, unasked.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act6-seg465",
+    "id": "ch5-act5-seg465",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"She's tired, not empty.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act6-seg466",
+    "id": "ch5-act5-seg466",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana looked at him -- really looked -- and he saw in her eyes the flicker of gratitude and shame tangled together like roots and chains.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act6-seg467",
+    "id": "ch5-act5-seg467",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I'll manage.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act6-seg468",
+    "id": "ch5-act5-seg468",
     "type": "narration",
     "speaker": "narrator",
     "text": "She didn't.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 40
   },
   {
-    "id": "ch5-act6-seg469",
+    "id": "ch5-act5-seg469",
     "type": "narration",
     "speaker": "narrator",
     "text": "They climbed a narrow chute where the roof had already dropped its first warning stones -- small ones, pebbles that clattered down like dice announcing the mountain's intentions.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 41
   },
   {
-    "id": "ch5-act6-seg470",
+    "id": "ch5-act5-seg470",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik went first, hammering pitons into half-molten rock with steady, practiced strikes. Each blow echoed differently, telling him what the stone would hold and what it wouldn't.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 42
   },
   {
-    "id": "ch5-act6-seg471",
+    "id": "ch5-act5-seg471",
     "type": "narration",
     "speaker": "narrator",
     "text": "Halfway up, the air shifted -- pressure collapse, no sound, just a sudden absence -- then the wall shuddered.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 43
   },
   {
-    "id": "ch5-act6-seg472",
+    "id": "ch5-act5-seg472",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin felt the pull in his arm flare white-hot.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act6-seg473",
+    "id": "ch5-act5-seg473",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Move!\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act6-seg474",
+    "id": "ch5-act5-seg474",
     "type": "narration",
     "speaker": "narrator",
     "text": "They ran on instinct. The rear half of the tunnel folded inward, stone sighing like something exhaling dust and disappointment. Rock met rock with the sound of finality, sealing the way they'd come.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 45
   },
   {
-    "id": "ch5-act6-seg475",
+    "id": "ch5-act5-seg475",
     "type": "narration",
     "speaker": "narrator",
     "text": "When the noise settled, the way back was gone.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 46
   },
   {
-    "id": "ch5-act6-seg476",
+    "id": "ch5-act5-seg476",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik stared at the new wall, panting.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act6-seg477",
+    "id": "ch5-act5-seg477",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Correction: rewriting geology in real time.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act6-seg478",
+    "id": "ch5-act5-seg478",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex pressed her hand against the fresh barrier. Still warm.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act6-seg479",
+    "id": "ch5-act5-seg479",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"So we go forward or we stay here until we're decoration.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act6-seg480",
+    "id": "ch5-act5-seg480",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Forward,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act6-seg481",
+    "id": "ch5-act5-seg481",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said, voice steady though her light had guttered out entirely.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act6-seg482",
+    "id": "ch5-act5-seg482",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Always forward.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act6-seg483",
+    "id": "ch5-act5-seg483",
     "type": "narration",
     "speaker": "narrator",
     "text": "The climb stole what little rhythm remained in their breathing.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 50
   },
   {
-    "id": "ch5-act6-seg484",
+    "id": "ch5-act5-seg484",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin's right arm ached with the memory of the sigils -- hot where the rest of him was cold. The filaments crawled beneath his skin like they were searching for something they'd lost.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act6-seg485",
+    "id": "ch5-act5-seg485",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen fell into step beside him without being asked.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act6-seg486",
+    "id": "ch5-act5-seg486",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"You're shaking.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act6-seg487",
+    "id": "ch5-act5-seg487",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"It's the pull.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 53
   },
   {
-    "id": "ch5-act6-seg488",
+    "id": "ch5-act5-seg488",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Then push back.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 54
   },
   {
-    "id": "ch5-act6-seg489",
+    "id": "ch5-act5-seg489",
     "type": "narration",
     "speaker": "narrator",
     "text": "He managed a half-laugh.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 55
   },
   {
-    "id": "ch5-act6-seg490",
+    "id": "ch5-act5-seg490",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"That easy?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 55
   },
   {
-    "id": "ch5-act6-seg491",
+    "id": "ch5-act5-seg491",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"No,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act6-seg492",
+    "id": "ch5-act5-seg492",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act6-seg493",
+    "id": "ch5-act5-seg493",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"But start somewhere.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act6-seg494",
+    "id": "ch5-act5-seg494",
     "type": "narration",
     "speaker": "narrator",
     "text": "She brushed her hand near his sleeve; the ache dulled. Not gone -- just bearable. The green of her tattoos flickered, dimmed slightly, another small price paid.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 57
   },
   {
-    "id": "ch5-act6-seg495",
+    "id": "ch5-act5-seg495",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Thank you.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act6-seg496",
+    "id": "ch5-act5-seg496",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Later,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act6-seg497",
+    "id": "ch5-act5-seg497",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act6-seg498",
+    "id": "ch5-act5-seg498",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"When we're out.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act6-seg499",
+    "id": "ch5-act5-seg499",
     "type": "narration",
     "speaker": "narrator",
     "text": "Behind them Nyxara glanced at Durgan's shadow -- still too obedient, too smooth, like a dog trained to sit perfectly still while its master walked away.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 60
   },
   {
-    "id": "ch5-act6-seg500",
+    "id": "ch5-act5-seg500",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"You hear it too?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 61
   },
   {
-    "id": "ch5-act6-seg501",
+    "id": "ch5-act5-seg501",
     "type": "narration",
     "speaker": "narrator",
     "text": "she asked quietly.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 61
   },
   {
-    "id": "ch5-act6-seg502",
+    "id": "ch5-act5-seg502",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"The hum?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 62
   },
   {
-    "id": "ch5-act6-seg503",
+    "id": "ch5-act5-seg503",
     "type": "narration",
     "speaker": "narrator",
     "text": "He shook his head once.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 63
   },
   {
-    "id": "ch5-act6-seg504",
+    "id": "ch5-act5-seg504",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Footsteps.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 63
   },
   {
-    "id": "ch5-act6-seg505",
+    "id": "ch5-act5-seg505",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Whose?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 64
   },
   {
-    "id": "ch5-act6-seg506",
+    "id": "ch5-act5-seg506",
     "type": "narration",
     "speaker": "narrator",
     "text": "He didn't answer. Didn't look at her. Just kept walking with that deliberate, measured pace that suggested if he stopped, he might not start again.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 65
   },
   {
-    "id": "ch5-act6-seg507",
+    "id": "ch5-act5-seg507",
     "type": "narration",
     "speaker": "narrator",
     "text": "When she looked again, his shadow was holding perfectly still while his boots moved -- a fraction too much control, the kind that comes from fighting something every single second.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 66
   },
   {
-    "id": "ch5-act6-seg508",
+    "id": "ch5-act5-seg508",
     "type": "narration",
     "speaker": "narrator",
     "text": "At last the tunnel widened enough for rest.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 67
   },
   {
-    "id": "ch5-act6-seg509",
+    "id": "ch5-act5-seg509",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik struck a flame that barely caught, nursing it like a dying thing. The light painted their faces in ochre and exhaustion, hollowing cheeks and deepening shadows.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 68
   },
   {
-    "id": "ch5-act6-seg510",
+    "id": "ch5-act5-seg510",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex divided rations without asking; she had counted before anyone noticed they were running low. Dried meat, harder cheese, a swallow of water each. She moved with the efficiency of someone who'd learned hunger as a child and never forgotten the lesson.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 69
   },
   {
-    "id": "ch5-act6-seg511",
+    "id": "ch5-act5-seg511",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana knelt apart, tracing the sigil of her order in ash on the ground. The mark wouldn't hold shape. The dust slid away from her fingers as if the mountain itself rejected the prayer. She tried again. Again the ash refused her.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 70
   },
   {
-    "id": "ch5-act6-seg512",
+    "id": "ch5-act5-seg512",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin watched but didn't interrupt.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 71
   },
   {
-    "id": "ch5-act6-seg513",
+    "id": "ch5-act5-seg513",
     "type": "narration",
     "speaker": "narrator",
     "text": "Some prayers, he thought, were best left unanswered.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 72
   },
   {
-    "id": "ch5-act6-seg514",
+    "id": "ch5-act5-seg514",
     "type": "narration",
     "speaker": "narrator",
     "text": "A faint tremor moved through the stone like a muscle tensing.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 73
   },
   {
-    "id": "ch5-act6-seg515",
+    "id": "ch5-act5-seg515",
     "type": "narration",
     "speaker": "narrator",
     "text": "Their gear jingled once, softly.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 74
   },
   {
-    "id": "ch5-act6-seg516",
+    "id": "ch5-act5-seg516",
     "type": "narration",
     "speaker": "narrator",
     "text": "Then the hum changed key -- dropping a full tone, deeper, more present.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 75
   },
   {
-    "id": "ch5-act6-seg517",
+    "id": "ch5-act5-seg517",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik's head snapped up.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 76
   },
   {
-    "id": "ch5-act6-seg518",
+    "id": "ch5-act5-seg518",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"That's not us.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 76
   },
   {
-    "id": "ch5-act6-seg519",
+    "id": "ch5-act5-seg519",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen closed her eyes, listening with her whole body the way trees listen to approaching storms.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 77
   },
   {
-    "id": "ch5-act6-seg520",
+    "id": "ch5-act5-seg520",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Something old is turning over in its sleep.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 77
   },
   {
-    "id": "ch5-act6-seg521",
+    "id": "ch5-act5-seg521",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex sheathed her knife slow, deliberate.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 78
   },
   {
-    "id": "ch5-act6-seg522",
+    "id": "ch5-act5-seg522",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Let's not be the alarm clock.\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 78
   },
   {
-    "id": "ch5-act6-seg523",
+    "id": "ch5-act5-seg523",
     "type": "narration",
     "speaker": "narrator",
     "text": "They climbed the last stretch in silence.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 79
   },
   {
-    "id": "ch5-act6-seg524",
+    "id": "ch5-act5-seg524",
     "type": "narration",
     "speaker": "narrator",
     "text": "Snowlight filtered down from a crack above -- thin, colorless, precious as air. The temperature dropped with every step, breath turning to visible ghosts in the suddenly frigid air.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 80
   },
   {
-    "id": "ch5-act6-seg525",
+    "id": "ch5-act5-seg525",
     "type": "narration",
     "speaker": "narrator",
     "text": "When they emerged onto open rock, the air hit like resurrection: cold, clean, cruelly bright after so long in the dark.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 81
   },
   {
-    "id": "ch5-act6-seg526",
+    "id": "ch5-act5-seg526",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin turned back once. The tunnel mouth had already begun to glass over, edges smoothing and sealing, faintly glowing from within with a light that pulsed in time with the distant counting below.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 82
   },
   {
-    "id": "ch5-act6-seg527",
+    "id": "ch5-act5-seg527",
     "type": "narration",
     "speaker": "narrator",
     "text": "He couldn't tell if it was sealing itself shut or lighting a path back.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 83
   },
   {
-    "id": "ch5-act6-seg528",
+    "id": "ch5-act5-seg528",
     "type": "narration",
     "speaker": "narrator",
     "text": "Either way, it watched them go.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 84
   },
   {
-    "id": "ch5-act6-seg529",
+    "id": "ch5-act5-seg529",
     "type": "dialogue",
     "speaker": "elowen",
     "text": "\"The mountain remembers,\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 85
   },
   {
-    "id": "ch5-act6-seg530",
+    "id": "ch5-act5-seg530",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen whispered.",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 85
   },
   {
-    "id": "ch5-act6-seg531",
+    "id": "ch5-act5-seg531",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Question is -- what?\"",
-    "act": 6,
+    "act": 5,
     "paragraphIndex": 85
   },
   {
-    "id": "ch5-act7-seg532",
+    "id": "ch5-act6-seg532",
     "type": "narration",
     "speaker": "narrator",
     "text": "Wind met them like a blade honed on snow.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 0
   },
   {
-    "id": "ch5-act7-seg533",
+    "id": "ch5-act6-seg533",
     "type": "narration",
     "speaker": "narrator",
     "text": "The world was all angles -- black rock, white glare, a sky so close it felt like a lid pressing down on the peaks.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 1
   },
   {
-    "id": "ch5-act7-seg534",
+    "id": "ch5-act6-seg534",
     "type": "narration",
     "speaker": "narrator",
     "text": "Breath came thin and loud in their own ears, each inhalation a small victory against the altitude.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 2
   },
   {
-    "id": "ch5-act7-seg535",
+    "id": "ch5-act6-seg535",
     "type": "narration",
     "speaker": "narrator",
     "text": "The ridge ran like a spine, dropping to glazed couloirs on either side -- sheets of ice that fell away into clouds and nothing. One wrong step and gravity would have opinions.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 3
   },
   {
-    "id": "ch5-act7-seg536",
+    "id": "ch5-act6-seg536",
     "type": "narration",
     "speaker": "narrator",
     "text": "Far ahead, the flame-path in Caelin's vision brightened to a fine wire, then split along the crest -- two threads, left and lower, right and steep.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 4
   },
   {
-    "id": "ch5-act7-seg537",
+    "id": "ch5-act6-seg537",
     "type": "narration",
     "speaker": "narrator",
     "text": "He blinked; the right-hand thread tugged harder. Not safer. Just certain. The kind of certainty that didn't care about safety.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 5
   },
   {
-    "id": "ch5-act7-seg538",
+    "id": "ch5-act6-seg538",
     "type": "dialogue",
     "speaker": "elowen",
     "text": "\"Two ways,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act7-seg539",
+    "id": "ch5-act6-seg539",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 6
   },
   {
-    "id": "ch5-act7-seg540",
+    "id": "ch5-act6-seg540",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Then there's only one,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act7-seg541",
+    "id": "ch5-act6-seg541",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex answered, already squinting into the glare, reading the terrain with the practiced eye of someone who'd survived by always choosing the less-bad option.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 7
   },
   {
-    "id": "ch5-act7-seg542",
+    "id": "ch5-act6-seg542",
     "type": "narration",
     "speaker": "narrator",
     "text": "Sunlight cut through high cloud and made three mock-suns at the horizon -- halos stacked like coins, a parhelion that shouldn't have been so clear at this time of day.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 8
   },
   {
-    "id": "ch5-act7-seg543",
+    "id": "ch5-act6-seg543",
     "type": "narration",
     "speaker": "narrator",
     "text": "For a moment the middle ring threw nine spokes across the glare, a trick of ice crystals and angle.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 9
   },
   {
-    "id": "ch5-act7-seg544",
+    "id": "ch5-act6-seg544",
     "type": "narration",
     "speaker": "narrator",
     "text": "They watched until the spokes thinned and died, melting back into ordinary light.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 10
   },
   {
-    "id": "ch5-act7-seg545",
+    "id": "ch5-act6-seg545",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Pretty,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act7-seg546",
+    "id": "ch5-act6-seg546",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik said, too softly.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act7-seg547",
+    "id": "ch5-act6-seg547",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"I hate it.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 11
   },
   {
-    "id": "ch5-act7-seg548",
+    "id": "ch5-act6-seg548",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Atmospheric phenomenon,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act7-seg549",
+    "id": "ch5-act6-seg549",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex said.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act7-seg550",
+    "id": "ch5-act6-seg550",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"Ice crystals refracting -- \"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 12
   },
   {
-    "id": "ch5-act7-seg551",
+    "id": "ch5-act6-seg551",
     "type": "dialogue",
     "speaker": "thornik",
     "text": "\"I know what it is,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act7-seg552",
+    "id": "ch5-act6-seg552",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik interrupted.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act7-seg553",
+    "id": "ch5-act6-seg553",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Doesn't make it less ominous.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 13
   },
   {
-    "id": "ch5-act7-seg554",
+    "id": "ch5-act6-seg554",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Light for the edge,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act7-seg555",
+    "id": "ch5-act6-seg555",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana said, lifting a hand as they prepared to traverse the exposed ridge.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 14
   },
   {
-    "id": "ch5-act7-seg556",
+    "id": "ch5-act6-seg556",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nothing came.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 15
   },
   {
-    "id": "ch5-act7-seg557",
+    "id": "ch5-act6-seg557",
     "type": "narration",
     "speaker": "narrator",
     "text": "She breathed, steadied, tried again. The wardline stuttered and guttered like breath caught in a throat, flickering silver-gold-silver before dying completely.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 16
   },
   {
-    "id": "ch5-act7-seg558",
+    "id": "ch5-act6-seg558",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Source is... thin,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act7-seg559",
+    "id": "ch5-act6-seg559",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, voice even by force of will.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act7-seg560",
+    "id": "ch5-act6-seg560",
     "type": "dialogue",
     "speaker": "serana",
     "text": "\"Can't hold it.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 17
   },
   {
-    "id": "ch5-act7-seg561",
+    "id": "ch5-act6-seg561",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara's smile didn't travel to her eyes.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act7-seg562",
+    "id": "ch5-act6-seg562",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"Altitude does that to certainty.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 18
   },
   {
-    "id": "ch5-act7-seg563",
+    "id": "ch5-act6-seg563",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Enough,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act7-seg564",
+    "id": "ch5-act6-seg564",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said -- quieter than anger, firmer than plea.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act7-seg565",
+    "id": "ch5-act6-seg565",
     "type": "dialogue",
     "speaker": "vex",
     "text": "\"We move slow. No miracles, just rope.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 19
   },
   {
-    "id": "ch5-act7-seg566",
+    "id": "ch5-act6-seg566",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana nodded once and lowered her hand. That, too, was a kind of prayer -- accepting limitation, working within it.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 20
   },
   {
-    "id": "ch5-act7-seg567",
+    "id": "ch5-act6-seg567",
     "type": "narration",
     "speaker": "narrator",
     "text": "They roped in -- Thornik's knots neat as script, each one tested twice. Vex testing every anchor with insults and physics, trusting neither completely.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 21
   },
   {
-    "id": "ch5-act7-seg568",
+    "id": "ch5-act6-seg568",
     "type": "narration",
     "speaker": "narrator",
     "text": "The ridge narrowed to two boot-widths and a faith wider than comfort.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 22
   },
   {
-    "id": "ch5-act7-seg569",
+    "id": "ch5-act6-seg569",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan took rear without comment. He walked like a man who had been here in other lifetimes and found the drop repetitive. His shadow stayed small, obedient, costly.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 23
   },
   {
-    "id": "ch5-act7-seg570",
+    "id": "ch5-act6-seg570",
     "type": "narration",
     "speaker": "narrator",
     "text": "Halfway across, a gust hit sideways -- a wall of wind with malice in it. Elowen's heel skated on rime; Caelin felt the rope jar tight across his chest, fibers groaning.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 24
   },
   {
-    "id": "ch5-act7-seg571",
+    "id": "ch5-act6-seg571",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Lean in,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act7-seg572",
+    "id": "ch5-act6-seg572",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said, not sure who needed it. Maybe himself.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 25
   },
   {
-    "id": "ch5-act7-seg573",
+    "id": "ch5-act6-seg573",
     "type": "narration",
     "speaker": "narrator",
     "text": "They did. The gust passed. The ridge became a ridge again.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 26
   },
   {
-    "id": "ch5-act7-seg574",
+    "id": "ch5-act6-seg574",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara altered the angle of her shadow with a single, almost lazy wrist-turn -- subtle magic, barely noticeable.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 27
   },
   {
-    "id": "ch5-act7-seg575",
+    "id": "ch5-act6-seg575",
     "type": "narration",
     "speaker": "narrator",
     "text": "For one breath the glare softened where their eyes needed it most, giving them a moment of relief from the sun-blindness.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 28
   },
   {
-    "id": "ch5-act7-seg576",
+    "id": "ch5-act6-seg576",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex saw it and didn't comment. She only moved faster, wanting to be off the exposed spine before the mountain changed its mind.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 29
   },
   {
-    "id": "ch5-act7-seg577",
+    "id": "ch5-act6-seg577",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"Shelter,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act7-seg578",
+    "id": "ch5-act6-seg578",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan said, three heartbeats later.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 30
   },
   {
-    "id": "ch5-act7-seg579",
+    "id": "ch5-act6-seg579",
     "type": "narration",
     "speaker": "narrator",
     "text": "Not warning. A direction.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 31
   },
   {
-    "id": "ch5-act7-seg580",
+    "id": "ch5-act6-seg580",
     "type": "narration",
     "speaker": "narrator",
     "text": "They followed his chin-tilt to a bite taken out of the lee side -- a snow-scooped alcove backed by stone, protected from the worst of the wind.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 32
   },
   {
-    "id": "ch5-act7-seg581",
+    "id": "ch5-act6-seg581",
     "type": "narration",
     "speaker": "narrator",
     "text": "They crouched out of the wind, bodies grateful for even this small mercy. Fire was a joke up here where oxygen barely existed; Thornik didn't try. They huddled together for warmth instead.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 33
   },
   {
-    "id": "ch5-act7-seg582",
+    "id": "ch5-act6-seg582",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana sat with her back to rock and closed her eyes like someone setting down a weight too heavy to carry any longer.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 34
   },
   {
-    "id": "ch5-act7-seg583",
+    "id": "ch5-act6-seg583",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin heard the whisper before he saw her jaw tighten -- the overlapping threads of two instructions that would never agree, playing in an endless loop.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 35
   },
   {
-    "id": "ch5-act7-seg584",
+    "id": "ch5-act6-seg584",
     "type": "narration",
     "speaker": "narrator",
     "text": "Protect the flame.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 36
   },
   {
-    "id": "ch5-act7-seg585",
+    "id": "ch5-act6-seg585",
     "type": "narration",
     "speaker": "narrator",
     "text": "Offer the bearer.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 37
   },
   {
-    "id": "ch5-act7-seg586",
+    "id": "ch5-act6-seg586",
     "type": "narration",
     "speaker": "narrator",
     "text": "Her fingers found the chalk tucked in her belt and snapped it cleanly in two. The pieces fell into the snow and were immediately buried by a fresh gust.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 38
   },
   {
-    "id": "ch5-act7-seg587",
+    "id": "ch5-act6-seg587",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"I can walk,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act7-seg588",
+    "id": "ch5-act6-seg588",
     "type": "narration",
     "speaker": "narrator",
     "text": "she said, eyes still shut.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act7-seg589",
+    "id": "ch5-act6-seg589",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"I can't promise more.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 39
   },
   {
-    "id": "ch5-act7-seg590",
+    "id": "ch5-act6-seg590",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"That's enough,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 40
   },
   {
-    "id": "ch5-act7-seg591",
+    "id": "ch5-act6-seg591",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin answered.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 40
   },
   {
-    "id": "ch5-act7-seg592",
+    "id": "ch5-act6-seg592",
     "type": "narration",
     "speaker": "narrator",
     "text": "He didn't add, For now.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 41
   },
   {
-    "id": "ch5-act7-seg593",
+    "id": "ch5-act6-seg593",
     "type": "narration",
     "speaker": "narrator",
     "text": "Vex distributed a stingy fistful of dried fruit as if paying out wages.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 42
   },
   {
-    "id": "ch5-act7-seg594",
+    "id": "ch5-act6-seg594",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"Don't die; I'll have to redo headcount.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 42
   },
   {
-    "id": "ch5-act7-seg595",
+    "id": "ch5-act6-seg595",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik chewed slowly, trying not to look at the halos still staining the horizon like cosmic warning signs.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 43
   },
   {
-    "id": "ch5-act7-seg596",
+    "id": "ch5-act6-seg596",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Quantitatively speaking, we're under-supplied on miracles.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 43
   },
   {
-    "id": "ch5-act7-seg597",
+    "id": "ch5-act6-seg597",
     "type": "narration",
     "speaker": "narrator",
     "text": "Nyxara watched the way the wind curled around Caelin's forearm, as if the air had opinions about ownership.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act7-seg598",
+    "id": "ch5-act6-seg598",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"Quantitatively speaking,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act7-seg599",
+    "id": "ch5-act6-seg599",
     "type": "narration",
     "speaker": "narrator",
     "text": "she murmured,",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act7-seg600",
+    "id": "ch5-act6-seg600",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"we're over-supplied on audience.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 44
   },
   {
-    "id": "ch5-act7-seg601",
+    "id": "ch5-act6-seg601",
     "type": "narration",
     "speaker": "narrator",
     "text": "Durgan didn't sit. His shadow behaved itself. That felt like a decision that cost him.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 45
   },
   {
-    "id": "ch5-act7-seg602",
+    "id": "ch5-act6-seg602",
     "type": "narration",
     "speaker": "narrator",
     "text": "The ridge underfoot hummed -- two notes a tone apart, beating slow against each other in a rhythm that made teeth ache.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 46
   },
   {
-    "id": "ch5-act7-seg603",
+    "id": "ch5-act6-seg603",
     "type": "narration",
     "speaker": "narrator",
     "text": "Thornik touched stone with a bare palm.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act7-seg604",
+    "id": "ch5-act6-seg604",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"That's not weather.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 47
   },
   {
-    "id": "ch5-act7-seg605",
+    "id": "ch5-act6-seg605",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen listened with her whole body, the way she'd learned to read the forest's moods.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act7-seg606",
+    "id": "ch5-act6-seg606",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Something turned over below us.\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 48
   },
   {
-    "id": "ch5-act7-seg607",
+    "id": "ch5-act6-seg607",
     "type": "dialogue",
     "speaker": "caelin",
     "text": "\"Left,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act7-seg608",
+    "id": "ch5-act6-seg608",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin said. The pull in his arm was no longer a suggestion. It was a command.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 49
   },
   {
-    "id": "ch5-act7-seg609",
+    "id": "ch5-act6-seg609",
     "type": "narration",
     "speaker": "narrator",
     "text": "No one argued.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 50
   },
   {
-    "id": "ch5-act7-seg610",
+    "id": "ch5-act6-seg610",
     "type": "narration",
     "speaker": "narrator",
     "text": "They moved into a light that felt older than noon, shadows stretching wrong directions, the sun pale and distant.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 51
   },
   {
-    "id": "ch5-act7-seg611",
+    "id": "ch5-act6-seg611",
     "type": "narration",
     "speaker": "narrator",
     "text": "The mock-suns had faded, but the taste of metal hadn't -- copper and ozone, the flavor of lightning about to strike.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 52
   },
   {
-    "id": "ch5-act7-seg612",
+    "id": "ch5-act6-seg612",
     "type": "narration",
     "speaker": "narrator",
     "text": "Behind them, the wind erased their prints in a single pass, as if the mountain wanted no record they'd been there.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 53
   },
   {
-    "id": "ch5-act7-seg613",
+    "id": "ch5-act6-seg613",
     "type": "narration",
     "speaker": "narrator",
     "text": "Ahead, the path narrowed and began to sing -- a low, thrumming note that rose from stone or sky or the space between.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 54
   },
   {
-    "id": "ch5-act7-seg614",
+    "id": "ch5-act6-seg614",
     "type": "narration",
     "speaker": "narrator",
     "text": "Serana opened her hand for light one more time and found none. She closed it before anyone saw, fingers curling into a fist.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 55
   },
   {
-    "id": "ch5-act7-seg615",
+    "id": "ch5-act6-seg615",
     "type": "narration",
     "speaker": "narrator",
     "text": "But Caelin saw. And said nothing.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 56
   },
   {
-    "id": "ch5-act7-seg616",
+    "id": "ch5-act6-seg616",
     "type": "narration",
     "speaker": "narrator",
     "text": "Before they moved, Vex ran her count aloud -- four charges spent, one blade chipped, three wounds that needed proper dressing when there was time. Thornik tapped the scale of remaining fuses against his thigh: six left.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 57
   },
   {
-    "id": "ch5-act7-seg617",
+    "id": "ch5-act6-seg617",
     "type": "narration",
     "speaker": "narrator",
     "text": "Elowen said nothing, but turned one wrist up; two more vine-marks had darkened at the edges, thin black lines where the green should have been. Serana's wardlight was gone and hadn't come back.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 57
   },
   {
-    "id": "ch5-act7-seg618",
+    "id": "ch5-act6-seg618",
     "type": "narration",
     "speaker": "narrator",
     "text": "Caelin looked at his arm. Coal-glow. Steady. Not spent, not surging -- just present.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 58
   },
   {
-    "id": "ch5-act7-seg619",
+    "id": "ch5-act6-seg619",
     "type": "dialogue",
     "speaker": "durgan",
     "text": "\"Still here,\"",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act7-seg620",
+    "id": "ch5-act6-seg620",
     "type": "narration",
     "speaker": "narrator",
     "text": "he said, to no one in particular.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 59
   },
   {
-    "id": "ch5-act7-seg621",
+    "id": "ch5-act6-seg621",
     "type": "narration",
     "speaker": "narrator",
     "text": "They descended.",
-    "act": 7,
+    "act": 6,
     "paragraphIndex": 60
   }
 ]

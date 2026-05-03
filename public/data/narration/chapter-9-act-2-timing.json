@@ -1,0 +1,217 @@
+{
+  "chapter": 9,
+  "act": 2,
+  "actTitle": "First Clash",
+  "audioFile": "/audio/chapters/chapter-9-act-2.mp3",
+  "totalDuration": 182.95,
+  "segments": [
+    {
+      "id": "ch9-act2-seg036",
+      "start": 0.0,
+      "end": 13.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex met the first two in a blur -- dagger under ribs, second blade across the strange tendons behind a knee. The silhouettes buckled as anatomy demanded; their shadows whipped, failing to find purchase against Serana's ward-line."
+    },
+    {
+      "id": "ch9-act2-seg037",
+      "start": 13.625,
+      "end": 24.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The third came sideways, and she learned something: they adapted. The first two had attacked head-on. The third had watched the first two die and changed its angle. That was new. That was terrifying."
+    },
+    {
+      "id": "ch9-act2-seg038",
+      "start": 24.375,
+      "end": 26.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"They're learning!\""
+    },
+    {
+      "id": "ch9-act2-seg039",
+      "start": 26.4,
+      "end": 32.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she called to the line, rolling under a reaching limb that bent in directions limbs had no right to bend."
+    },
+    {
+      "id": "ch9-act2-seg040",
+      "start": 33.125,
+      "end": 36.475,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"They watch and adjust -- don't repeat patterns!\""
+    },
+    {
+      "id": "ch9-act2-seg041",
+      "start": 36.625,
+      "end": 37.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"On me!\""
+    },
+    {
+      "id": "ch9-act2-seg042",
+      "start": 38.25,
+      "end": 42.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana barked, stepping to take a rake meant for a baker at the bucket line."
+    },
+    {
+      "id": "ch9-act2-seg043",
+      "start": 43.275,
+      "end": 55.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Her shield-arm shuddered with the impact -- hard, impossibly hard for something that weighed so little -- and something stirred at her shoulder -- habit, reflex, the light that used to answer her sword. It guttered before it could hold."
+    },
+    {
+      "id": "ch9-act2-seg044",
+      "start": 56.175,
+      "end": 60.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She put her body between the blow and the question and did not flinch."
+    },
+    {
+      "id": "ch9-act2-seg045",
+      "start": 60.725,
+      "end": 72.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The square was noise and shadow and the specific smell of fear-sweat mingling with the wrong-sweet corruption the thralls left on everything they touched. Cobblestones went slick with something that wasn't quite blood."
+    },
+    {
+      "id": "ch9-act2-seg046",
+      "start": 73.275,
+      "end": 87.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Torchlight carved the scene into slices: a baker swinging a stave with white-knuckled determination; two soldiers bracing each other back-to-back the way Vale had drilled them; Serana's shield catching lamplight like a small, defiant moon."
+    },
+    {
+      "id": "ch9-act2-seg047",
+      "start": 87.4,
+      "end": 101.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik thumbed a charge and skipped it off the cobbles; it caromed under three thralls and went off with a shuddering cough of light and sound. One collapsed. Two more staggered, smoking. The smell of ozone cut through the corruption-reek like a clean blade through fog."
+    },
+    {
+      "id": "ch9-act2-seg048",
+      "start": 101.975,
+      "end": 103.625,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Five left,\""
+    },
+    {
+      "id": "ch9-act2-seg049",
+      "start": 103.925,
+      "end": 108.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he grunted, tapping the emptied loop. Already counting. Already mourning."
+    },
+    {
+      "id": "ch9-act2-seg050",
+      "start": 108.9,
+      "end": 114.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan's blades worked short and economical, every cut a sentence with no wasted words."
+    },
+    {
+      "id": "ch9-act2-seg051",
+      "start": 114.9,
+      "end": 127.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His shadow dragged at him slightly -- wanting, always wanting -- but he crushed it flat with jaw-locked effort and felt the warm trickle of a nosebleed vanish into the black of his collar. He didn't wipe it. Wiping meant acknowledging."
+    },
+    {
+      "id": "ch9-act2-seg052",
+      "start": 127.975,
+      "end": 132.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He cut, pivoted, cut again, and let the work carry him through the urge."
+    },
+    {
+      "id": "ch9-act2-seg053",
+      "start": 133.0,
+      "end": 142.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin kept center, throwing small heat -- lines on steel, a melted hinge, a slick made glassy at the right instant. Pain flared, then steadied. Manageable."
+    },
+    {
+      "id": "ch9-act2-seg054",
+      "start": 142.8,
+      "end": 153.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He could feel the scale pulling toward larger expenditure -- the way a river pulls toward a waterfall -- and held it back. Not yet. Save it. The night was young and the darkness was patient."
+    },
+    {
+      "id": "ch9-act2-seg055",
+      "start": 153.825,
+      "end": 168.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The thralls retreated. Not fled -- retreated, the way a chess player pulls back a piece to reposition. They sank into the alleys they'd come from, and the silence they left was worse than the fighting because silence from things that didn't breathe was just them being quiet."
+    },
+    {
+      "id": "ch9-act2-seg056",
+      "start": 168.8,
+      "end": 170.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"They'll be back,\""
+    },
+    {
+      "id": "ch9-act2-seg057",
+      "start": 170.35,
+      "end": 173.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, dropping from the tower steps."
+    },
+    {
+      "id": "ch9-act2-seg058",
+      "start": 173.475,
+      "end": 176.825,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And they'll remember everything we just showed them.\""
+    },
+    {
+      "id": "ch9-act2-seg059",
+      "start": 176.975,
+      "end": 178.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Wonderful,\""
+    },
+    {
+      "id": "ch9-act2-seg060",
+      "start": 178.8,
+      "end": 180.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said."
+    },
+    {
+      "id": "ch9-act2-seg061",
+      "start": 180.525,
+      "end": 182.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Enemies with a curriculum.\""
+    }
+  ]
+}

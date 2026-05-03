@@ -1,0 +1,504 @@
+{
+  "chapter": 12,
+  "title": "Epilogue",
+  "audioFile": "/audio/chapters/chapter-12.mp3",
+  "totalDuration": 505.025,
+  "segments": [
+    {
+      "id": "ch12-act1-seg001",
+      "start": 0.0,
+      "end": 1.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The slab fell."
+    },
+    {
+      "id": "ch12-act1-seg002",
+      "start": 2.0,
+      "end": 18.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "What came after was dark and cold and the kind of silence that exists deep inside stone -- not empty, but occupied, the way old places are occupied by the weight of their own age. The grinding had stopped. Dust still moved in the air. It would move for a long time."
+    },
+    {
+      "id": "ch12-act1-seg003",
+      "start": 18.35,
+      "end": 30.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The root-web was gone. Every thread of it -- spent, not broken, burned from green to white to nothing in the last three seconds before impact. The tattoos along her arms were pale, almost colorless in the dark."
+    },
+    {
+      "id": "ch12-act1-seg004",
+      "start": 31.25,
+      "end": 42.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The magic that had given her new language for the past weeks had emptied itself out completely. She could feel the absence where it had been. Like a room she'd lived in that now held only the outline of furniture."
+    },
+    {
+      "id": "ch12-act1-seg005",
+      "start": 42.35,
+      "end": 43.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was alive."
+    },
+    {
+      "id": "ch12-act1-seg006",
+      "start": 44.325,
+      "end": 47.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "That was -- that was unexpected."
+    },
+    {
+      "id": "ch12-act1-seg007",
+      "start": 47.3,
+      "end": 58.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She took a slow inventory, the way her circle had taught her: start at the feet, move up, report honestly. Left ankle -- wrong, grinding, don't move it. Ribs -- several. A warmth at her temple that would be blood."
+    },
+    {
+      "id": "ch12-act1-seg008",
+      "start": 58.775,
+      "end": 72.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The staff was gone; she could feel that the way you feel a lost tooth -- not just absence but the shape of absence. Everything hurt, which was fine. Everything hurting meant nerves reporting from a body that was still present."
+    },
+    {
+      "id": "ch12-act1-seg009",
+      "start": 72.425,
+      "end": 79.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The dark was absolute. She had no light, no fire, no silver-borrowed glow. The vine-ink along her arms gave nothing."
+    },
+    {
+      "id": "ch12-act1-seg010",
+      "start": 79.8,
+      "end": 81.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "But something else did."
+    },
+    {
+      "id": "ch12-act1-seg011",
+      "start": 82.275,
+      "end": 90.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It was faint -- thin as a thread pulled through the eye of a needle from a great distance. Not her magic. Not anything she'd called or shaped."
+    },
+    {
+      "id": "ch12-act1-seg012",
+      "start": 90.575,
+      "end": 101.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It came from below her, from the roots of the mountain itself, from systems so old they predated the Concord's seals by centuries. Mountain oak. Ancient alder."
+    },
+    {
+      "id": "ch12-act1-seg013",
+      "start": 101.45,
+      "end": 107.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The deep network that connected living things through stone and loam and the slow patience of trees."
+    },
+    {
+      "id": "ch12-act1-seg014",
+      "start": 107.9,
+      "end": 109.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It had caught her."
+    },
+    {
+      "id": "ch12-act1-seg015",
+      "start": 110.05,
+      "end": 119.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not gently. Not carefully. The way a root catches a thing rolling toward a cliff edge -- at the last possible moment, with no concern for comfort."
+    },
+    {
+      "id": "ch12-act1-seg016",
+      "start": 120.0,
+      "end": 135.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was wedged against a natural shelf of stone she hadn't landed on so much as been deposited on, bruised and broken in the way of things that fall a long way and survive it. The root structure around her was faintly warm. Not warm like fire."
+    },
+    {
+      "id": "ch12-act1-seg017",
+      "start": 135.6,
+      "end": 138.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Warm like something alive."
+    },
+    {
+      "id": "ch12-act1-seg018",
+      "start": 138.35,
+      "end": 146.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She didn't know if it knew she was there. She didn't know if it had chosen her or simply intercepted her the way a river intercepts rain."
+    },
+    {
+      "id": "ch12-act1-seg019",
+      "start": 146.5,
+      "end": 152.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She lay still and breathed and let the thin warmth of it be the only thing that mattered."
+    },
+    {
+      "id": "ch12-act1-seg020",
+      "start": 152.475,
+      "end": 158.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Above her, far above, Caelin had said her name to a sealed scar of stone that did not care."
+    },
+    {
+      "id": "ch12-act1-seg021",
+      "start": 158.475,
+      "end": 169.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below her, the mountain went on doing whatever mountains do in the dark, in the deep, in the patient counting silence, long after the people on its surface had stopped paying attention."
+    },
+    {
+      "id": "ch12-act1-seg022",
+      "start": 170.125,
+      "end": 171.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was alive."
+    },
+    {
+      "id": "ch12-act1-seg023",
+      "start": 172.1,
+      "end": 174.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "For now, that was enough."
+    },
+    {
+      "id": "ch12-act2-seg024",
+      "start": 175.375,
+      "end": 178.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The wards had been failing for two years."
+    },
+    {
+      "id": "ch12-act2-seg025",
+      "start": 178.725,
+      "end": 184.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not dramatically -- not in the way of things collapsing or breaking or announcing themselves with noise."
+    },
+    {
+      "id": "ch12-act2-seg026",
+      "start": 185.1,
+      "end": 199.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Slowly, the way ice fails in the first days of a warm season: a hairline at the margin, then another, then a slow creep toward center that goes unnoticed until the whole surface is laced with fractures and one footstep is all it takes."
+    },
+    {
+      "id": "ch12-act2-seg027",
+      "start": 200.25,
+      "end": 208.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The prisoners on the upper levels had felt it first. They always would -- they were closest to the surface, closest to the light they'd been sealed away from."
+    },
+    {
+      "id": "ch12-act2-seg028",
+      "start": 209.1,
+      "end": 225.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The shadow-things that had come to Millbrook were only the outermost layer of what Depthspire held: scouts, explorers, the opportunistic edge of a population that had been confined for a generation and was learning, by degrees, that the walls were not what they used to be."
+    },
+    {
+      "id": "ch12-act2-seg029",
+      "start": 225.875,
+      "end": 229.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Deeper, the older things waited with older patience."
+    },
+    {
+      "id": "ch12-act2-seg030",
+      "start": 229.9,
+      "end": 235.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Concord had built Depthspire as a system. Each level harder than the last."
+    },
+    {
+      "id": "ch12-act2-seg031",
+      "start": 235.35,
+      "end": 250.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Each prisoner more dangerous than the one above, positioned as both inmate and deterrent -- the logic being that anything trying to reach the vault at the bottom would have to pass through layer after layer of something that very much did not want to be passed through."
+    },
+    {
+      "id": "ch12-act2-seg032",
+      "start": 250.75,
+      "end": 254.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It had worked, for a while. It had worked for eighty years."
+    },
+    {
+      "id": "ch12-act2-seg033",
+      "start": 254.725,
+      "end": 263.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "But the Nine relics were waking. Not all at once, not at the same rate, but in the way of interconnected things when one begins to resonate -- the others follow."
+    },
+    {
+      "id": "ch12-act2-seg034",
+      "start": 264.075,
+      "end": 276.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The binding magic threaded through Depthspire's architecture was tuned to a stillness that no longer existed. Every relic that came alive was another string plucked in a net designed for silence."
+    },
+    {
+      "id": "ch12-act2-seg035",
+      "start": 276.975,
+      "end": 280.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "And the creatures in the deep levels could feel each one."
+    },
+    {
+      "id": "ch12-act2-seg036",
+      "start": 280.925,
+      "end": 293.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "On the third level, something with too many joints pressed itself against a ward-wall that had developed a soft spot the size of a palm. It pressed, and the wall gave a little, and it pressed again. It had been pressing for six weeks. It was not in a hurry."
+    },
+    {
+      "id": "ch12-act2-seg037",
+      "start": 294.175,
+      "end": 307.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "On the fifth level, in a chamber the original architects had flooded as a secondary measure, something moved through the water in slow circles. The flood had been receding for eighteen months as the drainage seals cracked."
+    },
+    {
+      "id": "ch12-act2-seg038",
+      "start": 308.25,
+      "end": 319.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "There was less water than there had been. There would be less still. The thing in the water was adjusting to this with the pragmatism of something that had survived worse than a room running dry."
+    },
+    {
+      "id": "ch12-act2-seg039",
+      "start": 319.65,
+      "end": 327.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At the base -- the real base, the level the Concord had built everything else above in order to contain it -- there was no prisoner."
+    },
+    {
+      "id": "ch12-act2-seg040",
+      "start": 327.5,
+      "end": 331.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Concord had not built Depthspire around a prisoner."
+    },
+    {
+      "id": "ch12-act2-seg041",
+      "start": 331.625,
+      "end": 340.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They had built it around something older than the Concord, older than the kingdom that had preceded it, older than the language the wards were written in."
+    },
+    {
+      "id": "ch12-act2-seg042",
+      "start": 340.4,
+      "end": 356.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Something they had found already in the deep rock, already contained by methods they did not fully understand, already patient in its darkness in a way that suggested it had been patient for a very long time and had learned not to waste effort on urgency."
+    },
+    {
+      "id": "ch12-act2-seg043",
+      "start": 356.425,
+      "end": 363.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They had added their own seals to whatever had come before. Layers on layers. Very thorough. Very carefully done."
+    },
+    {
+      "id": "ch12-act2-seg044",
+      "start": 363.8,
+      "end": 366.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The seals were failing."
+    },
+    {
+      "id": "ch12-act2-seg045",
+      "start": 366.35,
+      "end": 378.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not the old ones -- not yet. The old ones were different in kind from anything the Concord's engineers had built, and they were holding in the way of things built by people who understood what they were holding."
+    },
+    {
+      "id": "ch12-act2-seg046",
+      "start": 378.7,
+      "end": 387.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "But the Concord's layers, the careful human additions, the wards tuned to a silence that no longer existed -- those were fracturing."
+    },
+    {
+      "id": "ch12-act2-seg047",
+      "start": 387.65,
+      "end": 396.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below everything, in the dark that predated the structure above it, something that had been very still for a very long time made a sound."
+    },
+    {
+      "id": "ch12-act2-seg048",
+      "start": 396.65,
+      "end": 399.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not a word. Not a movement. Just a sound."
+    },
+    {
+      "id": "ch12-act2-seg049",
+      "start": 400.1,
+      "end": 402.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Patient as geology."
+    },
+    {
+      "id": "ch12-act2-seg050",
+      "start": 402.875,
+      "end": 404.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Counting."
+    },
+    {
+      "id": "ch12-act3-seg051",
+      "start": 405.35,
+      "end": 407.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They walked north."
+    },
+    {
+      "id": "ch12-act3-seg052",
+      "start": 407.6,
+      "end": 420.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The plateau had been visible since morning -- a black shelf of rock pushing up out of the horizon like something that had always been there and had simply been waiting for the angle to be right. The Depthspire rise."
+    },
+    {
+      "id": "ch12-act3-seg053",
+      "start": 420.825,
+      "end": 430.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not the structure itself, not yet, but the approach to it, the country of it, the air that had been breathing the same cold breath as whatever was sealed in the deep below."
+    },
+    {
+      "id": "ch12-act3-seg054",
+      "start": 430.5,
+      "end": 443.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale in Caelin's arm had been warm since they crossed the Boundary Bridge. Not warning-warm, not the red-orange of effort or pain. Just warm. Present. The way a compass needle is present when you stop arguing with it and let it point."
+    },
+    {
+      "id": "ch12-act3-seg055",
+      "start": 443.45,
+      "end": 450.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric walked at the back and said nothing. He'd been doing the arithmetic for months. He was nearly at an answer."
+    },
+    {
+      "id": "ch12-act3-seg056",
+      "start": 450.425,
+      "end": 465.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan walked the right flank with his shadow flat and obedient at his boots and his eyes on the tree line and his jaw set in the way of a man who has decided to keep making the choice one day at a time and not ask himself how many days he has left."
+    },
+    {
+      "id": "ch12-act3-seg057",
+      "start": 466.05,
+      "end": 480.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex walked left, ribs strapped, shoulder working, her eyes already on the plateau with the professional attention of someone calculating entrances and sight lines and the distance between where they were and where the trouble would start."
+    },
+    {
+      "id": "ch12-act3-seg058",
+      "start": 480.4,
+      "end": 487.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one spoke. The road was basalt now, the clay having given way an hour back exactly where L's note had said it would."
+    },
+    {
+      "id": "ch12-act3-seg059",
+      "start": 487.7,
+      "end": 489.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulled north."
+    },
+    {
+      "id": "ch12-act3-seg060",
+      "start": 490.275,
+      "end": 492.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The plateau waited."
+    },
+    {
+      "id": "ch12-act3-seg061",
+      "start": 492.85,
+      "end": 502.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Somewhere below it, in the dark where the wards were fracturing and the old things were stirring and something older than all of it had made a sound -- the counting continued."
+    },
+    {
+      "id": "ch12-act3-seg062",
+      "start": 502.5,
+      "end": 505.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Book Two begins at the gate."
+    }
+  ]
+}

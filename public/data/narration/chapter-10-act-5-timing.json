@@ -1,0 +1,225 @@
+{
+  "chapter": 10,
+  "act": 5,
+  "actTitle": "The Mile-Stone",
+  "audioFile": "/audio/chapters/chapter-10-act-5.mp3",
+  "totalDuration": 175.475,
+  "segments": [
+    {
+      "id": "ch10-act5-seg190",
+      "start": 0.0,
+      "end": 12.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They met at the mile-stone where the road forked into three good choices and a dozen bad ones. The stone had names carved into it, most worn past reading -- travellers who'd wanted to leave something behind at a crossing."
+    },
+    {
+      "id": "ch10-act5-seg191",
+      "start": 12.75,
+      "end": 18.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Woodsmoke rode the evening air from the town, thinner now, dying down to its ordinary register."
+    },
+    {
+      "id": "ch10-act5-seg192",
+      "start": 19.1,
+      "end": 20.375,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Three roads,\""
+    },
+    {
+      "id": "ch10-act5-seg193",
+      "start": 20.675,
+      "end": 22.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said."
+    },
+    {
+      "id": "ch10-act5-seg194",
+      "start": 22.275,
+      "end": 24.125,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"How poetic.\""
+    },
+    {
+      "id": "ch10-act5-seg195",
+      "start": 24.425,
+      "end": 26.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one contradicted her."
+    },
+    {
+      "id": "ch10-act5-seg196",
+      "start": 27.2,
+      "end": 39.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik had his pack on his back and his grandfather's chisel wrapped and stowed and his tool-harness sitting lighter than it had in months -- not because it was empty but because what remained in it was what he'd chosen to keep."
+    },
+    {
+      "id": "ch10-act5-seg197",
+      "start": 39.7,
+      "end": 48.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He looked north toward the mountains and then back at the group with the expression of a man who has made his decision and is waiting to see how it feels to live with it."
+    },
+    {
+      "id": "ch10-act5-seg198",
+      "start": 49.05,
+      "end": 50.8,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Three roads,\""
+    },
+    {
+      "id": "ch10-act5-seg199",
+      "start": 51.1,
+      "end": 55.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana answered, thumb working the edge of the gear-coin Thornik had given her."
+    },
+    {
+      "id": "ch10-act5-seg200",
+      "start": 56.125,
+      "end": 58.95,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I don't know when mine turns back toward yours.\""
+    },
+    {
+      "id": "ch10-act5-seg201",
+      "start": 59.1,
+      "end": 60.525,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"With luck,\""
+    },
+    {
+      "id": "ch10-act5-seg202",
+      "start": 60.825,
+      "end": 66.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, and he tapped Caelin's tone-ring against the stone -- three-one-two, a sound like a small careful knock --"
+    },
+    {
+      "id": "ch10-act5-seg203",
+      "start": 66.75,
+      "end": 70.5,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"mine will rejoin before Depthspire. If not, the ring knows the way.\""
+    },
+    {
+      "id": "ch10-act5-seg204",
+      "start": 70.8,
+      "end": 76.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin pressed the ring between his fingers and felt the gap where the quadrant was missing."
+    },
+    {
+      "id": "ch10-act5-seg205",
+      "start": 76.475,
+      "end": 89.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He thought about what it meant that Thornik had kept the matching one -- that somewhere, in a dwarven hall under a mountain, a stubborn engineer would tap three-one-two on Sixthday dusk and wait for the hum that meant his friends were still alive."
+    },
+    {
+      "id": "ch10-act5-seg206",
+      "start": 89.55,
+      "end": 92.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He tightened the dark ribbon under his sleeve and said:"
+    },
+    {
+      "id": "ch10-act5-seg207",
+      "start": 93.05,
+      "end": 98.0,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We don't wait at doors we can't close. If we have to go in, we go in.\""
+    },
+    {
+      "id": "ch10-act5-seg208",
+      "start": 98.15,
+      "end": 100.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"And we find each other if we can,\""
+    },
+    {
+      "id": "ch10-act5-seg209",
+      "start": 101.25,
+      "end": 103.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said."
+    },
+    {
+      "id": "ch10-act5-seg210",
+      "start": 103.35,
+      "end": 110.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They stood at the stone for a moment longer than was strictly necessary. Nobody was in a rush to be the first to walk away."
+    },
+    {
+      "id": "ch10-act5-seg211",
+      "start": 111.025,
+      "end": 122.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The light was going copper at the edges and the wind had come up from the northwest, carrying the smell of distance -- cold grass, bare earth, the particular nothing-smell of a road that goes somewhere you haven't been."
+    },
+    {
+      "id": "ch10-act5-seg212",
+      "start": 123.125,
+      "end": 132.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They didn't hug. They weren't that kind of story yet. But they stood close enough that if any one of them had stumbled in that moment, the others would have caught them without thinking."
+    },
+    {
+      "id": "ch10-act5-seg213",
+      "start": 132.875,
+      "end": 146.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik turned toward the northern road, the mountains catching the first cold stars. Serana took the eastward track, where old pilgrim stones lined the ditch like teeth worn to stubs. Caelin, Vex, and Durgan faced the merchant way."
+    },
+    {
+      "id": "ch10-act5-seg214",
+      "start": 146.55,
+      "end": 160.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The wind shifted. Iron-sweet from the ruined gate. Last hearth-smoke from a town that had held as long as it could. Somewhere far below stone, the Depthspire pulse came through the soles of their boots: Thud. Thud. Thud. Patient as geology. Counting."
+    },
+    {
+      "id": "ch10-act5-seg215",
+      "start": 160.9,
+      "end": 163.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They walked into their separate futures."
+    },
+    {
+      "id": "ch10-act5-seg216",
+      "start": 164.05,
+      "end": 175.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric was waiting at the first bend in the road, medical bag over one shoulder, already facing north. He didn't say anything when they reached him. He fell into step at the back of the group, and that was that."
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "chapter": 5,
+  "act": 2,
+  "actTitle": "Durgan's Welcome",
+  "audioFile": "/audio/chapters/chapter-5-act-2.mp3",
+  "totalDuration": 167.925,
+  "segments": [
+    {
+      "id": "ch5-act2-seg165",
+      "start": 0.0,
+      "end": 3.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They took stock fast because there was no slow left."
+    },
+    {
+      "id": "ch5-act2-seg166",
+      "start": 4.0,
+      "end": 8.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex: moving, rib-shot, functioning at perhaps 70%."
+    },
+    {
+      "id": "ch5-act2-seg167",
+      "start": 8.7,
+      "end": 13.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik: winded, uncut, checking his instruments with shaking hands."
+    },
+    {
+      "id": "ch5-act2-seg168",
+      "start": 13.6,
+      "end": 21.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen: whole in body, less in magic -- one vine-mark dim at the edge, blackened where she'd tried to touch the post-cast burn."
+    },
+    {
+      "id": "ch5-act2-seg169",
+      "start": 21.45,
+      "end": 25.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara: unmarked, a faint frost halo gone when she blinked."
+    },
+    {
+      "id": "ch5-act2-seg170",
+      "start": 26.05,
+      "end": 33.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan: coiled too tight, shadow obedient by force, four crescent marks pressed into his thigh through his trousers."
+    },
+    {
+      "id": "ch5-act2-seg171",
+      "start": 33.35,
+      "end": 40.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana: connection steadied, a tiny flicker when she turned to speak, lips still tasting copper from the split counsel."
+    },
+    {
+      "id": "ch5-act2-seg172",
+      "start": 40.825,
+      "end": 49.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin: vertical by stubbornness, the scale back to coal-glow, pain settling to the constant ache Elowen could ease later -- if it wasn't fresh-burn."
+    },
+    {
+      "id": "ch5-act2-seg173",
+      "start": 49.925,
+      "end": 51.8,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"They'll follow the Ember,\""
+    },
+    {
+      "id": "ch5-act2-seg174",
+      "start": 52.1,
+      "end": 55.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said, breaking the silence."
+    },
+    {
+      "id": "ch5-act2-seg175",
+      "start": 55.225,
+      "end": 57.575,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Distance won't matter.\""
+    },
+    {
+      "id": "ch5-act2-seg176",
+      "start": 57.725,
+      "end": 58.625,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Surface,\""
+    },
+    {
+      "id": "ch5-act2-seg177",
+      "start": 58.925,
+      "end": 66.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex started -- then glanced toward the south, toward Millbrook and the scattered hamlets tucked under these ridges. Her jaw tightened."
+    },
+    {
+      "id": "ch5-act2-seg178",
+      "start": 66.4,
+      "end": 71.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"No. Not with a beacon on two legs. I hate the idea, but... containment.\""
+    },
+    {
+      "id": "ch5-act2-seg179",
+      "start": 71.65,
+      "end": 73.4,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"The Undervault,\""
+    },
+    {
+      "id": "ch5-act2-seg180",
+      "start": 73.7,
+      "end": 81.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik offered, already pulling the battered journal from his coat. Pages crackled, stained with old blood and older ink."
+    },
+    {
+      "id": "ch5-act2-seg181",
+      "start": 81.175,
+      "end": 88.725,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Pre-Concord passages. Old dwarf-wards. My grandfather mapped entries and marked the Deep Hall. Wards there might confuse whatever is sniffing us.\""
+    },
+    {
+      "id": "ch5-act2-seg182",
+      "start": 88.875,
+      "end": 91.275,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Safer for civilians,\""
+    },
+    {
+      "id": "ch5-act2-seg183",
+      "start": 91.575,
+      "end": 93.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said, jaw set."
+    },
+    {
+      "id": "ch5-act2-seg184",
+      "start": 94.1,
+      "end": 95.475,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Not for us.\""
+    },
+    {
+      "id": "ch5-act2-seg185",
+      "start": 95.775,
+      "end": 103.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen's gaze went inward, the way it did when she listened to the Weave. The green of her tattoos pulsed faintly, then dimmed."
+    },
+    {
+      "id": "ch5-act2-seg186",
+      "start": 103.6,
+      "end": 108.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"The deep places are hurt. Wounded things can be generous. Or angry.\""
+    },
+    {
+      "id": "ch5-act2-seg187",
+      "start": 108.725,
+      "end": 114.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan's fingers twitched toward a blade, then away -- a motion so fast only Vex caught it."
+    },
+    {
+      "id": "ch5-act2-seg188",
+      "start": 114.525,
+      "end": 117.65,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Safer to be hunted in stone than among farms.\""
+    },
+    {
+      "id": "ch5-act2-seg189",
+      "start": 117.95,
+      "end": 119.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They looked to Caelin."
+    },
+    {
+      "id": "ch5-act2-seg190",
+      "start": 120.2,
+      "end": 123.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale warmed -- not push, not pull. Waiting."
+    },
+    {
+      "id": "ch5-act2-seg191",
+      "start": 123.9,
+      "end": 131.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He thought of Thornwick. Of glass bones where houses had stood. Of Mira's small hand clutching his ruined cloak."
+    },
+    {
+      "id": "ch5-act2-seg192",
+      "start": 131.2,
+      "end": 132.875,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Undervault,\""
+    },
+    {
+      "id": "ch5-act2-seg193",
+      "start": 133.175,
+      "end": 134.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch5-act2-seg194",
+      "start": 134.7,
+      "end": 137.15,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"We don't bring this down to doorsteps.\""
+    },
+    {
+      "id": "ch5-act2-seg195",
+      "start": 137.3,
+      "end": 138.725,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Excellent,\""
+    },
+    {
+      "id": "ch5-act2-seg196",
+      "start": 139.025,
+      "end": 144.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, already shouldering weight, adjusting straps with practiced efficiency."
+    },
+    {
+      "id": "ch5-act2-seg197",
+      "start": 144.475,
+      "end": 148.975,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I've always wanted to risk my life on decayed ventilation and ancestral pride.\""
+    },
+    {
+      "id": "ch5-act2-seg198",
+      "start": 149.125,
+      "end": 150.175,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Lead on,\""
+    },
+    {
+      "id": "ch5-act2-seg199",
+      "start": 150.475,
+      "end": 154.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, checking her daggers with methodical precision."
+    },
+    {
+      "id": "ch5-act2-seg200",
+      "start": 154.6,
+      "end": 157.825,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"If a ward eats us, I'm haunting you.\""
+    },
+    {
+      "id": "ch5-act2-seg201",
+      "start": 157.975,
+      "end": 160.35,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Queue forms to the left,\""
+    },
+    {
+      "id": "ch5-act2-seg202",
+      "start": 160.65,
+      "end": 164.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said, finding his cheer again despite everything."
+    },
+    {
+      "id": "ch5-act2-seg203",
+      "start": 164.6,
+      "end": 167.925,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Ancestral disapproval is first-come, first-served.\""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "chapter": 5,
+  "title": "The Undervault",
+  "acts": [
+    {
+      "act": 1,
+      "actTitle": "The Descent",
+      "audioFile": "/audio/chapters/chapter-5-act-1.mp3",
+      "timingFile": "/data/narration/chapter-5-act-1-timing.json",
+      "totalDuration": 708.9,
+      "segmentCount": 164
+    },
+    {
+      "act": 2,
+      "actTitle": "Durgan's Welcome",
+      "audioFile": "/audio/chapters/chapter-5-act-2.mp3",
+      "timingFile": "/data/narration/chapter-5-act-2-timing.json",
+      "totalDuration": 167.925,
+      "segmentCount": 39
+    },
+    {
+      "act": 3,
+      "actTitle": "Deep Roads",
+      "audioFile": "/audio/chapters/chapter-5-act-3.mp3",
+      "timingFile": "/data/narration/chapter-5-act-3-timing.json",
+      "totalDuration": 457.925,
+      "segmentCount": 100
+    },
+    {
+      "act": 4,
+      "actTitle": "The Vault",
+      "audioFile": "/audio/chapters/chapter-5-act-4.mp3",
+      "timingFile": "/data/narration/chapter-5-act-4-timing.json",
+      "totalDuration": 509.325,
+      "segmentCount": 105
+    },
+    {
+      "act": 5,
+      "actTitle": "Awakening",
+      "audioFile": "/audio/chapters/chapter-5-act-5.mp3",
+      "timingFile": "/data/narration/chapter-5-act-5-timing.json",
+      "totalDuration": 591.175,
+      "segmentCount": 123
+    },
+    {
+      "act": 6,
+      "actTitle": "Return to Light",
+      "audioFile": "/audio/chapters/chapter-5-act-6.mp3",
+      "timingFile": "/data/narration/chapter-5-act-6-timing.json",
+      "totalDuration": 433.65,
+      "segmentCount": 90
+    }
+  ],
+  "totalDuration": 2868.9
+}

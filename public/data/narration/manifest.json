@@ -1,0 +1,576 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Dragon's Last Breath",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Dawn's Reckoning",
+          "audioFile": "/audio/chapters/chapter-1-act-1.mp3",
+          "timingFile": "/data/narration/chapter-1-act-1-timing.json",
+          "totalDuration": 371.575,
+          "segmentCount": 73
+        },
+        {
+          "act": 2,
+          "actTitle": "The Compact",
+          "audioFile": "/audio/chapters/chapter-1-act-2.mp3",
+          "timingFile": "/data/narration/chapter-1-act-2-timing.json",
+          "totalDuration": 728.975,
+          "segmentCount": 119
+        },
+        {
+          "act": 3,
+          "actTitle": "First Steps",
+          "audioFile": "/audio/chapters/chapter-1-act-3.mp3",
+          "timingFile": "/data/narration/chapter-1-act-3-timing.json",
+          "totalDuration": 598.725,
+          "segmentCount": 115
+        },
+        {
+          "act": 4,
+          "actTitle": "The Road Ahead",
+          "audioFile": "/audio/chapters/chapter-1-act-4.mp3",
+          "timingFile": "/data/narration/chapter-1-act-4-timing.json",
+          "totalDuration": 769.55,
+          "segmentCount": 169
+        }
+      ],
+      "totalDuration": 2468.825
+    },
+    {
+      "chapter": 2,
+      "title": "Gathering Shadows",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "The Mountain Pass",
+          "audioFile": "/audio/chapters/chapter-2-act-1.mp3",
+          "timingFile": "/data/narration/chapter-2-act-1-timing.json",
+          "totalDuration": 839.4,
+          "segmentCount": 140
+        },
+        {
+          "act": 2,
+          "actTitle": "Strangers and Allies",
+          "audioFile": "/audio/chapters/chapter-2-act-2.mp3",
+          "timingFile": "/data/narration/chapter-2-act-2-timing.json",
+          "totalDuration": 774.625,
+          "segmentCount": 137
+        },
+        {
+          "act": 3,
+          "actTitle": "Night Watch",
+          "audioFile": "/audio/chapters/chapter-2-act-3.mp3",
+          "timingFile": "/data/narration/chapter-2-act-3-timing.json",
+          "totalDuration": 901.75,
+          "segmentCount": 170
+        }
+      ],
+      "totalDuration": 2515.775
+    },
+    {
+      "chapter": 3,
+      "title": "Nature's Messenger",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "The Green Way",
+          "audioFile": "/audio/chapters/chapter-3-act-1.mp3",
+          "timingFile": "/data/narration/chapter-3-act-1-timing.json",
+          "totalDuration": 1046.275,
+          "segmentCount": 164
+        },
+        {
+          "act": 2,
+          "actTitle": "Elowen's Grove",
+          "audioFile": "/audio/chapters/chapter-3-act-2.mp3",
+          "timingFile": "/data/narration/chapter-3-act-2-timing.json",
+          "totalDuration": 820.975,
+          "segmentCount": 150
+        },
+        {
+          "act": 3,
+          "actTitle": "Nature's Warning",
+          "audioFile": "/audio/chapters/chapter-3-act-3.mp3",
+          "timingFile": "/data/narration/chapter-3-act-3-timing.json",
+          "totalDuration": 766.925,
+          "segmentCount": 122
+        }
+      ],
+      "totalDuration": 2634.175
+    },
+    {
+      "chapter": 4,
+      "title": "Bonds and Burdens",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Morning Camp",
+          "audioFile": "/audio/chapters/chapter-4-act-1.mp3",
+          "timingFile": "/data/narration/chapter-4-act-1-timing.json",
+          "totalDuration": 316.9,
+          "segmentCount": 55
+        },
+        {
+          "act": 2,
+          "actTitle": "Old Stories",
+          "audioFile": "/audio/chapters/chapter-4-act-2.mp3",
+          "timingFile": "/data/narration/chapter-4-act-2-timing.json",
+          "totalDuration": 259.6,
+          "segmentCount": 63
+        },
+        {
+          "act": 3,
+          "actTitle": "The Fork",
+          "audioFile": "/audio/chapters/chapter-4-act-3.mp3",
+          "timingFile": "/data/narration/chapter-4-act-3-timing.json",
+          "totalDuration": 596.475,
+          "segmentCount": 125
+        },
+        {
+          "act": 4,
+          "actTitle": "Bonds Tested",
+          "audioFile": "/audio/chapters/chapter-4-act-4.mp3",
+          "timingFile": "/data/narration/chapter-4-act-4-timing.json",
+          "totalDuration": 327.275,
+          "segmentCount": 61
+        },
+        {
+          "act": 5,
+          "actTitle": "Gareth's Burden",
+          "audioFile": "/audio/chapters/chapter-4-act-5.mp3",
+          "timingFile": "/data/narration/chapter-4-act-5-timing.json",
+          "totalDuration": 537.3,
+          "segmentCount": 118
+        },
+        {
+          "act": 6,
+          "actTitle": "Moving On",
+          "audioFile": "/audio/chapters/chapter-4-act-6.mp3",
+          "timingFile": "/data/narration/chapter-4-act-6-timing.json",
+          "totalDuration": 536.775,
+          "segmentCount": 131
+        }
+      ],
+      "totalDuration": 2574.325
+    },
+    {
+      "chapter": 5,
+      "title": "The Undervault",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "The Descent",
+          "audioFile": "/audio/chapters/chapter-5-act-1.mp3",
+          "timingFile": "/data/narration/chapter-5-act-1-timing.json",
+          "totalDuration": 708.9,
+          "segmentCount": 164
+        },
+        {
+          "act": 2,
+          "actTitle": "Durgan's Welcome",
+          "audioFile": "/audio/chapters/chapter-5-act-2.mp3",
+          "timingFile": "/data/narration/chapter-5-act-2-timing.json",
+          "totalDuration": 167.925,
+          "segmentCount": 39
+        },
+        {
+          "act": 3,
+          "actTitle": "Deep Roads",
+          "audioFile": "/audio/chapters/chapter-5-act-3.mp3",
+          "timingFile": "/data/narration/chapter-5-act-3-timing.json",
+          "totalDuration": 457.925,
+          "segmentCount": 100
+        },
+        {
+          "act": 4,
+          "actTitle": "The Vault",
+          "audioFile": "/audio/chapters/chapter-5-act-4.mp3",
+          "timingFile": "/data/narration/chapter-5-act-4-timing.json",
+          "totalDuration": 509.325,
+          "segmentCount": 105
+        },
+        {
+          "act": 5,
+          "actTitle": "Awakening",
+          "audioFile": "/audio/chapters/chapter-5-act-5.mp3",
+          "timingFile": "/data/narration/chapter-5-act-5-timing.json",
+          "totalDuration": 591.175,
+          "segmentCount": 123
+        },
+        {
+          "act": 6,
+          "actTitle": "Return to Light",
+          "audioFile": "/audio/chapters/chapter-5-act-6.mp3",
+          "timingFile": "/data/narration/chapter-5-act-6-timing.json",
+          "totalDuration": 433.65,
+          "segmentCount": 90
+        }
+      ],
+      "totalDuration": 2868.9
+    },
+    {
+      "chapter": 6,
+      "title": "Stone That Breathes",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Holding Pattern",
+          "audioFile": "/audio/chapters/chapter-6-act-1.mp3",
+          "timingFile": "/data/narration/chapter-6-act-1-timing.json",
+          "totalDuration": 431.475,
+          "segmentCount": 61
+        },
+        {
+          "act": 2,
+          "actTitle": "Testing the Edges",
+          "audioFile": "/audio/chapters/chapter-6-act-2.mp3",
+          "timingFile": "/data/narration/chapter-6-act-2-timing.json",
+          "totalDuration": 391.55,
+          "segmentCount": 78
+        },
+        {
+          "act": 3,
+          "actTitle": "Plans & Friction",
+          "audioFile": "/audio/chapters/chapter-6-act-3.mp3",
+          "timingFile": "/data/narration/chapter-6-act-3-timing.json",
+          "totalDuration": 346.125,
+          "segmentCount": 65
+        },
+        {
+          "act": 4,
+          "actTitle": "First Watch",
+          "audioFile": "/audio/chapters/chapter-6-act-4.mp3",
+          "timingFile": "/data/narration/chapter-6-act-4-timing.json",
+          "totalDuration": 367.425,
+          "segmentCount": 65
+        },
+        {
+          "act": 5,
+          "actTitle": "Second Watch",
+          "audioFile": "/audio/chapters/chapter-6-act-5.mp3",
+          "timingFile": "/data/narration/chapter-6-act-5-timing.json",
+          "totalDuration": 386.4,
+          "segmentCount": 62
+        },
+        {
+          "act": 6,
+          "actTitle": "Dawn",
+          "audioFile": "/audio/chapters/chapter-6-act-6.mp3",
+          "timingFile": "/data/narration/chapter-6-act-6-timing.json",
+          "totalDuration": 213.375,
+          "segmentCount": 30
+        }
+      ],
+      "totalDuration": 2136.35
+    },
+    {
+      "chapter": 7,
+      "title": "The Fractured Sanctum",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "The Approach",
+          "audioFile": "/audio/chapters/chapter-7-act-1.mp3",
+          "timingFile": "/data/narration/chapter-7-act-1-timing.json",
+          "totalDuration": 300.825,
+          "segmentCount": 57
+        },
+        {
+          "act": 2,
+          "actTitle": "The Sanctum",
+          "audioFile": "/audio/chapters/chapter-7-act-2.mp3",
+          "timingFile": "/data/narration/chapter-7-act-2-timing.json",
+          "totalDuration": 1183.225,
+          "segmentCount": 289
+        },
+        {
+          "act": 3,
+          "actTitle": "Nyxara",
+          "audioFile": "/audio/chapters/chapter-7-act-3.mp3",
+          "timingFile": "/data/narration/chapter-7-act-3-timing.json",
+          "totalDuration": 567.175,
+          "segmentCount": 90
+        },
+        {
+          "act": 4,
+          "actTitle": "Fractured Ground",
+          "audioFile": "/audio/chapters/chapter-7-act-4.mp3",
+          "timingFile": "/data/narration/chapter-7-act-4-timing.json",
+          "totalDuration": 368.95,
+          "segmentCount": 78
+        },
+        {
+          "act": 5,
+          "actTitle": "Revelations",
+          "audioFile": "/audio/chapters/chapter-7-act-5.mp3",
+          "timingFile": "/data/narration/chapter-7-act-5-timing.json",
+          "totalDuration": 203.35,
+          "segmentCount": 37
+        },
+        {
+          "act": 6,
+          "actTitle": "Escape",
+          "audioFile": "/audio/chapters/chapter-7-act-6.mp3",
+          "timingFile": "/data/narration/chapter-7-act-6-timing.json",
+          "totalDuration": 299.825,
+          "segmentCount": 78
+        }
+      ],
+      "totalDuration": 2923.35
+    },
+    {
+      "chapter": 8,
+      "title": "Down from the Peaks",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Aftermath",
+          "audioFile": "/audio/chapters/chapter-8-act-1.mp3",
+          "timingFile": "/data/narration/chapter-8-act-1-timing.json",
+          "totalDuration": 358.025,
+          "segmentCount": 62
+        },
+        {
+          "act": 2,
+          "actTitle": "Descent",
+          "audioFile": "/audio/chapters/chapter-8-act-2.mp3",
+          "timingFile": "/data/narration/chapter-8-act-2-timing.json",
+          "totalDuration": 428.05,
+          "segmentCount": 86
+        },
+        {
+          "act": 3,
+          "actTitle": "The Valley",
+          "audioFile": "/audio/chapters/chapter-8-act-3.mp3",
+          "timingFile": "/data/narration/chapter-8-act-3-timing.json",
+          "totalDuration": 806.125,
+          "segmentCount": 156
+        },
+        {
+          "act": 4,
+          "actTitle": "Rest",
+          "audioFile": "/audio/chapters/chapter-8-act-4.mp3",
+          "timingFile": "/data/narration/chapter-8-act-4-timing.json",
+          "totalDuration": 124.025,
+          "segmentCount": 16
+        },
+        {
+          "act": 5,
+          "actTitle": "Reflections",
+          "audioFile": "/audio/chapters/chapter-8-act-5.mp3",
+          "timingFile": "/data/narration/chapter-8-act-5-timing.json",
+          "totalDuration": 125.6,
+          "segmentCount": 30
+        },
+        {
+          "act": 6,
+          "actTitle": "Dawn",
+          "audioFile": "/audio/chapters/chapter-8-act-6.mp3",
+          "timingFile": "/data/narration/chapter-8-act-6-timing.json",
+          "totalDuration": 142.375,
+          "segmentCount": 30
+        }
+      ],
+      "totalDuration": 1984.2
+    },
+    {
+      "chapter": 9,
+      "title": "The Siege",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "First Bell",
+          "audioFile": "/audio/chapters/chapter-9-act-1.mp3",
+          "timingFile": "/data/narration/chapter-9-act-1-timing.json",
+          "totalDuration": 284.7,
+          "segmentCount": 35
+        },
+        {
+          "act": 2,
+          "actTitle": "First Clash",
+          "audioFile": "/audio/chapters/chapter-9-act-2.mp3",
+          "timingFile": "/data/narration/chapter-9-act-2-timing.json",
+          "totalDuration": 182.95,
+          "segmentCount": 26
+        },
+        {
+          "act": 3,
+          "actTitle": "Second Bell",
+          "audioFile": "/audio/chapters/chapter-9-act-3.mp3",
+          "timingFile": "/data/narration/chapter-9-act-3-timing.json",
+          "totalDuration": 316.95,
+          "segmentCount": 53
+        },
+        {
+          "act": 4,
+          "actTitle": "Vale's Stand",
+          "audioFile": "/audio/chapters/chapter-9-act-4.mp3",
+          "timingFile": "/data/narration/chapter-9-act-4-timing.json",
+          "totalDuration": 226.225,
+          "segmentCount": 36
+        },
+        {
+          "act": 5,
+          "actTitle": "Turn & Break",
+          "audioFile": "/audio/chapters/chapter-9-act-5.mp3",
+          "timingFile": "/data/narration/chapter-9-act-5-timing.json",
+          "totalDuration": 207.3,
+          "segmentCount": 23
+        },
+        {
+          "act": 6,
+          "actTitle": "Ashes",
+          "audioFile": "/audio/chapters/chapter-9-act-6.mp3",
+          "timingFile": "/data/narration/chapter-9-act-6-timing.json",
+          "totalDuration": 502.475,
+          "segmentCount": 92
+        }
+      ],
+      "totalDuration": 1720.6
+    },
+    {
+      "chapter": 10,
+      "title": "Partings",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Nyxara",
+          "audioFile": "/audio/chapters/chapter-10-act-1.mp3",
+          "timingFile": "/data/narration/chapter-10-act-1-timing.json",
+          "totalDuration": 323.875,
+          "segmentCount": 51
+        },
+        {
+          "act": 2,
+          "actTitle": "The Group Hears",
+          "audioFile": "/audio/chapters/chapter-10-act-2.mp3",
+          "timingFile": "/data/narration/chapter-10-act-2-timing.json",
+          "totalDuration": 239.1,
+          "segmentCount": 28
+        },
+        {
+          "act": 3,
+          "actTitle": "Thornik's Choice",
+          "audioFile": "/audio/chapters/chapter-10-act-3.mp3",
+          "timingFile": "/data/narration/chapter-10-act-3-timing.json",
+          "totalDuration": 237.4,
+          "segmentCount": 54
+        },
+        {
+          "act": 4,
+          "actTitle": "Serana's Road",
+          "audioFile": "/audio/chapters/chapter-10-act-4.mp3",
+          "timingFile": "/data/narration/chapter-10-act-4-timing.json",
+          "totalDuration": 282.65,
+          "segmentCount": 56
+        },
+        {
+          "act": 5,
+          "actTitle": "The Mile-Stone",
+          "audioFile": "/audio/chapters/chapter-10-act-5.mp3",
+          "timingFile": "/data/narration/chapter-10-act-5-timing.json",
+          "totalDuration": 175.475,
+          "segmentCount": 27
+        },
+        {
+          "act": 6,
+          "actTitle": "The Smaller Party",
+          "audioFile": "/audio/chapters/chapter-10-act-6.mp3",
+          "timingFile": "/data/narration/chapter-10-act-6-timing.json",
+          "totalDuration": 266.1,
+          "segmentCount": 41
+        }
+      ],
+      "totalDuration": 1524.6
+    },
+    {
+      "chapter": 11,
+      "title": "Road to the Plateau",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "Leaving Walls",
+          "audioFile": "/audio/chapters/chapter-11-act-1.mp3",
+          "timingFile": "/data/narration/chapter-11-act-1-timing.json",
+          "totalDuration": 257.625,
+          "segmentCount": 44
+        },
+        {
+          "act": 2,
+          "actTitle": "Post-Siege Country",
+          "audioFile": "/audio/chapters/chapter-11-act-2.mp3",
+          "timingFile": "/data/narration/chapter-11-act-2-timing.json",
+          "totalDuration": 235.025,
+          "segmentCount": 45
+        },
+        {
+          "act": 3,
+          "actTitle": "The Hedge and the Hounds",
+          "audioFile": "/audio/chapters/chapter-11-act-3.mp3",
+          "timingFile": "/data/narration/chapter-11-act-3-timing.json",
+          "totalDuration": 258.6,
+          "segmentCount": 56
+        },
+        {
+          "act": 4,
+          "actTitle": "The Charcoal Clamp",
+          "audioFile": "/audio/chapters/chapter-11-act-4.mp3",
+          "timingFile": "/data/narration/chapter-11-act-4-timing.json",
+          "totalDuration": 299.2,
+          "segmentCount": 54
+        },
+        {
+          "act": 5,
+          "actTitle": "The Waystone",
+          "audioFile": "/audio/chapters/chapter-11-act-5.mp3",
+          "timingFile": "/data/narration/chapter-11-act-5-timing.json",
+          "totalDuration": 282.0,
+          "segmentCount": 40
+        },
+        {
+          "act": 6,
+          "actTitle": "The Aurora",
+          "audioFile": "/audio/chapters/chapter-11-act-6.mp3",
+          "timingFile": "/data/narration/chapter-11-act-6-timing.json",
+          "totalDuration": 315.975,
+          "segmentCount": 51
+        }
+      ],
+      "totalDuration": 1648.425
+    },
+    {
+      "chapter": 12,
+      "title": "Epilogue",
+      "acts": [
+        {
+          "act": 1,
+          "actTitle": "After",
+          "audioFile": "/audio/chapters/chapter-12-act-1.mp3",
+          "timingFile": "/data/narration/chapter-12-act-1-timing.json",
+          "totalDuration": 174.175,
+          "segmentCount": 23
+        },
+        {
+          "act": 2,
+          "actTitle": "The World Changed",
+          "audioFile": "/audio/chapters/chapter-12-act-2.mp3",
+          "timingFile": "/data/narration/chapter-12-act-2-timing.json",
+          "totalDuration": 228.775,
+          "segmentCount": 27
+        },
+        {
+          "act": 3,
+          "actTitle": "Farewell",
+          "audioFile": "/audio/chapters/chapter-12-act-3.mp3",
+          "timingFile": "/data/narration/chapter-12-act-3-timing.json",
+          "totalDuration": 99.675,
+          "segmentCount": 12
+        }
+      ],
+      "totalDuration": 502.625
+    }
+  ]
+}

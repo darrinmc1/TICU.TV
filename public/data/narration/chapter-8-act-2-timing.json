@@ -1,0 +1,697 @@
+{
+  "chapter": 8,
+  "act": 2,
+  "actTitle": "Descent",
+  "audioFile": "/audio/chapters/chapter-8-act-2.mp3",
+  "totalDuration": 428.05,
+  "segments": [
+    {
+      "id": "ch8-act2-seg063",
+      "start": 0.0,
+      "end": 15.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They reached the east palisade as the market bell faded. Archers watched from the walk, bows half-drawn; on the ground, six spear-bearers braced like nails hammered into the mud. Millbrook smelled of wet leather, woodsmoke, and too many bodies jammed behind timber walls."
+    },
+    {
+      "id": "ch8-act2-seg064",
+      "start": 15.275,
+      "end": 16.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"State your business,\""
+    },
+    {
+      "id": "ch8-act2-seg065",
+      "start": 17.15,
+      "end": 26.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "called a man in a plain breastplate with the posture of someone who'd slept in armor all week. Weather-browned face, scar at the jaw hinge, eyes that missed very little."
+    },
+    {
+      "id": "ch8-act2-seg066",
+      "start": 27.15,
+      "end": 33.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana stepped forward, gauntlet lifted so her order's sigil -- sunburst over scales -- caught the light."
+    },
+    {
+      "id": "ch8-act2-seg067",
+      "start": 33.6,
+      "end": 40.425,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Serana Valeblade, ordained paladin. Refugees from Thornwick ruins. We bring warning, and swords.\""
+    },
+    {
+      "id": "ch8-act2-seg068",
+      "start": 40.725,
+      "end": 48.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "His gaze flicked from the sigil to her stance, to the party's weapons, back to her eyes. He made a decision you could hear in his breath."
+    },
+    {
+      "id": "ch8-act2-seg069",
+      "start": 48.625,
+      "end": 49.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Captain Vale,\""
+    },
+    {
+      "id": "ch8-act2-seg070",
+      "start": 50.15,
+      "end": 51.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch8-act2-seg071",
+      "start": 51.675,
+      "end": 56.025,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"We're short on courage and long on problems. Gates open.\""
+    },
+    {
+      "id": "ch8-act2-seg072",
+      "start": 56.325,
+      "end": 68.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The twin leaves thudded back. They entered into a corridor of sharpened logs and boiled leather -- murder-hole roof overhead, oil stink in the slats. Precaution had a smell here: tallow, pitch, and anxious sweat."
+    },
+    {
+      "id": "ch8-act2-seg073",
+      "start": 68.55,
+      "end": 73.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale fell in beside Serana as they walked, not quite deferential but close."
+    },
+    {
+      "id": "ch8-act2-seg074",
+      "start": 74.05,
+      "end": 81.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Order sigils carry ward-rights in this province. I'll keep muster and law, but if you're taking the line, my guard will pivot to your shield-wall. Agreed?\""
+    },
+    {
+      "id": "ch8-act2-seg075",
+      "start": 81.975,
+      "end": 83.35,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Agreed,\""
+    },
+    {
+      "id": "ch8-act2-seg076",
+      "start": 83.65,
+      "end": 91.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. No hesitation. No flourish. Command clicked into place with the ease of a habit she was scared she'd lost."
+    },
+    {
+      "id": "ch8-act2-seg077",
+      "start": 91.5,
+      "end": 93.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Inside the Walls"
+    },
+    {
+      "id": "ch8-act2-seg078",
+      "start": 93.9,
+      "end": 107.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Millbrook had doubled itself in a week. Cart wheels stacked against sheds; laundry lines slung across alleys; a stew of accents where there should have been one. Children stared at the weapons with the dry-eyed calm of people who had run too far too fast."
+    },
+    {
+      "id": "ch8-act2-seg079",
+      "start": 108.2,
+      "end": 111.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale walked them along the palisade."
+    },
+    {
+      "id": "ch8-act2-seg080",
+      "start": 111.25,
+      "end": 113.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Pressure from the north trace,\""
+    },
+    {
+      "id": "ch8-act2-seg081",
+      "start": 113.525,
+      "end": 116.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, tapping weak spots as they passed."
+    },
+    {
+      "id": "ch8-act2-seg082",
+      "start": 116.9,
+      "end": 127.675,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Sporadic, but learning. Refugees say fire first, then the shadow-things. We hold after dark with lantern patrols and salt-lines across the lanes. Won't hold forever.\""
+    },
+    {
+      "id": "ch8-act2-seg083",
+      "start": 127.975,
+      "end": 132.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik ran a hand over a gate hinge worn shiny with worry."
+    },
+    {
+      "id": "ch8-act2-seg084",
+      "start": 132.425,
+      "end": 134.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That pin's about to shear.\""
+    },
+    {
+      "id": "ch8-act2-seg085",
+      "start": 134.7,
+      "end": 143.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He fished in his coat, then stopped, thumb finding only leather. A brief count across his harness -- empty sockets where devices should be. His mouth thinned."
+    },
+    {
+      "id": "ch8-act2-seg086",
+      "start": 143.975,
+      "end": 147.475,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I can brace it for now. Proper fix later.\""
+    },
+    {
+      "id": "ch8-act2-seg087",
+      "start": 147.625,
+      "end": 148.525,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Do it,\""
+    },
+    {
+      "id": "ch8-act2-seg088",
+      "start": 148.825,
+      "end": 150.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale said."
+    },
+    {
+      "id": "ch8-act2-seg089",
+      "start": 150.5,
+      "end": 154.075,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I don't care if it looks ugly, I care if it swings.\""
+    },
+    {
+      "id": "ch8-act2-seg090",
+      "start": 154.375,
+      "end": 165.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik hauled out a smith's hammer -- old, honest steel -- and set to work, the ring of metal carrying like a small prayer. He didn't explain the empty harness; the emptiness explained itself."
+    },
+    {
+      "id": "ch8-act2-seg091",
+      "start": 165.4,
+      "end": 176.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara drifted peripheral to the conversation, gloves immaculate, hood shadowing her expression. She moved like someone who understood attention was a currency and spent none of it here."
+    },
+    {
+      "id": "ch8-act2-seg092",
+      "start": 176.5,
+      "end": 192.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan hung on the tail of the tour, silent sentinel. When a thin red line started at his nostril he turned his head and wiped it away on the black of his sleeve, the mark vanishing into cloth and shadow. Vale didn't notice. Or pretended not to. Good captains chose their moments."
+    },
+    {
+      "id": "ch8-act2-seg093",
+      "start": 192.3,
+      "end": 193.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Healer's House"
+    },
+    {
+      "id": "ch8-act2-seg094",
+      "start": 194.075,
+      "end": 196.4,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Your Ember-bearer looks rung out,\""
+    },
+    {
+      "id": "ch8-act2-seg095",
+      "start": 196.7,
+      "end": 198.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale said, practical."
+    },
+    {
+      "id": "ch8-act2-seg096",
+      "start": 199.0,
+      "end": 206.525,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Our licensed sawbones kept two caravans alive last month. Temple's down the hill if you'd rather sermons than stitches.\""
+    },
+    {
+      "id": "ch8-act2-seg097",
+      "start": 206.675,
+      "end": 207.675,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Both,\""
+    },
+    {
+      "id": "ch8-act2-seg098",
+      "start": 207.975,
+      "end": 209.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said."
+    },
+    {
+      "id": "ch8-act2-seg099",
+      "start": 209.925,
+      "end": 211.35,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Healer first.\""
+    },
+    {
+      "id": "ch8-act2-seg100",
+      "start": 211.65,
+      "end": 226.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The healer's house tasted of boiled herbs and bitter bark; bundles dried from the rafters like wind-bell chimes. A woman with iron-gray hair and the narrow hands of her craft waved Caelin to a stool and prodded gently around the black-gleam scale in his forearm."
+    },
+    {
+      "id": "ch8-act2-seg101",
+      "start": 226.6,
+      "end": 229.6,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Tell me what you've been using for the pain,\""
+    },
+    {
+      "id": "ch8-act2-seg102",
+      "start": 229.9,
+      "end": 232.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, businesslike."
+    },
+    {
+      "id": "ch8-act2-seg103",
+      "start": 232.275,
+      "end": 233.95,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"A friend,\""
+    },
+    {
+      "id": "ch8-act2-seg104",
+      "start": 234.25,
+      "end": 237.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin answered before he could edit it."
+    },
+    {
+      "id": "ch8-act2-seg105",
+      "start": 237.375,
+      "end": 240.575,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"A druid. She used to take the worst of it.\""
+    },
+    {
+      "id": "ch8-act2-seg106",
+      "start": 240.875,
+      "end": 243.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The healer's eyes softened a fraction."
+    },
+    {
+      "id": "ch8-act2-seg107",
+      "start": 244.025,
+      "end": 246.525,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Not the same as your druid,\""
+    },
+    {
+      "id": "ch8-act2-seg108",
+      "start": 246.825,
+      "end": 250.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she told him bluntly, but her touch gentled."
+    },
+    {
+      "id": "ch8-act2-seg109",
+      "start": 250.225,
+      "end": 253.975,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"I can dull the edges. Can't argue with a relic.\""
+    },
+    {
+      "id": "ch8-act2-seg110",
+      "start": 254.275,
+      "end": 260.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She packed a poultice at the tendons, wrapped him with clean linen that smelled of willow and camphor."
+    },
+    {
+      "id": "ch8-act2-seg111",
+      "start": 260.425,
+      "end": 263.625,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You'll breathe easier. That will have to do.\""
+    },
+    {
+      "id": "ch8-act2-seg112",
+      "start": 263.925,
+      "end": 269.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It did -- barely. The lattice stayed hot, but the knife-edges felt further from the bone."
+    },
+    {
+      "id": "ch8-act2-seg113",
+      "start": 269.575,
+      "end": 270.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The Note"
+    },
+    {
+      "id": "ch8-act2-seg114",
+      "start": 271.05,
+      "end": 283.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Back on the street, Caelin re-shouldered his pack one-handed -- and felt paper crinkle where there shouldn't be any. He frowned, stepped out of the lane's foot-traffic, and slid a folded square free from beneath the collar of his spare shirt."
+    },
+    {
+      "id": "ch8-act2-seg115",
+      "start": 284.075,
+      "end": 287.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Plain, waxless, not there this morning."
+    },
+    {
+      "id": "ch8-act2-seg116",
+      "start": 287.35,
+      "end": 289.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Inside, a tight, neat hand:"
+    },
+    {
+      "id": "ch8-act2-seg117",
+      "start": 290.25,
+      "end": 291.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Ember-bearer,"
+    },
+    {
+      "id": "ch8-act2-seg118",
+      "start": 292.2,
+      "end": 294.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Depthspire wakes."
+    },
+    {
+      "id": "ch8-act2-seg119",
+      "start": 294.525,
+      "end": 297.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Two weeks northeast if you don't get clever."
+    },
+    {
+      "id": "ch8-act2-seg120",
+      "start": 298.075,
+      "end": 299.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Don't be late."
+    },
+    {
+      "id": "ch8-act2-seg121",
+      "start": 300.1,
+      "end": 301.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "-- L."
+    },
+    {
+      "id": "ch8-act2-seg122",
+      "start": 301.35,
+      "end": 307.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He showed Serana, then Vex. Vale glanced once, mind already circling town defense, and didn't pry."
+    },
+    {
+      "id": "ch8-act2-seg123",
+      "start": 308.05,
+      "end": 308.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"L?\""
+    },
+    {
+      "id": "ch8-act2-seg124",
+      "start": 309.05,
+      "end": 311.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said, brows up."
+    },
+    {
+      "id": "ch8-act2-seg125",
+      "start": 311.3,
+      "end": 312.75,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Later,\""
+    },
+    {
+      "id": "ch8-act2-seg126",
+      "start": 313.05,
+      "end": 315.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana decided."
+    },
+    {
+      "id": "ch8-act2-seg127",
+      "start": 315.4,
+      "end": 316.85,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Walls first.\""
+    },
+    {
+      "id": "ch8-act2-seg128",
+      "start": 317.15,
+      "end": 327.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin tucked the note back where it had appeared. The paper felt colder than it should in his fingers. When he slid it away, the skin over the scale warmed in reply, like disagreement."
+    },
+    {
+      "id": "ch8-act2-seg129",
+      "start": 327.75,
+      "end": 328.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Muster"
+    },
+    {
+      "id": "ch8-act2-seg130",
+      "start": 329.25,
+      "end": 334.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "By late afternoon, Vale had them on a fast circuit through Millbrook's beating heart."
+    },
+    {
+      "id": "ch8-act2-seg131",
+      "start": 334.625,
+      "end": 345.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana walked the wall with him, calling positions and fall-backs; the guards took her orders without side-eye because the sigil made it law and the steadiness in her voice made it easy."
+    },
+    {
+      "id": "ch8-act2-seg132",
+      "start": 345.375,
+      "end": 358.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex ghosted the lanes, mapping alleys and choke points and escape routes with a thief's pragmatism. Thornik shored the hinge with a wedge and two bolts and a prayer, then started cataloguing where scrap iron could be made into stakes."
+    },
+    {
+      "id": "ch8-act2-seg133",
+      "start": 358.95,
+      "end": 368.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan stayed paired with a lantern-man at the western walk; the shadow at his boots behaved when looked at and misbehaved when not, which was the nature of certain problems."
+    },
+    {
+      "id": "ch8-act2-seg134",
+      "start": 369.175,
+      "end": 379.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara vanished for an hour and returned with dried ink at the edge of her glove and a scent of old vellum -- wherever she'd gone, it had books and wards and a keeper who owed her a favor."
+    },
+    {
+      "id": "ch8-act2-seg135",
+      "start": 380.0,
+      "end": 384.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "As the sun slid, Vale faced Serana at the inner gate."
+    },
+    {
+      "id": "ch8-act2-seg136",
+      "start": 384.15,
+      "end": 386.6,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"We drill the bells at dusk,\""
+    },
+    {
+      "id": "ch8-act2-seg137",
+      "start": 386.9,
+      "end": 388.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch8-act2-seg138",
+      "start": 388.425,
+      "end": 391.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"If you've got a better line, I'll take it.\""
+    },
+    {
+      "id": "ch8-act2-seg139",
+      "start": 391.375,
+      "end": 396.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana's jaw flexed like she wanted to pray and couldn't find where to put the words."
+    },
+    {
+      "id": "ch8-act2-seg140",
+      "start": 396.7,
+      "end": 399.0,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"We hold the market square,\""
+    },
+    {
+      "id": "ch8-act2-seg141",
+      "start": 399.3,
+      "end": 401.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said instead."
+    },
+    {
+      "id": "ch8-act2-seg142",
+      "start": 401.475,
+      "end": 404.325,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Light, angles, lanes. We make them come to us.\""
+    },
+    {
+      "id": "ch8-act2-seg143",
+      "start": 404.625,
+      "end": 406.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale nodded once."
+    },
+    {
+      "id": "ch8-act2-seg144",
+      "start": 406.975,
+      "end": 415.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Right. I'll put the green boys on the left, veterans at the well. Your people anchor the street from the mill. We answer your calls.\""
+    },
+    {
+      "id": "ch8-act2-seg145",
+      "start": 415.975,
+      "end": 419.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He glanced at the sigil again, then at her eyes."
+    },
+    {
+      "id": "ch8-act2-seg146",
+      "start": 419.55,
+      "end": 422.0,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Try not to get us killed, Paladin.\""
+    },
+    {
+      "id": "ch8-act2-seg147",
+      "start": 422.15,
+      "end": 424.25,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I'll do what I can,\""
+    },
+    {
+      "id": "ch8-act2-seg148",
+      "start": 424.55,
+      "end": 428.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said. It was almost a joke and almost a vow."
+    }
+  ]
+}

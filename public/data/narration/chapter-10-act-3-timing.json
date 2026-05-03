@@ -1,0 +1,441 @@
+{
+  "chapter": 10,
+  "act": 3,
+  "actTitle": "Thornik's Choice",
+  "audioFile": "/audio/chapters/chapter-10-act-3.mp3",
+  "totalDuration": 237.4,
+  "segments": [
+    {
+      "id": "ch10-act3-seg080",
+      "start": 0.0,
+      "end": 2.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They found Thornik behind the smithy, where the local smith had let him use the corner of a workbench."
+    },
+    {
+      "id": "ch10-act3-seg081",
+      "start": 2.6,
+      "end": 4.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He'd laid his tools out in a row -- not randomly, but the way a soldier lays out equipment for inspection, each item in its place, each absence accounted for. The empty charge-loops from his harness. A cracked lens."
+    },
+    {
+      "id": "ch10-act3-seg082",
+      "start": 4.75,
+      "end": 6.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The housing for a device that no longer had a mechanism to house. The things that had survived the mountain and the siege and could be carried forward. The things that couldn't."
+    },
+    {
+      "id": "ch10-act3-seg083",
+      "start": 7.075,
+      "end": 8.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Between them, like a border marker between countries, lay the dragon-dwarf chisel -- the one from his grandfather's maps, the etchings worn to suggestion, the kind of thing you had to know was there to see."
+    },
+    {
+      "id": "ch10-act3-seg084",
+      "start": 8.625,
+      "end": 10.825,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I'm leaving,\""
+    },
+    {
+      "id": "ch10-act3-seg085",
+      "start": 11.125,
+      "end": 22.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, without looking up. The words came out heavier than he'd perhaps intended, landing on the stone floor of the smithy like something dropped."
+    },
+    {
+      "id": "ch10-act3-seg086",
+      "start": 22.175,
+      "end": 35.4,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Not because I can't scrape up gear in Millbrook. I could. There's a metalworker on the east lane who does passable work, and I've made do with less.\""
+    },
+    {
+      "id": "ch10-act3-seg087",
+      "start": 35.7,
+      "end": 44.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He picked up the chisel and turned it in his hands."
+    },
+    {
+      "id": "ch10-act3-seg088",
+      "start": 44.725,
+      "end": 47.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The firelight caught the faint etchings -- dwarven script so old it predated the current alphabet, letters that curved where modern runes angled, from an age when the clans still wrote in circles because straight lines were considered presumptuous."
+    },
+    {
+      "id": "ch10-act3-seg089",
+      "start": 47.35,
+      "end": 48.925,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I'm leaving because I have to stand in front of my clan and say my grandfather wasn't mad. He was right.\""
+    },
+    {
+      "id": "ch10-act3-seg090",
+      "start": 49.225,
+      "end": 50.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He set the chisel down and began wrapping it in oilcloth, slowly, with the care of someone performing a small ceremony -- the kind you invent because the real ceremonies were lost with the people who used to perform them."
+    },
+    {
+      "id": "ch10-act3-seg091",
+      "start": 50.925,
+      "end": 53.7,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"His journals, his maps, the chisel -- if I don't put them in Deepstone hands myself, he stays a punchline and my name goes with him. That matters where I come from. It matters to me.\""
+    },
+    {
+      "id": "ch10-act3-seg092",
+      "start": 54.0,
+      "end": 56.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin watched him wrap the chisel. He thought about the mountain, about the vault that had opened for Thornik's key and no one else's. About a dead man's journal written in blood and a living grandson who'd carried it through fire."
+    },
+    {
+      "id": "ch10-act3-seg093",
+      "start": 57.225,
+      "end": 62.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He thought about what it costs to be right for thirty years in a room full of people who think you're wrong."
+    },
+    {
+      "id": "ch10-act3-seg094",
+      "start": 62.7,
+      "end": 64.625,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I'll retool at home,\""
+    },
+    {
+      "id": "ch10-act3-seg095",
+      "start": 64.925,
+      "end": 69.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik continued."
+    },
+    {
+      "id": "ch10-act3-seg096",
+      "start": 69.7,
+      "end": 71.175,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Proper charges, lenses that don't crack when you look at them sideways, a housing that doesn't rattle like a drunk uncle at a wedding.\""
+    },
+    {
+      "id": "ch10-act3-seg097",
+      "start": 71.575,
+      "end": 84.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He almost smiled."
+    },
+    {
+      "id": "ch10-act3-seg098",
+      "start": 84.7,
+      "end": 103.075,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"But that's not the reason. The reason is lineage. And truth. And a stubborn old dwarf who deserved better than a footnote.\""
+    },
+    {
+      "id": "ch10-act3-seg099",
+      "start": 103.375,
+      "end": 106.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He turned to each of them, and this part he'd clearly thought about -- each gift chosen with the careful precision of a man who'd spent his life measuring things and knew exactly what each person needed."
+    },
+    {
+      "id": "ch10-act3-seg100",
+      "start": 106.9,
+      "end": 108.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "To Vex, he held out a slim leather case, small enough to disappear into a palm. She opened it: three smoke-sticks, the kind that went off on impact and made it hard to see anything for thirty seconds."
+    },
+    {
+      "id": "ch10-act3-seg101",
+      "start": 108.375,
+      "end": 110.025,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Disappearing, not winning,\""
+    },
+    {
+      "id": "ch10-act3-seg102",
+      "start": 110.325,
+      "end": 113.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said."
+    },
+    {
+      "id": "ch10-act3-seg103",
+      "start": 113.975,
+      "end": 115.425,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Don't be clever with them. Just go.\""
+    },
+    {
+      "id": "ch10-act3-seg104",
+      "start": 115.575,
+      "end": 117.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"You've met me,\""
+    },
+    {
+      "id": "ch10-act3-seg105",
+      "start": 117.6,
+      "end": 120.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said."
+    },
+    {
+      "id": "ch10-act3-seg106",
+      "start": 120.45,
+      "end": 122.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"That's why I only gave you three.\""
+    },
+    {
+      "id": "ch10-act3-seg107",
+      "start": 122.425,
+      "end": 135.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He held her gaze."
+    },
+    {
+      "id": "ch10-act3-seg108",
+      "start": 135.6,
+      "end": 138.95,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"One for each time you should have run and didn't.\""
+    },
+    {
+      "id": "ch10-act3-seg109",
+      "start": 139.25,
+      "end": 144.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She tucked them away without looking at them, which was how Vex showed she was moved."
+    },
+    {
+      "id": "ch10-act3-seg110",
+      "start": 145.1,
+      "end": 146.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "To Caelin, an iron ring the width of a thumb, one quadrant filed to a gap. It sat heavy in the palm -- heavier than iron had a right to be, warm from Thornik's hands."
+    },
+    {
+      "id": "ch10-act3-seg111",
+      "start": 146.825,
+      "end": 152.675,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"At dusk on Sixthday, tap three-one-two on any stone. If I'm above ground and within a week's march, it'll hum toward me.\""
+    },
+    {
+      "id": "ch10-act3-seg112",
+      "start": 152.975,
+      "end": 154.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He pressed it into Caelin's palm."
+    },
+    {
+      "id": "ch10-act3-seg113",
+      "start": 155.025,
+      "end": 157.3,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Don't lose it. I only made two and the other one's mine.\""
+    },
+    {
+      "id": "ch10-act3-seg114",
+      "start": 157.6,
+      "end": 158.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin turned the ring. The gap caught the light."
+    },
+    {
+      "id": "ch10-act3-seg115",
+      "start": 159.075,
+      "end": 161.2,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"How does it work?\""
+    },
+    {
+      "id": "ch10-act3-seg116",
+      "start": 161.35,
+      "end": 163.225,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Resonance. The same principle as the chasm bridge -- sympathetic vibration across a tuned frequency. Mine and yours ring at the same pitch. Doesn't matter how much stone is between them.\""
+    },
+    {
+      "id": "ch10-act3-seg117",
+      "start": 163.525,
+      "end": 165.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He shrugged, as if the engineering of a device that could locate a specific person across a mountain range was roughly as complicated as building a birdhouse."
+    },
+    {
+      "id": "ch10-act3-seg118",
+      "start": 165.175,
+      "end": 167.775,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Dwarf work. We're good at making things that find each other.\""
+    },
+    {
+      "id": "ch10-act3-seg119",
+      "start": 168.075,
+      "end": 175.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "To Serana, last, a gear-coin stamped with the Deepstone mark -- a small bronze disc the size of a knuckle, the clan symbol cut so fine it caught fingerprints like a mirror."
+    },
+    {
+      "id": "ch10-act3-seg120",
+      "start": 175.225,
+      "end": 179.5,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"If I go quiet too long, show this at any Deepstone hall. They'll know how to find me.\""
+    },
+    {
+      "id": "ch10-act3-seg121",
+      "start": 179.8,
+      "end": 181.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He held her gaze."
+    },
+    {
+      "id": "ch10-act3-seg122",
+      "start": 181.95,
+      "end": 184.5,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I'm not planning to go quiet.\""
+    },
+    {
+      "id": "ch10-act3-seg123",
+      "start": 184.65,
+      "end": 185.525,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I know,\""
+    },
+    {
+      "id": "ch10-act3-seg124",
+      "start": 185.825,
+      "end": 192.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, and took the coin with both hands -- the way you take something from someone when you want them to feel you taking it."
+    },
+    {
+      "id": "ch10-act3-seg125",
+      "start": 192.875,
+      "end": 195.025,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"I hate leaving you,\""
+    },
+    {
+      "id": "ch10-act3-seg126",
+      "start": 195.325,
+      "end": 200.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he finished, and his voice went rough at the edges in the way of people who don't usually let it."
+    },
+    {
+      "id": "ch10-act3-seg127",
+      "start": 201.2,
+      "end": 215.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The gruff warmth that had carried them through cold camps and bad tunnels and worse food -- the voice that had told stories about cousins with independent eyebrows and made tea from minerals that should not have been drinkable -- cracked, just once, and then steadied."
+    },
+    {
+      "id": "ch10-act3-seg128",
+      "start": 215.275,
+      "end": 224.2,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"But if I stay, I'm another body with the wrong tools. If I go, I come back with the right kit and proof that my grandfather's name means something. And he stops laughing alone.\""
+    },
+    {
+      "id": "ch10-act3-seg129",
+      "start": 224.5,
+      "end": 227.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex tucked the smoke-case into her jacket."
+    },
+    {
+      "id": "ch10-act3-seg130",
+      "start": 227.8,
+      "end": 230.475,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Try not to die of politics.\""
+    },
+    {
+      "id": "ch10-act3-seg131",
+      "start": 230.625,
+      "end": 232.1,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"No promises,\""
+    },
+    {
+      "id": "ch10-act3-seg132",
+      "start": 232.4,
+      "end": 234.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, and almost smiled."
+    },
+    {
+      "id": "ch10-act3-seg133",
+      "start": 235.1,
+      "end": 237.4,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"You know how clans are.\""
+    }
+  ]
+}

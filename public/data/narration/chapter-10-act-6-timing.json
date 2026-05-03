@@ -1,0 +1,337 @@
+{
+  "chapter": 10,
+  "act": 6,
+  "actTitle": "The Smaller Party",
+  "audioFile": "/audio/chapters/chapter-10-act-6.mp3",
+  "totalDuration": 266.1,
+  "segments": [
+    {
+      "id": "ch10-act6-seg217",
+      "start": 0.0,
+      "end": 3.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They walked for an hour before anyone spoke."
+    },
+    {
+      "id": "ch10-act6-seg218",
+      "start": 3.55,
+      "end": 12.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The silence wasn't hostile. It was the particular quiet of a group that had been seven and was now four and was still learning the shape of itself."
+    },
+    {
+      "id": "ch10-act6-seg219",
+      "start": 12.325,
+      "end": 19.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Every absence had a weight -- not grief exactly, but the phantom sensation of something that should have been there."
+    },
+    {
+      "id": "ch10-act6-seg220",
+      "start": 19.3,
+      "end": 31.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The space where Thornik's voice would have filled the gap with a story about his cousin or an observation about load-bearing architecture. The space where Serana would have set the marching order and nobody would have argued."
+    },
+    {
+      "id": "ch10-act6-seg221",
+      "start": 32.075,
+      "end": 39.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The space where Nyxara would have said something sharp and precise and exactly wrong in a way that turned out to be exactly right."
+    },
+    {
+      "id": "ch10-act6-seg222",
+      "start": 40.1,
+      "end": 48.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Even Elowen's absence had a texture -- a quiet where quiet used to mean someone was listening, and now just meant nobody was there."
+    },
+    {
+      "id": "ch10-act6-seg223",
+      "start": 48.3,
+      "end": 60.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin caught himself glancing left for Thornik's click-and-whir, and then remembered. He checked over his shoulder for Serana's armored tread, and found only Durgan's silence and Aldric's unhurried gait."
+    },
+    {
+      "id": "ch10-act6-seg224",
+      "start": 60.375,
+      "end": 74.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex walked beside him, moving carefully -- her ribs still protesting the existence of ribcages -- and read the change in his face without comment. She'd been doing her own inventory. Three fewer blades in the formation. No charges left in any belt."
+    },
+    {
+      "id": "ch10-act6-seg225",
+      "start": 74.825,
+      "end": 80.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No divine light, borrowed or otherwise. No warlock tricks. No druid to ease the burn."
+    },
+    {
+      "id": "ch10-act6-seg226",
+      "start": 80.675,
+      "end": 82.225,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"We're thinner,\""
+    },
+    {
+      "id": "ch10-act6-seg227",
+      "start": 82.525,
+      "end": 85.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said eventually, because someone had to."
+    },
+    {
+      "id": "ch10-act6-seg228",
+      "start": 85.925,
+      "end": 87.75,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"We're faster,\""
+    },
+    {
+      "id": "ch10-act6-seg229",
+      "start": 88.05,
+      "end": 93.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, because it was true and because the alternative was admitting they were weaker."
+    },
+    {
+      "id": "ch10-act6-seg230",
+      "start": 93.725,
+      "end": 94.9,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"We're both,\""
+    },
+    {
+      "id": "ch10-act6-seg231",
+      "start": 95.2,
+      "end": 99.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric said from the back, the first words he'd spoken since the bend."
+    },
+    {
+      "id": "ch10-act6-seg232",
+      "start": 99.85,
+      "end": 113.05,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Thinner means fewer targets. Faster means harder to pin. In my experience, four people who trust each other are worth more than seven who don't. The question is whether you four trust each other.\""
+    },
+    {
+      "id": "ch10-act6-seg233",
+      "start": 113.2,
+      "end": 114.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Three,\""
+    },
+    {
+      "id": "ch10-act6-seg234",
+      "start": 114.375,
+      "end": 117.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex corrected, without looking back."
+    },
+    {
+      "id": "ch10-act6-seg235",
+      "start": 117.35,
+      "end": 118.9,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You're new.\""
+    },
+    {
+      "id": "ch10-act6-seg236",
+      "start": 119.05,
+      "end": 125.55,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"I am. And I'll earn it or I won't, and either way I'll keep your ribs taped and your fevers down. Trust can wait. Medicine can't.\""
+    },
+    {
+      "id": "ch10-act6-seg237",
+      "start": 125.85,
+      "end": 131.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex made a sound that might have been approval, or might have been her rib reminding her not to snort."
+    },
+    {
+      "id": "ch10-act6-seg238",
+      "start": 132.0,
+      "end": 143.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan walked rear guard, the way he always walked -- silent, watchful, reading the hedgerows and ditch-lines for threat. His shadow moved with him, obedient, leashed. The nosebleed had stopped an hour ago."
+    },
+    {
+      "id": "ch10-act6-seg239",
+      "start": 143.5,
+      "end": 155.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He was counting the hours until the next one. The mathematics of his condition had simplified over the past week: the episodes were closer together, the visions more detailed, the shadow's reach longer."
+    },
+    {
+      "id": "ch10-act6-seg240",
+      "start": 155.475,
+      "end": 163.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The line between Durgan and the thing in his shadow was getting shorter, and he couldn't tell anymore whether he was holding the leash or wearing it."
+    },
+    {
+      "id": "ch10-act6-seg241",
+      "start": 163.975,
+      "end": 168.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He said none of this. He walked, and watched, and made the choice to keep walking."
+    },
+    {
+      "id": "ch10-act6-seg242",
+      "start": 168.975,
+      "end": 182.45,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The scale pulsed its steady coal-glow beneath Caelin's wrap. The same direction it had been pointing since the mountain. The same patient pull. The mission hadn't changed. The mission didn't care how many people carried it -- it cared that someone did."
+    },
+    {
+      "id": "ch10-act6-seg243",
+      "start": 182.75,
+      "end": 196.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "At a stream crossing, Aldric knelt and filled the water skins with the efficient movements of someone who'd been provisioning for marches since before most of them were born. He checked the water's clarity, smelled it, tasted a drop, and nodded."
+    },
+    {
+      "id": "ch10-act6-seg244",
+      "start": 196.5,
+      "end": 206.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "When he stood, he fell back into his position at the rear without being told, as if the walking order had been decided by someone and he'd simply read the diagram."
+    },
+    {
+      "id": "ch10-act6-seg245",
+      "start": 206.475,
+      "end": 208.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You've done this before,\""
+    },
+    {
+      "id": "ch10-act6-seg246",
+      "start": 208.975,
+      "end": 210.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch10-act6-seg247",
+      "start": 210.775,
+      "end": 212.925,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"For twenty-five years,\""
+    },
+    {
+      "id": "ch10-act6-seg248",
+      "start": 213.225,
+      "end": 214.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric said."
+    },
+    {
+      "id": "ch10-act6-seg249",
+      "start": 214.95,
+      "end": 218.6,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Different people. Different roads. Same direction.\""
+    },
+    {
+      "id": "ch10-act6-seg250",
+      "start": 218.9,
+      "end": 221.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He adjusted his bag's strap."
+    },
+    {
+      "id": "ch10-act6-seg251",
+      "start": 221.7,
+      "end": 227.725,
+      "speaker": "aldric",
+      "type": "dialogue",
+      "text": "\"The plateau has been waiting. I've been walking toward it. Whatever door opens at the far end -- \""
+    },
+    {
+      "id": "ch10-act6-seg252",
+      "start": 228.025,
+      "end": 230.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He paused, chose his words."
+    },
+    {
+      "id": "ch10-act6-seg253",
+      "start": 230.75,
+      "end": 241.55,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"I've already seen what comes through when seals break. Thirty-seven men's worth of knowledge on the subject. I'd rather use that knowledge than carry it to a grave.\""
+    },
+    {
+      "id": "ch10-act6-seg254",
+      "start": 241.85,
+      "end": 256.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The road bent northeast. The land rose. The sky stretched clean and cold ahead of them, pale as bone, and somewhere beyond the visible horizon the Depthspire plateau waited with the patience of stone that had been counting heartbeats for a very long time."
+    },
+    {
+      "id": "ch10-act6-seg255",
+      "start": 256.375,
+      "end": 260.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Four people. One road. The wind tasted of iron and distance."
+    },
+    {
+      "id": "ch10-act6-seg256",
+      "start": 261.2,
+      "end": 264.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud. Thud. Thud. Patient as geology."
+    },
+    {
+      "id": "ch10-act6-seg257",
+      "start": 264.625,
+      "end": 266.1,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They walked."
+    }
+  ]
+}

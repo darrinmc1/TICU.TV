@@ -1,0 +1,465 @@
+{
+  "chapter": 7,
+  "act": 1,
+  "actTitle": "The Approach",
+  "audioFile": "/audio/chapters/chapter-7-act-1.mp3",
+  "totalDuration": 300.825,
+  "segments": [
+    {
+      "id": "ch7-act1-seg001",
+      "start": 0.0,
+      "end": 3.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Dawn bled into the Deep Hall as the lichen shifted from bruise-blue to silver-green. With the light came the low sound -- felt first in teeth, then in boot-soles, then up through the ribs."
+    },
+    {
+      "id": "ch7-act1-seg002",
+      "start": 3.325,
+      "end": 4.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act1-seg003",
+      "start": 4.825,
+      "end": 8.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A breath-long pause -- did you imagine it? -- then:"
+    },
+    {
+      "id": "ch7-act1-seg004",
+      "start": 8.575,
+      "end": 9.775,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act1-seg005",
+      "start": 10.075,
+      "end": 25.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The ward-line held under Serana's palm -- chalk geometry and nine-stroke precision, the sigils she'd drawn before sleep still bright enough to matter. They stole some of the bass out of the air, damping the pulse like thick velvet over a drum. Not all of it. Not anymore."
+    },
+    {
+      "id": "ch7-act1-seg006",
+      "start": 25.475,
+      "end": 37.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Scrape from the forge corridor. Tap-tap at the sealed mine. A wet drag through floodwater that should have been still for centuries. The mountain answered with another dull knock that belonged to no mortal heart."
+    },
+    {
+      "id": "ch7-act1-seg007",
+      "start": 37.45,
+      "end": 38.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act1-seg008",
+      "start": 38.95,
+      "end": 51.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin woke to that slow count and the smell of old smoke and cold iron. The scale in his forearm held its coal-glow, the pulse tightened -- not warning, not ease -- like a hand at the small of his back urging him forward."
+    },
+    {
+      "id": "ch7-act1-seg009",
+      "start": 51.825,
+      "end": 60.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The familiar ache had settled in overnight to its hateful normal. He flexed carefully. He could manage small work today -- if he paid every time."
+    },
+    {
+      "id": "ch7-act1-seg010",
+      "start": 60.9,
+      "end": 72.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana kept her hand on the runes. No prayer came. Nothing answered. The chalk held because chalk didn't need permission -- only ratios and repetition and the stubbornness of someone who hadn't stopped yet."
+    },
+    {
+      "id": "ch7-act1-seg011",
+      "start": 72.825,
+      "end": 75.325,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"They've ringed the entrances,\""
+    },
+    {
+      "id": "ch7-act1-seg012",
+      "start": 75.625,
+      "end": 78.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said, voice low and steady."
+    },
+    {
+      "id": "ch7-act1-seg013",
+      "start": 78.45,
+      "end": 82.325,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"We don't wait to be tested to failure. We choose our ground.\""
+    },
+    {
+      "id": "ch7-act1-seg014",
+      "start": 82.625,
+      "end": 89.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex was already up, knives in hand, standing where the Illusion alcove threw tricky reflections into the corners."
+    },
+    {
+      "id": "ch7-act1-seg015",
+      "start": 90.125,
+      "end": 91.85,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Fast careful,\""
+    },
+    {
+      "id": "ch7-act1-seg016",
+      "start": 92.15,
+      "end": 93.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch7-act1-seg017",
+      "start": 93.7,
+      "end": 96.7,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"And if that's impossible, just fast.\""
+    },
+    {
+      "id": "ch7-act1-seg018",
+      "start": 97.0,
+      "end": 99.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She glanced at Caelin's arm."
+    },
+    {
+      "id": "ch7-act1-seg019",
+      "start": 99.7,
+      "end": 102.9,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Beacon-boy, if you could stop being a lighthouse -- \""
+    },
+    {
+      "id": "ch7-act1-seg020",
+      "start": 103.05,
+      "end": 104.775,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Working on it,\""
+    },
+    {
+      "id": "ch7-act1-seg021",
+      "start": 105.075,
+      "end": 109.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "he said, and because the truth cost less than a lie, added,"
+    },
+    {
+      "id": "ch7-act1-seg022",
+      "start": 109.2,
+      "end": 110.7,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"I can't.\""
+    },
+    {
+      "id": "ch7-act1-seg023",
+      "start": 111.0,
+      "end": 122.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik had grandfather's journal spread on the black table, brass goggles riding his brow, big fingers unshakably precise. His beard smelled faintly of beeswax oil and iron dust."
+    },
+    {
+      "id": "ch7-act1-seg024",
+      "start": 122.325,
+      "end": 130.625,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Forge Road's our best way out -- old ore route, still marked sound when Grandfather walked it. Six hours if stone loves us, twelve if it doesn't.\""
+    },
+    {
+      "id": "ch7-act1-seg025",
+      "start": 130.925,
+      "end": 144.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Elowen sat cross-legged near the Abjuration alcove where her vine-ink picked up a little of the ward-light, emerald threaded with silver-gold. She lay her palm to the floor and winced -- stone fever, pressure, the fabric of the place pulled too tight."
+    },
+    {
+      "id": "ch7-act1-seg026",
+      "start": 144.825,
+      "end": 147.15,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"This chamber holds for now,\""
+    },
+    {
+      "id": "ch7-act1-seg027",
+      "start": 147.45,
+      "end": 148.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "she said."
+    },
+    {
+      "id": "ch7-act1-seg028",
+      "start": 149.0,
+      "end": 155.975,
+      "speaker": "unknown",
+      "type": "dialogue",
+      "text": "\"Everything tied to the sanctum's bones is failing. Whatever hunts us is... patient. Learning the ward geometry.\""
+    },
+    {
+      "id": "ch7-act1-seg029",
+      "start": 156.275,
+      "end": 165.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A smear of darkness slid under the rune-line at her feet -- a thin filament of shadow testing the gap between two chiselled glyphs. The ward flared white-hot."
+    },
+    {
+      "id": "ch7-act1-seg030",
+      "start": 165.625,
+      "end": 173.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "For one knife-bright instant the shadow became a living silhouette of its owner's hand -- tendons, knuckles, too many joints -- then ignited."
+    },
+    {
+      "id": "ch7-act1-seg031",
+      "start": 174.225,
+      "end": 182.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It fled screaming without a sound, scuttling back as a scatter of ash that ran like insects, burned to nothing before it reached the dark."
+    },
+    {
+      "id": "ch7-act1-seg032",
+      "start": 182.8,
+      "end": 184.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No one breathed."
+    },
+    {
+      "id": "ch7-act1-seg033",
+      "start": 184.775,
+      "end": 186.3,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"They're clever,\""
+    },
+    {
+      "id": "ch7-act1-seg034",
+      "start": 186.6,
+      "end": 196.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Nyxara said softly from the Necromancy alcove, as if admiring a well-played move in someone else's game. Her purple eyes tracked the ward seam a beat longer."
+    },
+    {
+      "id": "ch7-act1-seg035",
+      "start": 196.825,
+      "end": 198.5,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Not clever enough.\""
+    },
+    {
+      "id": "ch7-act1-seg036",
+      "start": 198.8,
+      "end": 211.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "On the edge of the chamber Durgan stood with his back to stone, eyes pale and unblinking. His shadow lay neat at his boots. It twitched once toward the ward-line when the burned ash fled, and he crushed it flat until his jaw clicked."
+    },
+    {
+      "id": "ch7-act1-seg037",
+      "start": 211.95,
+      "end": 227.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The pressure of holding it down built behind his eyes like fingers pressing into his temples. When he finally released his concentration, a thin warmth trickled from his left nostril. He wiped it with the back of his hand -- checking, confirming. The skin came away with a single red smear."
+    },
+    {
+      "id": "ch7-act1-seg038",
+      "start": 228.25,
+      "end": 235.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "First blood, he thought, and tucked his hand away before anyone could see. How many more before I can't stop it anymore?"
+    },
+    {
+      "id": "ch7-act1-seg039",
+      "start": 235.225,
+      "end": 238.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Move before they learn a new trick,\""
+    },
+    {
+      "id": "ch7-act1-seg040",
+      "start": 238.4,
+      "end": 246.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said. She pushed to her feet and didn't look back to check the wards. They held or they didn't. Either way, the only answer was forward."
+    },
+    {
+      "id": "ch7-act1-seg041",
+      "start": 246.725,
+      "end": 250.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex rolled a shoulder, felt the pull of healing ribs beneath."
+    },
+    {
+      "id": "ch7-act1-seg042",
+      "start": 250.975,
+      "end": 252.7,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Define intact.\""
+    },
+    {
+      "id": "ch7-act1-seg043",
+      "start": 252.85,
+      "end": 254.125,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Alive,\""
+    },
+    {
+      "id": "ch7-act1-seg044",
+      "start": 254.425,
+      "end": 256.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said."
+    },
+    {
+      "id": "ch7-act1-seg045",
+      "start": 256.375,
+      "end": 258.575,
+      "speaker": "nyxara",
+      "type": "dialogue",
+      "text": "\"Everything else is optional.\""
+    },
+    {
+      "id": "ch7-act1-seg046",
+      "start": 258.875,
+      "end": 262.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik snapped the journal shut and slung on his pack."
+    },
+    {
+      "id": "ch7-act1-seg047",
+      "start": 262.725,
+      "end": 271.1,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Forge Road starts through the transmutation arch. Watch your steps. The mountain is currently... structurally questionable but functional.\""
+    },
+    {
+      "id": "ch7-act1-seg048",
+      "start": 271.25,
+      "end": 273.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"That phrase has never comforted me,\""
+    },
+    {
+      "id": "ch7-act1-seg049",
+      "start": 274.125,
+      "end": 275.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said."
+    },
+    {
+      "id": "ch7-act1-seg050",
+      "start": 275.725,
+      "end": 277.85,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"It wasn't supposed to,\""
+    },
+    {
+      "id": "ch7-act1-seg051",
+      "start": 278.15,
+      "end": 280.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik replied cheerfully."
+    },
+    {
+      "id": "ch7-act1-seg052",
+      "start": 280.725,
+      "end": 282.575,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It's supposed to be true.\""
+    },
+    {
+      "id": "ch7-act1-seg053",
+      "start": 282.875,
+      "end": 294.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They packed to travel-light: water, rope, wedges and braces for Thornik, rations like stone, no spare comforts. The ward-line pulsed off-beat once, a tired strobe. The bass in the room thickened."
+    },
+    {
+      "id": "ch7-act1-seg054",
+      "start": 294.6,
+      "end": 295.8,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thud."
+    },
+    {
+      "id": "ch7-act1-seg055",
+      "start": 295.95,
+      "end": 296.95,
+      "speaker": "serana",
+      "type": "dialogue",
+      "text": "\"Go,\""
+    },
+    {
+      "id": "ch7-act1-seg056",
+      "start": 297.25,
+      "end": 299.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Serana said."
+    },
+    {
+      "id": "ch7-act1-seg057",
+      "start": 299.35,
+      "end": 300.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They went."
+    }
+  ]
+}

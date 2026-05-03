@@ -1,0 +1,361 @@
+{
+  "chapter": 11,
+  "act": 1,
+  "actTitle": "Leaving Walls",
+  "audioFile": "/audio/chapters/chapter-11-act-1.mp3",
+  "totalDuration": 257.625,
+  "segments": [
+    {
+      "id": "ch11-act1-seg001",
+      "start": 0.0,
+      "end": 7.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They slipped out at first light, when Millbrook's smoke was still thin and blue and the streets were quiet except for scavenging crows."
+    },
+    {
+      "id": "ch11-act1-seg002",
+      "start": 7.875,
+      "end": 17.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The palisade gate stood propped with a beam Thornik had reset the night before -- his last job in the town -- and it creaked in the morning chill, wood resin sharp in the air."
+    },
+    {
+      "id": "ch11-act1-seg003",
+      "start": 17.775,
+      "end": 31.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The farewells were already done. They'd happened at a mile-stone a mile back, where the road forked three ways and people they trusted had taken two of the other turnings. What remained was just four shadows crossing frost-stiff grass, heading northeast."
+    },
+    {
+      "id": "ch11-act1-seg004",
+      "start": 31.825,
+      "end": 46.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin set an easy pace. The Ember's coal-glow tucked beneath a fresh wrap. The ribbon Nyxara had knotted at his wrist lay soft and cool against skin, its silver thread no darker than yesterday. He didn't tug at it. He resisted the urge to."
+    },
+    {
+      "id": "ch11-act1-seg005",
+      "start": 46.15,
+      "end": 47.825,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Your stride's heavier,\""
+    },
+    {
+      "id": "ch11-act1-seg006",
+      "start": 48.125,
+      "end": 58.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex said eventually, mismatched eyes flicking to his arm and away again. She was moving carefully herself -- her ribs logged every twist of the torso, and she'd learned to stop twisting."
+    },
+    {
+      "id": "ch11-act1-seg007",
+      "start": 59.125,
+      "end": 61.3,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Hurts more in the cold,\""
+    },
+    {
+      "id": "ch11-act1-seg008",
+      "start": 61.6,
+      "end": 63.525,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin admitted."
+    },
+    {
+      "id": "ch11-act1-seg009",
+      "start": 63.675,
+      "end": 65.275,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"It'll level out.\""
+    },
+    {
+      "id": "ch11-act1-seg010",
+      "start": 65.575,
+      "end": 78.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan walked rear guard, winter-pale and deliberate. He scanned the hedgerows and the ditch lines, not the road. When he stepped, his shadow stepped with him -- with an effort most people wouldn't have noticed, but Vex did. She pretended not to."
+    },
+    {
+      "id": "ch11-act1-seg011",
+      "start": 78.675,
+      "end": 92.25,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric walked between Durgan and the rest, which seemed to be where he'd decided he fit. He carried his medical bag slung across one shoulder and moved with the unhurried economy of a man who'd learned to conserve what he had a long time ago."
+    },
+    {
+      "id": "ch11-act1-seg012",
+      "start": 92.55,
+      "end": 97.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He hadn't said anything since the mile-stone bend. He didn't appear to need to."
+    },
+    {
+      "id": "ch11-act1-seg013",
+      "start": 97.775,
+      "end": 109.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The first hour taught Caelin the new rhythm. It wasn't worse than the old one -- just different. Quieter. No Thornik clicking and whirring, filling the silence with observations about geology and family anecdotes."
+    },
+    {
+      "id": "ch11-act1-seg014",
+      "start": 109.725,
+      "end": 124.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "No Serana's armored tread, steady as a drum. No Nyxara's dry commentary, arriving at exactly the moment it was least expected and most needed. No Elowen's calm, the silence of someone who listened to the forest and let the forest listen back."
+    },
+    {
+      "id": "ch11-act1-seg015",
+      "start": 124.5,
+      "end": 130.725,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Four was leaner. Four was faster. Four was also lonelier, and lonelier was its own kind of weight."
+    },
+    {
+      "id": "ch11-act1-seg016",
+      "start": 131.025,
+      "end": 144.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "By the time the road bent past the last shepherd's croft, the smells had changed from dung smoke and malt to iron-rich streamwater and thawed loam. A farmer had nailed a square of parchment to a boundary post. Wind worried its corners."
+    },
+    {
+      "id": "ch11-act1-seg017",
+      "start": 144.45,
+      "end": 147.55,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex plucked it free, skimmed, snorted."
+    },
+    {
+      "id": "ch11-act1-seg018",
+      "start": 147.7,
+      "end": 149.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"You're famous.\""
+    },
+    {
+      "id": "ch11-act1-seg019",
+      "start": 149.725,
+      "end": 159.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin didn't need the illustration to know. The crude sketch got the angles of his face wrong but captured the impossible: a black mark in a man's forearm."
+    },
+    {
+      "id": "ch11-act1-seg020",
+      "start": 159.15,
+      "end": 160.075,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Alive,\""
+    },
+    {
+      "id": "ch11-act1-seg021",
+      "start": 160.375,
+      "end": 162.025,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex read."
+    },
+    {
+      "id": "ch11-act1-seg022",
+      "start": 162.175,
+      "end": 166.1,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"One thousand gold. More for the mark intact.\""
+    },
+    {
+      "id": "ch11-act1-seg023",
+      "start": 166.25,
+      "end": 168.125,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Price is climbing,\""
+    },
+    {
+      "id": "ch11-act1-seg024",
+      "start": 168.425,
+      "end": 170.9,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan said, voice flat."
+    },
+    {
+      "id": "ch11-act1-seg025",
+      "start": 171.05,
+      "end": 172.75,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Means we're interesting,\""
+    },
+    {
+      "id": "ch11-act1-seg026",
+      "start": 173.05,
+      "end": 174.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex replied."
+    },
+    {
+      "id": "ch11-act1-seg027",
+      "start": 174.975,
+      "end": 176.45,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Hate that.\""
+    },
+    {
+      "id": "ch11-act1-seg028",
+      "start": 176.75,
+      "end": 181.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Aldric leaned over and read the poster without taking it from Vex."
+    },
+    {
+      "id": "ch11-act1-seg029",
+      "start": 181.2,
+      "end": 184.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"The illustration's generous. You've got better cheekbones than that.\""
+    },
+    {
+      "id": "ch11-act1-seg030",
+      "start": 185.2,
+      "end": 186.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He walked on."
+    },
+    {
+      "id": "ch11-act1-seg031",
+      "start": 187.125,
+      "end": 195.675,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Also a thousand gold is insultingly low for whatever that thing in your arm actually is. Someone's being stingy.\""
+    },
+    {
+      "id": "ch11-act1-seg032",
+      "start": 195.975,
+      "end": 207.75,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They left the sign flapping on its nail. Crows watched from a hedge, heads cocked, the way crows watch everything -- with the patient assessment of creatures that know death is coming and are simply interested in the schedule."
+    },
+    {
+      "id": "ch11-act1-seg033",
+      "start": 208.05,
+      "end": 220.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Two miles on, at a wayside shrine toppled by frost heave, Caelin dropped to a knee to tighten his boot. When he cinched the lace and reached for his pack, his fingers brushed paper that hadn't been there when they left town."
+    },
+    {
+      "id": "ch11-act1-seg034",
+      "start": 220.525,
+      "end": 223.075,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He froze. Then palmed it out."
+    },
+    {
+      "id": "ch11-act1-seg035",
+      "start": 223.375,
+      "end": 229.875,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Cream stock. No seal. Three words in an elegant hand that shifted colors in the light like oil on water:"
+    },
+    {
+      "id": "ch11-act1-seg036",
+      "start": 230.175,
+      "end": 233.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "North by iron. Two days' grace. -- L"
+    },
+    {
+      "id": "ch11-act1-seg037",
+      "start": 233.575,
+      "end": 237.575,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "A prismatic dusting ran across the letters and vanished."
+    },
+    {
+      "id": "ch11-act1-seg038",
+      "start": 237.875,
+      "end": 240.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex caught the flick of paper."
+    },
+    {
+      "id": "ch11-act1-seg039",
+      "start": 240.575,
+      "end": 241.6,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Problem?\""
+    },
+    {
+      "id": "ch11-act1-seg040",
+      "start": 241.75,
+      "end": 243.325,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Map note,\""
+    },
+    {
+      "id": "ch11-act1-seg041",
+      "start": 243.625,
+      "end": 248.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, folding it into his sleeve. Not a lie. Not the truth."
+    },
+    {
+      "id": "ch11-act1-seg042",
+      "start": 248.425,
+      "end": 252.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She eyed him a beat longer than was comfortable, then nodded once."
+    },
+    {
+      "id": "ch11-act1-seg043",
+      "start": 253.125,
+      "end": 255.05,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Good. We could use a map.\""
+    },
+    {
+      "id": "ch11-act1-seg044",
+      "start": 255.35,
+      "end": 257.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They rose and walked."
+    }
+  ]
+}

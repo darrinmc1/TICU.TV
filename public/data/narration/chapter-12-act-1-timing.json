@@ -1,0 +1,193 @@
+{
+  "chapter": 12,
+  "act": 1,
+  "actTitle": "After",
+  "audioFile": "/audio/chapters/chapter-12-act-1.mp3",
+  "totalDuration": 174.175,
+  "segments": [
+    {
+      "id": "ch12-act1-seg001",
+      "start": 0.0,
+      "end": 1.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The slab fell."
+    },
+    {
+      "id": "ch12-act1-seg002",
+      "start": 2.0,
+      "end": 18.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "What came after was dark and cold and the kind of silence that exists deep inside stone -- not empty, but occupied, the way old places are occupied by the weight of their own age. The grinding had stopped. Dust still moved in the air. It would move for a long time."
+    },
+    {
+      "id": "ch12-act1-seg003",
+      "start": 18.35,
+      "end": 30.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The root-web was gone. Every thread of it -- spent, not broken, burned from green to white to nothing in the last three seconds before impact. The tattoos along her arms were pale, almost colorless in the dark."
+    },
+    {
+      "id": "ch12-act1-seg004",
+      "start": 31.25,
+      "end": 42.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The magic that had given her new language for the past weeks had emptied itself out completely. She could feel the absence where it had been. Like a room she'd lived in that now held only the outline of furniture."
+    },
+    {
+      "id": "ch12-act1-seg005",
+      "start": 42.35,
+      "end": 43.925,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was alive."
+    },
+    {
+      "id": "ch12-act1-seg006",
+      "start": 44.325,
+      "end": 47.0,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "That was -- that was unexpected."
+    },
+    {
+      "id": "ch12-act1-seg007",
+      "start": 47.3,
+      "end": 58.475,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She took a slow inventory, the way her circle had taught her: start at the feet, move up, report honestly. Left ankle -- wrong, grinding, don't move it. Ribs -- several. A warmth at her temple that would be blood."
+    },
+    {
+      "id": "ch12-act1-seg008",
+      "start": 58.775,
+      "end": 72.125,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The staff was gone; she could feel that the way you feel a lost tooth -- not just absence but the shape of absence. Everything hurt, which was fine. Everything hurting meant nerves reporting from a body that was still present."
+    },
+    {
+      "id": "ch12-act1-seg009",
+      "start": 72.425,
+      "end": 79.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The dark was absolute. She had no light, no fire, no silver-borrowed glow. The vine-ink along her arms gave nothing."
+    },
+    {
+      "id": "ch12-act1-seg010",
+      "start": 79.8,
+      "end": 81.975,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "But something else did."
+    },
+    {
+      "id": "ch12-act1-seg011",
+      "start": 82.275,
+      "end": 90.275,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It was faint -- thin as a thread pulled through the eye of a needle from a great distance. Not her magic. Not anything she'd called or shaped."
+    },
+    {
+      "id": "ch12-act1-seg012",
+      "start": 90.575,
+      "end": 101.15,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It came from below her, from the roots of the mountain itself, from systems so old they predated the Concord's seals by centuries. Mountain oak. Ancient alder."
+    },
+    {
+      "id": "ch12-act1-seg013",
+      "start": 101.45,
+      "end": 107.6,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "The deep network that connected living things through stone and loam and the slow patience of trees."
+    },
+    {
+      "id": "ch12-act1-seg014",
+      "start": 107.9,
+      "end": 109.65,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "It had caught her."
+    },
+    {
+      "id": "ch12-act1-seg015",
+      "start": 110.05,
+      "end": 119.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Not gently. Not carefully. The way a root catches a thing rolling toward a cliff edge -- at the last possible moment, with no concern for comfort."
+    },
+    {
+      "id": "ch12-act1-seg016",
+      "start": 120.0,
+      "end": 135.3,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was wedged against a natural shelf of stone she hadn't landed on so much as been deposited on, bruised and broken in the way of things that fall a long way and survive it. The root structure around her was faintly warm. Not warm like fire."
+    },
+    {
+      "id": "ch12-act1-seg017",
+      "start": 135.6,
+      "end": 138.05,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Warm like something alive."
+    },
+    {
+      "id": "ch12-act1-seg018",
+      "start": 138.35,
+      "end": 146.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She didn't know if it knew she was there. She didn't know if it had chosen her or simply intercepted her the way a river intercepts rain."
+    },
+    {
+      "id": "ch12-act1-seg019",
+      "start": 146.5,
+      "end": 152.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She lay still and breathed and let the thin warmth of it be the only thing that mattered."
+    },
+    {
+      "id": "ch12-act1-seg020",
+      "start": 152.475,
+      "end": 158.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Above her, far above, Caelin had said her name to a sealed scar of stone that did not care."
+    },
+    {
+      "id": "ch12-act1-seg021",
+      "start": 158.475,
+      "end": 169.825,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Below her, the mountain went on doing whatever mountains do in the dark, in the deep, in the patient counting silence, long after the people on its surface had stopped paying attention."
+    },
+    {
+      "id": "ch12-act1-seg022",
+      "start": 170.125,
+      "end": 171.7,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "She was alive."
+    },
+    {
+      "id": "ch12-act1-seg023",
+      "start": 172.1,
+      "end": 174.175,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "For now, that was enough."
+    }
+  ]
+}

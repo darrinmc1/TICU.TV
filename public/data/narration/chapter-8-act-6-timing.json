@@ -1,0 +1,249 @@
+{
+  "chapter": 8,
+  "act": 6,
+  "actTitle": "Dawn",
+  "audioFile": "/audio/chapters/chapter-8-act-6.mp3",
+  "totalDuration": 142.375,
+  "segments": [
+    {
+      "id": "ch8-act6-seg351",
+      "start": 0.0,
+      "end": 13.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Dawn came smelling of yeast and damp wool. Millbrook tried on the day with the stoicism of places that don't get to choose. The inn's hearth was already working on a gruel it called porridge. Vex declared it a war crime and ate two bowls."
+    },
+    {
+      "id": "ch8-act6-seg352",
+      "start": 13.675,
+      "end": 19.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Captain Vale waited near the door with the politeness of a man who doesn't like his own orders."
+    },
+    {
+      "id": "ch8-act6-seg353",
+      "start": 19.575,
+      "end": 22.2,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Council wants you at midday.\""
+    },
+    {
+      "id": "ch8-act6-seg354",
+      "start": 22.5,
+      "end": 24.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He hesitated."
+    },
+    {
+      "id": "ch8-act6-seg355",
+      "start": 24.55,
+      "end": 31.55,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"There's been talk. Traders on the south road swore they saw a light under the clouds. Not lightning. Steadier.\""
+    },
+    {
+      "id": "ch8-act6-seg356",
+      "start": 31.7,
+      "end": 33.4,
+      "speaker": "thornik",
+      "type": "dialogue",
+      "text": "\"Depthspire,\""
+    },
+    {
+      "id": "ch8-act6-seg357",
+      "start": 33.7,
+      "end": 39.225,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Thornik said reflexively, then drank his tea as if that might hide the word. It didn't."
+    },
+    {
+      "id": "ch8-act6-seg358",
+      "start": 39.375,
+      "end": 41.3,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Is that where you're going?\""
+    },
+    {
+      "id": "ch8-act6-seg359",
+      "start": 41.6,
+      "end": 43.325,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale asked."
+    },
+    {
+      "id": "ch8-act6-seg360",
+      "start": 43.475,
+      "end": 45.8,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"We go where the pull goes,\""
+    },
+    {
+      "id": "ch8-act6-seg361",
+      "start": 46.1,
+      "end": 49.675,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said, which was both non-answer and truth."
+    },
+    {
+      "id": "ch8-act6-seg362",
+      "start": 49.825,
+      "end": 51.675,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"After your council.\""
+    },
+    {
+      "id": "ch8-act6-seg363",
+      "start": 51.975,
+      "end": 54.35,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "He nodded toward the street."
+    },
+    {
+      "id": "ch8-act6-seg364",
+      "start": 54.5,
+      "end": 60.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"And after we help you fix the gate hinge that's going to break in the next strong wind.\""
+    },
+    {
+      "id": "ch8-act6-seg365",
+      "start": 60.725,
+      "end": 62.425,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vale blinked."
+    },
+    {
+      "id": "ch8-act6-seg366",
+      "start": 62.575,
+      "end": 64.175,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"You saw that?\""
+    },
+    {
+      "id": "ch8-act6-seg367",
+      "start": 64.325,
+      "end": 66.675,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"Weight leaves signatures,\""
+    },
+    {
+      "id": "ch8-act6-seg368",
+      "start": 66.975,
+      "end": 68.625,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch8-act6-seg369",
+      "start": 68.775,
+      "end": 70.425,
+      "speaker": "durgan",
+      "type": "dialogue",
+      "text": "\"Even on wood.\""
+    },
+    {
+      "id": "ch8-act6-seg370",
+      "start": 70.725,
+      "end": 79.2,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They spent an hour with Thornik at the gate: rope, a lever, a lesson in the faith of simple machines. Serana steadied the ladder without praying."
+    },
+    {
+      "id": "ch8-act6-seg371",
+      "start": 79.5,
+      "end": 86.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Durgan held the hinge while two men hammered the pin through; no one asked how he made the weight look like it belonged there."
+    },
+    {
+      "id": "ch8-act6-seg372",
+      "start": 86.7,
+      "end": 94.4,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex found the copper the girl-captain had taxed from Durgan yesterday and left it on the sill of a window with a broken pane."
+    },
+    {
+      "id": "ch8-act6-seg373",
+      "start": 94.7,
+      "end": 106.5,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "By late morning, rumor had grown legs and a voice and moved faster than truth. The council hall filled with people who pretended to be calm about it. Vale walked them in as if they were contraband and good news."
+    },
+    {
+      "id": "ch8-act6-seg374",
+      "start": 106.8,
+      "end": 121.85,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin pulled his sleeve down again and let the scale stay dark. The pull inside him had gentled to a low thrum, patient as a debt. When he glanced north, the light through the windows had the color of cooled iron. Somewhere in that direction, a tower remembered being a wound."
+    },
+    {
+      "id": "ch8-act6-seg375",
+      "start": 122.0,
+      "end": 122.9,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"Ready?\""
+    },
+    {
+      "id": "ch8-act6-seg376",
+      "start": 123.2,
+      "end": 127.95,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Vex asked, meaning for the council, meaning for whatever used to be a world."
+    },
+    {
+      "id": "ch8-act6-seg377",
+      "start": 128.1,
+      "end": 129.425,
+      "speaker": "caelin",
+      "type": "dialogue",
+      "text": "\"No,\""
+    },
+    {
+      "id": "ch8-act6-seg378",
+      "start": 129.725,
+      "end": 131.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "Caelin said."
+    },
+    {
+      "id": "ch8-act6-seg379",
+      "start": 131.525,
+      "end": 133.2,
+      "speaker": "vex",
+      "type": "dialogue",
+      "text": "\"But I'm going anyway.\""
+    },
+    {
+      "id": "ch8-act6-seg380",
+      "start": 133.5,
+      "end": 142.375,
+      "speaker": "narrator",
+      "type": "narration",
+      "text": "They crossed the threshold together. The room smelled like ink and old smoke. Someone cleared a throat like a gavel. Outside, the wind turned colder."
+    }
+  ]
+}
