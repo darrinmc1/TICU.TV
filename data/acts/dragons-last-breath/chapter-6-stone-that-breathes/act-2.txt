@@ -1,13 +1,13 @@
-"Short scout, right and left," Vex said, flipping a dagger and catching it by the spine. "We don't pick fights, we don't collect curses, we come back before Thornik starts making spreadsheets."
-"Tables," Thornik corrected. "Spreadsheets are a myth from the west."
-"Of course they are," Vex deadpanned, already moving. "Thornik, you're with me. If something needs unscrewing, you can talk to it."
+“Short scout, right and left,” Vex said, flipping a dagger and catching it by the spine. “We don't pick fights, we don't collect curses, we come back before Thornik starts making spreadsheets.”
+“Tables,” Thornik corrected. “Spreadsheets are a myth from the west.”
+“Of course they are,” Vex deadpanned, already moving. “Thornik, you're with me. If something needs unscrewing, you can talk to it.”
 They took the eastern service corridor first -- a low-ceilinged gallery, the stone so smooth it had forgotten it had ever been rough. The smell there was stranger: faint metal sweetness, like the air over a well-kept blade; a hum underfoot as if the rock carried a memory of current.
-"Residual load," Thornik murmured, palm flat to the wall. "Conduction lines. The Hall leeches a steady trickle from micro-wards embedded in the bedrock. Old dwarven trick to keep structural fields topped." He tapped the stone with a knuckle; the tone came back pure. "This gallery is stable."
-Vex crouched at a junction where the corridor branched, sniffed the air like a hunting dog, and laid a palm against each wall in turn. "Left smells of water. Right smells of nothing, which is worse."
-"The nothing-smell is old vacuum," Thornik said, consulting the journal. "Sealed section. Grandfather marked it with a rune I've only seen once before -- the one that means don't." He adjusted his goggles. "Not 'danger.' Not 'caution.' Just don't."
-"Charming family tradition."
-"We have a lot of those. Most of them involve alcohol and regret."
-They backed out and tried the western spur, which choked almost immediately: a mining tunnel collapsed and then fused, as if heat had melted its failure into permanence. The smell was glass and dust. "Not our way," Vex judged, crouching at the edge of a darkness that would not be argued with.
+“Residual load,” Thornik murmured, palm flat to the wall. “Conduction lines. The Hall leeches a steady trickle from micro-wards embedded in the bedrock. Old dwarven trick to keep structural fields topped.” He tapped the stone with a knuckle; the tone came back pure. “This gallery is stable.”
+Vex crouched at a junction where the corridor branched, sniffed the air like a hunting dog, and laid a palm against each wall in turn. “Left smells of water. Right smells of nothing, which is worse.”
+“The nothing-smell is old vacuum,” Thornik said, consulting the journal. “Sealed section. Grandfather marked it with a rune I've only seen once before -- the one that means don't.” He adjusted his goggles. “Not 'danger.' Not 'caution.' Just don't.”
+“Charming family tradition.”
+“We have a lot of those. Most of them involve alcohol and regret.”
+They backed out and tried the western spur, which choked almost immediately: a mining tunnel collapsed and then fused, as if heat had melted its failure into permanence. The smell was glass and dust. “Not our way,” Vex judged, crouching at the edge of a darkness that would not be argued with.
 They returned to the threshold, to Serana's chalk mark watching the doorway like a lidded eye.
 
 Durgan's shadow moved first.
@@ -17,21 +17,21 @@ The flare-light faded. The sigil settled back to its cold geometry. In the silen
 Thornik had been reaching for a device that no longer existed -- muscle memory, the instinct to measure -- and lowered his empty hand slowly. Nyxara studied the chalk marks with professional interest, her expression deliberately neutral, which was its own kind of commentary. Elowen pressed her fingertips together, feeling the vine-marks pulse their quiet alarm: wrongness, wrongness, still a person.
 Caelin watched Durgan's jaw and thought: He's not fighting us. He's fighting himself. And he's losing by inches.
 Durgan broke the silence. He wiped a single red thread from under his nostril with the back of his knuckle and looked at it as if surprised it existed. His jaw worked once, then settled.
-"It will again," he said. "Keep the marks fresh."
-Serana's chin lifted a degree. "It noticed," she said -- not accusation, not pity. Accounting. She was already reaching for the chalk.
+“It will again,” he said. “Keep the marks fresh.”
+Serana's chin lifted a degree. “It noticed,” she said -- not accusation, not pity. Accounting. She was already reaching for the chalk.
 
-Elowen touched the stone near the burned-bright sigil without crossing it, palm flat. The silver threads in her tattoos shivered. "It hurt the wrongness without hating the person," she said, a quiet relief in her voice. "I can feel the difference. We should lace the perimeter."
-"On it," Serana said, already pocketing the stump of chalk and breaking a fresh stick. "Corners and sightlines. Nine strokes each. We keep the geometry honest."
-Nyxara drifted parallel to Caelin as he cooled the buckle he'd mended. "Your restraint is very tiresome," she observed, eyes on the faint steam. "Men half your age would already have tried to set the ceiling on fire to prove a point."
-"I only just learned how much it costs," Caelin said. He flexed his fingers, testing the lattice ache. "I can't afford to show off."
+Elowen touched the stone near the burned-bright sigil without crossing it, palm flat. The silver threads in her tattoos shivered. “It hurt the wrongness without hating the person,” she said, a quiet relief in her voice. “I can feel the difference. We should lace the perimeter.”
+“On it,” Serana said, already pocketing the stump of chalk and breaking a fresh stick. “Corners and sightlines. Nine strokes each. We keep the geometry honest.”
+Nyxara drifted parallel to Caelin as he cooled the buckle he'd mended. “Your restraint is very tiresome,” she observed, eyes on the faint steam. “Men half your age would already have tried to set the ceiling on fire to prove a point.”
+“I only just learned how much it costs,” Caelin said. He flexed his fingers, testing the lattice ache. “I can't afford to show off.”
 Nyxara's smile acknowledged the answer and then filed it in a drawer marked useful. She tucked her sleeves lower. If anyone noticed the way she favored her hands, they had the courtesy not to say.
 They ringed the Hall with chalk, nine-stroke sigils at each throat where a passage met the open space. The symbols gathered the lichen-light to themselves until the Deep Hall looked like a star-chart: pale constellations behind pillars and the slow, steady coal-glow of Caelin's scale. The air tasted faintly of dusty limestone and hot flint.
 By late afternoon they had a map.
-"Three viable routes," Thornik said, tapping lines he'd sketched in charcoal on the central table. "Smithy run is flooded two at least two spans deep -- I can hear it breathing. Mining spur is fused at the choke. That leaves us the Forge Road with a vent shaft network as auxiliary escape."
-"Forge Road takes us toward the caldera?" Serana asked.
-"Aye. Past it. There's a bridge and a long spiral stair to the east face. If it's not collapsed."
-"And if it has?" Vex asked.
-"Then we improvise. Which, I should note, has been our entire strategy since Thornwick, and it's only nearly killed us four times."
-"Five," Vex said.
-"I wasn't counting the scree slide."
-"Then five," Durgan said from his pillar, and the fact that he'd been counting startled everyone except Vex, who nodded once in grim solidarity.
+“Three viable routes,” Thornik said, tapping lines he'd sketched in charcoal on the central table. “Smithy run is flooded two at least two spans deep -- I can hear it breathing. Mining spur is fused at the choke. That leaves us the Forge Road with a vent shaft network as auxiliary escape.”
+“Forge Road takes us toward the caldera?” Serana asked.
+“Aye. Past it. There's a bridge and a long spiral stair to the east face. If it's not collapsed.”
+“And if it has?” Vex asked.
+“Then we improvise. Which, I should note, has been our entire strategy since Thornwick, and it's only nearly killed us four times.”
+“Five,” Vex said.
+“I wasn't counting the scree slide.”
+“Then five,” Durgan said from his pillar, and the fact that he'd been counting startled everyone except Vex, who nodded once in grim solidarity.
