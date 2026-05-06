@@ -1,8 +1,11 @@
 import Link from "next/link"
 import { notFound } from "next/navigation"
-import { getSerialStory } from "@/lib/serial-stories"
-import type { CharacterData } from "../page"
-import { STORIES } from "../page"
+import { getStory } from "@/lib/content"
+import type { CharacterData } from "../_data"
+import { STORIES } from "../_data"
+
+// Reads story data from Supabase on each request — must not be statically prerendered.
+export const dynamic = "force-dynamic"
 
 type CastCharacter = CharacterData & {
   status?: "Active" | "Inactive"
@@ -33,8 +36,8 @@ function deriveClassFromRole(role: string): string {
   return role
 }
 
-function getCastPageData(storyId: string): CastPageData | undefined {
-  const serialStory = getSerialStory(storyId)
+async function getCastPageData(storyId: string): Promise<CastPageData | undefined> {
+  const serialStory = await getStory(storyId)
 
   if (serialStory) {
     const firstPublishedChapter = serialStory.chapters.find((chapter) => chapter.status !== "draft")
@@ -86,10 +89,10 @@ function CharacterCard({ character, introHref }: CharacterCardProps) {
   return (
     <article className="overflow-hidden rounded-2xl border border-cyan-500/20 bg-slate-950/80 shadow-[0_18px_50px_-30px_rgba(34,211,238,0.45)] backdrop-blur-sm transition hover:-translate-y-1 hover:border-amber-300/40">
       <div className="relative aspect-[4/3] overflow-hidden bg-slate-900">
-        {character.imageSrc ? (
+        {character.image ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
-            src={character.imageSrc}
+            src={character.image}
             alt={character.name}
             className="h-full w-full object-cover"
           />
@@ -155,7 +158,7 @@ type PageProps = { params: Promise<{ storyId: string }> }
 
 export default async function StoryCharactersPage({ params }: PageProps) {
   const { storyId } = await params
-  const data = getCastPageData(storyId)
+  const data = await getCastPageData(storyId)
 
   if (!data) {
     notFound()

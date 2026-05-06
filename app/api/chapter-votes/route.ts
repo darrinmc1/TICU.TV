@@ -1,25 +1,43 @@
 import { NextResponse } from "next/server"
-import { getSerialStoryChapter } from "@/lib/serial-stories"
+import { getChapter } from "@/lib/content"
 import { castChapterVote, getChapterVoteSummary } from "@/lib/chapter-votes"
 import { checkAndConsumeChapterVoteRateLimit } from "@/lib/chapter-vote-rate-limit"
+import { createSupabaseServerClient } from "@/lib/supabase/server"
 
 export const dynamic = "force-dynamic"
+
+/**
+ * Resolve the authenticated user's ID from the Supabase session cookie.
+ * Returns the user's UUID, or null if no session is present.
+ *
+ * The userId is intentionally NOT accepted from the request body or query
+ * string. Trusting client-supplied IDs would let anyone vote as anyone else.
+ */
+async function getAuthenticatedUserId(): Promise<string | null> {
+  const supabase = await createSupabaseServerClient()
+  const { data, error } = await supabase.auth.getUser()
+  if (error || !data?.user) return null
+  return data.user.id
+}
 
 export async function GET(request: Request) {
   try {
     const { searchParams } = new URL(request.url)
     const storyId = searchParams.get("storyId")
     const chapterSlug = searchParams.get("chapterSlug")
-    const userId = searchParams.get("userId") ?? undefined
 
     if (!storyId || !chapterSlug) {
       return NextResponse.json({ error: "Missing storyId or chapterSlug" }, { status: 400 })
     }
 
-    const chapter = getSerialStoryChapter(storyId, chapterSlug)
+    const chapter = await getChapter(storyId, chapterSlug)
     if (!chapter || !chapter.voteOptions?.length) {
       return NextResponse.json({ error: "Chapter voting options not found" }, { status: 404 })
     }
+
+    // Anyone — signed in or not — can read the tally. Only the userVote
+    // field is gated on having a session; signed-out viewers see null.
+    const userId = (await getAuthenticatedUserId()) ?? undefined
 
     const optionIds = chapter.voteOptions.map((option) => option.id)
     const summary = await getChapterVoteSummary(storyId, chapterSlug, optionIds, userId)
@@ -49,15 +67,23 @@ export async function GET(request: Request) {
 
 export async function POST(request: Request) {
   try {
+    // Identity comes from the session cookie — never the request body.
+    const userId = await getAuthenticatedUserId()
+    if (!userId) {
+      return NextResponse.json(
+        { error: "You must be signed in to vote." },
+        { status: 401 }
+      )
+    }
+
     const body = await request.json()
     const storyId = body?.storyId as string | undefined
     const chapterSlug = body?.chapterSlug as string | undefined
-    const userId = body?.userId as string | undefined
     const optionId = body?.optionId as string | undefined
 
-    if (!storyId || !chapterSlug || !userId || !optionId) {
+    if (!storyId || !chapterSlug || !optionId) {
       return NextResponse.json(
-        { error: "Missing required fields: storyId, chapterSlug, userId, optionId" },
+        { error: "Missing required fields: storyId, chapterSlug, optionId" },
         { status: 400 }
       )
     }
@@ -73,7 +99,7 @@ export async function POST(request: Request) {
       )
     }
 
-    const chapter = getSerialStoryChapter(storyId, chapterSlug)
+    const chapter = await getChapter(storyId, chapterSlug)
     if (!chapter || !chapter.voteOptions?.length) {
       return NextResponse.json({ error: "Chapter voting options not found" }, { status: 404 })
     }

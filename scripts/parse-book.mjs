@@ -5,7 +5,14 @@
  * splits them into acts based on "Act I:", "ACT I:", "Act I —" markers,
  * and writes each act as a separate .txt file into data/acts/dragons-last-breath/<chapter-slug>/act-N.txt
  *
- * Also outputs a JSON manifest of all chapters and their acts for updating serial-stories.ts.
+ * Also outputs a JSON manifest of all chapters and their acts.
+ *
+ * Historical note: this script predates the Supabase content migration.
+ * The manifest output was originally used to update lib/serial-stories.ts,
+ * which has since been retired. The Supabase content_* tables are now the
+ * source of truth, populated via the (also retired) scripts/migrate-content.ts.
+ * If you re-run this for a new book ingest, you'll need to write the manifest
+ * directly into Supabase rather than into serial-stories.ts.
  */
 
 import { readFileSync, mkdirSync, writeFileSync, existsSync } from "fs"

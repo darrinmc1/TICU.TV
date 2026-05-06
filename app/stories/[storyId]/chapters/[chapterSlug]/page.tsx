@@ -3,7 +3,7 @@ import { notFound } from "next/navigation"
 import StoryVoting from "@/app/stories/[storyId]/story-voting"
 import StoryArt from "@/components/story-art"
 import ChapterReader from "@/components/chapter-reader"
-import { getSerialStory, getSerialStoryChapter } from "@/lib/serial-stories"
+import { getStory } from "@/lib/content"
 import { getActContent } from "@/lib/acts-content"
 import { getChapterVoteSummary } from "@/lib/chapter-votes"
 import { loadNarrationData, flattenSegments } from "@/lib/narration-data"
@@ -71,8 +71,8 @@ function hasDialogue(text: string): boolean {
 
 export default async function StoryChapterPage({ params }: PageProps) {
   const { storyId, chapterSlug } = await params
-  const story = getSerialStory(storyId)
-  const chapter = getSerialStoryChapter(storyId, chapterSlug)
+  const story = await getStory(storyId)
+  const chapter = story?.chapters.find((c) => c.slug === chapterSlug)
 
   if (!story || !chapter) {
     notFound()

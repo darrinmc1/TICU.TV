@@ -1,0 +1,34 @@
+﻿
+file                                                                  line original context                       
+----                                                                  ---- -------- -------                       
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   33    �       ike mist. Just � gone.        
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   38    �       at, and simply � stopped.�    
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   45    �       d. If anything � anything � ap
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   45    �       ing � anything � appears that 
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   59    �       lickered there � a thought wit
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   59    �       t with an edge � acknowledged 
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   65    �       nd you want to � what? � let h
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   65    �       ant to � what? � let him join 
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   71    �       Watch rotation � someone alway
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   86    �       ting something � fatigue, fate
+data/acts/dragons-last-breath/chapter-3-natures-messenger/act-2.txt   86    �       s own thoughts � then maybe ke
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-1.txt      96   s��      ck-violet means�� He stopped h
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-1.txt      96   ��       k-violet means�� He stopped hi
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      4     �           � Evocation: fa           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      5     �           � Abjuration: n           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      6     �           � Conjuration:            
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      7     �           � Divination: s           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      8     �           � Enchantment:            
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      9     �           � Illusion: sur           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      10    �           � Necromancy: a           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      11    �           � Transmutation           
+data/acts/dragons-last-breath/chapter-5-the-undervault/act-4.txt      12    �           � Destruction:            
+data/acts/dragons-last-breath/chapter-8-down-from-the-peaks/act-2.txt 35   �        � L.                          
+data/acts/dragons-last-breath/epilogue/act-1.txt                      6     �       ly. Left ankle � wrong, grindi
+data/acts/dragons-last-breath/epilogue/act-1.txt                      6     �        move it. Ribs � several. A wa
+data/acts/dragons-last-breath/epilogue/act-1.txt                      6     �       l a lost tooth � not just abse
+data/acts/dragons-last-breath/epilogue/act-1.txt                      9     �       It was faint � thin as a thr  
+data/acts/dragons-last-breath/epilogue/act-1.txt                      11    �       d a cliff edge � at the last p
+data/acts/dragons-last-breath/epilogue/act-3.txt                      10    �       d made a sound � the counting 
+
+

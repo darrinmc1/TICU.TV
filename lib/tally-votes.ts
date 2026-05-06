@@ -1,5 +1,5 @@
 import { getChapterVoteSummary } from "./chapter-votes"
-import { SERIAL_STORIES } from "./serial-stories"
+import { getAllStories } from "./content"
 import {
   getStoryState,
   saveStoryState,
@@ -20,7 +20,7 @@ export type TallyReport = {
 export async function runWeeklyTally(): Promise<TallyReport[]> {
   const reports: TallyReport[] = []
 
-  for (const [storyId, story] of Object.entries(SERIAL_STORIES)) {
+  for (const [storyId, story] of Object.entries(await getAllStories())) {
     // Determine which chapter is active for voting
     let state = await getStoryState(storyId)
 

@@ -1,10 +1,15 @@
 import Link from "next/link"
-import { SERIAL_STORIES } from "@/lib/serial-stories"
+import { getAllStories } from "@/lib/content"
 import ActUploadForm from "@/components/act-upload-form"
 
-export default function AdminActsPage() {
+// Reads story metadata from Supabase on each request — must not be statically prerendered.
+export const dynamic = "force-dynamic"
+
+export default async function AdminActsPage() {
+  const allStories = await getAllStories()
+
   // Build a lightweight metadata tree — only ids and titles, no prose
-  const stories = Object.values(SERIAL_STORIES).map((story) => ({
+  const stories = Object.values(allStories).map((story) => ({
     storyId: story.id,
     storyTitle: story.title,
     chapters: story.chapters.map((ch) => ({
